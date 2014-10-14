@@ -7,7 +7,7 @@ the next blog.holderdeord.no
 ```bash
 $ gem install bundler # only needed once
 $ bundle install
-$ jekyll serve -w
+$ bundle exec jekyll serve -w
 ```
 
 Open <http://localhost:4000> in your browser, and voilà.
