@@ -4,16 +4,16 @@ relative_permalinks: true
 
 # Setup
 title:            hdo-blog
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+tagline:          Holder de ord sin blog
+url:              https://holderdeord.github.io/hdo-blog
 paginate:         1
-baseurl:          /
+baseurl:          /hdo-blog/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Holder de ord
+  url:            https://holderdeord.no
+  email:          mail@holderdeord.no
 
 # Custom vars
-version:          1.0.0
+version:          0.0.1
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/holderdeord/hdo-blog
