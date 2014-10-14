@@ -13,7 +13,7 @@ title: Home
     </h1>
 
     <div class="post-byline">
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: site.data.ui.date }}</time>
       av {{ post.author }}
     </div>
 
@@ -24,7 +24,7 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">{{ site.data.ui.older }}</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}page/{{paginator.next_page}}">{{ site.data.ui.older }}</a>
   {% else %}
     <span class="pagination-item older">{{ site.data.ui.older }}</span>
   {% endif %}
@@ -32,7 +32,7 @@ title: Home
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ site.baseurl }}">{{ site.data.ui.newer }}</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">{{ site.data.ui.newer }}</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page/{{paginator.previous_page}}">{{ site.data.ui.newer }}</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">{{ site.data.ui.newer }}</span>

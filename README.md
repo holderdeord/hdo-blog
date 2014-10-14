@@ -1,6 +1,6 @@
 # hdo-blog
 
-the next blog.holderdeord.no
+blogg.holderdeord.no
 
 ## Usage
 
