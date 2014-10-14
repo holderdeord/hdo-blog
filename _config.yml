@@ -7,7 +7,7 @@ title:            Holder de ord
 tagline:          Blogg
 url:              https://holderdeord.github.io/hdo-blog
 paginate:         3
-baseurl:
+baseurl:          /
 author:
   name:           Holder de ord
   url:            https://holderdeord.no/
