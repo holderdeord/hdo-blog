@@ -242,6 +242,13 @@ img {
   border-radius: 5px;
 }
 
+figcaption {
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 80%;
+}
+
+
 /* Tables */
 table {
   margin-bottom: 1rem;
