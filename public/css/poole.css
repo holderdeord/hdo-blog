@@ -49,12 +49,14 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-size: 15px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 17px;
   }
 }
 
@@ -79,6 +81,11 @@ a:focus {
   text-decoration: underline;
 }
 
+/* We do not want to indicate functionality with color alone, now do we */
+p a {
+  text-decoration: underline;
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
@@ -89,6 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 2rem;
+  font-weight: 300;
 }
 h2 {
   margin-top: 1rem;
@@ -286,7 +294,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 40rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -301,23 +309,29 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
+  padding-top:    9rem;
+  padding-bottom: 2rem;
   margin-bottom: 3rem;
+  background-position: 50% 30%;
+  background-image: url(https://farm2.staticflickr.com/1402/4595235558_42efc04eac_b.jpg);
+  background-size: cover;
+  text-align: center;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0, 0.4),
+               0 1px 8px rgba(0,0,0, 0.2);
 }
 .masthead-title a {
-  color: #505050;
+  color: inherit;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
   letter-spacing: 0;
+  display: block;
 }
 
 
