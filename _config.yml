@@ -3,14 +3,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            hdo-blog
-tagline:          Holder de ord sin blog
+title:            Holder de ord
+tagline:          Blogg
 url:              https://holderdeord.github.io/hdo-blog
-paginate:         1
+paginate:         3
 baseurl:          /hdo-blog/
 author:
   name:           Holder de ord
-  url:            https://holderdeord.no
+  url:            https://holderdeord.no/
+  twitter:        holderdeord
   email:          mail@holderdeord.no
 
 # Custom vars
