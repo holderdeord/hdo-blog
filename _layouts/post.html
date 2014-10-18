@@ -9,7 +9,10 @@ layout: default
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
     av {{ page.author }}
   </div>
-  {{ content }}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
 </article>
 
 <aside class="related">
