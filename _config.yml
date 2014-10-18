@@ -19,3 +19,5 @@ author:
 version:          0.0.1
 github:
   repo:           https://github.com/holderdeord/hdo-blog
+gems:
+  - jekyll-redirect-from
