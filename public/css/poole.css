@@ -61,29 +61,14 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: #333;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
-  text-decoration: none;
-}
-a strong {
   color: inherit;
-}
-/* `:focus` is linked to `:hover` for basic accessibility */
-a:hover,
-a:focus {
-  text-decoration: underline;
-}
-
-/* We do not want to indicate functionality with color alone, now do we */
-p a {
-  text-decoration: underline;
 }
 
 /* Headings */
@@ -359,7 +344,13 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  text-decoration: none;
 }
+
+.post-title a:hover {
+  text-decoration: underline;
+}
+
 .page-title,
 .post-title {
   margin-top: 0;
@@ -385,17 +376,7 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts h3 {
   margin-top: 0;
-}
-.related-posts li small {
-  font-size: 75%;
-  color: #999;
-}
-.related-posts li a:hover {
-  color: #268bd2;
-  text-decoration: none;
-}
-.related-posts li a:hover small {
-  color: inherit;
+  font: inherit;
 }
 
 
@@ -430,6 +411,54 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
 }
 
+.postarchive h2 {
+  margin-left: 150px;
+  font-weight: 300;
+  font-size: 2rem;
+}
+
+.postarchive-post {
+  position: relative;
+  padding-left: 150px;
+  padding-bottom: 10px;
+}
+
+.postarchive-post time {
+  position: absolute;
+  left: 0;
+  top: 3px;
+  width: 130px;
+  text-align: right;
+  color: #999;
+}
+.postarchive-post a {
+  color: inherit;
+  font-weight: 500;
+}
+
+.site-footer {
+  display: block;
+  position: relative;
+  margin: 100px 0 50px 0;
+  text-align: center;
+  color: #999;
+}
+.site-footer:after {
+  content: "";
+  position: absolute;
+  width: 100px;
+  margin-left: -50px;
+  left: 50%;
+  top: -20px;
+  height: 1px;
+  background: #ccc;
+}
+.site-footer h5 {
+  color: inherit;
+  font: inherit;
+}
+
+
 @media (min-width: 30em) {
   .pagination {
     margin: 3rem 0;
@@ -449,3 +478,4 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+

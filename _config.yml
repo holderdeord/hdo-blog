@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Holder de ord
 tagline:          Blogg
 url:              https://holderdeord.github.io/hdo-blog
-paginate:         3
+paginate:         1
 paginate_path:    "page/:num"
 baseurl:          "/"
 author:

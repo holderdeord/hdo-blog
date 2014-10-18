@@ -22,19 +22,4 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page/{{paginator.next_page}}">{{ site.data.ui.older }}</a>
-  {% else %}
-    <span class="pagination-item older">{{ site.data.ui.older }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">{{ site.data.ui.newer }}</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page/{{paginator.previous_page}}">{{ site.data.ui.newer }}</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">{{ site.data.ui.newer }}</span>
-  {% endif %}
-</div>
+{% include archive.html %}
