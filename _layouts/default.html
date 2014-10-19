@@ -22,6 +22,10 @@
 
       {% include footer.html %}
       {% include scripts.html %}
+
+      {% if site.github.environment %}
+        {% include analytics.html %}
+      {% endif %}
     </div>
 
   </body>
