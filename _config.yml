@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Holder de ord
 tagline:          Blogg
-url:              https://holderdeord.github.io/hdo-blog
+url:              http://blog.holderdeord.no
 paginate:         1
 paginate_path:    "page/:num"
 baseurl:          "/"
