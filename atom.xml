@@ -18,7 +18,7 @@ layout: null
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link rel="alternate" type="text/html" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
+   <link rel="alternate" type="text/html" href="{{ site.url }}{{ site.baseurl }}{{ post.url | remove_first:'/' }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
