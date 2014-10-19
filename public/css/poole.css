@@ -76,8 +76,12 @@ a:hover {
   text-decoration: underline;
 }
 
-article .post-content a {
+article a {
   text-decoration: underline;
+}
+
+article .post-title a {
+  text-decoration: none;
 }
 
 /* Headings */
