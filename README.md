@@ -1,6 +1,6 @@
 # hdo-blog
 
-blogg.holderdeord.no
+http://blog.holderdeord.no/
 
 ## Usage
 
