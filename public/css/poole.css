@@ -48,12 +48,14 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: HelveticaNeueLight, HelveticaNeue-Light, 'Helvetica Neue Light', HelveticaNeue, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
   font-size: 15px;
   line-height: 1.5;
 }
+
 @media (min-width: 38em) {
   html {
     font-size: 17px;
@@ -83,6 +85,8 @@ article a {
 article .post-title a {
   text-decoration: none;
 }
+
+figure { margin: 0; }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
