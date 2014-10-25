@@ -376,6 +376,9 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+.post-byline a { text-decoration: none; }
+.post-byline a:hover { text-decoration: underline; }
+
 /* Related posts */
 .related {
   padding-top: 2rem;

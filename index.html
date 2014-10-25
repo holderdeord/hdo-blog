@@ -13,8 +13,7 @@ title: Home
     </h1>
 
     <div class="post-byline">
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-      av {{ post.author }}
+      {% include byline.html date=post.date authors=post.authors %}
     </div>
 
     {{ post.content }}
