@@ -22,9 +22,14 @@ layout: null
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
+   {% for name in post.authors %}
    <author>
-     <name>{{ post.author }}</name>
+     <name>{{ name }}</name>
+     {% if site.data.authors[name] %}
+     <email>{{ site.data.authors[name].email }}</email>
+     {% endif %}
    </author>
+   {% endfor %}
  </entry>
  {% endfor %}
 
