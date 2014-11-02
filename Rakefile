@@ -11,7 +11,12 @@ require 'fileutils'
 namespace :polls do
   task :fetch do
     resp = Net::HTTP.get_response(URI("https://docs.google.com/spreadsheets/d/1nnOYq5Z_3aevKJAQMu4T8qijGkLYYLur4gwvSsu6N6w/export?format=csv"))
-    data = CSV.parse(resp.body.force_encoding("UTF-8"), headers: true)
+    resp2 = Net::HTTP.get_response(URI("https://docs.google.com/a/holderdeord.no/spreadsheets/d/1nnOYq5Z_3aevKJAQMu4T8qijGkLYYLur4gwvSsu6N6w/export?format=csv&id=1nnOYq5Z_3aevKJAQMu4T8qijGkLYYLur4gwvSsu6N6w&gid=0"))
+
+    data = []
+
+    data += CSV.parse(resp.body.force_encoding("UTF-8"), headers: true).map(&:to_h)
+    data += CSV.parse(resp2.body.force_encoding("UTF-8"), headers: true).map(&:to_h)
 
     by_issue = data.group_by { |e| e['SAK'] }
     result = by_issue.map do |issue, rows|
