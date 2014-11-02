@@ -14,7 +14,10 @@ author:
   url:            https://holderdeord.no/
   twitter:        holderdeord
   email:          kontakt@holderdeord.no
-lsi:              true
+collections:
+  polls:
+    output: true
+    permalink: "/polls/:path/"
 
 # Custom vars
 version:          0.0.1
@@ -22,3 +25,4 @@ github:
   repo:           https://github.com/holderdeord/hdo-blog
 gems:
   - jekyll-redirect-from
+

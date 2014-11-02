@@ -1,0 +1,21 @@
+---
+layout: page
+title: Meningsmålinger
+---
+
+<p>Vi samler sammen hva folket mener om ulike politiske spørsmål.</p>
+
+<section class="postarchive">
+  {% assign polls = site.polls | sort: 'date' | reverse %}
+  {% for poll in polls %}
+    {% if poll.date %}
+    <div class="postarchive-post">
+      <small><time datetime="{{ poll.date | date_to_xmlschema }}">{{ poll.date }}</time></small>
+      <a href="{{ poll.url }}">{{ poll.title }}</a>
+    </div>
+    {% endif %}
+  {% endfor %}
+</section>
+
+
+
