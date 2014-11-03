@@ -26,7 +26,7 @@ namespace :polls do
           value = row["POS#{idx}-VALUE"]
 
           if name && value
-            {name: name, value: value}
+            {name: name, value: value.to_f}
           end
         end.compact
 
