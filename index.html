@@ -16,7 +16,9 @@ title: Home
       {% include byline.html date=post.date authors=post.authors %}
     </div>
 
-    {{ post.content }}
+    <div class="post-content">
+      {{ post.content }}
+    </div>
   </article>
   {% endfor %}
 </div>

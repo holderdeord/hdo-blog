@@ -71,10 +71,6 @@ article a {
   text-decoration: underline;
 }
 
-article .post-title a {
-  text-decoration: none;
-}
-
 figure { margin: 0; }
 
 /* Headings */
@@ -350,6 +346,7 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  text-decoration: none;
 }
 
 .page-title,
@@ -363,10 +360,15 @@ tbody tr:nth-child(odd) th {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+
 }
 
 .post-byline a { text-decoration: none; }
 .post-byline a:hover { text-decoration: underline; }
+
+.post-content {
+  /* font: 17px/28px Georiga; */
+}
 
 /* Related posts */
 .related {
