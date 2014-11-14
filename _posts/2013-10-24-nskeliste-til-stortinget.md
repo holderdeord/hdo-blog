@@ -23,7 +23,7 @@ Selv om [data.stortinget.no](http://data.stortinget.no/) allerede tilbyr det som
 
 #### Nye data
 
-* <strike>Referater på et strukturert format, hvor det er lett å finne ut hvem som sier hva. Stortinget har fantastiske referater som gjengir alt som skjer i stortingssalen, men de publiseres ikke i APIet.</strike> Referater ble [lagt til][endringslogg] 22. oktober 2014.
+* <strike>Referater på et strukturert format, hvor det er lett å finne ut hvem som sier hva. Stortinget har fantastiske referater som gjengir alt som skjer i stortingssalen, men de publiseres ikke i APIet.</strike> Referater ble [lagt til][endringslogg] i oktober/november 2014.
 * Komitéinnstillinger og merknader på et strukturert format. Disse dokumentene er svært interessante politisk sett, og vi ønsker oss mulighet til å hente de via APIet, koblet til sak, og gjerne på et format hvor det er markert opp hvilke partier som står bak hvilken del av merknaden.
 * Liste over saker som er bebudet / varslet fra regjeringen.
 * Registeret over stortingsrepresentanters økonomiske interesser publiseres i dag i PDF-format. Vi ønsker oss denne oversikten i et maskinlesbart format og koblet til representant-ID, gjerne gjennom datatjenesten.
