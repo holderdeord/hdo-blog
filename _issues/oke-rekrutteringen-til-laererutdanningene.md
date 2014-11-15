@@ -5,6 +5,7 @@ tags:
 - skole
 - høyere utdanning
 slug: oke-rekrutteringen-til-laererutdanningene
+issue_id: 231
 redirect_from: "/issues/231-oke-rekrutteringen-til-laererutdanningene"
 ---
 

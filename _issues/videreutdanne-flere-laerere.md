@@ -4,6 +4,7 @@ title: Videreutdanne flere lærere
 tags:
 - utdanning og forskning
 slug: videreutdanne-flere-laerere
+issue_id: 65
 redirect_from: "/issues/65-videreutdanne-flere-laerere"
 ---
 

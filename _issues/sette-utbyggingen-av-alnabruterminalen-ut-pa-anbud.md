@@ -5,6 +5,7 @@ tags:
 - samferdsel
 - jernbane
 slug: sette-utbyggingen-av-alnabruterminalen-ut-pa-anbud
+issue_id: 210
 redirect_from: "/issues/210-sette-utbyggingen-av-alnabruterminalen-ut-pa-anbud"
 ---
 

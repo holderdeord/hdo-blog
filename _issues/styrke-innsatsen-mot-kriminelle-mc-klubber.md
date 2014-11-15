@@ -4,6 +4,7 @@ title: Styrke innsatsen mot kriminelle MC-klubber
 tags:
 - politi og rettsvesen
 slug: styrke-innsatsen-mot-kriminelle-mc-klubber
+issue_id: 126
 redirect_from: "/issues/126-styrke-innsatsen-mot-kriminelle-mc-klubber"
 ---
 

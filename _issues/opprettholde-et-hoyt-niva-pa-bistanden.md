@@ -5,6 +5,7 @@ tags:
 - utenriks og forsvar
 - bistand
 slug: opprettholde-et-hoyt-niva-pa-bistanden
+issue_id: 23
 redirect_from: "/issues/23-opprettholde-et-hoyt-niva-pa-bistanden"
 ---
 

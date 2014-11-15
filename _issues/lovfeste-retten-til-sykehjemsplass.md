@@ -4,6 +4,7 @@ title: Lovfeste retten til sykehjemsplass
 tags:
 - helse- og sosialvesen
 slug: lovfeste-retten-til-sykehjemsplass
+issue_id: 298
 redirect_from: "/issues/298-lovfeste-retten-til-sykehjemsplass"
 ---
 

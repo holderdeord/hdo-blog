@@ -4,6 +4,7 @@ title: Avskaffe monarkiet
 tags:
 - grunnloven
 slug: avskaffe-monarkiet
+issue_id: 187
 redirect_from: "/issues/187-avskaffe-monarkiet"
 ---
 

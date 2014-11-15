@@ -4,6 +4,7 @@ title: Legge ned Kulturrådet
 tags:
 - kultur
 slug: legge-ned-kulturradet
+issue_id: 238
 redirect_from: "/issues/238-legge-ned-kulturradet"
 ---
 

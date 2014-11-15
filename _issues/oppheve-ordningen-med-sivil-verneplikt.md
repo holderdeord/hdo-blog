@@ -4,6 +4,7 @@ title: Oppheve ordningen med sivil verneplikt
 tags:
 - utenriks og forsvar
 slug: oppheve-ordningen-med-sivil-verneplikt
+issue_id: 152
 redirect_from: "/issues/152-oppheve-ordningen-med-sivil-verneplikt"
 ---
 

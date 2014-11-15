@@ -4,6 +4,7 @@ title: Tillate politisk TV-reklame
 tags:
 - kultur
 slug: tillate-politisk-tv-reklame
+issue_id: 136
 redirect_from: "/issues/136-tillate-politisk-tv-reklame"
 ---
 

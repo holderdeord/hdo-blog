@@ -5,6 +5,7 @@ tags:
 - energi
 - forskning
 slug: opprette-forskningssenter-for-thorium
+issue_id: 80
 redirect_from: "/issues/80-opprette-forskningssenter-for-thorium"
 ---
 

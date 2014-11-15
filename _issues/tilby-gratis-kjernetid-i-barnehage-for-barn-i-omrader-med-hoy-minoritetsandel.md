@@ -3,6 +3,7 @@ layout: issue
 title: Tilby gratis kjernetid i barnehage for barn i områder med høy minoritetsandel
 tags: []
 slug: tilby-gratis-kjernetid-i-barnehage-for-barn-i-omrader-med-hoy-minoritetsandel
+issue_id: 167
 redirect_from: "/issues/167-tilby-gratis-kjernetid-i-barnehage-for-barn-i-omrader-med-hoy-minoritetsandel"
 ---
 

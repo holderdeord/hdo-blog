@@ -7,6 +7,7 @@ tags:
 - lofoten
 - klima
 slug: apne-for-petroleumsaktivitet-i-lofoten
+issue_id: 186
 redirect_from: "/issues/186-apne-for-petroleumsaktivitet-i-lofoten"
 ---
 

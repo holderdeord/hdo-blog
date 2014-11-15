@@ -5,6 +5,7 @@ tags:
 - politi og rettsvesen
 - personvern
 slug: innfore-datalagringsdirektivet
+issue_id: 69
 redirect_from: "/issues/69-innfore-datalagringsdirektivet"
 ---
 

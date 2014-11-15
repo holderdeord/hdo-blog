@@ -5,6 +5,7 @@ tags:
 - næringsliv
 - "åpningstid"
 slug: tillate-sondagsapne-butikker
+issue_id: 117
 redirect_from: "/issues/117-tillate-sondagsapne-butikker"
 ---
 

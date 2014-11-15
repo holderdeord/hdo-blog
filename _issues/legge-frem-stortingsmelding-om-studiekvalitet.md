@@ -4,6 +4,7 @@ title: 'Legge frem stortingsmelding om studiekvalitet '
 tags:
 - høyere utdanning
 slug: legge-frem-stortingsmelding-om-studiekvalitet
+issue_id: 278
 redirect_from: "/issues/278-legge-frem-stortingsmelding-om-studiekvalitet"
 ---
 

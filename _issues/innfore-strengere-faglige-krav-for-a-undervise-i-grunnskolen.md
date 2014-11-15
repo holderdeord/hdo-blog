@@ -4,6 +4,7 @@ title: Innføre strengere faglige krav for å undervise i grunnskolen
 tags:
 - skole
 slug: innfore-strengere-faglige-krav-for-a-undervise-i-grunnskolen
+issue_id: 53
 redirect_from: "/issues/53-innfore-strengere-faglige-krav-for-a-undervise-i-grunnskolen"
 ---
 

@@ -4,6 +4,7 @@ title: Innføre bevilling for salg av tobakksvarer
 tags:
 - tobakk
 slug: innfore-bevilling-for-salg-av-tobakksvarer
+issue_id: 146
 redirect_from: "/issues/146-innfore-bevilling-for-salg-av-tobakksvarer"
 ---
 

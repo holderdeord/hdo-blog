@@ -5,6 +5,7 @@ tags:
 - samferdsel
 - klima
 slug: bygge-ut-ladestasjoner-for-el-biler
+issue_id: 266
 redirect_from: "/issues/266-bygge-ut-ladestasjoner-for-el-biler"
 ---
 

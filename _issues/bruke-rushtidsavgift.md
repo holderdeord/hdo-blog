@@ -7,6 +7,7 @@ tags:
 - bompenger
 - forurensning
 slug: bruke-rushtidsavgift
+issue_id: 149
 redirect_from: "/issues/149-bruke-rushtidsavgift"
 ---
 

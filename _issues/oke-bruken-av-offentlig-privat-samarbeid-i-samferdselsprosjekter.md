@@ -5,6 +5,7 @@ tags:
 - ops
 - samferdsel
 slug: oke-bruken-av-offentlig-privat-samarbeid-i-samferdselsprosjekter
+issue_id: 77
 redirect_from: "/issues/77-oke-bruken-av-offentlig-privat-samarbeid-i-samferdselsprosjekter"
 ---
 

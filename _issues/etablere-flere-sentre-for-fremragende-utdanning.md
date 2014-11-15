@@ -4,6 +4,7 @@ title: Etablere flere sentre for fremragende utdanning
 tags:
 - høyere utdanning
 slug: etablere-flere-sentre-for-fremragende-utdanning
+issue_id: 263
 redirect_from: "/issues/263-etablere-flere-sentre-for-fremragende-utdanning"
 ---
 

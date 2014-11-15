@@ -5,6 +5,7 @@ tags:
 - forsvar
 - likestilling
 slug: innfore-kjonnsnoytral-verneplikt
+issue_id: 153
 redirect_from: "/issues/153-innfore-kjonnsnoytral-verneplikt"
 ---
 

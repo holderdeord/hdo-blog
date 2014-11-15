@@ -5,6 +5,7 @@ tags:
 - arbeidsliv
 - eu/eøs
 slug: innfore-vikarbyradirektivet-i-norge
+issue_id: 120
 redirect_from: "/issues/120-innfore-vikarbyradirektivet-i-norge"
 ---
 

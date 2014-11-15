@@ -5,6 +5,7 @@ tags:
 - tannlege
 - helse og sosial
 slug: gjore-tannlegebehandling-billigere
+issue_id: 18
 redirect_from: "/issues/18-gjore-tannlegebehandling-billigere"
 ---
 

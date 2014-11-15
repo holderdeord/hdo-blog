@@ -5,6 +5,7 @@ tags:
 - innvandring
 - asylsøkere
 slug: oke-antallet-kvoteflyktninger
+issue_id: 156
 redirect_from: "/issues/156-oke-antallet-kvoteflyktninger"
 ---
 

@@ -5,6 +5,7 @@ tags:
 - politi og rettsvesen
 - utdanning og forskning
 slug: tillate-narkotikaaksjoner-med-politihund-pa-skoler
+issue_id: 137
 redirect_from: "/issues/137-tillate-narkotikaaksjoner-med-politihund-pa-skoler"
 ---
 

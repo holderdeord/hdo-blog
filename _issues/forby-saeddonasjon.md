@@ -4,6 +4,7 @@ title: Forby sæddonasjon
 tags:
 - familie
 slug: forby-saeddonasjon
+issue_id: 224
 redirect_from: "/issues/224-forby-saeddonasjon"
 ---
 

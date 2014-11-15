@@ -5,6 +5,7 @@ tags:
 - offentlig forvaltning
 - valg
 slug: prove-ut-elektronisk-stemmegivning-ved-valg
+issue_id: 160
 redirect_from: "/issues/160-prove-ut-elektronisk-stemmegivning-ved-valg"
 ---
 

@@ -5,6 +5,7 @@ tags:
 - samferdsel
 - trafikksikkerhet
 slug: innfore-pabud-om-nok-sitteplasser-i-skolebusser
+issue_id: 211
 redirect_from: "/issues/211-innfore-pabud-om-nok-sitteplasser-i-skolebusser"
 ---
 

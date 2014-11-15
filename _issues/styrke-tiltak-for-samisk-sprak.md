@@ -6,6 +6,7 @@ tags:
 - samer
 - kultur
 slug: styrke-tiltak-for-samisk-sprak
+issue_id: 59
 redirect_from: "/issues/59-styrke-tiltak-for-samisk-sprak"
 ---
 

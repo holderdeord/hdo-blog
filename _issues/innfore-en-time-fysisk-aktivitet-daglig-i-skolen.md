@@ -5,6 +5,7 @@ tags:
 - skole
 - folkehelse
 slug: innfore-en-time-fysisk-aktivitet-daglig-i-skolen
+issue_id: 145
 redirect_from: "/issues/145-innfore-en-time-fysisk-aktivitet-daglig-i-skolen"
 ---
 

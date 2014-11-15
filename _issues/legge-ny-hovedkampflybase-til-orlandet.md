@@ -4,6 +4,7 @@ title: Legge ny hovedkampflybase til Ørlandet
 tags:
 - forsvar
 slug: legge-ny-hovedkampflybase-til-orlandet
+issue_id: 103
 redirect_from: "/issues/103-legge-ny-hovedkampflybase-til-orlandet"
 ---
 

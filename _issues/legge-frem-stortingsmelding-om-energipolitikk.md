@@ -4,6 +4,7 @@ title: Legge frem stortingsmelding om energipolitikk
 tags:
 - energi
 slug: legge-frem-stortingsmelding-om-energipolitikk
+issue_id: 264
 redirect_from: "/issues/264-legge-frem-stortingsmelding-om-energipolitikk"
 ---
 

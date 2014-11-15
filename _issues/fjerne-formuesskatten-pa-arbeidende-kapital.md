@@ -4,6 +4,7 @@ title: Fjerne formuesskatten på arbeidende kapital
 tags:
 - formuesskatt
 slug: fjerne-formuesskatten-pa-arbeidende-kapital
+issue_id: 183
 redirect_from: "/issues/183-fjerne-formuesskatten-pa-arbeidende-kapital"
 ---
 

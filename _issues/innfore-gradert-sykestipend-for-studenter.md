@@ -6,6 +6,7 @@ tags:
 - helse og sosial
 - høyere utdanning
 slug: innfore-gradert-sykestipend-for-studenter
+issue_id: 123
 redirect_from: "/issues/123-innfore-gradert-sykestipend-for-studenter"
 ---
 

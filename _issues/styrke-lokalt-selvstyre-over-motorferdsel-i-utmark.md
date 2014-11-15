@@ -6,6 +6,7 @@ tags:
 - samferdsel
 - kommuner
 slug: styrke-lokalt-selvstyre-over-motorferdsel-i-utmark
+issue_id: 74
 redirect_from: "/issues/74-styrke-lokalt-selvstyre-over-motorferdsel-i-utmark"
 ---
 

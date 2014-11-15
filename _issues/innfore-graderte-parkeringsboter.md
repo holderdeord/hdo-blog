@@ -5,6 +5,7 @@ tags:
 - veitrafikk
 - samferdsel
 slug: innfore-graderte-parkeringsboter
+issue_id: 130
 redirect_from: "/issues/130-innfore-graderte-parkeringsboter"
 ---
 

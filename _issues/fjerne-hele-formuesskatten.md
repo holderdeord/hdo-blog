@@ -4,6 +4,7 @@ title: Fjerne hele formuesskatten
 tags:
 - formuesskatt
 slug: fjerne-hele-formuesskatten
+issue_id: 182
 redirect_from: "/issues/182-fjerne-hele-formuesskatten"
 ---
 

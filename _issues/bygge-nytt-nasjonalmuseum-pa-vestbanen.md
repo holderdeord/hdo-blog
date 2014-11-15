@@ -5,6 +5,7 @@ tags:
 - kultur
 - kunst
 slug: bygge-nytt-nasjonalmuseum-pa-vestbanen
+issue_id: 277
 redirect_from: "/issues/277-bygge-nytt-nasjonalmuseum-pa-vestbanen"
 ---
 

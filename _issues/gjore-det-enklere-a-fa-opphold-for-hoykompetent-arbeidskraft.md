@@ -4,6 +4,7 @@ title: Gjøre det enklere å få opphold for høykompetent arbeidskraft
 tags:
 - innvandring
 slug: gjore-det-enklere-a-fa-opphold-for-hoykompetent-arbeidskraft
+issue_id: 235
 redirect_from: "/issues/235-gjore-det-enklere-a-fa-opphold-for-hoykompetent-arbeidskraft"
 ---
 

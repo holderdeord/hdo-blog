@@ -5,6 +5,7 @@ tags:
 - familie
 - barnehage
 slug: viderefore-makspris-for-barnehageplass
+issue_id: 5
 redirect_from: "/issues/5-viderefore-makspris-for-barnehageplass"
 ---
 

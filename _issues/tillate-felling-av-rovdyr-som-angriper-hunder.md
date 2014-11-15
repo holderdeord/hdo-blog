@@ -4,6 +4,7 @@ title: Tillate felling av rovdyr som angriper hunder
 tags:
 - rovdyr
 slug: tillate-felling-av-rovdyr-som-angriper-hunder
+issue_id: 49
 redirect_from: "/issues/49-tillate-felling-av-rovdyr-som-angriper-hunder"
 ---
 

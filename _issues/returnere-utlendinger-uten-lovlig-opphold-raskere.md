@@ -5,6 +5,7 @@ tags:
 - politi og rettsvesen
 - innvandring
 slug: returnere-utlendinger-uten-lovlig-opphold-raskere
+issue_id: 58
 redirect_from: "/issues/58-returnere-utlendinger-uten-lovlig-opphold-raskere"
 ---
 

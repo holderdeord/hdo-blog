@@ -5,6 +5,7 @@ tags:
 - "åpningstid"
 - rusmidler
 slug: utvide-apningstidene-pa-vinmonopolet
+issue_id: 221
 redirect_from: "/issues/221-utvide-apningstidene-pa-vinmonopolet"
 ---
 

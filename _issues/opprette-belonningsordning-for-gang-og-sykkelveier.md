@@ -5,6 +5,7 @@ tags:
 - samferdsel
 - klima
 slug: opprette-belonningsordning-for-gang-og-sykkelveier
+issue_id: 193
 redirect_from: "/issues/193-opprette-belonningsordning-for-gang-og-sykkelveier"
 ---
 

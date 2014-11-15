@@ -4,6 +4,7 @@ title: Styrke korpsbevegelsen
 tags:
 - kultur
 slug: styrke-korpsbevegelsen
+issue_id: 11
 redirect_from: "/issues/11-styrke-korpsbevegelsen"
 ---
 

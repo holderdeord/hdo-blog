@@ -3,6 +3,7 @@ layout: issue
 title: Avholde nasjonal folkeavstemning om OL i Oslo
 tags: []
 slug: avholde-nasjonal-folkeavstemning-om-ol-i-oslo
+issue_id: 306
 redirect_from: "/issues/306-avholde-nasjonal-folkeavstemning-om-ol-i-oslo"
 ---
 

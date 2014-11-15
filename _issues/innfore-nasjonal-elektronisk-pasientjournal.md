@@ -4,6 +4,7 @@ title: Innføre nasjonal elektronisk pasientjournal
 tags:
 - helsevesen
 slug: innfore-nasjonal-elektronisk-pasientjournal
+issue_id: 246
 redirect_from: "/issues/246-innfore-nasjonal-elektronisk-pasientjournal"
 ---
 

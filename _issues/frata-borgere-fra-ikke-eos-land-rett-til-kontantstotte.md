@@ -6,6 +6,7 @@ tags:
 - kontantstøtte
 - innvandring
 slug: frata-borgere-fra-ikke-eos-land-rett-til-kontantstotte
+issue_id: 154
 redirect_from: "/issues/154-frata-borgere-fra-ikke-eos-land-rett-til-kontantstotte"
 ---
 

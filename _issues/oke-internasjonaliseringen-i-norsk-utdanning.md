@@ -4,6 +4,7 @@ title: "Øke internasjonaliseringen i norsk utdanning"
 tags:
 - utdanning og forskning
 slug: oke-internasjonaliseringen-i-norsk-utdanning
+issue_id: 127
 redirect_from: "/issues/127-oke-internasjonaliseringen-i-norsk-utdanning"
 ---
 

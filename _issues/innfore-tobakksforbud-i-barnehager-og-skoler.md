@@ -4,6 +4,7 @@ title: Innføre tobakksforbud i barnehager og skoler
 tags:
 - tobakk
 slug: innfore-tobakksforbud-i-barnehager-og-skoler
+issue_id: 198
 redirect_from: "/issues/198-innfore-tobakksforbud-i-barnehager-og-skoler"
 ---
 

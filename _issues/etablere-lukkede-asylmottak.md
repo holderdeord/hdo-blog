@@ -4,6 +4,7 @@ title: Etablere lukkede asylmottak
 tags:
 - asylsøkere
 slug: etablere-lukkede-asylmottak
+issue_id: 301
 redirect_from: "/issues/301-etablere-lukkede-asylmottak"
 ---
 

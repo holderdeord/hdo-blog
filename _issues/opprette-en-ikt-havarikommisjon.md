@@ -4,6 +4,7 @@ title: Opprette en IKT-havarikommisjon
 tags:
 - offentlig forvaltning
 slug: opprette-en-ikt-havarikommisjon
+issue_id: 28
 redirect_from: "/issues/28-opprette-en-ikt-havarikommisjon"
 ---
 

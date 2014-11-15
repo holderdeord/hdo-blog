@@ -3,6 +3,7 @@ layout: issue
 title: Endre antall årlige opptak til barnehager
 tags: []
 slug: endre-antall-arlige-opptak-til-barnehager
+issue_id: 317
 redirect_from: "/issues/317-endre-antall-arlige-opptak-til-barnehager"
 ---
 

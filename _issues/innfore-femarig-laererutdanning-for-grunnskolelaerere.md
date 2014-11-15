@@ -4,6 +4,7 @@ title: Innføre femårig lærerutdanning for grunnskolelærere
 tags:
 - utdanning og forskning
 slug: innfore-femarig-laererutdanning-for-grunnskolelaerere
+issue_id: 52
 redirect_from: "/issues/52-innfore-femarig-laererutdanning-for-grunnskolelaerere"
 ---
 

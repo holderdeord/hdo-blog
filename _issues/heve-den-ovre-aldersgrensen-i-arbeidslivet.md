@@ -5,6 +5,7 @@ tags:
 - arbeidsliv
 - pensjon
 slug: heve-den-ovre-aldersgrensen-i-arbeidslivet
+issue_id: 261
 redirect_from: "/issues/261-heve-den-ovre-aldersgrensen-i-arbeidslivet"
 ---
 

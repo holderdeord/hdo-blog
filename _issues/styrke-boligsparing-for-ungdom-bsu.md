@@ -5,6 +5,7 @@ tags:
 - bolig
 - skatter og avgifter
 slug: styrke-boligsparing-for-ungdom-bsu
+issue_id: 12
 redirect_from: "/issues/12-styrke-boligsparing-for-ungdom-bsu"
 ---
 

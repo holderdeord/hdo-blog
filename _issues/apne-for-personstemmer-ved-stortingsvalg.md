@@ -4,6 +4,7 @@ title: "Åpne for personstemmer ved stortingsvalg"
 tags:
 - valg
 slug: apne-for-personstemmer-ved-stortingsvalg
+issue_id: 290
 redirect_from: "/issues/290-apne-for-personstemmer-ved-stortingsvalg"
 ---
 

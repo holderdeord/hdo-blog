@@ -5,6 +5,7 @@ tags:
 - offentlig forvaltning
 - bolig
 slug: utvide-ordningen-med-husleietvistutvalg
+issue_id: 82
 redirect_from: "/issues/82-utvide-ordningen-med-husleietvistutvalg"
 ---
 

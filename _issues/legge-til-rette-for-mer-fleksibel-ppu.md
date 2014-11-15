@@ -4,6 +4,7 @@ title: Legge til rette for mer fleksibel PPU
 tags:
 - utdanning og forskning
 slug: legge-til-rette-for-mer-fleksibel-ppu
+issue_id: 226
 redirect_from: "/issues/226-legge-til-rette-for-mer-fleksibel-ppu"
 ---
 

@@ -4,6 +4,7 @@ title: Heve bunnfradraget på formuesskatten
 tags:
 - formuesskatt
 slug: heve-bunnfradraget-pa-formuesskatten
+issue_id: 184
 redirect_from: "/issues/184-heve-bunnfradraget-pa-formuesskatten"
 ---
 

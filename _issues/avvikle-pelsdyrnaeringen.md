@@ -4,6 +4,7 @@ title: Avvikle pelsdyrnæringen
 tags:
 - landbruk og fiskeri
 slug: avvikle-pelsdyrnaeringen
+issue_id: 50
 redirect_from: "/issues/50-avvikle-pelsdyrnaeringen"
 ---
 

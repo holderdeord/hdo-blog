@@ -5,6 +5,7 @@ tags:
 - familie
 - barnehage
 slug: innfore-regler-om-maksimal-oppholdstid-i-barnehager
+issue_id: 147
 redirect_from: "/issues/147-innfore-regler-om-maksimal-oppholdstid-i-barnehager"
 ---
 

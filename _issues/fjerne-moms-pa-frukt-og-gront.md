@@ -5,6 +5,7 @@ tags:
 - moms
 - folkehelse
 slug: fjerne-moms-pa-frukt-og-gront
+issue_id: 143
 redirect_from: "/issues/143-fjerne-moms-pa-frukt-og-gront"
 ---
 

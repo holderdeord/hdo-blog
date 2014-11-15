@@ -5,6 +5,7 @@ tags:
 - familie
 - kontantstøtte
 slug: gi-kontantstotte-til-toaringer
+issue_id: 159
 redirect_from: "/issues/159-gi-kontantstotte-til-toaringer"
 ---
 

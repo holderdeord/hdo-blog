@@ -5,6 +5,7 @@ tags:
 - selvstendig næringsdrivende
 - pensjon
 slug: heve-taket-for-selvstendig-naeringsdrivendes-pensjonssparing
+issue_id: 240
 redirect_from: "/issues/240-heve-taket-for-selvstendig-naeringsdrivendes-pensjonssparing"
 ---
 

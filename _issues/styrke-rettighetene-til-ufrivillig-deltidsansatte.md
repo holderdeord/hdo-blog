@@ -4,6 +4,7 @@ title: Styrke rettighetene til ufrivillig deltidsansatte
 tags:
 - arbeidsliv
 slug: styrke-rettighetene-til-ufrivillig-deltidsansatte
+issue_id: 274
 redirect_from: "/issues/274-styrke-rettighetene-til-ufrivillig-deltidsansatte"
 ---
 

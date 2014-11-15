@@ -4,6 +4,7 @@ title: Fjerne NRK-lisensen
 tags:
 - media
 slug: fjerne-nrk-lisensen
+issue_id: 155
 redirect_from: "/issues/155-fjerne-nrk-lisensen"
 ---
 

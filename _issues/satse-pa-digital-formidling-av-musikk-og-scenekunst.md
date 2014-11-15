@@ -4,6 +4,7 @@ title: Satse på digital formidling av musikk og scenekunst
 tags:
 - kultur
 slug: satse-pa-digital-formidling-av-musikk-og-scenekunst
+issue_id: 76
 redirect_from: "/issues/76-satse-pa-digital-formidling-av-musikk-og-scenekunst"
 ---
 

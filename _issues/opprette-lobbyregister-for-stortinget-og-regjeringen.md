@@ -4,6 +4,7 @@ title: Opprette lobbyregister for Stortinget og regjeringen
 tags:
 - offentlig forvaltning
 slug: opprette-lobbyregister-for-stortinget-og-regjeringen
+issue_id: 291
 redirect_from: "/issues/291-opprette-lobbyregister-for-stortinget-og-regjeringen"
 ---
 

@@ -4,6 +4,7 @@ title: Bygge flere studentboliger
 tags:
 - utdanning og forskning
 slug: bygge-flere-studentboliger
+issue_id: 48
 redirect_from: "/issues/48-bygge-flere-studentboliger"
 ---
 

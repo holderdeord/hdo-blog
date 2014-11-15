@@ -5,6 +5,7 @@ tags:
 - veitrafikk
 - samferdsel
 slug: investere-mer-i-veibygging-og-vedlikehold
+issue_id: 257
 redirect_from: "/issues/257-investere-mer-i-veibygging-og-vedlikehold"
 ---
 

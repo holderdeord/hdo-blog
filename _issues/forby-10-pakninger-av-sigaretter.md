@@ -5,6 +5,7 @@ tags:
 - tobakk
 - folkehelse
 slug: forby-10-pakninger-av-sigaretter
+issue_id: 197
 redirect_from: "/issues/197-forby-10-pakninger-av-sigaretter"
 ---
 

@@ -4,6 +4,7 @@ title: Utvide tillatelsen til å felle truende rovdyr
 tags:
 - rovdyr
 slug: utvide-tillatelsen-til-a-felle-truende-rovdyr
+issue_id: 194
 redirect_from: "/issues/194-utvide-tillatelsen-til-a-felle-truende-rovdyr"
 ---
 

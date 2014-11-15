@@ -4,6 +4,7 @@ title: Tillate proffboksing i Norge
 tags:
 - idrett
 slug: tillate-proffboksing-i-norge
+issue_id: 9
 redirect_from: "/issues/9-tillate-proffboksing-i-norge"
 ---
 

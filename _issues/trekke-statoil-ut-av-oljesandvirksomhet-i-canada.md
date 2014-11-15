@@ -6,6 +6,7 @@ tags:
 - olje
 - klima
 slug: trekke-statoil-ut-av-oljesandvirksomhet-i-canada
+issue_id: 191
 redirect_from: "/issues/191-trekke-statoil-ut-av-oljesandvirksomhet-i-canada"
 ---
 

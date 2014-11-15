@@ -4,6 +4,7 @@ title: Etablere flere grunnskolelærerutdanninger for realfag
 tags:
 - høyere utdanning
 slug: etablere-flere-grunnskolelaererutdanninger-for-realfag
+issue_id: 262
 redirect_from: "/issues/262-etablere-flere-grunnskolelaererutdanninger-for-realfag"
 ---
 

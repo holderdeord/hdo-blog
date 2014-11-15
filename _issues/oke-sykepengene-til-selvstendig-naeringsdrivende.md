@@ -7,6 +7,7 @@ tags:
 - selvstendig næringsdrivende
 - sykepenger
 slug: oke-sykepengene-til-selvstendig-naeringsdrivende
+issue_id: 111
 redirect_from: "/issues/111-oke-sykepengene-til-selvstendig-naeringsdrivende"
 ---
 

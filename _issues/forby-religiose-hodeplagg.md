@@ -4,6 +4,7 @@ title: Forby religiøse hodeplagg
 tags:
 - religion
 slug: forby-religiose-hodeplagg
+issue_id: 220
 redirect_from: "/issues/220-forby-religiose-hodeplagg"
 ---
 

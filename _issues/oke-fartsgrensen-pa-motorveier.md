@@ -5,6 +5,7 @@ tags:
 - veitrafikk
 - samferdsel
 slug: oke-fartsgrensen-pa-motorveier
+issue_id: 6
 redirect_from: "/issues/6-oke-fartsgrensen-pa-motorveier"
 ---
 

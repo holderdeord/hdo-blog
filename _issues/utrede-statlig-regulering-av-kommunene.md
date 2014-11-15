@@ -5,6 +5,7 @@ tags:
 - lokalforvaltning
 - kommuner
 slug: utrede-statlig-regulering-av-kommunene
+issue_id: 158
 redirect_from: "/issues/158-utrede-statlig-regulering-av-kommunene"
 ---
 

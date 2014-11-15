@@ -4,6 +4,7 @@ title: Gjøre arbeidstidsbestemmelsene mer fleksible
 tags:
 - arbeidsliv
 slug: gjore-arbeidstidsbestemmelsene-mer-fleksible
+issue_id: 269
 redirect_from: "/issues/269-gjore-arbeidstidsbestemmelsene-mer-fleksible"
 ---
 

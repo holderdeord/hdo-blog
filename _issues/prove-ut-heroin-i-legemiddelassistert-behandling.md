@@ -5,6 +5,7 @@ tags:
 - helse- og sosialvesen
 - rusmidler
 slug: prove-ut-heroin-i-legemiddelassistert-behandling
+issue_id: 303
 redirect_from: "/issues/303-prove-ut-heroin-i-legemiddelassistert-behandling"
 ---
 

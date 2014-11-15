@@ -5,6 +5,7 @@ tags:
 - samferdsel
 - jernbane
 slug: prosjektfinansiere-utbygging-av-jernbane
+issue_id: 200
 redirect_from: "/issues/200-prosjektfinansiere-utbygging-av-jernbane"
 ---
 

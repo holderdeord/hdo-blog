@@ -3,6 +3,7 @@ layout: issue
 title: Lovfeste rett til brukerstyrt personlig assistanse
 tags: []
 slug: lovfeste-rett-til-brukerstyrt-personlig-assistanse
+issue_id: 175
 redirect_from: "/issues/175-lovfeste-rett-til-brukerstyrt-personlig-assistanse"
 ---
 

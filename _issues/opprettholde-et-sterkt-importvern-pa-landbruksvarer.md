@@ -4,6 +4,7 @@ title: Opprettholde et sterkt importvern på landbruksvarer
 tags:
 - landbruk og fiskeri
 slug: opprettholde-et-sterkt-importvern-pa-landbruksvarer
+issue_id: 62
 redirect_from: "/issues/62-opprettholde-et-sterkt-importvern-pa-landbruksvarer"
 ---
 
