@@ -18,6 +18,9 @@ collections:
   polls:
     output: true
     permalink: "/polls/:path/"
+  issues:
+    output: true
+    permalink: "/saker/:path/"
 
 # Custom vars
 markdown:         kramdown # same as github pages
