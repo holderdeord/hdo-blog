@@ -5,6 +5,7 @@ tags:
 - helse og sosial
 - helsevesen
 slug: avvikle-de-regionale-helseforetakene
+redirect_from: "/issues/169-avvikle-de-regionale-helseforetakene"
 ---
 
 I 2001 vedtok Stortinget å innføre et system hvor spesialisthelsetjenesten organiseres i fire regionale helseforetak - Nord, Midt-Norge, Sør-øst og Vest. Disse fire foretakene eies av staten, og har ansvar for å drive sykehusene og tilby spesialiserte helsetjenester til befolkningen i sin region.

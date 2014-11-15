@@ -5,6 +5,7 @@ tags:
 - politi og rettsvesen
 - personvern
 slug: innfore-datalagringsdirektivet
+redirect_from: "/issues/69-innfore-datalagringsdirektivet"
 ---
 
 Innføringen av EUs datalagringsdirektiv pålegger telefoni- og internettleverandører å lagre opplysninger blant annet om identitet, tidspunkt og sted for telefon, internett og epostaktivitet i minimum seks måneder. Formålet er å bekjempe alvorlig kriminalitet, men direktivet er omstridt i flere land og har blitt kritisert for å være et urimelig inngrep i privatlivet. Denne saken omhandler avstemninger for å innføre og iverksette dette direktivet.

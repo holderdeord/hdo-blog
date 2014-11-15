@@ -5,6 +5,7 @@ tags:
 - familie
 - kontantstøtte
 slug: gi-kontantstotte-til-toaringer
+redirect_from: "/issues/159-gi-kontantstotte-til-toaringer"
 ---
 
 Kontantstøtte gis til småbarnsforeldre som ikke eller bare delvis benytter seg av barnehagetilbudet. Tidligere kunne man få kontantstøtte for både ett- og toåringer, men i august 2012 ble dette endret til kun ettåringer. Denne saken handler om å videreføre eller gjeninnføre ordninga med kontantstøtte til toåringer.

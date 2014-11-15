@@ -4,6 +4,7 @@ title: Utvide til 11-måneders studiestøtte
 tags:
 - utdanning og forskning
 slug: utvide-til-11-maneders-studiestotte
+redirect_from: "/issues/47-utvide-til-11-maneders-studiestotte"
 ---
 
 I dag har man rett til 10-måneders studiestøtte. Mange har tatt til orde for å øke utbetalingene av lån og stipend med én ekstra måned, fordi studentene i praksis studerer 11 måneder i året.

@@ -5,6 +5,7 @@ tags:
 - tobakk
 - folkehelse
 slug: forby-10-pakninger-av-sigaretter
+redirect_from: "/issues/197-forby-10-pakninger-av-sigaretter"
 ---
 
 I dag selges sigaretter i både 10- og 20-pakninger. Å forby salg av sigarettpakninger som inneholder mindre enn 20 sigaretter har blitt foreslått som et ledd i å bedre folkehelsen.

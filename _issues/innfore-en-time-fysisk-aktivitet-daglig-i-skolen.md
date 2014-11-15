@@ -5,6 +5,7 @@ tags:
 - skole
 - folkehelse
 slug: innfore-en-time-fysisk-aktivitet-daglig-i-skolen
+redirect_from: "/issues/145-innfore-en-time-fysisk-aktivitet-daglig-i-skolen"
 ---
 
 Norske barn og unge sitter mer stille i dag enn tidligere, og fedme er et økende problem. I 2009 det ble innført to ekstra uketimer fysisk aktivitet på 5.–7. trinn, men mange mener det er nødvendig å øke innsatsen. Denne saken handler om å innføre én time fysisk aktivitet hver dag for alle elever i skolen.

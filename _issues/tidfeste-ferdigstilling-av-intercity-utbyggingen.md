@@ -5,6 +5,7 @@ tags:
 - intercity
 - jernbane
 slug: tidfeste-ferdigstilling-av-intercity-utbyggingen
+redirect_from: "/issues/166-tidfeste-ferdigstilling-av-intercity-utbyggingen"
 ---
 
 InterCity-utbyggingen handler om å bygge dobbeltspor fra Oslo til Halden, Lillehammer og Skien. Denne saken viser avstemninger om å sette en tidsfrist for når utbyggingen skal stå ferdig.

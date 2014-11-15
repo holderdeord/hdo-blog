@@ -5,6 +5,7 @@ tags:
 - tannlege
 - helse og sosial
 slug: gjore-tannlegebehandling-billigere
+redirect_from: "/issues/18-gjore-tannlegebehandling-billigere"
 ---
 
 I dag dekkes i utgangspunktet ikke tannlegebehandling av folketrygden, men det finnes imidlertid refusjonsordninger som dekker utgifter ved enkelte sykdommer og tannutviklingsforstyrrelser. Denne saken viser avstemninger om økte bevilgninger til denne ordningen, innføring av egenandelstak og innføring av ulike skjermingsordninger.

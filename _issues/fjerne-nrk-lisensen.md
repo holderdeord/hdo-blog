@@ -4,6 +4,7 @@ title: Fjerne NRK-lisensen
 tags:
 - media
 slug: fjerne-nrk-lisensen
+redirect_from: "/issues/155-fjerne-nrk-lisensen"
 ---
 
 Alle som har TV må betale NRK-lisens. Inntektene fra lisensen går til å finansiere NRK som reklamefri allmennkringkaster. Motstandere av lisensen mener den er konkurransevridende, og at det er feil å kreve lisens hvis man ikke ser ser eller hører på NRKs kanaler. Denne saken handler om å fjerne lisensen.

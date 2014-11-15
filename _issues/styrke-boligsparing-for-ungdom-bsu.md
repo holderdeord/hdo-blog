@@ -5,6 +5,7 @@ tags:
 - bolig
 - skatter og avgifter
 slug: styrke-boligsparing-for-ungdom-bsu
+redirect_from: "/issues/12-styrke-boligsparing-for-ungdom-bsu"
 ---
 
 Boligsparing for ungdom (BSU) gir i dag ungdom under 34 år skattefradrag for å spare til egen bolig. Forslag til å forbedre ordningen handler å øke fradragene eller høyne grensen for hvor mye man kan spare.

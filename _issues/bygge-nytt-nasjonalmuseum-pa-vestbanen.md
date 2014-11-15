@@ -5,6 +5,7 @@ tags:
 - kultur
 - kunst
 slug: bygge-nytt-nasjonalmuseum-pa-vestbanen
+redirect_from: "/issues/277-bygge-nytt-nasjonalmuseum-pa-vestbanen"
 ---
 
 Siden 2004 har det pågått en prosess for å bygge et nytt Nasjonalmuseum. Samlingene i tre av de fire visningsstedene Nasjonalmuseet i dag disponerer er planlagt flyttet til et nytt bygg på Vestbanen i Oslo. Debatten har handlet både om hvorvidt det skal bygges et helt nytt bygg, og om fremtiden til Nasjonalgalleriet, et av dagens fire visningssteder, etter samlokaliseringen.

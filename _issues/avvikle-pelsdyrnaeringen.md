@@ -4,6 +4,7 @@ title: Avvikle pelsdyrnæringen
 tags:
 - landbruk og fiskeri
 slug: avvikle-pelsdyrnaeringen
+redirect_from: "/issues/50-avvikle-pelsdyrnaeringen"
 ---
 
 I dag drives rundt tre hundre pelsdyrfarmer i Norge. Kritikkverdige forhold med tanke på dyrevelferd har blitt avdekket på flere av farmene, og dette har skapt debatt. Denne saken omhandler avstemninger for å avvikle denne næringen.

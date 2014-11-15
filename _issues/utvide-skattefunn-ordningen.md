@@ -6,6 +6,7 @@ tags:
 - næringsliv
 - skatter og avgifter
 slug: utvide-skattefunn-ordningen
+redirect_from: "/issues/233-utvide-skattefunn-ordningen"
 ---
 
 SkatteFUNN er en ordning der bedrifter kan søke om godkjenning av forsknings- eller

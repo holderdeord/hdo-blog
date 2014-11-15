@@ -6,6 +6,7 @@ tags:
 - olje
 - klima
 slug: elektrifisere-sokkelen
+redirect_from: "/issues/252-elektrifisere-sokkelen"
 ---
 
 De fleste olje- og gassplattformer på norsk sokkel drives i dag med strøm produsert av gassturbiner.  Elektrifisering av sokkelen innebærer å bygge kabler fra land for å forsyne plattformene med utslippsfri kraft, i hovedsak ved nye utbygginger. Imidlertid er det uenighet om effekten av dette tiltaket, og hvor omfattende bruken av utslippsfri kraft skal være.

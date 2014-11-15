@@ -5,6 +5,7 @@ tags:
 - moms
 - folkehelse
 slug: fjerne-moms-pa-frukt-og-gront
+redirect_from: "/issues/143-fjerne-moms-pa-frukt-og-gront"
 ---
 
 Merverdiavgift eller moms er en avgift som betales ved omsetning av de fleste varer og tjenester. Å fjerne eller redusere moms på salg av frukt og grønt har blitt foreslått som et ledd i å bedre folkehelsa, ved at sunn mat blir billigere.
