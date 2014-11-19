@@ -137,6 +137,7 @@ abbr {
   color: #555;
   text-transform: uppercase;
 }
+
 abbr[title] {
   cursor: help;
   border-bottom: 1px dotted #e5e5e5;
@@ -361,6 +362,10 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   color: #9a9a9a;
 
+}
+
+i {
+  margin: 0 0.2rem;
 }
 
 .post-byline a { text-decoration: none; }
