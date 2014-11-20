@@ -26,4 +26,5 @@ github:
   repo:           https://github.com/holderdeord/hdo-blog
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
