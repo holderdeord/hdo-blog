@@ -1,6 +1,4 @@
-# hdo-blog
-
-http://blog.holderdeord.no/
+# [hdo-blog](http://blog.holderdeord.no/)
 
 ## Usage
 
