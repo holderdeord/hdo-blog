@@ -11,7 +11,7 @@ paginate_path:    "page/:num"
 baseurl:          "/"
 author:
   name:           Holder de ord
-  url:            https://holderdeord.no/
+  url:            https://www.holderdeord.no/
   twitter:        holderdeord
   email:          kontakt@holderdeord.no
 collections:
