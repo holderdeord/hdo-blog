@@ -22,6 +22,7 @@ collections:
 # Custom vars
 markdown:         kramdown # same as github pages
 version:          0.0.1
+exclude: [vendor]
 github:
   repo:           https://github.com/holderdeord/hdo-blog
 gems:
