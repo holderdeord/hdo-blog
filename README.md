@@ -1,4 +1,4 @@
-# [hdo-blog](http://blog.holderdeord.no/)
+# [hdo-blog](http://blog.holderdeord.no/) [![Build Status](https://travis-ci.org/holderdeord/hdo-blog.svg?branch=gh-pages)](https://travis-ci.org/holderdeord/hdo-blog)
 
 ## Usage
 
