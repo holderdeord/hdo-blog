@@ -4,4 +4,3 @@ av
   {% assign author = site.data.authors[name] %}
   {% if author %}<a href="mailto:{{ author.email }}">{{ name }}</a>{% else %}{{ name }}{% endif %}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex == 2 %} og {% endif %}
 {% endfor %}
-<a href="{{ site.github.repo }}/edit/gh-pages/{{ post.path }}{{ include.path }}"><i class="fa fa-pencil"></i>rediger</a></span>
