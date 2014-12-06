@@ -15,7 +15,7 @@ tags:
 
 Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge. 
 
-Vi tok utgangspunkt i de 30 største avisene i Norge, basert på [opplagstall fra 2013][1]. I tillegg ble [Stortingets datatjeneste][2] i høst oppdatert med referater på et format som er egnet for maskinell behandling. Referatene går fra høsten 2008 til dagens dato. Ikke overraskende er det avisene med størst opplag som kommer best ut i absolutte tall:
+Vi tok utgangspunkt i de 30 største avisene, basert på [opplagstall fra 2013][1]. Tidligere i høst ble [Stortingets datatjeneste][2] oppdatert med referater på et format som er egnet for maskinell behandling. Referatene går fra høsten 2008 til dags dato, og vi har søkt gjennom disse for å finne ut hvor ofte hver  aktør nevnes. Ikke overraskende er det i stor grad avisene med størst opplag som kommer best ut i absolutte tall:
 
 <pre>
 |---------------------------+---------+---------|
@@ -91,18 +91,21 @@ Hvis vi i stedet normaliserer for opplagstall, blir resultatet ganske annerledes
 |---------------------------+---------+--------+----------|
 </pre>
 
-I en lignende undersøkelse av TV-kanalene er NRK en ubestridt vinner. Dette bildet er sannsynligvis noe skjevt siden statskanalen ofte debatteres på Stortinget som et tema i seg selv, noe vi ikke har undersøkt i detalj. I stedet for opplagstall, har vi vurdert dette opp mot [gjennomsnittelig seertid per døgn i 2013][3]:
+I en lignende undersøkelse av TV-kanalene er NRK en ubestridt vinner. Dette bildet er sannsynligvis noe skjevt siden statskanalen ofte debatteres på Stortinget som et tema i seg selv. I stedet for opplagstall, har vi vurdert dette opp mot [gjennomsnittelig seertid per døgn i 2013][3]:
 
 <pre>
-|----------+---------+-------+------------------|
-|  Kanal    | Sitert | Tid   | Ratio            |
-|----------+---------+-------+------------------|
-|  NRK     | 1345    | 69    | 01:0.05          |
-|  TV2     | 19      | 43    | 01:2.26          |
-|  TVNorge | 3       | 13    | 01:4.33          |
-|-----------------------------------------------|
+|----------+---------+-------+-----------|
+|  Kanal    | Sitert | Tid   | Ratio     |
+|----------+---------+-------+-----------|
+|  NRK     | 1345    | 69    | 1:0.05    |
+|  TV2     | 19      | 43    | 1:2.26    |
+|  TVNorge | 3       | 13    | 1:4.33    |
+|----------------------------------------|
 </pre>
 
+* TODO: brutt på parti
+* TODO: brutt på tid/sesjon
+* TODO: lenke til rådata i Google Docs
 
 [1]: http://medienorge.uib.no/?cat=statistikk&page=avis&queryID=190
 [2]: http://data.stortinget.no/
