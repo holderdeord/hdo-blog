@@ -15,48 +15,7 @@ tags:
 
 Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge. 
 
-Vi tok utgangspunkt i de 30 største avisene i Norge, basert på [opplagstall fra 2013][1]. I tillegg ble [Stortingets datatjeneste][2] i høst oppdatert med alle referater fra 2009 til dagens dato på et format som er egnet for maskinell behandling. Ikke overraskende er det avisene med størst opplag som kommer best ut i absolutte tall:
-
-<pre>
-TODO: Graf.
-
-|---------------------------+----------|
-|  Avis                     | Sitert   |
-|---------------------------+----------|
-|  Aftenposten              | 872      |
-|  VG                       | 493      |
-|  Dagens Næringsliv        | 414      |
-|  Dagbladet                | 297      |
-|  Dagsavisen               | 240      |
-|  Bergens Tidende          | 164      |
-|  Klassekampen             | 108      |
-|  Vårt Land                | 85       |
-|  Adresseavisen            | 84       |
-|  Stavanger Aftenblad      | 84       |
-|  Nordlys                  | 49       |
-|  Finansavisen             | 48       |
-|  Sunnmørsposten           | 34       |
-|  Trønder-Avisa            | 34       |
-|  Fædrelandsvennen         | 24       |
-|  Romerikes Blad           | 22       |
-|  Drammens Tidende         | 16       |
-|  Telemarksavisa           | 16       |
-|  Haugesunds Avis          | 15       |
-|  Hamar Arbeiderblad       | 14       |
-|  Tønsbergs Blad           | 13       |
-|  Budstikka                | 12       |
-|  Fredriksstad Blad        | 10       |
-|  Morgenbladet             | 9        |
-|  Agderposten              | 9        |
-|  Avisa Nordland           | 8        |
-|  Oppland Arbeiderblad     | 6        |
-|  Varden                   | 6        |
-|  Gudbrandsdølen Dagningen | 1        |
-|---------------------------+----------|
-</pre>
-
-
-
+Vi tok utgangspunkt i de 30 største avisene i Norge, basert på [opplagstall fra 2013][1]. I tillegg ble [Stortingets datatjeneste][2] i høst oppdatert med referater på et format som er egnet for maskinell behandling. Referatene går fra høsten 2008 til dagens dato. Ikke overraskende er det avisene med størst opplag som kommer best ut i absolutte tall:
 
 <pre>
 |---------------------------+---------+---------|
@@ -97,8 +56,6 @@ TODO: Graf.
 Hvis vi i stedet normaliserer for opplagstall, blir resultatet ganske annerledes. Mens VG må trykke 333 aviser for hver gang de nevnes i stortingssalen, må Dagsavisen kun trykke 96 aviser.
 
 <pre>
-TODO: graf
-
 |---------------------------+---------+--------+----------|
 |  Avis                     | Sitert  | Opplag | Ratio    |
 |---------------------------+---------+--------+----------|
@@ -134,5 +91,19 @@ TODO: graf
 |---------------------------+---------+--------+----------|
 </pre>
 
+I en lignende undersøkelse av TV-kanalene er NRK en ubestridt vinner. Dette bildet er sannsynligvis noe skjevt siden statskanalen ofte debatteres på Stortinget som et tema i seg selv, noe vi ikke har undersøkt i detalj. I stedet for opplagstall, har vi vurdert dette opp mot [gjennomsnittelig seertid per døgn i 2013][3]:
+
+<pre>
+|----------+---------+-------+------------------|
+|  Kanal    | Sitert | Tid   | Ratio            |
+|----------+---------+-------+------------------|
+|  NRK     | 1345    | 69    | 01:0.05          |
+|  TV2     | 19      | 43    | 01:2.26          |
+|  TVNorge | 3       | 13    | 01:4.33          |
+|-----------------------------------------------|
+</pre>
+
+
 [1]: http://medienorge.uib.no/?cat=statistikk&page=avis&queryID=190
 [2]: http://data.stortinget.no/
+[3]: http://www.medienorge.uib.no/statistikk/medium/tv/219
