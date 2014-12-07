@@ -20,7 +20,6 @@ Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert
 * TODO: eksempler fra spørretimen: VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i [spørretimen den 12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å få statsministeren til å snakke om mobbing.
 * TODO: blir innholdet mer aktuelt med tall fra 2013-2014 først, deretter en historisk oversikt, graf over utvikling?
 
-
 Tidligere i høst ble [Stortingets datatjeneste][2] oppdatert med referater på et format som er egnet for maskinell behandling, noe som har vært på vår [ønskeliste en stund](http://blog.holderdeord.no/2013/10/24/nskeliste-til-stortinget/). Foreløpig har de lagt ut referater fra høsten 2008 til dags dato. Vi tok utgangspunkt i de 30 største avisene, basert på [opplagstall fra 2013][1], og har søkt gjennom referatene for å finne ut hvor ofte hver avis nevnes. Ikke overraskende er det i stor grad avisene med størst opplag som kommer best ut i absolutte tall:
 
 <pre>
