@@ -13,7 +13,6 @@ tags:
 - referat
 ---
 
-
 Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.
 
 Mediene har i det norske demokratiet en betydelig innflytelse over hvilke saker som opptar befolkningen.
