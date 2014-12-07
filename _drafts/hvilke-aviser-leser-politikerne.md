@@ -16,6 +16,8 @@ tags:
 
 Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.
 
+Mediene har i det norske demokratiet en betydelig innflytelse over hvilke saker som opptar befolkningen.
+
 * TODO: par linjer om at medieoppslag ofte setter dagsorden på stortinget, ikke minst i spørretimen
 * TODO: eksempler fra spørretimen: VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i [spørretimen den 12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å få statsministeren til å snakke om mobbing.
 * TODO: blir innholdet mer aktuelt med tall fra 2013-2014 først, deretter en historisk oversikt, graf over utvikling?
