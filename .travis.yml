@@ -2,7 +2,9 @@ language: ruby
 cache: bundler
 rvm:
 - 2.1
-script: bundle exec jekyll build --drafts && htmlproof --href_ignore http://www.dagsavisen.no/samfunn/er-ikke-blitt-mer-enige-pa-fire-ar/,http://www.dagsavisen.no/samfunn/stortinget-glemte-rullestolstemme/ ./_site
+script:
+- bundle exec jekyll build --drafts
+- bundle exec htmlproof ./_site --href_ignore http://www.dagsavisen.no/samfunn/er-ikke-blitt-mer-enige-pa-fire-ar/,http://www.dagsavisen.no/samfunn/stortinget-glemte-rullestolstemme/
 branches:
   only:
   - gh-pages
