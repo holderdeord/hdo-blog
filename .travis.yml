@@ -2,10 +2,15 @@ language: ruby
 cache: bundler
 rvm:
 - 2.1
-script: "bundle exec jekyll build && bundle exec htmlproof ./_site"
+script: bundle exec jekyll build --drafts && htmlproof --href_ignore http://www.dagsavisen.no/samfunn/er-ikke-blitt-mer-enige-pa-fire-ar/,http://www.dagsavisen.no/samfunn/stortinget-glemte-rullestolstemme/ ./_site
 branches:
   only:
-  - gh-pages  
+  - gh-pages
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+notifications:
+  webhooks: http://deploy.holderdeord.no/travis
+  hipchat:
+    rooms:
+      secure: PHAQPD3XVi3YvNCCQTJBKYcGSXNeJF0tsLjg0OjzxBX76qHp+tL+m462mox9AIvltpR/hYtJFqswM5Xogt7Wx1w7UuLWzhYwothjyZmWy6Ap8uAW33xG3euNHgO4cryBHNEl0o+vX1p8kJpl4UlzObqGs0T2JJ3vumHpU8GPwuw=
