@@ -47,7 +47,7 @@ TODO: se på i forhold til budsjett framfor opplag?
 
 ### Politisk farge
 
-Selv om medienes partipolitiske tilknytning i dag langt på vei er visket ut, kan vi likevel se konturene av politisk farge i hvem som bruker hvilke kilder i debatten på Stortinget. X siterer for eksempel Y dobbelt så ofte som Z, mens A og B er nesten helt alene om å nevne C.
+<!-- Selv om medienes partipolitiske tilknytning i dag langt på vei er visket ut, kan vi likevel se konturene av politisk farge i hvem som bruker hvilke kilder i debatten på Stortinget. X siterer for eksempel Y dobbelt så ofte som Z, mens A og B er nesten helt alene om å nevne C. -->
 
 Hvilke partier siterer hvilke aviser?
 
