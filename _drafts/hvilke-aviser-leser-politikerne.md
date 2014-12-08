@@ -4,115 +4,64 @@ title: Hvilke aviser leser politikerne?
 date: '2015-01-01T23:59:59.000+01:00'
 authors:
 - Jari Bakken
+visualization: true
 tags:
 - presse
 - media
 - journalistikk
 - aviser
 - stortinget
-- referat
+- referater
 ---
 
 Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.
 
-Mediene har i det norske demokratiet en betydelig innflytelse over hvilke saker som opptar befolkningen.
+### Medienes dagsordenfunksjon
 
-* TODO: par linjer om at medieoppslag ofte setter dagsorden på stortinget, ikke minst i spørretimen
-* TODO: eksempler fra spørretimen: VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i [spørretimen den 12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å få statsministeren til å snakke om mobbing.
-* TODO: blir innholdet mer aktuelt med tall fra 2013-2014 først, deretter en historisk oversikt, graf over utvikling?
+Når mediene styrer hvilket utsnitt av verden vi ser, definerer de også hva både befolkning og politikere skal bry seg om – og hva vi ikke skal bry oss om. For dagens politikere er det umulig å neglisjere pressens dagsorden uten at det straffer seg. Godt medietekke er helt nødvendig for å posisjonere seg politisk.
 
-Tidligere i høst ble [Stortingets datatjeneste][2] oppdatert med referater på et format som er egnet for maskinell behandling, noe som har vært på vår [ønskeliste en stund](http://blog.holderdeord.no/2013/10/24/nskeliste-til-stortinget/). Foreløpig har de lagt ut referater fra høsten 2008 til dags dato. Vi tok utgangspunkt i de 30 største avisene, basert på [opplagstall fra 2013][1], og har søkt gjennom referatene for å finne ut hvor ofte hver avis nevnes. Ikke overraskende er det i stor grad avisene med størst opplag som kommer best ut i absolutte tall:
+Det norske pressekorpset etter krigen var ekstremt politisert. Det var ikke uvanlig med en helt utilslørt partipolitisk tilknytning, hvor en sjefsredaktør også satt i sentralstyret i et parti. Journalistene identifiserte seg med makten, og utfordret i liten grad den dagsorden som de politiske institusjonene hadde satt.
 
-<pre>
-|---------------------------+---------+---------|
-|  Avis                     | Sitert  | Opplag  |
-|---------------------------+---------+---------|
-|  Aftenposten              | 872     | 214026  |
-|  VG                       | 493     | 164430  |
-|  Dagens Næringsliv        | 414     | 80595   |
-|  Dagbladet                | 297     | 80028   |
-|  Dagsavisen               | 240     | 23065   |
-|  Bergens Tidende          | 164     | 73470   |
-|  Klassekampen             | 108     | 17648   |
-|  Vårt Land                | 85      | 23682   |
-|  Adresseavisen            | 84      | 67325   |
-|  Stavanger Aftenblad      | 84      | 59262   |
-|  Nordlys                  | 49      | 21902   |
-|  Finansavisen             | 48      | 24742   |
-|  Sunnmørsposten           | 34      | 27460   |
-|  Trønder-Avisa            | 34      | 20681   |
-|  Fædrelandsvennen         | 24      | 34845   |
-|  Romerikes Blad           | 22      | 27951   |
-|  Drammens Tidende         | 16      | 29124   |
-|  Telemarksavisa           | 16      | 19173   |
-|  Haugesunds Avis          | 15      | 24073   |
-|  Hamar Arbeiderblad       | 14      | 23231   |
-|  Tønsbergs Blad           | 13      | 24544   |
-|  Budstikka                | 12      | 22299   |
-|  Fredriksstad Blad        | 10      | 18801   |
-|  Morgenbladet             | 9       | 29337   |
-|  Agderposten              | 9       | 19853   |
-|  Avisa Nordland           | 8       | 19894   |
-|  Oppland Arbeiderblad     | 6       | 23645   |
-|  Varden                   | 6       | 21476   |
-|  Gudbrandsdølen Dagningen | 1       | 23077   |
-|---------------------------+---------+---------|
-</pre>
+Selv om pressen ikke lenger har en direkte kobling til partier og politiske institusjoner, er den redaksjonelle friheten under press fra kommersielle eiere med strenge krav til inntjening. Produktet rettes inn mot eiernes forventninger, som har overtatt partienes rolle i valg av redaktører og journalistiske rammebetingelser. Løsrivelsen kan føre til en mer maktkritisk presse, men med en blindsone for egne eieres makt og interesser.
 
-Hvis vi i stedet normaliserer for opplagstall, blir resultatet ganske annerledes. Mens VG må trykke 333 aviser for hver gang de nevnes i stortingssalen, må Dagsavisen kun trykke 96 aviser.
 
-<pre>
-|---------------------------+---------+--------+----------|
-|  Avis                     | Sitert  | Opplag | Ratio    |
-|---------------------------+---------+--------+----------|
-|  Dagsavisen               | 240     | 23065  | 1:96     |
-|  Klassekampen             | 108     | 17648  | 1:163    |
-|  Dagens Næringsliv        | 414     | 80595  | 1:194    |
-|  Aftenposten              | 872     | 214026 | 1:245    |
-|  Dagbladet                | 297     | 80028  | 1:269    |
-|  Vårt Land                | 85      | 23682  | 1:278    |
-|  VG                       | 493     | 164430 | 1:333    |
-|  Nordlys                  | 49      | 21902  | 1:446    |
-|  Bergens Tidende          | 164     | 73470  | 1:447    |
-|  Finansavisen             | 48      | 24742  | 1:515    |
-|  Trønder-Avisa            | 34      | 20681  | 1:608    |
-|  Stavanger Aftenblad      | 84      | 59262  | 1:705    |
-|  Adresseavisen            | 84      | 67325  | 1:801    |
-|  Sunnmørsposten           | 34      | 27460  | 1:807    |
-|  Telemarksavisa           | 16      | 19173  | 1:1198   |
-|  Romerikes Blad           | 22      | 27951  | 1:1270   |
-|  Fædrelandsvennen         | 24      | 34845  | 1:1451   |
-|  Haugesunds Avis          | 15      | 24073  | 1:1604   |
-|  Hamar Arbeiderblad       | 14      | 23231  | 1:1659   |
-|  Drammens Tidende         | 16      | 29124  | 1:1820   |
-|  Budstikka                | 12      | 22299  | 1:1858   |
-|  Fredriksstad Blad        | 10      | 18801  | 1:1880   |
-|  Tønsbergs Blad           | 13      | 24544  | 1:1888   |
-|  Agderposten              | 9       | 19853  | 1:2205   |
-|  Avisa Nordland           | 8       | 19894  | 1:2486   |
-|  Morgenbladet             | 9       | 29337  | 1:3259   |
-|  Varden                   | 6       | 21476  | 1:3579   |
-|  Oppland Arbeiderblad     | 6       | 23645  | 1:3940   |
-|  Gudbrandsdølen Dagningen | 1       | 23077  | 1:23077  |
-|---------------------------+---------+--------+----------|
-</pre>
+Medienes evne til å sette dagsorden, får ikke minst utslag i Stortingets spørretime, hvor statsrådene jevnlig konfronteres med aktuelle medieoppslag. VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i spørretimen [12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å spørre [Erna Solberg](http://www.holderdeord.no/representatives/es) hva hun tenker om mobbing. - Jeg tror vi alle er dypt berørt over oppslagene i VG knyttet til Odin, svarte statsministeren.
 
-I en lignende undersøkelse av TV-kanalene er NRK en ubestridt vinner. Dette bildet er sannsynligvis noe skjevt siden statskanalen ofte debatteres på Stortinget som et tema i seg selv. I stedet for opplagstall, har vi vurdert dette opp mot [gjennomsnittelig seertid per døgn i 2013][3]:
+### Referater
 
-<pre>
-|----------+---------+-------+-----------|
-|  Kanal    | Sitert | Tid   | Ratio     |
-|----------+---------+-------+-----------|
-|  NRK     | 1345    | 69    | 1:0.05    |
-|  TV2     | 19      | 43    | 1:2.26    |
-|  TVNorge | 3       | 13    | 1:4.33    |
-|----------------------------------------|
-</pre>
+Tidligere i høst ble [Stortingets datatjeneste][2] oppdatert med referater på et format som er egnet for maskinell behandling, noe som lenge har vært på [vår ønskeliste]({% post_url 2013-10-24-nskeliste-til-stortinget %}). Her finner vi i skrivende stund referater fra alle plenumsmøter tilbake til høsten 2008.
 
-* TODO: brutt på parti
-* TODO: brutt på tid/sesjon
-* TODO: lenke til rådata i Google Docs
+Med utgangspunkt i de 30 største avisene basert på [opplagstall fra 2013][1], har vi søkt gjennom referatene for å finne ut hvor ofte hver avis nevnes. Ikke overraskende er det i stor grad avisene med størst opplag som kommer best ut i absolutte tall:
+
+<figure id="hvilke-aviser-leser-politikerne-totals"></figure>
+<figcaption>Aviser nevnt i stortingsdebatter, oktober 2008 - november 2014</figcaption>
+
+Men om vi heller sorterer listen etter antall sitater per trykte avis, endrer bildet seg:
+
+<div id="hvilke-aviser-leser-politikerne-normalized"></div>
+<figcaption>Aviser nevnt i stortingsdebatter per trykte avis i 2013, oktober 2008 - november 2014</figcaption>
+
+Dagsavisen klatrer fra 5. til 1. plass, Klassekampen fra 7. til 2. plass. Dette er aviser som ligger på X. og X. plass i mottak av pressestøtte. Mens VG må trykke 341 aviser for hver gang de nevnes i stortingssalen, må Dagsavisen kun trykke 96. Kan det være et tegn på skattebetalerne faktisk får valuta for pengene sine, og at pressestøttemottakerne i større grad enn andre informerer den parlamentariske debatten?
+
+TODO: se på i forhold til budsjett framfor opplag?
+
+### Politisk farge
+
+Selv om medienes partipolitiske tilknytning i dag langt på vei er visket ut, kan vi likevel se konturene av politisk farge i hvem som bruker hvilke kilder i debatten på Stortinget. X siterer for eksempel Y dobbelt så ofte som Z, mens A og B er nesten helt alene om å nevne C.
+
+Hvilke partier siterer hvilke aviser?
+
+<div id="hvilke-aviser-leser-politikerne-by-party"></div>
+<figcaption>Antall ganger nevnt per parti</figcaption>
+
+### Utvikling over tid
+
+<div id="hvilke-aviser-leser-politikerne-by-year"></div>
+<figcaption>Antall ganger nevnt år for år</figcaption>
+
+Data brukt i denne artikkelen er tilgjengelig [her](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
 
 [1]: http://medienorge.uib.no/?cat=statistikk&page=avis&queryID=190
 [2]: http://data.stortinget.no/
-[3]: http://www.medienorge.uib.no/statistikk/medium/tv/219
+
+<style>.hvilke-aviser-leser-politikerne .c3-tooltip th { color: #111; }</style>

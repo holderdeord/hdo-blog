@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="post">
+<article class="post {{ page.title | slugify }}">
   <h1 class="post-title">{{ page.title }}</h1>
 
   <div class="post-byline">
@@ -24,13 +24,14 @@ layout: default
     </div>
   {% endfor %}
 </section>
+
 {% if page.comments %}
-<div id="disqus_thread" class="mhl"></div>
-<script type="text/javascript">
-(function() {
-var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-dsq.src = '//holderdeord.disqus.com/embed.js';
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+   <div id="disqus_thread" class="mhl"></div>
+   <script type="text/javascript">
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//holderdeord.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);})();
+   </script>
+   <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}

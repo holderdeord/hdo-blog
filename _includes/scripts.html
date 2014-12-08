@@ -1,4 +1,5 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment-with-locales.min.js"></script>
+
 <script>
  moment.locale('nb');
 
@@ -8,3 +9,10 @@
    el.childNodes[0].data = moment(el.getAttribute('datetime')).format('LL');
  }
 </script>
+
+{% if page.visualization %}
+  <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.min.js"></script>
+  <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/c3/0.3.0/c3.min.js"></script> -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/c3/0.3.0/c3.js"></script>
+  <script src="/public/js/{{ page.title | slugify }}.js"></script>
+{% endif %}
