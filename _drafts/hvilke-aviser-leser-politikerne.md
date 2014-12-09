@@ -17,17 +17,23 @@ tags:
 
 Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.
 
-### Medienes dagsordenfunksjon
+<select class="order" style="float: right; margin: 0;"><option value="name">Navn</option><option value="prints">Opplag</option></select>
+
+<div class="matrix"></div>
+
+<figcaption class="matrix-caption"></figcaption>
+
+#### Medienes dagsordenfunksjon
 
 Når mediene styrer hvilket utsnitt av verden vi ser, definerer de også hva både befolkning og politikere skal bry seg om – og hva vi ikke skal bry oss om. For dagens politikere er det umulig å neglisjere pressens dagsorden uten at det straffer seg. Godt medietekke er helt nødvendig for å posisjonere seg politisk.
 
 Det norske pressekorpset etter krigen var ekstremt politisert. Det var ikke uvanlig med en helt utilslørt partipolitisk tilknytning, hvor en sjefsredaktør også satt i sentralstyret i et parti. Journalistene identifiserte seg med makten, og utfordret i liten grad den dagsorden som de politiske institusjonene hadde satt.
 
-Selv om pressen ikke lenger har en direkte kobling til partier og politiske institusjoner, er den redaksjonelle friheten under press fra kommersielle eiere med strenge krav til inntjening. Produktet rettes inn mot eiernes forventninger, som har overtatt partienes rolle i valg av redaktører og journalistiske rammebetingelser. Løsrivelsen kan føre til en mer maktkritisk presse, men med en blindsone for egne eieres makt og interesser.
+Selv om pressen ikke lenger har en direkte kobling til partier og politiske institusjoner, er den redaksjonelle friheten under press fra kommersielle eiere med strenge krav til inntjening. Medieproduktene innrettes mot eiernes forventninger, som har overtatt partienes rolle i valg av redaktører og journalistiske rammebetingelser. Løsrivelsen kan føre til en mer maktkritisk presse, men med en blindsone for egne eieres makt og interesser.
 
 Medienes evne til å sette dagsorden får ikke minst utslag i Stortingets spørretime, hvor statsrådene jevnlig konfronteres med aktuelle medieoppslag. VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i spørretimen [12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å spørre [Erna Solberg](http://www.holderdeord.no/representatives/es) hva hun tenker om mobbing. - Jeg tror vi alle er dypt berørt over oppslagene i VG knyttet til Odin, svarte statsministeren.
 
-### Referater
+#### Referater
 
 Tidligere i høst ble [Stortingets datatjeneste][2] oppdatert med referater på et format som er egnet for maskinell behandling, noe som lenge har vært på [vår ønskeliste]({% post_url 2013-10-24-nskeliste-til-stortinget %}). Her finner vi i skrivende stund referater fra alle plenumsmøter tilbake til høsten 2008.
 
@@ -45,15 +51,13 @@ Her er det påfallende klatring på listen blant de topp tre mottakerne av medie
 
 TODO: se på i forhold til budsjett framfor opplag?
 
-### Topp 10 avislesende representanter
+#### Topp 10 avislesende representanter
 
 Her er topplista over representanter som oftest har nevnt aviser i sine innlegg på Stortingets talerstol de siste 6 årene:
 
-### Politisk farge / utvikling over tid
+#### Politisk farge / utvikling over tid
 
 Nedenfor kan du utforske datasettet brutt på tid og parti. Du kan også [laste ned rådataene](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
-
-<div class="matrix"></div>
 
 <select id="hvilke-aviser-leser-politikerne-party-selector">
 <option>Adresseavisen</option><option>Aftenposten</option><option>Agderposten</option><option>Avisa Nordland</option><option>Bergens Tidende</option><option>Budstikka</option><option>Dagbladet</option><option>Dagens Næringsliv</option><option>Dagsavisen</option><option>Drammens Tidende</option><option>Finansavisen</option><option>Fredriksstad Blad</option><option>Fædrelandsvennen</option><option>Gudbrandsdølen Dagn.</option><option>Hamar Arbeiderblad</option><option>Haugesunds Avis</option><option>Klassekampen</option><option>Morgenbladet</option><option>Nordlys</option><option>Oppland Arbeiderblad</option><option>Romerikes Blad</option><option>Stavanger Aftenblad</option><option>Sunnmørsposten</option><option>Telemarksavisa</option><option>Trønder-Avisa</option><option>Tønsbergs Blad</option><option>VG</option><option>Varden</option><option>Vårt Land</option></select>
@@ -67,7 +71,7 @@ Nedenfor kan du utforske datasettet brutt på tid og parti. Du kan også [laste 
 <style>
 .hvilke-aviser-leser-politikerne .c3-tooltip th { color: #111; }
 .hvilke-aviser-leser-politikerne .matrix svg { font: 10px sans-serif; }
-.hvilke-aviser-leser-politikerne .matrix svg .background { fill: #eee; }
+.hvilke-aviser-leser-politikerne .matrix svg .background { fill: #efefef; }
 .hvilke-aviser-leser-politikerne .matrix svg line { stroke: #fff; }
 .hvilke-aviser-leser-politikerne .matrix svg text { font-size: 12; }
 .hvilke-aviser-leser-politikerne .matrix svg text.active { fill: red; }
