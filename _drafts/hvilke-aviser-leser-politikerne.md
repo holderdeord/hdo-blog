@@ -25,7 +25,7 @@ Det norske pressekorpset etter krigen var ekstremt politisert. Det var ikke uvan
 Selv om pressen ikke lenger har en direkte kobling til partier og politiske institusjoner, er den redaksjonelle friheten under press fra kommersielle eiere med strenge krav til inntjening. Produktet rettes inn mot eiernes forventninger, som har overtatt partienes rolle i valg av redaktører og journalistiske rammebetingelser. Løsrivelsen kan føre til en mer maktkritisk presse, men med en blindsone for egne eieres makt og interesser.
 
 
-Medienes evne til å sette dagsorden, får ikke minst utslag i Stortingets spørretime, hvor statsrådene jevnlig konfronteres med aktuelle medieoppslag. VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i spørretimen [12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å spørre [Erna Solberg](http://www.holderdeord.no/representatives/es) hva hun tenker om mobbing. - Jeg tror vi alle er dypt berørt over oppslagene i VG knyttet til Odin, svarte statsministeren.
+Medienes evne til å sette dagsorden får ikke minst utslag i Stortingets spørretime, hvor statsrådene jevnlig konfronteres med aktuelle medieoppslag. VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i spørretimen [12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å spørre [Erna Solberg](http://www.holderdeord.no/representatives/es) hva hun tenker om mobbing. - Jeg tror vi alle er dypt berørt over oppslagene i VG knyttet til Odin, svarte statsministeren.
 
 ### Referater
 
@@ -45,19 +45,15 @@ Dagsavisen klatrer fra 5. til 1. plass, Klassekampen fra 7. til 2. plass. Dette 
 
 TODO: se på i forhold til budsjett framfor opplag?
 
-### Politisk farge
+### Politisk farge / utvikling over tid
 
-<!-- Selv om medienes partipolitiske tilknytning i dag langt på vei er visket ut, kan vi likevel se konturene av politisk farge i hvem som bruker hvilke kilder i debatten på Stortinget. X siterer for eksempel Y dobbelt så ofte som Z, mens A og B er nesten helt alene om å nevne C. -->
+Bla bla.
 
-Hvilke partier siterer hvilke aviser?
+<select id="hvilke-aviser-leser-politikerne-party-selector">
+<option>Adresseavisen</option><option>Aftenposten</option><option>Agderposten</option><option>Avisa Nordland</option><option>Bergens Tidende</option><option>Budstikka</option><option>Dagbladet</option><option>Dagens Næringsliv</option><option>Dagsavisen</option><option>Drammens Tidende</option><option>Finansavisen</option><option>Fredriksstad Blad</option><option>Fædrelandsvennen</option><option>Gudbrandsdølen Dagn.</option><option>Hamar Arbeiderblad</option><option>Haugesunds Avis</option><option>Klassekampen</option><option>Morgenbladet</option><option>Nordlys</option><option>Oppland Arbeiderblad</option><option>Romerikes Blad</option><option>Stavanger Aftenblad</option><option>Sunnmørsposten</option><option>Telemarksavisa</option><option>Trønder-Avisa</option><option>Tønsbergs Blad</option><option>VG</option><option>Varden</option><option>Vårt Land</option></select>
 
 <div id="hvilke-aviser-leser-politikerne-by-party"></div>
-<figcaption>Antall ganger nevnt per parti</figcaption>
-
-### Utvikling over tid
-
 <div id="hvilke-aviser-leser-politikerne-by-year"></div>
-<figcaption>Antall ganger nevnt år for år</figcaption>
 
 Data brukt i denne artikkelen er tilgjengelig [her](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
 
