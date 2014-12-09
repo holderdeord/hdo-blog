@@ -5,6 +5,7 @@ date: '2015-01-01T23:59:59.000+01:00'
 authors:
 - Jari Bakken
 visualization: true
+comments: true
 tags:
 - presse
 - media
@@ -47,15 +48,14 @@ TODO: se på i forhold til budsjett framfor opplag?
 
 ### Politisk farge / utvikling over tid
 
-Bla bla.
+Nedenfor kan du utforske disse dataene brutt på tid og parti, og du kan også [laste ned rådataene](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
+
 
 <select id="hvilke-aviser-leser-politikerne-party-selector">
 <option>Adresseavisen</option><option>Aftenposten</option><option>Agderposten</option><option>Avisa Nordland</option><option>Bergens Tidende</option><option>Budstikka</option><option>Dagbladet</option><option>Dagens Næringsliv</option><option>Dagsavisen</option><option>Drammens Tidende</option><option>Finansavisen</option><option>Fredriksstad Blad</option><option>Fædrelandsvennen</option><option>Gudbrandsdølen Dagn.</option><option>Hamar Arbeiderblad</option><option>Haugesunds Avis</option><option>Klassekampen</option><option>Morgenbladet</option><option>Nordlys</option><option>Oppland Arbeiderblad</option><option>Romerikes Blad</option><option>Stavanger Aftenblad</option><option>Sunnmørsposten</option><option>Telemarksavisa</option><option>Trønder-Avisa</option><option>Tønsbergs Blad</option><option>VG</option><option>Varden</option><option>Vårt Land</option></select>
 
 <div id="hvilke-aviser-leser-politikerne-by-party"></div>
 <div id="hvilke-aviser-leser-politikerne-by-year"></div>
-
-Data brukt i denne artikkelen er tilgjengelig [her](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
 
 [1]: http://medienorge.uib.no/?cat=statistikk&page=avis&queryID=190
 [2]: http://data.stortinget.no/
