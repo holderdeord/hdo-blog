@@ -25,7 +25,6 @@ Det norske pressekorpset etter krigen var ekstremt politisert. Det var ikke uvan
 
 Selv om pressen ikke lenger har en direkte kobling til partier og politiske institusjoner, er den redaksjonelle friheten under press fra kommersielle eiere med strenge krav til inntjening. Produktet rettes inn mot eiernes forventninger, som har overtatt partienes rolle i valg av redaktører og journalistiske rammebetingelser. Løsrivelsen kan føre til en mer maktkritisk presse, men med en blindsone for egne eieres makt og interesser.
 
-
 Medienes evne til å sette dagsorden får ikke minst utslag i Stortingets spørretime, hvor statsrådene jevnlig konfronteres med aktuelle medieoppslag. VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i spørretimen [12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å spørre [Erna Solberg](http://www.holderdeord.no/representatives/es) hva hun tenker om mobbing. - Jeg tror vi alle er dypt berørt over oppslagene i VG knyttet til Odin, svarte statsministeren.
 
 ### Referater
@@ -42,14 +41,19 @@ Men om vi heller sorterer listen etter antall sitater per trykte avis, endrer bi
 <div id="hvilke-aviser-leser-politikerne-normalized"></div>
 <figcaption>Aviser nevnt i stortingsdebatter per trykte avis i 2013, oktober 2008 - november 2014</figcaption>
 
-Dagsavisen klatrer fra 5. til 1. plass, Klassekampen fra 7. til 2. plass. Dette er aviser som ligger på X. og X. plass i mottak av pressestøtte. Mens VG må trykke 341 aviser for hver gang de nevnes i stortingssalen, må Dagsavisen kun trykke 96. Kan det være et tegn på skattebetalerne faktisk får valuta for pengene sine, og at pressestøttemottakerne i større grad enn andre informerer den parlamentariske debatten?
+Her er det påfallende klatring på listen blant de topp tre mottakerne av mediestøtte: Vårt Land fra 10. til 6. plass, Klassekampen fra 7. til 2. plass, Dagsavisen fra 5. til 1. plass. Mens VG må trykke 341 aviser for hver gang de nevnes i stortingssalen, må Dagsavisen kun trykke 96. Kan det være et tegn på at skattebetalerne faktisk får valuta for pengene sine, og at pressestøttemottakerne i større grad enn andre informerer den parlamentariske debatten?
 
 TODO: se på i forhold til budsjett framfor opplag?
 
+### Topp 10 avislesende representanter
+
+Her er topplista over representanter som oftest har nevnt aviser i sine innlegg på Stortingets talerstol de siste 6 årene:
+
 ### Politisk farge / utvikling over tid
 
-Nedenfor kan du utforske disse dataene brutt på tid og parti, og du kan også [laste ned rådataene](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
+Nedenfor kan du utforske datasettet brutt på tid og parti. Du kan også [laste ned rådataene](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
 
+<div class="matrix"></div>
 
 <select id="hvilke-aviser-leser-politikerne-party-selector">
 <option>Adresseavisen</option><option>Aftenposten</option><option>Agderposten</option><option>Avisa Nordland</option><option>Bergens Tidende</option><option>Budstikka</option><option>Dagbladet</option><option>Dagens Næringsliv</option><option>Dagsavisen</option><option>Drammens Tidende</option><option>Finansavisen</option><option>Fredriksstad Blad</option><option>Fædrelandsvennen</option><option>Gudbrandsdølen Dagn.</option><option>Hamar Arbeiderblad</option><option>Haugesunds Avis</option><option>Klassekampen</option><option>Morgenbladet</option><option>Nordlys</option><option>Oppland Arbeiderblad</option><option>Romerikes Blad</option><option>Stavanger Aftenblad</option><option>Sunnmørsposten</option><option>Telemarksavisa</option><option>Trønder-Avisa</option><option>Tønsbergs Blad</option><option>VG</option><option>Varden</option><option>Vårt Land</option></select>
@@ -60,4 +64,16 @@ Nedenfor kan du utforske disse dataene brutt på tid og parti, og du kan også [
 [1]: http://medienorge.uib.no/?cat=statistikk&page=avis&queryID=190
 [2]: http://data.stortinget.no/
 
-<style>.hvilke-aviser-leser-politikerne .c3-tooltip th { color: #111; }</style>
+<style>
+.hvilke-aviser-leser-politikerne .c3-tooltip th { color: #111; }
+.hvilke-aviser-leser-politikerne .matrix svg { font: 10px sans-serif; }
+.hvilke-aviser-leser-politikerne .matrix svg .background { fill: #eee; }
+.hvilke-aviser-leser-politikerne .matrix svg line { stroke: #fff; }
+.hvilke-aviser-leser-politikerne .matrix svg text { font-size: 12; }
+.hvilke-aviser-leser-politikerne .matrix svg text.active { fill: red; }
+.hvilke-aviser-leser-politikerne .matrix svg .axis path, .hvilke-aviser-leser-politikerne .matrix svg .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+</style>
