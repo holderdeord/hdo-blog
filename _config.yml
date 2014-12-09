@@ -4,6 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Holder de ord
+description:      Lurer du på hva politikerne stemmer på Stortinget og lover i partiprogrammene? Følg opp dine folkevalgte her!
 tagline:          Blogg
 url:              http://blog.holderdeord.no
 paginate:         3
