@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Open graph and twitter card -->
+  <meta property="fb:app_id" content="504447209668308" />
   {% if page.title %}
   <title>{{ page.title }} &ndash; {{ site.title }}</title>
   <meta content="{{ page.title }}" property="og:title">
@@ -53,8 +54,7 @@
   <meta property="og:image" content="{{ site.url }}/images/logo.jpg">
   <meta name="twitter:image:src" content="{{ site.url }}/images/logo.jpg">
   {% endif %}
-  {% if page.tags %}
-  {% for tag in page.tags %}
+  {% if page.tags %}{% for tag in page.tags %}
   <meta property="article:tag" content="{{ tag }}">
   {% endfor %}
   {% endif %}
