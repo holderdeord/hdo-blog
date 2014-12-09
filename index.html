@@ -17,8 +17,10 @@ title: Home
     </div>
 
     <div class="post-content">
-      {{ post.content }}
+      {{ post.excerpt }} <a href="{{ post.url }}">Les mer</a>
     </div>
+
+
   </article>
   {% endfor %}
 </div>

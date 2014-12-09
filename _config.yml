@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Holder de ord
 tagline:          Blogg
 url:              http://blog.holderdeord.no
-paginate:         1
+paginate:         3
 paginate_path:    "page/:num"
 baseurl:          "/"
 author:
