@@ -189,8 +189,15 @@
     }
 
     function drawMatrix() {
-        var margin = {top: 80, right: 0, bottom: 10, left: 80},
-            width = 650;
+        var margin = {top: 80, right: 20, bottom: 10, left: 25};
+
+        var width = 650 - margin.left - margin.right;
+
+        if (window.innerWidth <= 650) {
+            width = window.innerWidth - margin.left - margin.right - 20;
+        }
+
+        console.log(width)
 
         var matrix     = [],
             colData    = papers.map(function (p) { return {name: p, group: 1, prints: prints[p] }; }),
@@ -212,13 +219,10 @@
 
         var height = x.rangeBand() * rowData.length;
 
-        console.log(x.rangeBand(), rowData.length, height);
-
         var svg = d3.select(".hvilke-aviser-leser-politikerne .matrix")
                 .append("svg")
                 .attr("width", width + margin.left + margin.right)
                 .attr("height", height + margin.top + margin.bottom)
-                .style("margin-left", -margin.left + "px")
                 .append("g")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -323,15 +327,12 @@
         }
 
         var i = 1;
+        var orderKeys = Object.keys(orders);
         var timeout = setTimeout(function() {
-            var orderKeys = Object.keys(orders);
             if (i == orderKeys.length) { i = 0; }
-
-            console.log("ordering by", orderKeys[i]);
             order(orderKeys[i]);
-
             i++;
-        }, 4000);
+        }, 3000);
     }
 
     drawMatrix();

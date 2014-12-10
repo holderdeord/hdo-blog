@@ -15,9 +15,9 @@ tags:
 - referater
 ---
 
-Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.
+**Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.**
 
-<select class="order" style="float: right; margin: 0;"><option value="name">Navn</option><option value="prints">Opplag</option></select>
+<small>Sorter etter: <select class="order"><option value="name">Navn</option><option value="prints">Opplag</option></select></small>
 
 <div class="matrix"></div>
 
@@ -25,13 +25,15 @@ Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert
 
 #### Medienes dagsordenfunksjon
 
-Når mediene styrer hvilket utsnitt av verden vi ser, definerer de også hva både befolkning og politikere skal bry seg om – og hva vi ikke skal bry oss om. For dagens politikere er det umulig å neglisjere pressens dagsorden uten at det straffer seg. Godt medietekke er helt nødvendig for å posisjonere seg politisk.
+Når mediene styrer hvilket utsnitt av verden vi ser, definerer de også hva både befolkning og politikere skal bry seg om – og hva de ikke skal bry oss om. For dagens politikere er det umulig å neglisjere pressens dagsorden uten at det straffer seg. Godt medietekke er helt nødvendig for å posisjonere seg politisk.
 
-Det norske pressekorpset etter krigen var ekstremt politisert. Det var ikke uvanlig med en helt utilslørt partipolitisk tilknytning, hvor en sjefsredaktør også satt i sentralstyret i et parti. Journalistene identifiserte seg med makten, og utfordret i liten grad den dagsorden som de politiske institusjonene hadde satt.
+Medienes evne til å sette dagsorden får ikke minst utslag i Stortingets spørretime, hvor statsrådene jevnlig konfronteres med aktuelle medieoppslag. VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i spørretimen [12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å spørre [Erna Solberg](http://www.holderdeord.no/representatives/es) hva hun tenker om mobbing.
+
+> Jeg tror vi alle er dypt berørt over oppslagene i VG knyttet til Odin, svarte statsministeren.
+
+Sånn har det ikke alltid vært. I etterkrigstiden av det norske pressekorpset ekstremt politisert, ofte med en helt utilslørt partipolitisk tilknytning. En sjefsredaktør kunne gjerne sitte i sentralstyret til i et politisk parti. Journalistene identifiserte seg med makten, og utfordret i liten grad den dagsorden som de politiske institusjonene hadde satt.
 
 Selv om pressen ikke lenger har en direkte kobling til partier og politiske institusjoner, er den redaksjonelle friheten under press fra kommersielle eiere med strenge krav til inntjening. Medieproduktene innrettes mot eiernes forventninger, som har overtatt partienes rolle i valg av redaktører og journalistiske rammebetingelser. Løsrivelsen kan føre til en mer maktkritisk presse, men med en blindsone for egne eieres makt og interesser.
-
-Medienes evne til å sette dagsorden får ikke minst utslag i Stortingets spørretime, hvor statsrådene jevnlig konfronteres med aktuelle medieoppslag. VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i spørretimen [12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å spørre [Erna Solberg](http://www.holderdeord.no/representatives/es) hva hun tenker om mobbing. - Jeg tror vi alle er dypt berørt over oppslagene i VG knyttet til Odin, svarte statsministeren.
 
 #### Referater
 
@@ -49,15 +51,26 @@ Men om vi heller sorterer listen etter antall sitater per trykte avis, endrer bi
 
 Her er det påfallende klatring på listen blant de topp tre mottakerne av mediestøtte: Vårt Land fra 10. til 6. plass, Klassekampen fra 7. til 2. plass, Dagsavisen fra 5. til 1. plass. Mens VG må trykke 341 aviser for hver gang de nevnes i stortingssalen, må Dagsavisen kun trykke 96. Kan det være et tegn på at skattebetalerne faktisk får valuta for pengene sine, og at pressestøttemottakerne i større grad enn andre informerer den parlamentariske debatten?
 
-TODO: se på i forhold til budsjett framfor opplag?
-
 #### Topp 10 avislesende representanter
 
-Her er topplista over representanter som oftest har nevnt aviser i sine innlegg på Stortingets talerstol de siste 6 årene:
+Her er topplista over representanter som oftest har nevnt disse avisene i sine innlegg på Stortingets talerstol siden 2008.
 
-#### Politisk farge / utvikling over tid
+|---------------------+----------------+--------------------|
+|  Representant       | Avisreferanser | Favorittavis       |
+|---------------------+----------------+--------------------|
+|  [Ketil Solvik-Olsen](https://www.holderdeord.no/representatives/kets) (FrP) | 107            | Aftenposten        |
+|  [Robert Eriksson](https://www.holderdeord.no/representatives/re) (FrP)    | 67             | Aftenposten        |
+|  [Trine Skei Grande](https://www.holderdeord.no/representatives/tsg) (V) | 63             | Aftenposten        |
+|  [Borghild Tenden](https://www.holderdeord.no/representatives/bt) (V)   | 58             | Aftenposten        |
+|  [Gunnar Gundersen](https://www.holderdeord.no/representatives/gag) (H)   | 51             | Dagens Næringsliv  |
+|  [Jan Tore Sanner](https://www.holderdeord.no/representatives/jts) (H)    | 51             | Dagens Næringsliv  |
+|  [Bent Høie](https://www.holderdeord.no/representatives/benh) (H)         | 50             | Aftenposten        |
+|  [Arne Sortevik](https://www.holderdeord.no/representatives/aeso) (FrP)      | 45             | Aftenposten        |
+|  [Kjersti Toppe](https://www.holderdeord.no/representatives/kjt) (Sp)     | 44             | Bergens Tidende    |
+|  [Anders Anundsen](https://www.holderdeord.no/representatives/ana) (FrP)   | 42             | Aftenposten        |
+|---------------------+----------------+--------------------|
 
-Nedenfor kan du utforske datasettet brutt på tid og parti. Du kan også [laste ned rådataene](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
+Nedenfor kan du utforske datasettet brutt på tid og parti. Rådataene kan lastes ned [her](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
 
 <select id="hvilke-aviser-leser-politikerne-party-selector">
 <option>Adresseavisen</option><option>Aftenposten</option><option>Agderposten</option><option>Avisa Nordland</option><option>Bergens Tidende</option><option>Budstikka</option><option>Dagbladet</option><option>Dagens Næringsliv</option><option>Dagsavisen</option><option>Drammens Tidende</option><option>Finansavisen</option><option>Fredriksstad Blad</option><option>Fædrelandsvennen</option><option>Gudbrandsdølen Dagn.</option><option>Hamar Arbeiderblad</option><option>Haugesunds Avis</option><option>Klassekampen</option><option>Morgenbladet</option><option>Nordlys</option><option>Oppland Arbeiderblad</option><option>Romerikes Blad</option><option>Stavanger Aftenblad</option><option>Sunnmørsposten</option><option>Telemarksavisa</option><option>Trønder-Avisa</option><option>Tønsbergs Blad</option><option>VG</option><option>Varden</option><option>Vårt Land</option></select>
@@ -70,7 +83,7 @@ Nedenfor kan du utforske datasettet brutt på tid og parti. Du kan også [laste 
 
 <style>
 .hvilke-aviser-leser-politikerne .c3-tooltip th { color: #111; }
-.hvilke-aviser-leser-politikerne .matrix svg { font: 10px sans-serif; }
+.hvilke-aviser-leser-politikerne .matrix svg { font: 9px sans-serif;}
 .hvilke-aviser-leser-politikerne .matrix svg .background { fill: #efefef; }
 .hvilke-aviser-leser-politikerne .matrix svg line { stroke: #fff; }
 .hvilke-aviser-leser-politikerne .matrix svg text { font-size: 12; }
