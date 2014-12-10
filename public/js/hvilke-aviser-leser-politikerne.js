@@ -189,7 +189,7 @@
     }
 
     function drawMatrix() {
-        var margin = {top: 80, right: 20, bottom: 10, left: 25};
+        var margin = {top: 80, right: 20, bottom: 10, left: 28};
 
         var width = 650 - margin.left - margin.right;
 
@@ -197,10 +197,8 @@
             width = window.innerWidth - margin.left - margin.right - 20;
         }
 
-        console.log(width)
-
         var matrix     = [],
-            colData    = papers.map(function (p) { return {name: p, group: 1, prints: prints[p] }; }),
+            colData    = papers.map(function (p) { return {name: p, group: 1, prints: prints[p], quotes: 0 }; }),
             rowData    = parties.map(function (p) { return {name: p, group: 1}; }),
             n          = colData.length;
 
@@ -208,10 +206,23 @@
             z = d3.scale.linear().domain([0, 229]).clamp(true),
             c = d3.scale.category10().domain(d3.range(30));
 
+        rowData.forEach(function (rowNode, i) {
+            var row = [];
+
+            colData.forEach(function (colNode, j) {
+                var val = byParty[colNode.name][rowNode.name];
+                row.push({x: j, y: i, z: val});
+
+                colNode.quotes += val;
+            });
+
+            matrix.push(row);
+        });
+
         var orders = {
             name:  d3.range(n).sort(function(a, b) { return d3.ascending(colData[a].name, colData[b].name); }),
-            prints: d3.range(n).sort(function(a, b) { return colData[b].prints - colData[a].prints; })
-            //            group: d3.range(n).sort(function(a, b) { return colData[b].group - colData[a].group; })
+            prints: d3.range(n).sort(function(a, b) { return colData[b].prints - colData[a].prints; }),
+            quotes: d3.range(n).sort(function(a, b) { return colData[b].quotes - colData[a].quotes; })
         };
 
         // The default sort order.
@@ -225,16 +236,6 @@
                 .attr("height", height + margin.top + margin.bottom)
                 .append("g")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-        rowData.forEach(function (rowNode, i) {
-            var row = [];
-
-            colData.forEach(function (colNode, j) {
-                row.push({x: j, y: i, z: byParty[colNode.name][rowNode.name]});
-            });
-
-            matrix.push(row);
-        });
 
         svg.append("rect")
             .attr("class", "background")
@@ -291,7 +292,7 @@
         function mouseover(p) {
             var paperName = colData[p.x].name;
             var partyName = rowData[p.y].name;
-            var caption = partyName + " har sitert " + paperName + " " + p.z + " ganger";
+            var caption = partyName + " har nevnt " + paperName + " " + p.z + " ganger";
 
             d3.select('.hvilke-aviser-leser-politikerne figcaption.matrix-caption').text(caption);
             d3.selectAll(".row text").classed("active", function(d, i) { return i == p.y; });
@@ -326,13 +327,7 @@
                 .attr("transform", function(d, i) { return "translate(" + x(i) + ")rotate(-90)"; });
         }
 
-        var i = 1;
-        var orderKeys = Object.keys(orders);
-        var timeout = setTimeout(function() {
-            if (i == orderKeys.length) { i = 0; }
-            order(orderKeys[i]);
-            i++;
-        }, 3000);
+        var timeout = setTimeout(function() { order('prints');  }, 3000);
     }
 
     drawMatrix();
