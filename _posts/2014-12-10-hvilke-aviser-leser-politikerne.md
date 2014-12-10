@@ -26,7 +26,7 @@ tags:
 
 #### Medienes dagsordenfunksjon
 
-Når mediene styrer hvilket utsnitt av verden vi ser, definerer de også hva både befolkning og politikere skal bry seg om – og hva de ikke skal bry oss om. For dagens politikere er det umulig å neglisjere pressens dagsorden uten at det straffer seg. Godt medietekke er helt nødvendig for å posisjonere seg politisk.
+Når mediene styrer hvilket utsnitt av verden vi ser, definerer de også hva både befolkning og politikere skal bry seg om – og hva de ikke skal bry seg om. For dagens politikere er det umulig å neglisjere pressens dagsorden uten at det straffer seg. Godt medietekke er helt nødvendig for å posisjonere seg politisk.
 
 Pressens evne til å sette dagsorden får ikke minst utslag i Stortingets spørretime, hvor statsrådene jevnlig konfronteres med aktuelle medieoppslag. VGs [sak om Odin](http://www.vg.no/spesial/2014/odin/) ble i spørretimen [12. november](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/141112/muntligsporretime/) brukt av [Anders Tyvand](https://www.holderdeord.no/representatives/aty) (KrF) for å spørre [Erna Solberg](http://www.holderdeord.no/representatives/es) hva hun tenker om mobbing.
 
