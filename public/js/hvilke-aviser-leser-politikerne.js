@@ -100,7 +100,7 @@
                     .sort(function (a, b) { return d3.descending(a.value, b.value); });
 
             var cols = [];
-            var colKey = key + ', sitater per parti';
+            var colKey = key + ', antall referanser per parti, 2008 - 2014';
 
 
             cols.push(['Parti'].concat(entries.map(function (e) { return e.key; })));
@@ -138,7 +138,7 @@
                     .entries(byYear[key])
                     .sort(function (a, b) { return d3.descending(+a.key, +b.key); });
 
-            var colKey = key + ', antall ganger nevnt';
+            var colKey = key + ', referanser år for år';
             cols.push(['year'].concat(entries.map(function (e) { return +e.key; })));
             cols.push([colKey].concat(entries.map(function (e) { return e.value; })));
 
