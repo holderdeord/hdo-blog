@@ -12,7 +12,7 @@
         var entries = d3.entries(totals).sort(function (a, b) { return d3.descending(a.value, b.value); });
 
         cols.push(['x'].concat(entries.map(function (d) { return d.key; })));
-        cols.push(['Antall ganger sitert'].concat(entries.map(function (d) { return d.value; })));
+        cols.push(['Antall referanser'].concat(entries.map(function (d) { return d.value; })));
         cols.push(['Opplag 2013'].concat(entries.map(function (e) { return prints[e.key]; })));
 
         var chart = c3.generate({
@@ -21,7 +21,7 @@
                 x: 'x',
                 columns: cols,
                 axes: {
-                    'Antall ganger sitert': 'y',
+                    'Antall referanser': 'y',
                     'Opplag 2013': 'y2'
                 },
                 type: 'line'
@@ -58,7 +58,7 @@
                 x: 'x',
                 columns: [
                     ['x'].concat(data.map(function (d) { return d.key; })),
-                    ['Sitater per trykte avis'].concat(data.map(function (d) { return d.score; }))
+                    ['Referanser per trykte avis'].concat(data.map(function (d) { return d.score; }))
                 ],
                 type: 'line'
             },

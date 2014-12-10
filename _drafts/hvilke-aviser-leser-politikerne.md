@@ -18,7 +18,7 @@ tags:
 
 **Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.**
 
-<small>Sorter etter: <select class="order"><option value="name">Navn</option><option value="prints">Opplag</option><option value="quotes">Antall sitater</option></select></small>
+<small>Sorter etter: <select class="order"><option value="name">Navn</option><option value="prints">Opplag</option><option value="quotes">Antall referanser</option></select></small>
 
 <div class="matrix"></div>
 
@@ -45,12 +45,12 @@ Vi har begynt i det små. Med utgangspunkt i de 30 største avisene basert på [
 <figure id="hvilke-aviser-leser-politikerne-totals"></figure>
 <figcaption>Aviser nevnt i stortingsdebatter, oktober 2008 - november 2014</figcaption>
 
-Men om vi normaliserer for opplag og heller sorterer listen etter antall sitater per trykte avis, endrer bildet seg:
+Men om vi normaliserer for opplag og heller sorterer listen etter antall referanser per trykte avis, endrer bildet seg:
 
 <div id="hvilke-aviser-leser-politikerne-normalized"></div>
 <figcaption>Aviser nevnt i stortingsdebatter per trykte avis i 2013, oktober 2008 - november 2014</figcaption>
 
-Her er det påfallende klatring på listen blant de topp tre mottakerne av mediestøtte: Vårt Land fra 10. til 6. plass, Klassekampen fra 7. til 2. plass, Dagsavisen fra 5. til 1. plass. Mens VG må trykke 341 aviser for hver gang de nevnes i stortingssalen, må Dagsavisen kun trykke 96. Kan det være et tegn på at skattebetalerne faktisk får valuta for pengene sine, og at mottakerne av pressestøtte i større grad informerer den parlamentariske debatten?
+Her er det påfallende klatring på listen blant de topp tre mottakerne av mediestøtte: Vårt Land fra 10. til 6. plass, Dagsavisen fra 5. til 1. plass, Klassekampen fra 7. til 2. plass. Mens VG må trykke 341 aviser for hver gang de nevnes i stortingssalen, må Dagsavisen kun trykke 96. Kan det være et tegn på at skattebetalerne faktisk får valuta for pengene sine, og at mottakerne av pressestøtte i større grad informerer den parlamentariske debatten?
 
 #### Topp 10 avislesende representanter
 
@@ -79,7 +79,7 @@ Nedenfor kan du utforske datasettet brutt på tid og parti.
 <div id="hvilke-aviser-leser-politikerne-by-year"></div>
 <div id="hvilke-aviser-leser-politikerne-by-party"></div>
 
-Vi ønsker å grave mer i referatene framover, og innspill og ideer er hjertelig velkommen på [epost](mailto:kontakt@holderdeord.no), [Twitter](https://twitter.com/holderdeord) eller [Facebook](https://facebook.com/holderdeord). Data brukt i denne artikkelen kan lastes ned [her](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
+Vi ønsker å grave mer i referatene framover, og innspill og ideer er hjertelig velkommen i kommentarfeltet under, på [epost](mailto:jari@holderdeord.no), [Twitter](https://twitter.com/holderdeord) eller [Facebook](https://facebook.com/holderdeord). Data brukt i denne artikkelen kan lastes ned [her](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
 
 [1]: http://medienorge.uib.no/?cat=statistikk&page=avis&queryID=190
 [2]: http://data.stortinget.no/
