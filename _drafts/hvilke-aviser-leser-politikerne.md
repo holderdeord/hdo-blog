@@ -6,6 +6,7 @@ authors:
 - Jari Bakken
 visualization: true
 comments: true
+thumbnail: http://files.holderdeord.no/images/hvilke-aviser-leser-politikerne.png
 tags:
 - presse
 - media
@@ -75,8 +76,8 @@ Nedenfor kan du utforske datasettet brutt på tid og parti.
 <select id="hvilke-aviser-leser-politikerne-party-selector">
 <option>Adresseavisen</option><option>Aftenposten</option><option>Agderposten</option><option>Avisa Nordland</option><option>Bergens Tidende</option><option>Budstikka</option><option>Dagbladet</option><option>Dagens Næringsliv</option><option>Dagsavisen</option><option>Drammens Tidende</option><option>Finansavisen</option><option>Fredriksstad Blad</option><option>Fædrelandsvennen</option><option>Gudbrandsdølen Dagn.</option><option>Hamar Arbeiderblad</option><option>Haugesunds Avis</option><option>Klassekampen</option><option>Morgenbladet</option><option>Nordlys</option><option>Oppland Arbeiderblad</option><option>Romerikes Blad</option><option>Stavanger Aftenblad</option><option>Sunnmørsposten</option><option>Telemarksavisa</option><option>Trønder-Avisa</option><option>Tønsbergs Blad</option><option>VG</option><option>Varden</option><option>Vårt Land</option></select>
 
-<div id="hvilke-aviser-leser-politikerne-by-party"></div>
 <div id="hvilke-aviser-leser-politikerne-by-year"></div>
+<div id="hvilke-aviser-leser-politikerne-by-party"></div>
 
 Vi ønsker å grave mer i referatene framover, og innspill og ideer er hjertelig velkommen på [epost](mailto:kontakt@holderdeord.no), [Twitter](https://twitter.com/holderdeord) eller [Facebook](https://facebook.com/holderdeord). Data brukt i denne artikkelen kan lastes ned [her](https://docs.google.com/spreadsheets/d/1sl62o9ybeeclJ_8RXQOG9CXU-L7-XiYfDSkEQ-hG9ng/edit?usp=sharing).
 
