@@ -138,7 +138,7 @@
                     .entries(byYear[key])
                     .sort(function (a, b) { return d3.descending(+a.key, +b.key); });
 
-            var colKey = key + ', referanser år for år';
+            var colKey = key + ', antall referanser per år, 2008 - 2014';
             cols.push(['year'].concat(entries.map(function (e) { return +e.key; })));
             cols.push([colKey].concat(entries.map(function (e) { return e.value; })));
 
