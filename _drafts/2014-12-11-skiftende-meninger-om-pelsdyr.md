@@ -26,6 +26,7 @@ SV og Venstre har begge skjerpet løftene sine fra forrige periode og er nå hel
 <a class="hdo-promises-widget" data-promises="9977,8613,8615,11486,6989,11732,11733,11967" href="http://www.holderdeord.no/">Laster innhold fra Holder de ord</a>
 
 Oppsummert:
+
 - I perioden 2009-2013 og 2013-2017 har antall partier som ønsker avvikling økt fra 2 til 4 (5 hvis vi tolker Frps avsubsidieringsløfte som et ønske om avvikling)
 - Bortsett fra Høyres løfte fra 2009-2013 om å «sikre pelsdyrnæringens rammevilkår» har ingen partier noen direkte løfter beholde pelsdyrnæringen.
 
