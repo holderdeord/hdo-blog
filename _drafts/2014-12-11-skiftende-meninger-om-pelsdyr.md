@@ -41,8 +41,6 @@ Oppsummert:
 
 I stortingsperioden 2009-2013 ble det stemt over [fem forslag](https://www.holderdeord.no/issues/50-avvikle-pelsdyrnaeringen) som handlet om en styrt avvikling av pelsdyrnæringen. Alle forslagene ble fremmet av Venstre, og fikk kun støtte av Venstres representanter. Selv om SVs representanter gikk til valg på å avvikle næringen valgte de å stemme mot Venstres forslag. Dette må vi anta at hang sammen med SVs regjeringsdeltagelse.
 
-<a class="hdo-issue-widget" data-issue-id="50" href="http://www.holderdeord.no/">Laster innhold fra Holder de ord</a>
-
 <p class="representative">
   <img src="https://www.holderdeord.no/api/representatives/ime/image?version=medium" alt="ime" />
   <img src="https://www.holderdeord.no/api/representatives/thb/image?version=medium" alt="thb" />
