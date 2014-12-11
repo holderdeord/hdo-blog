@@ -11,7 +11,19 @@ tags:
 published: true
 ---
 
-Lorem ipsum dolor sit amet.
+**Med dokumentaren «Pels» (sendt på NRK 9.12.14 ) og pelsdyrutvalgets  innstilling som legges frem 15. desember blusser pelsdyrdebatten opp på ny. Vi har sett på partienes løfter i denne og forrige periode.**
+
+Ved hjelp av Holder de ords løftedatabase  har vi gått gjennom partienes løfter om pelsdyrnæringen i forrige og nåværende stortingsperiode. En sammenligning på tvers av periodene viser at det er bevegelse i partienes standpunkter.
+
+I partiprogrammene for 2009-2013 er det kun SV og Venstre som ønsker å avvikle pelsdyrnæringen. SVs løfte er uten forbehold, mens Venstres standpunkt avhenger av om dyrevelferden er blitt bedre. Videre har Arbeiderpartiet, Senterpartiet, og Krf ingen løfter om pelsdyrnærningen spesielt. Frp ønsker en gjennomgang av regelverket knyttet til dyrevelferd for pelsdyrnæringen, mens Høyre har et løfte om å sikre pelsdyrnæringens rammevilkår.
+
+I programmene for 2013-2017 endrer flere av partiene standpunkter. Blant de to store partiene ser vi at Arbeiderpartiet går fra å ikke ha noe løfte i forrige periode til nå å ønske en styrt avvikling av hele pelsdyrnæringen. Høyre på sin side velger å fjerne sitt løfte om å sikre pelsdyrnæringens rammevilkår, og står dermed uten noen løfter til pelsdyrnæringen. Her får Høyre selskap av Senterpartiet som heller ikke i denne perioden har noen løfter som omhandler pelsdyrnæringen spesielt.
+
+SV og Venstre har begge skjerpet løftene sine fra forrige periode og er nå helt tydelige på at de ønsker en avvikling. De får følge av nykommeren Miljøpartiet de grønne som umiddelbart vil forby oppdrett av pelsdyr. Frp fremholder sitt løfte fra forrige periode om gjennomgang av regelverk for dyrevelferd, men ønsker i tillegg å gradvis avvikle alle subsidier til pelsdyrnæringen. Dette løftet ligger tett opp mot å i praksis ønske en styrt avvikling av næringen.
+
+Oppsummert:
+- I perioden 2009-2013 og 2013-2017 har antall partier som ønsker avvikling økt fra 2 til 4 (5 hvis vi tolker Frps avsubsidieringsløfte som et ønske om avvikling)
+- Bortsett fra Høyres løfte fra 2009-2013 om å «sikre pelsdyrnæringens rammevilkår» har ingen partier noen direkte løfter beholde pelsdyrnæringen.
 
 <a class="hdo-promises-widget" data-promises="2709,4613,806,4614,4395" href="http://www.holderdeord.no/">Laster innhold fra Holder de ord</a>
 
