@@ -31,9 +31,7 @@
   {% endif %}
 
   {% if page.authors %}
-    {% for author in page.authors %}
-      <meta content="{{ author }}" name="author">
-    {% endfor %}
+     <meta content="{{ page.authors | array_to_sentence_string }}" name="author">
   {% else %}
     <meta content="Holder de ord" name="author">
   {% endif %}
