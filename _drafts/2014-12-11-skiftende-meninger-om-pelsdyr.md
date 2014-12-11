@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Skiftende meninger om pelsdyr
-date: "2014-12-31T23:59:59.000+01:00"
+date: "2014-12-11T20:06:59.000+01:00"
 visualization: true
+comments: true
 authors:
   - Tor Halle Rise
   - Jari Bakken
 tags:
   - pelsdyr
   - løfter
-published: true
 ---
 
-**Med [dokumentaren «Pels»](http://tv.nrk.no/serie/brennpunkt/MDUP11001814/09-12-2014) (sendt på NRK 9. desember 2014) og [pelsdyrutvalgets](http://www.regjeringen.no/nb/dep/lmd/tema/dyr/utvalg-som-skal-gjennomga-pelsdyrnaringe.html?id=74880...) innstilling som legges frem 15. desember blusser pelsdyrdebatten opp på ny. Vi har sett på partienes løfter i denne og forrige periode.**
+**Med dokumentaren [«Pels»](http://tv.nrk.no/serie/brennpunkt/MDUP11001814/09-12-2014) (sendt på NRK 9. desember 2014) og [pelsdyrutvalgets](http://www.regjeringen.no/nb/dep/lmd/tema/dyr/utvalg-som-skal-gjennomga-pelsdyrnaringe.html?id=74880...) innstilling som legges frem 15. desember blusser pelsdyrdebatten opp på ny. Vi har sett på partienes løfter i denne og forrige periode.**
 
 Ved hjelp av Holder de ords [løftedatabase](https://www.holderdeord.no/promises) har vi gått gjennom partienes løfter om pelsdyrnæringen. En sammenligning på tvers av periodene viser at det er bevegelse i partienes standpunkter.
 
@@ -35,18 +35,25 @@ SV og Venstre har begge skjerpet løftene sine fra forrige periode og er nå hel
 Oppsummert:
 
 - I perioden 2009-2013 og 2013-2017 har antall partier som ønsker avvikling økt fra 2 til 4 (5 hvis vi tolker Frps avsubsidieringsløfte som et ønske om avvikling)
-- Bortsett fra Høyres løfte fra 2009-2013 om å «sikre pelsdyrnæringens rammevilkår» har ingen partier noen direkte løfter beholde pelsdyrnæringen.
+- Bortsett fra Høyres løfte fra 2009-2013 om å «sikre pelsdyrnæringens rammevilkår» har ingen partier noen direkte løfter om å beholde pelsdyrnæringen.
 
-#### Avstemninger og et blikk inn i spåkulen
+#### Avstemninger
 
 I stortingsperioden 2009-2013 ble det stemt over [fem forslag](https://www.holderdeord.no/issues/50-avvikle-pelsdyrnaeringen) som handlet om en styrt avvikling av pelsdyrnæringen. Alle forslagene ble fremmet av Venstre, og fikk kun støtte av Venstres representanter. Selv om SVs representanter gikk til valg på å avvikle næringen valgte de å stemme mot Venstres forslag. Dette må vi anta at hang sammen med SVs regjeringsdeltagelse.
 
-Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igjen stemmes over et forslag om å avvikle pelsdyrnæringen. [Forslaget](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=61168) kommer fra MDG og ligger til behandling i Stortinget nå, med planlagt votering på nyåret. Skal vi tro partienes løfter i partiprogrammene ligger det da an til at forslaget får støtte fra MDG, SV, Arbeiderpartiet og Venstre, med regjeringspartiet Frp på vippen. Spørsmålet blir da om Rasmus Hansson har lagt inn nok subsidiekutt til å lokke Frp
-
-
-
 <a class="hdo-issue-widget" data-issue-id="50" href="http://www.holderdeord.no/">Laster innhold fra Holder de ord</a>
 
+<p class="representative">
+  <img src="https://www.holderdeord.no/api/representatives/ime/image?version=medium" alt="ime" />
+  <img src="https://www.holderdeord.no/api/representatives/thb/image?version=medium" alt="thb" />
+  <div style="clear: both;"></div>
+</p>
+
+Blant partiene som har stemt ned forslagene, er det enkelte representanter som har stemt mot flertallet i sine partier, angivelig av samvittighetsgrunner. [Ine M. Eriksen Søreide](https://www.holderdeord.no/representatives/ime) (H) og [Thomas Breen](https://www.holderdeord.no/representatives/thb) (Ap) stemte begge [for](http://www.holderdeord.no/votes/1323881010ne) å legge fram en plan for avvikling av pelsdyrhold i Norge da det ble fremmet av Venstres Borghild Tenden i desember 2011.
+
+#### Et blikk inn i spåkulen
+
+Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igjen stemmes over et forslag om å avvikle pelsdyrnæringen. [Forslaget](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=61168) kommer fra MDG og ligger til behandling i Stortinget nå, med planlagt votering på nyåret. Skal vi tro partienes løfter vil forslaget få støtte av SV, Arbeiderpartiet og Venstre, mens det fortsatt er åpent hva KrF, Høyre og Frp vil lande på. Samtidig holder vi en knapp på at Senterpartiet vil stemme mot avvikling.
 <script src="https://www.holderdeord.no/widgets"></script>
 
 <style>
@@ -60,7 +67,6 @@ Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igje
   padding: 1rem;
 }
 
-
 #pelsdyr-meninger-vis .position {
   width: 33%;
   float: right;
@@ -73,4 +79,17 @@ Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igje
     margin-left: auto;
     margin-right: auto;
 }
+
+.skiftende-meninger-om-pelsdyr .representative {
+  font-size: 0.8rem;
+}
+
+.skiftende-meninger-om-pelsdyr .representative img {
+  width: 50%;
+  float: left;
+  padding: 2rem;
+  border-radius: 40px;
+}
+
 </style>
+
