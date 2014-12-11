@@ -11,7 +11,7 @@ tags:
 published: true
 ---
 
-Lorem ipsum.
+Lorem ipsum dolor sit amet.
 
 <a class="hdo-promises-widget" data-promises="2709,4613,806,4614,4395" href="http://www.holderdeord.no/">Laster innhold fra Holder de ord</a>
 
