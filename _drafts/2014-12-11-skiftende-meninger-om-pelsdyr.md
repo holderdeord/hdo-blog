@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: "Skiftende meninger om pelsdyr"
 date: "2014-12-31T23:59:59.000+01:00"
