@@ -41,21 +41,29 @@ Oppsummert:
 
 I stortingsperioden 2009-2013 ble det stemt over [fem forslag](https://www.holderdeord.no/issues/50-avvikle-pelsdyrnaeringen) som handlet om en styrt avvikling av pelsdyrnæringen. Alle forslagene ble fremmet av Venstre, og fikk kun støtte av Venstres representanter. Selv om SVs representanter gikk til valg på å avvikle næringen valgte de å stemme mot Venstres forslag. Dette må vi anta at hang sammen med SVs regjeringsdeltagelse.
 
-<p class="representative">
-  <img src="https://www.holderdeord.no/api/representatives/ime/image?version=medium" alt="ime" />
-  <img src="https://www.holderdeord.no/api/representatives/thb/image?version=medium" alt="thb" />
-  <div style="clear: both;"></div>
-</p>
+#### Utbrytere
 
-Blant partiene som har stemt ned forslagene, er det enkelte representanter som har stemt mot flertallet i sine partier, angivelig av samvittighetsgrunner. [Ine M. Eriksen Søreide](https://www.holderdeord.no/representatives/ime) (H) og [Thomas Breen](https://www.holderdeord.no/representatives/thb) (Ap) stemte begge [for](http://www.holderdeord.no/votes/1323881010ne) å legge fram en plan for avvikling av pelsdyrhold i Norge da det ble fremmet av Venstres Borghild Tenden i desember 2011.
+Blant partiene som har stemt ned forslagene, er det enkelte representanter som har stemt mot flertallet i sine partier, angivelig av samvittighetsgrunner. [Ine M. Eriksen Søreide](https://www.holderdeord.no/representatives/ime) (H) og [Thomas Breen](https://www.holderdeord.no/representatives/thb) (Ap) stemte begge [for](http://www.holderdeord.no/votes/1323881010ne) å legge fram en plan for avvikling av pelsdyrhold i Norge da det ble fremmet av [Borghild Tenden](https://www.holderdeord.no/representatives/bt) (V) i desember 2011. Les mer om avstemningshistorikken på [holderdeord.no](https://www.holderdeord.no/issues/50-avvikle-pelsdyrnaeringen).
+
+<div class="representative">
+  <img src="https://www.holderdeord.no/api/representatives/ime/image?version=medium" alt="ime" />
+  <figcaption>Høyres Ine Marie Eriksen Søreide</figcaption>
+</div>
+
+<div class="representative"> 
+  <img src="https://www.holderdeord.no/api/representatives/thb/image?version=medium" alt="thb" />
+  <figcaption>Arbeiderpartiets Thomas Breen</figcaption>
+</div>
+
+<div style="clear: both;"></div>
 
 #### Et blikk inn i spåkulen
 
-Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igjen stemmes over et forslag om å avvikle pelsdyrnæringen. [Forslaget](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=61168) kommer fra MDG og ligger til behandling i Stortinget nå, med planlagt votering på nyåret. Skal vi tro partienes løfter vil forslaget få støtte av SV, Arbeiderpartiet og Venstre, mens det fortsatt er åpent hva KrF, Høyre og Frp vil lande på. Samtidig holder vi en knapp på at Senterpartiet vil stemme mot avvikling.
+I denne stortingsperioden har MDG fremmet et [forslag](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=61168) om å avvikle pelsdyrnæringen. Forslaget er til behandling i Næringskomiteen og vil bli stemt over på nyåret. Skal vi tro partienes løfter vil forslaget få støtte av SV, Arbeiderpartiet og Venstre, mens det fortsatt er åpent hva KrF, Høyre og Frp vil lande på. Samtidig holder vi en knapp på at Senterpartiet vil stemme mot avvikling.
+
 <script src="https://www.holderdeord.no/widgets"></script>
 
 <style>
-
 #pelsdyr-meninger-vis {
   min-height: 350px;
 }
@@ -79,10 +87,7 @@ Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igje
 }
 
 .skiftende-meninger-om-pelsdyr .representative {
-  font-size: 0.8rem;
-}
-
-.skiftende-meninger-om-pelsdyr .representative img {
+  font-size: 0.9rem;
   width: 50%;
   float: left;
   padding: 2rem;
