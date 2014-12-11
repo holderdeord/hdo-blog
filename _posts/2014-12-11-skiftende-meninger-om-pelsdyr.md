@@ -4,6 +4,7 @@ title: Skiftende meninger om pelsdyr
 date: "2014-12-11T20:06:59.000+01:00"
 visualization: true
 comments: true
+thumbnail: https://c4.staticflickr.com/4/3637/3366453654_9ec3cda5a9_b.jpg
 authors:
   - Tor Halle Rise
   - Jari Bakken
