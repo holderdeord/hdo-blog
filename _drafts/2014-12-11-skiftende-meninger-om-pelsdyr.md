@@ -14,7 +14,7 @@ published: true
 
 **Med [dokumentaren «Pels»](http://tv.nrk.no/serie/brennpunkt/MDUP11001814/09-12-2014) (sendt på NRK 9. desember 2014) og [pelsdyrutvalgets](http://www.regjeringen.no/nb/dep/lmd/tema/dyr/utvalg-som-skal-gjennomga-pelsdyrnaringe.html?id=74880...) innstilling som legges frem 15. desember blusser pelsdyrdebatten opp på ny. Vi har sett på partienes løfter i denne og forrige periode.**
 
-Ved hjelp av Holder de ords [løftedatabase](https://www.holderdeord.no/promises) har vi gått gjennom partienes løfter om pelsdyrnæringen i forrige og nåværende stortingsperiode. En sammenligning på tvers av periodene viser at det er bevegelse i partienes standpunkter.
+Ved hjelp av Holder de ords [løftedatabase](https://www.holderdeord.no/promises) har vi gått gjennom partienes løfter om pelsdyrnæringen. En sammenligning på tvers av periodene viser at det er bevegelse i partienes standpunkter.
 
 <div id="pelsdyr-meninger-vis">
   <em>Holdning til avvikling av pelsdyr i partiprogrammet, <select><option>2009-2013</option><option>2013-2017</option></select></em>
@@ -26,9 +26,9 @@ I partiprogrammene for 2009-2013 er det kun SV og Venstre som ønsker å avvikle
 
 <a class="hdo-promises-widget" data-promises="2709,4613,806,4614,4395" href="http://www.holderdeord.no/">Laster innhold fra Holder de ord</a>
 
-I programmene for 2013-2017 endrer flere av partiene standpunkter. Blant de to store partiene ser vi at Arbeiderpartiet går fra å ikke ha noe løfte i forrige periode til nå å ønske en styrt avvikling av hele pelsdyrnæringen. Høyre på sin side velger å fjerne sitt løfte om å sikre pelsdyrnæringens rammevilkår, og står dermed uten noen løfter til pelsdyrnæringen. Her får Høyre selskap av Senterpartiet som heller ikke i denne perioden har noen løfter som omhandler pelsdyrnæringen spesielt. Når det gjelder Senterpartiet er det likevel ingen tvil om partiets standpunkt. Som flere presseoppslag viser (se f.eks [her](http://www.nationen.no/tunmedia/sp-uaktuelt-a-avvikle-pelsdyroppdrett/ ), [her](http://www.nrk.no/norge/sp-ville-frede-pelsdyrbransjen-1.8364543) eller [her](http://www.nrk.no/ytring/derfor-gar-jeg-i-pels-1.12092487)) er det liten tvil om at Senterpartiet ikke ønsker å avvikle pelsdyrnæringen
+I programmene for 2013-2017 endrer flere av partiene standpunkt. Blant de to store partiene ser vi at Arbeiderpartiet går fra å ikke ha noe løfte i forrige periode til nå å ønske en styrt avvikling av hele pelsdyrnæringen. Høyre på sin side velger å fjerne sitt løfte om å sikre pelsdyrnæringens rammevilkår, og står dermed uten noen løfter til pelsdyrnæringen. Her får Høyre selskap av Senterpartiet som heller ikke i denne perioden har noen løfter som omhandler pelsdyrnæringen spesielt. Når det gjelder Senterpartiet er det likevel ingen tvil om partiets standpunkt. Som flere presseoppslag viser (se f.eks [her](http://www.nationen.no/tunmedia/sp-uaktuelt-a-avvikle-pelsdyroppdrett/ ), [her](http://www.nrk.no/norge/sp-ville-frede-pelsdyrbransjen-1.8364543) eller [her](http://www.nrk.no/ytring/derfor-gar-jeg-i-pels-1.12092487)) er det liten tvil om at Senterpartiet ikke ønsker å avvikle pelsdyrnæringen
 
-SV og Venstre har begge skjerpet løftene sine fra forrige periode og er nå helt tydelige på at de ønsker en avvikling. De får følge av nykommeren Miljøpartiet de grønne som umiddelbart vil forby oppdrett av pelsdyr. Frp fremholder sitt løfte fra forrige periode om gjennomgang av regelverk for dyrevelferd, men ønsker i tillegg å gradvis avvikle alle subsidier til pelsdyrnæringen. Dette løftet ligger tett opp mot å i praksis ønske en styrt avvikling av næringen.
+SV og Venstre har begge skjerpet løftene sine fra forrige periode og er nå helt tydelige på at de ønsker en avvikling. De får følge av nykommeren Miljøpartiet De Grønne som umiddelbart vil forby oppdrett av pelsdyr. Frp fremholder sitt løfte fra forrige periode om gjennomgang av regelverk for dyrevelferd, men ønsker i tillegg å gradvis avvikle alle subsidier til pelsdyrnæringen. Dette løftet ligger tett opp mot å i praksis ønske en styrt avvikling av næringen.
 
 <a class="hdo-promises-widget" data-promises="9977,8613,8615,11486,6989,11732,11733,11967" href="http://www.holderdeord.no/">Laster innhold fra Holder de ord</a>
 
@@ -37,13 +37,11 @@ Oppsummert:
 - I perioden 2009-2013 og 2013-2017 har antall partier som ønsker avvikling økt fra 2 til 4 (5 hvis vi tolker Frps avsubsidieringsløfte som et ønske om avvikling)
 - Bortsett fra Høyres løfte fra 2009-2013 om å «sikre pelsdyrnæringens rammevilkår» har ingen partier noen direkte løfter beholde pelsdyrnæringen.
 
-## Avstemninger og et blikk inn i spåkulen
+#### Avstemninger og et blikk inn i spåkulen
 
-I stortingsperioden (2009-2013) ble det votert over [fem forslag](https://www.holderdeord.no/issues/50-avvikle-pelsdyrnaeringen) som handlet om en styrt avvikling av pelsdyrnæringen. Alle forslagene ble fremmet av Venstre, og fikk kun støtte av Venstres representanter. Selv om SVs representanter gikk til valg på å avvikle næringen valgte de å stemme mot forslagene til Venstre. Dette må vi anta at hang sammen med SVs regjeringsdeltagelse.
+I stortingsperioden 2009-2013 ble det stemt over [fem forslag](https://www.holderdeord.no/issues/50-avvikle-pelsdyrnaeringen) som handlet om en styrt avvikling av pelsdyrnæringen. Alle forslagene ble fremmet av Venstre, og fikk kun støtte av Venstres representanter. Selv om SVs representanter gikk til valg på å avvikle næringen valgte de å stemme mot Venstres forslag. Dette må vi anta at hang sammen med SVs regjeringsdeltagelse.
 
-Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igjen stemmes over et forslag om å avvikle pelsdyrnæringen. [Forslaget](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=61168) kommer fra Miljøpartiet de grønne og ligger til behandling i Stortinget nå, med planlagt votering på nyåret. Skal vi tro partienes løfter i partiprogrammene ligger det da an til at forslaget får støtte fra MDG, SV, Arbeiderpartiet og Venstre, med regjeringspartiet Frp på vippen. Spørsmålet blir da om Rasmus Hansson har lagt inn nok subsidiekutt til å lokke Frp
-
-
+Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igjen stemmes over et forslag om å avvikle pelsdyrnæringen. [Forslaget](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=61168) kommer fra MDG og ligger til behandling i Stortinget nå, med planlagt votering på nyåret. Skal vi tro partienes løfter i partiprogrammene ligger det da an til at forslaget får støtte fra MDG, SV, Arbeiderpartiet og Venstre, med regjeringspartiet Frp på vippen. Spørsmålet blir da om Rasmus Hansson har lagt inn nok subsidiekutt til å lokke Frp
 
 
 
