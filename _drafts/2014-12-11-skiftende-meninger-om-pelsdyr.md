@@ -46,13 +46,17 @@ I stortingsperioden 2009-2013 ble det stemt over [fem forslag](https://www.holde
 Blant partiene som har stemt ned forslagene, er det enkelte representanter som har stemt mot flertallet i sine partier, angivelig av samvittighetsgrunner. [Ine M. Eriksen Søreide](https://www.holderdeord.no/representatives/ime) (H) og [Thomas Breen](https://www.holderdeord.no/representatives/thb) (Ap) stemte begge [for](http://www.holderdeord.no/votes/1323881010ne) å legge fram en plan for avvikling av pelsdyrhold i Norge da det ble fremmet av [Borghild Tenden](https://www.holderdeord.no/representatives/bt) (V) i desember 2011. Les mer om avstemningshistorikken på [holderdeord.no](https://www.holderdeord.no/issues/50-avvikle-pelsdyrnaeringen).
 
 <div class="representative">
-  <img src="https://www.holderdeord.no/api/representatives/ime/image?version=medium" alt="ime" />
-  <figcaption>Høyres Ine Marie Eriksen Søreide</figcaption>
+  <a href="https://www.holderdeord.no/representatives/ime">
+    <img src="https://www.holderdeord.no/api/representatives/ime/image?version=medium" alt="ime" />
+    <figcaption>Ine Marie Eriksen Søreide (H)</figcaption>
+  </a>
 </div>
 
 <div class="representative"> 
-  <img src="https://www.holderdeord.no/api/representatives/thb/image?version=medium" alt="thb" />
-  <figcaption>Arbeiderpartiets Thomas Breen</figcaption>
+  <a href="https://www.holderdeord.no/representatives/thb">
+    <img src="https://www.holderdeord.no/api/representatives/thb/image?version=medium" alt="thb" />
+    <figcaption>Thomas Breen (Ap)</figcaption>
+  </a>
 </div>
 
 <div style="clear: both;"></div>
