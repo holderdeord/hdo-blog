@@ -2,10 +2,11 @@
 layout: post
 title: Skiftende meninger om pelsdyr
 date: "2014-12-31T23:59:59.000+01:00"
-authors: 
+visualization: true
+authors:
   - Tor Halle Rise
   - Jari Bakken
-tags: 
+tags:
   - pelsdyr
   - løfter
 published: true
@@ -14,6 +15,12 @@ published: true
 **Med [dokumentaren «Pels»](http://tv.nrk.no/serie/brennpunkt/MDUP11001814/09-12-2014) (sendt på NRK 9. desember 2014) og [pelsdyrutvalgets](http://www.regjeringen.no/nb/dep/lmd/tema/dyr/utvalg-som-skal-gjennomga-pelsdyrnaringe.html?id=74880...) innstilling som legges frem 15. desember blusser pelsdyrdebatten opp på ny. Vi har sett på partienes løfter i denne og forrige periode.**
 
 Ved hjelp av Holder de ords [løftedatabase](https://www.holderdeord.no/promises) har vi gått gjennom partienes løfter om pelsdyrnæringen i forrige og nåværende stortingsperiode. En sammenligning på tvers av periodene viser at det er bevegelse i partienes standpunkter.
+
+<div id="pelsdyr-meninger-vis">
+  <em>Holdning til avvikling av pelsdyr i partiprogrammet, <select><option>2009-2013</option><option>2013-2017</option></select></em>
+  <div class="gfx"></div>
+  <div style="clear: both;"></div>
+</div>
 
 I partiprogrammene for 2009-2013 er det kun SV og Venstre som ønsker å avvikle pelsdyrnæringen. SVs løfte er uten forbehold, mens Venstres standpunkt avhenger av om dyrevelferden er blitt bedre. Videre har Arbeiderpartiet, Senterpartiet, og KrF ingen løfter om pelsdyrnærningen spesielt. FrP ønsker en gjennomgang av regelverket knyttet til dyrevelferd for pelsdyrnæringen, mens Høyre har et løfte om å sikre pelsdyrnæringens rammevilkår.
 
@@ -43,3 +50,29 @@ Men nå har SV en mulighet for å gjøre det godt igjen, for snart skal det igje
 <a class="hdo-issue-widget" data-issue-id="50" href="http://www.holderdeord.no/">Laster innhold fra Holder de ord</a>
 
 <script src="https://www.holderdeord.no/widgets"></script>
+
+<style>
+
+#pelsdyr-meninger-vis {
+  min-height: 350px;
+}
+
+#pelsdyr-meninger-vis .gfx {
+  text-align: center;
+  padding: 1rem;
+}
+
+
+#pelsdyr-meninger-vis .position {
+  width: 33%;
+  float: right;
+
+  border-right: 1px solid #eee;
+}
+
+#pelsdyr-meninger-vis .position img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
