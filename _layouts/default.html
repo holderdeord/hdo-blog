@@ -20,13 +20,14 @@
         {{ content }}
       </main>
 
-      {% include footer.html %}
-      {% include scripts.html %}
-
-      {% if site.github.environment %}
-        {% include analytics.html %}
-      {% endif %}
     </div>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+
+    {% if site.github.environment %}
+      {% include analytics.html %}
+    {% endif %}
 
   </body>
 </html>
