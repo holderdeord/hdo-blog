@@ -1,5 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
+
 /*
  * Based on https://github.com/poole/poole, modifications by Holder de ord.
+ * Background color: #b8bfcc
+ * Background color against white, 35% opacity rgba(51,68,104, 0.35)
+ * Highlight color: #fadd00
+ * 5% pattern: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAQAAACRZI9xAAAAOElEQVQoFdXBQREAIQwEsJioI1QgqV6Qg52dU3D9kxDXvxKiTQ7lYWVbRi1iGRwR26Ac7W3XNukP+54OtiFk2ncAAAAASUVORK5CYII=
  */
 
 
@@ -18,6 +24,8 @@
  */
 
 
+
+
 /*
  * Body resets
  *
@@ -30,6 +38,7 @@
           box-sizing: border-box;
 }
 
+
 html,
 body {
   margin: 0;
@@ -37,22 +46,39 @@ body {
 }
 
 html {
-  font-family: HelveticaNeueLight, HelveticaNeue-Light, 'Helvetica Neue Light', HelveticaNeue, 'Helvetica Neue', Arial, Helvetica, sans-serif;
-
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
-  font-size: 15px;
-  line-height: 1.5;
+  font: 15px/24px "Roboto Slab", sans-serif;
 }
 
-@media (min-width: 38em) {
+html:before, html:after  {
+  content: "";
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  height: 0.5rem;
+  background-color: rgba(51,68,104, 0.35);
+}
+html:before  {
+  top: 0;
+}
+html:after  {
+  bottom: 0;
+}
+
+@media (min-width: 42em) {
   html {
     font-size: 17px;
+    line-height: 28px;
   }
 }
 
 body {
   color: #333;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -80,10 +106,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  /*font-family: "PT Serif", serif;*/
 }
 h1 {
   font-size: 2rem;
-  font-weight: 300;
+  /*font-weight: 100;*/
 }
 h2 {
   margin-top: 1rem;
@@ -207,8 +234,8 @@ pre code {
 
 /* Quotes */
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
+  padding: 0 1rem;
+  margin: 1.2rem 0;
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
 }
@@ -240,18 +267,23 @@ figcaption {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #e5e5e5;
   border-collapse: collapse;
   font-size: 0.8rem;
 }
-td,
-th {
+td, th {
   padding: .25rem .5rem;
-  border: 1px solid #e5e5e5;
+  border: 1px solid rgba(0,0,0, 0.5);
+  text-align: left;
 }
+
+th {
+  border-bottom: 2px solid black;
+}
+
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAQAAACRZI9xAAAAOElEQVQoFdXBQREAIQwEsJioI1QgqV6Qg52dU3D9kxDXvxKiTQ7lYWVbRi1iGRwR26Ac7W3XNukP+54OtiFk2ncAAAAASUVORK5CYII=);
+  background-size: 3.6px;
 }
 
 
@@ -289,7 +321,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 40rem;
+  max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -304,20 +336,19 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    9rem;
-  padding-bottom: 2rem;
+  padding-top:    1rem;
+  padding-bottom: 1rem;
   margin-bottom: 3rem;
-  background-position: 50% 30%;
-  background-image: url(http://files.holderdeord.no/images/blog-header.jpg);
-  background-size: cover;
-  text-align: center;
+  background-color: rgba(51,68,104, 0.2);
 }
 .masthead-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: white;
-  text-shadow: 0 1px 2px rgba(0,0,0, 0.4),
-               0 1px 8px rgba(0,0,0, 0.2);
+  margin: 0 auto;
+  background: 50% 40% no-repeat;
+  padding-top: 85px;
+  text-align: center;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA2wAAAFfAgMAAABPc6foAAAADFBMVEUAAAAAAAAAAAAAAAA16TeWAAAABHRSTlMA/osyHGkoQAAABHpJREFUeAHt2zFy20YUxvEVMSpSxKx0BDfpVUSFmSO48EIexIVqKoWPkEvgCCy4zAx1AM8Ql+ARUpgVagyHm7HESDbIaMFHEIvH/L8LkD9+u/sWGsF0mIGrxZxPLuyPSbFhw4YNGzZs2LBhw4YNGzZs2LD972zYsGHDhg0bNmzYsGF7TYMNGzZs2LBhw4YNGzZs2LBhw4YNGzZs2LBhw4YNGzZs2LBhw4YNmz03UuJXztmXpM7NvdGfYeVyuzeZWxSKYaNdV803K3U2ttrCArx5oa6yqW0cXeVtJvagjNdaZO/Csl1dqV+mWTecWnFmRa9plT0m6ZcelzaxR+a+0F+asuqSiW0l9z08HnPbUrJSy3rUvy6/2lbzl4KtJs69ItrYuZnfxjk30YJ7kwdYvtgzCjcBYFb0nJY6/1rfGyfExae5tQlmMxXgYtOyRdPdWuX9xCV5Gw+bm0kknIA2Llt66Pu9b4d/JrpWVHm/RsHfzS9M0mvbH5FovzZ/dpY/sz9EoQ32LMcjv8nN7sJMo9je7pZ2/A7ere5zDFv9N05bWT43ddvHCLSfRcNIcBuIYLsWndaCyfJb97Yr+32+nO5J933c7Za2fFLfxN1wiWyrCf6ydNu57UJIE5wocY5JAU2AK7q2XT7f1YtTPxn+GWUECFoT4D5HuXEJaALcXRxbKqc1wUWyXQnnmmDOvY9ie+jiETGCrZsbQx7DtuzmQ5fYsGHDhg0bNmzYsGHDhg0bNmzYsGHDhg0bNmzYsGHDhg0bNmzYsGHDhk2hDds7F0jenS1zgRSC/6YNpCtbMOlBuKUqm/0kqE2LLTXNc63FJni5canEJliUidVmuxW8R6TF1vx9pEstNsGLm2/12e5Mw1xpsQm+Sq7FJngp1eqzfRCMgH7a5ENgoNCWYjMXCm0W25OtCE/4bmx34SuiQhs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bPJgw4YNGzZs2H5xD1ps8py/DRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwJf4platn7rfRYkteGPawpO5bZt77sle2kd/s1cgzfio2ni3x3jmX25PGObfwZXe2oV/JTWLjzK9PavObzlF14twXbdjqKtuXjOtCqS3x8boKdOhLuW3o45cVrHBRCmzHsjL3nIXfE/ec6bHAaWPbqBJ+2L/jd20kGW4Hv3QHzEMf61eCG8U3UGFajX+8D0wOXqHe7I8/aHFkjyRz6ox85Q78XvXfebSaHoBayGuSF3kAMXvp7820+eWgMDGT+KrpfhzPHvffMvxD1FSR46tGHX40ZhAoa1GaPqbBpaIwP4Unf2+T+NUrwDtzvW8RRmxLAPyPJfrJXNXrmnmjL6Nqt8AP3x8lqZuXRm+SzY/j/tZsuWltGWr1+RdfanIlLkF/xs3W5vwyrJy15nwz+geowMIfCNpT9AAAAABJRU5ErkJggg==);
+  background-size: 100px auto;
+
 }
 .masthead-title a {
   color: inherit;
@@ -328,6 +359,7 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
   display: block;
 }
+
 
 
 /*
@@ -341,6 +373,39 @@ tbody tr:nth-child(odd) th {
 .post {
   margin-bottom: 4em;
 }
+
+/* Styling selection */
+.post {
+  -webkit-user-select: text;
+  -khtml-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
+.post ::selection {
+  background-color: #fadd00;
+}
+
+
+/*
+ * Post list
+ */
+.posts .post {
+  position: relative;
+}
+.posts .post:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 0.2rem;
+  left: 0;
+  top: -2.5rem;
+  background-color: rgba(51,68,104, 0.1);
+}
+.posts .post:first-child:before {
+  display: none;
+}
+
 
 /* Blog post or page title */
 .page-title,
@@ -418,6 +483,22 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
 }
 
+.postarchive {
+  position: relative;
+  margin-top: 4rem;
+}
+
+.postarchive:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 0.2rem;
+  left: 0;
+  top: -2.5rem;
+  background: #b8bfcc;
+  opacity: 0.2;
+}
+
 .postarchive h2 {
   margin-left: 150px;
   font-weight: 300;
@@ -433,10 +514,10 @@ a.pagination-item:hover {
 .postarchive-post time {
   position: absolute;
   left: 0;
-  top: 3px;
+  top: 0.06rem;
   width: 130px;
   text-align: right;
-  color: #999;
+  color: rgba(51,68,104, 0.5);
 }
 .postarchive-post a {
   color: inherit;
@@ -446,20 +527,12 @@ a.pagination-item:hover {
 .site-footer {
   display: block;
   position: relative;
-  margin: 100px 0 50px 0;
+  margin-top: 6rem;
+  padding: 2rem;
   text-align: center;
-  color: #999;
+  background-color: rgba(51,68,104, 0.2);
 }
-.site-footer:after {
-  content: "";
-  position: absolute;
-  width: 100px;
-  margin-left: -50px;
-  left: 50%;
-  top: -20px;
-  height: 1px;
-  background: #ccc;
-}
+
 .site-footer h5 {
   color: inherit;
   font: inherit;
@@ -487,3 +560,14 @@ a.pagination-item:hover {
 }
 
 .muted { color: #7a7a7a; }
+
+
+/* A small hack for enhancing lead paragraphs. */
+.post-content > p:first-child > strong:first-child {
+  font-weight: 300;
+  font-size: 1.2rem;
+  display: block;
+}
+main > .post .post-content > p:first-child > strong:first-child {
+  margin-bottom: 2rem;
+}
