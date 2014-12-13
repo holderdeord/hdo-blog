@@ -9,10 +9,19 @@
       <div class="container">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
+          {% if page.title %}
+            <small>{{ page.title }}</small>
+          {% endif %}
         </h3>
       </div>
     </header>
+
+    <!--
+    <figure class="maingraphic">
+      <img src="blog-header.jpg" alt="Illustrasjonsfoto: Stortingssalen.">
+      <figcaption>Illustrasjonsfoto: Stortingssalen.</figcaption>
+    </figure>
+    -->
 
     <div class="container content">
 

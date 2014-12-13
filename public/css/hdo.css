@@ -39,40 +39,12 @@
 }
 
 
-html,
 body {
   margin: 0;
-  padding: 0;
-}
-
-html {
-  font: 15px/24px "Roboto Slab", sans-serif;
-}
-
-html:before, html:after  {
-  content: "";
-  position: fixed;
-  z-index: 1;
-  left: 0;
-  right: 0;
-  height: 0.5rem;
-  background-color: rgba(51,68,104, 0.35);
-}
-html:before  {
-  top: 0;
-}
-html:after  {
-  bottom: 0;
-}
-
-@media (min-width: 42em) {
-  html {
-    font-size: 17px;
-    line-height: 28px;
-  }
-}
-
-body {
+  padding-top: 5rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  font: 15px/1.5 "Roboto Slab", sans-serif;
   color: #333;
   -webkit-user-select: none;
   -khtml-user-select: none;
@@ -234,10 +206,13 @@ pre code {
 
 /* Quotes */
 blockquote {
-  padding: 0 1rem;
+  padding: 0.75rem 1rem;
   margin: 1.2rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  color: rgba(51,68,104, 0.7);
+  border-left: 2px solid rgba(51,68,104, 0.6);
+  font-size: 120%;
+  line-height: 1.5;
+  font-weight: 300;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -252,14 +227,30 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
-  border-radius: 5px;
 }
 
-figcaption {
-    text-align: center;
-    margin-bottom: 1rem;
-    font-size: 80%;
+.maingraphic {
+  margin-bottom: 1rem;
+}
+
+
+.maingraphic img {
+
+}
+
+
+.maingraphic figcaption {
+  font-size: 80%;
+  color: #9a9a9a;
+}
+
+.post img {
+  margin: 0 0 1rem;
+}
+
+.post figcaption {
+  margin-bottom: 1rem;
+  font-size: 80%;
 }
 
 
@@ -321,9 +312,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
+  max-width: 34rem;
   margin-left:  auto;
   margin-right: auto;
 }
@@ -336,28 +325,38 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
-  background-color: rgba(51,68,104, 0.2);
+  position: fixed;
+  z-index: 10;
+  background-color: white;
+  top: 0;
+  left: 1rem;
+  right: 1rem;
+  box-shadow: 0 1px rgba(0,0,0, 0.1);
 }
+
+
 .masthead-title {
-  margin: 0 auto;
-  background: 50% 40% no-repeat;
-  padding-top: 85px;
-  text-align: center;
+  margin-top: 0.7rem;
+  margin-bottom: 0;
+  font-size: 85%;
+  padding-top: 1.1rem;
+  padding-bottom: 0.4rem;
+  position: relative;
+  background: 0.9rem 0 no-repeat;
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA2wAAAFfAgMAAABPc6foAAAADFBMVEUAAAAAAAAAAAAAAAA16TeWAAAABHRSTlMA/osyHGkoQAAABHpJREFUeAHt2zFy20YUxvEVMSpSxKx0BDfpVUSFmSO48EIexIVqKoWPkEvgCCy4zAx1AM8Ql+ARUpgVagyHm7HESDbIaMFHEIvH/L8LkD9+u/sWGsF0mIGrxZxPLuyPSbFhw4YNGzZs2LBhw4YNGzZs2LD972zYsGHDhg0bNmzYsGF7TYMNGzZs2LBhw4YNGzZs2LBhw4YNGzZs2LBhw4YNGzZs2LBhw4YNmz03UuJXztmXpM7NvdGfYeVyuzeZWxSKYaNdV803K3U2ttrCArx5oa6yqW0cXeVtJvagjNdaZO/Csl1dqV+mWTecWnFmRa9plT0m6ZcelzaxR+a+0F+asuqSiW0l9z08HnPbUrJSy3rUvy6/2lbzl4KtJs69ItrYuZnfxjk30YJ7kwdYvtgzCjcBYFb0nJY6/1rfGyfExae5tQlmMxXgYtOyRdPdWuX9xCV5Gw+bm0kknIA2Llt66Pu9b4d/JrpWVHm/RsHfzS9M0mvbH5FovzZ/dpY/sz9EoQ32LMcjv8nN7sJMo9je7pZ2/A7ere5zDFv9N05bWT43ddvHCLSfRcNIcBuIYLsWndaCyfJb97Yr+32+nO5J933c7Za2fFLfxN1wiWyrCf6ydNu57UJIE5wocY5JAU2AK7q2XT7f1YtTPxn+GWUECFoT4D5HuXEJaALcXRxbKqc1wUWyXQnnmmDOvY9ie+jiETGCrZsbQx7DtuzmQ5fYsGHDhg0bNmzYsGHDhg0bNmzYsGHDhg0bNmzYsGHDhg0bNmzYsGHDhk2hDds7F0jenS1zgRSC/6YNpCtbMOlBuKUqm/0kqE2LLTXNc63FJni5canEJliUidVmuxW8R6TF1vx9pEstNsGLm2/12e5Mw1xpsQm+Sq7FJngp1eqzfRCMgH7a5ENgoNCWYjMXCm0W25OtCE/4bmx34SuiQhs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwYcOGDRs2bPJgw4YNGzZs2H5xD1ps8py/DRs2bNiwYcOGDRs2bNiwYcOGDRs2bNiwJf4platn7rfRYkteGPawpO5bZt77sle2kd/s1cgzfio2ni3x3jmX25PGObfwZXe2oV/JTWLjzK9PavObzlF14twXbdjqKtuXjOtCqS3x8boKdOhLuW3o45cVrHBRCmzHsjL3nIXfE/ec6bHAaWPbqBJ+2L/jd20kGW4Hv3QHzEMf61eCG8U3UGFajX+8D0wOXqHe7I8/aHFkjyRz6ox85Q78XvXfebSaHoBayGuSF3kAMXvp7820+eWgMDGT+KrpfhzPHvffMvxD1FSR46tGHX40ZhAoa1GaPqbBpaIwP4Unf2+T+NUrwDtzvW8RRmxLAPyPJfrJXNXrmnmjL6Nqt8AP3x8lqZuXRm+SzY/j/tZsuWltGWr1+RdfanIlLkF/xs3W5vwyrJy15nwz+geowMIfCNpT9AAAAABJRU5ErkJggg==);
-  background-size: 100px auto;
+  background-size: auto 1.5rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 
 }
 .masthead-title a {
   color: inherit;
 }
 .masthead-title small {
-  font-size: 75%;
-  font-weight: 400;
-  letter-spacing: 0;
-  display: block;
+  font-size: 170%;
+  font-weight: 300;
+  margin-left: 0.5rem;
 }
 
 
@@ -529,8 +528,7 @@ a.pagination-item:hover {
   position: relative;
   margin-top: 6rem;
   padding: 2rem;
-  text-align: center;
-  background-color: rgba(51,68,104, 0.2);
+  box-shadow: 0 -1px rgba(0,0,0, 0.1);
 }
 
 .site-footer h5 {
@@ -566,6 +564,7 @@ a.pagination-item:hover {
 .post-content > p:first-child > strong:first-child {
   font-weight: 300;
   font-size: 1.2rem;
+  line-height: 26px;
   display: block;
 }
 main > .post .post-content > p:first-child > strong:first-child {
