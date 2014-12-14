@@ -8,6 +8,18 @@ permalink: 404.html
   <h1 class="page-title">404: Fant ikke siden</h1>
   <p class="lead">
     Hmm, den siden finnes ikke.
+
     Prøv <a href="{{ site.baseurl }}">forsiden</a> i stedet.
   </p>
 </div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.js"></script>
+
+<script>
+ var otherPath = "https://www.holderdeord.no" + window.location.pathname;
+
+ d3.xhr(otherPath, function(error, data) {
+   if (error) { return; }
+   window.location.replace(otherPath)
+ })
+</script>
