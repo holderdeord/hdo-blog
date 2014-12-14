@@ -13,16 +13,16 @@ Vi bruker [Jekyll](jekyllrb.com) på denne bloggen.
 
 ## A. Jeg vil publisere
 
-1. For å lage en ny artikkel må du lage en ny fil i mappen som heter [_posts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_posts).  
+For å lage en ny artikkel må du lage en ny fil i mappen som heter [_posts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_posts).  
 Trykk på "+" for å lage en ny fil.
 
 ![Ny fil](/images/nyfil.png)
 
 Filen skal hete følgende: YYYY-MM-DD-title-of-post.md  
 
-2. På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)  
-3. Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).  
-4. Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.  
+- På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)  
+- Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).  
+- Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.  
 
 ![Commit](/images/commit.png)
 
@@ -30,22 +30,22 @@ Deretter gå til [bloggen](blog.holderdeord.no). Artikkelen skal komme innen 10 
 
 ## B. Jeg vil forhandsvise uten publisering
 
-1. For å lage en ny artikkel du ønsker å forhåndsvise må du lage en ny fil i mappen som heter [_drafts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_drafts).  
+For å lage en ny artikkel du ønsker å forhåndsvise må du lage en ny fil i mappen som heter [_drafts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_drafts).  
 Trykk på "+" for å lage en ny fil.
 
 ![Ny fil](/images/nyfil.png)
 
 Filen skal hete følgende: YYYY-MM-DD-title-of-post.md  
 
-2. På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)  
-3. Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).  
-4. Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.  
+- På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)  
+- Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).  
+- Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.  
 
 ![Commit](/images/commit.png)
 
 Deretter gå til draft [bloggen](drafts.holderdeord.no). Artikkelen skal komme innen 10 minutter.
 
-## C. Jeg ønsker å bruke Prose.io til å skrive
+## C. Jeg vil bruke Prose.io til skriving
 
 Prose guide vil komme
 
