@@ -42,8 +42,6 @@
 body {
   margin: 0;
   padding-top: 5rem;
-  padding-right: 1rem;
-  padding-left: 1rem;
   font: 15px/1.5 "Roboto Slab", sans-serif;
   color: #333;
   -webkit-user-select: none;
@@ -235,13 +233,17 @@ img {
 
 
 .maingraphic img {
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 
 
 .maingraphic figcaption {
   font-size: 80%;
   color: #9a9a9a;
+  text-align: center;
 }
 
 .post img {

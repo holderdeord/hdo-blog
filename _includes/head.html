@@ -57,7 +57,10 @@
     <meta content="{{ site.url }}/about/" property="article:author">
   {% endif %}
 
-  {% if page.thumbnail %}
+  {% if page.graphic %}
+    <meta property="og:image" content="{{ page.graphic.url }}">
+    <meta name="twitter:image:src" content="{{ page.graphic.url }}">
+  {% else if page.thumbnail %}
     <meta property="og:image" content="{{ page.thumbnail }}">
     <meta name="twitter:image:src" content="{{ page.thumbnail }}">
   {% else %}
