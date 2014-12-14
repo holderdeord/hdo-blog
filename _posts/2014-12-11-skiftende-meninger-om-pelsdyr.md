@@ -2,7 +2,6 @@
 layout: post
 title: Skiftende meninger om pelsdyr
 date: "2014-12-11T20:06:59.000+01:00"
-visualization: true
 comments: true
 thumbnail: https://c4.staticflickr.com/4/3637/3366453654_9ec3cda5a9_b.jpg
 authors:
@@ -11,6 +10,10 @@ authors:
 tags:
   - pelsdyr
   - løfter
+scripts:
+  - d3
+  - c3
+  - __title__
 ---
 
 **Med dokumentaren [«Pels»](http://tv.nrk.no/serie/brennpunkt/MDUP11001814/09-12-2014) (sendt på NRK 9. desember 2014) og [pelsdyrutvalgets](http://www.regjeringen.no/nb/dep/lmd/tema/dyr/utvalg-som-skal-gjennomga-pelsdyrnaringe.html?id=74880...) innstilling som legges frem 15. desember blusser pelsdyrdebatten opp på ny. Vi har sett på partienes løfter i denne og forrige periode.**

@@ -4,7 +4,6 @@ title: Hvilke aviser leser politikerne?
 date: '2014-12-10-T10:14:32.000+01:00'
 authors:
 - Jari Bakken
-visualization: true
 comments: true
 thumbnail: http://files.holderdeord.no/images/hvilke-aviser-leser-politikerne.png
 tags:
@@ -14,6 +13,10 @@ tags:
 - aviser
 - stortinget
 - referater
+scripts:
+- d3
+- c3
+- __title__
 ---
 
 **Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.**

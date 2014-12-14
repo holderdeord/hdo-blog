@@ -10,9 +10,16 @@
  }
 </script>
 
-{% if page.visualization %}
-  <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.js"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/c3/0.3.0/c3.min.js"></script>
+{% for script in page.scripts %}
+  {% if script == 'd3' %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.js"></script>
+  {% endif %}
 
-  <script src="/public/js/{{ page.title | slugify }}.js"></script>
-{% endif %}
+  {% if script == 'c3' %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/c3/0.3.0/c3.min.js"></script>
+  {% endif %}
+
+  {% if script == '__title__' %}
+    <script src="/public/js/posts/{{ page.title | slugify }}.js"></script>
+  {% endif %}
+{% endfor %}
