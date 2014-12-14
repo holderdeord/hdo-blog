@@ -15,7 +15,7 @@ redirect_from: "/2013/10/nskeliste-til-stortinget.html"
 
 ---
 
-Holder de ord er i stor grad bygget på data fra Stortinget. Hver natt importerer vi informasjon om representanter, komiteer, partier, avstemninger og forslag fra Stortingets datatjeneste, [data.stortinget.no](http://data.stortinget.no/), som ble lansert i mai 2012. Vi kan trygt si at det å ha tilgang på strukturerte, maskinlesbare data om hva som skjer på Stortinget er helt avgjørende for vårt arbeid for å følge opp de folkevalgte.
+**Holder de ord er i stor grad bygget på data fra Stortinget. Hver natt importerer vi informasjon om representanter, komiteer, partier, avstemninger og forslag fra Stortingets datatjeneste, [data.stortinget.no](http://data.stortinget.no/), som ble lansert i mai 2012. Vi kan trygt si at det å ha tilgang på strukturerte, maskinlesbare data om hva som skjer på Stortinget er helt avgjørende for vårt arbeid for å følge opp de folkevalgte.**
 
 Stortinget er i så måte del av en internasjonal trend, hvor [stadig flere land](http://blog.openingparliament.org/post/58716965078/availability-of-voting-results-in-parliaments) tilgjengeliggjør parlamentsdata for fritt gjenbruk under åpne lisenser. Våre søsterorgansisasjoner i utlandet, som tidligere måtte bruke mye tid og ressurser på å hente data ut fra nettsidene til landets parlament, kan nå fokusere på å lage gode tjenester basert på dataene, framfor helt enkelt å få tak på dem.
 

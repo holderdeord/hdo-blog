@@ -19,7 +19,7 @@
             verticalOrientation: true,
             tooltip: true,
             label: { position: 'top' },
-
+            colLimit: 52,
             subDomainDateFormat: function (date) { return moment(date).format('ll'); },
             itemName: ['avstemning', 'avstemninger'],
             subDomainTitleFormat: {filled: '{date}: {count} {name}'}
