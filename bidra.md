@@ -4,40 +4,42 @@ NB! Alt som gjøres på Github er åpent for alle å se.
 Det kreves en [Github](https://github.com/) konto for å jobbe med bloggen. Følg instrukser [her](https://github.com/join).  
 Vi bruker [Jekyll](jekyllrb.com) på denne bloggen.  
 
-[A. Jeg ønsker å publisere](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#a-jeg-%C3%B8nsker-%C3%A5-publisere)  
-[B. Jeg ønsker å forhåndsvise uten å publisere](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#b-jeg-%C3%B8nsker-%C3%A5-forh%C3%A5ndsvise-uten-%C3%A5-publisere)  
-[C. Jeg ønsker å bruke Prose.io til å skrive](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#c-jeg-%C3%B8nsker-%C3%A5-bruke-proseio-til-%C3%A5-skrive)  
+[A. Jeg vil publisere](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#a-jeg-vil-publisere)  
+[B. Jeg vil forhandsvise uten publisering](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#b-jeg-vil-forhandsvise-uten-publisering)  
+[C. Jeg vil bruke Prose.io til skriving](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#c-jeg-vil-bruke-proseio-til-skriving)  
 [D. Jeg trenger hjelp med bilder, lenker, lister og annet Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown)  
-[E. Metadata på hdo-blog](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-p%C3%A5-hdo-blog)  
+[E. Metadata for post hos hdo-blog](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)  
 
 
-## A. Jeg ønsker å publisere
+## A. Jeg vil publisere
 
-1. For å lage en ny artikkel må du lage en ny fil i mappen som heter [_posts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_posts).
+1. For å lage en ny artikkel må du lage en ny fil i mappen som heter [_posts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_posts).  
 Trykk på "+" for å lage en ny fil.
 
 ![Ny fil](/images/nyfil.png)
 
-Filen skal hete følgende: YYYY-MM-DD-title-of-post.md
-2. På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-p%C3%A5-hdo-blog)
-3. Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).
-4. Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.
+Filen skal hete følgende: YYYY-MM-DD-title-of-post.md  
+
+2. På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)  
+3. Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).  
+4. Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.  
 
 ![Commit](/images/commit.png)
 
 Deretter gå til [bloggen](blog.holderdeord.no). Artikkelen skal komme innen 10 minutter.
 
-## B. Jeg ønsker å forhåndsvise uten å publisere
+## B. Jeg vil forhandsvise uten publisering
 
-1. For å lage en ny artikkel du ønsker å forhåndsvise må du lage en ny fil i mappen som heter [_drafts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_drafts).
+1. For å lage en ny artikkel du ønsker å forhåndsvise må du lage en ny fil i mappen som heter [_drafts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_drafts).  
 Trykk på "+" for å lage en ny fil.
 
 ![Ny fil](/images/nyfil.png)
 
-Filen skal hete følgende: YYYY-MM-DD-title-of-post.md
-2. På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-p%C3%A5-hdo-blog)
-3. Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).
-4. Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.
+Filen skal hete følgende: YYYY-MM-DD-title-of-post.md  
+
+2. På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)  
+3. Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).  
+4. Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.  
 
 ![Commit](/images/commit.png)
 
@@ -51,7 +53,7 @@ Prose guide vil komme
 
 Det vil komme en Markdown beskrivelse snart
 
-## E. Metadata på hdo-blog
+## E. Metadata for post hos hdo-blog
 
 Siden vi bruker Jekyll må vi skrive noe metadata på toppen av hver fil.
 Her kommer en liten beskrivelse av hvilke metadata vi bruker og hva det betyr.
