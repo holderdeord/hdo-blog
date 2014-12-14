@@ -2,7 +2,7 @@
 
 ## Bidra
 
-Les om hvordan du kan birda til bloggen i [bidra.md](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md)
+Les om hvordan du kan bidra til bloggen i [bidra.md](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md)
 
 ## Kjøre lokalt
 
