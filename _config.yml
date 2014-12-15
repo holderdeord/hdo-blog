@@ -15,15 +15,11 @@ author:
   url:            https://www.holderdeord.no/
   twitter:        holderdeord
   email:          kontakt@holderdeord.no
-collections:
-  polls:
-    output: true
-    permalink: "/polls/:path/"
 
 # Custom vars
 markdown:         kramdown # same as github pages
 version:          0.0.1
-exclude: [vendor]
+exclude:          [vendor]
 github:
   repo:           https://github.com/holderdeord/hdo-blog
 gems:
