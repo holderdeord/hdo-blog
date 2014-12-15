@@ -23,6 +23,10 @@
     <script type="text/javascript" src="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.min.js"></script>
   {% endif %}
 
+  {% if script == 'twitter-wjs' %}
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  {% endif %}
+
   {% if script == '__title__' %}
     <script src="/public/js/posts/{{ page.title | slugify }}.js"></script>
   {% endif %}

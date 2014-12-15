@@ -88,7 +88,6 @@ Vi ønsker å grave mer i referatene framover, og innspill og ideer er hjertelig
 [2]: http://data.stortinget.no/
 
 <style>
-.hvilke-aviser-leser-politikerne .c3-tooltip th { color: #111; }
 .hvilke-aviser-leser-politikerne .matrix svg { font: 9px sans-serif;}
 .hvilke-aviser-leser-politikerne .matrix svg .background { fill: #efefef; }
 .hvilke-aviser-leser-politikerne .matrix svg line { stroke: #fff; }

@@ -51,10 +51,6 @@ Her er forholdet mellom antall voteringer og utbryterstemmer.
 
 <div id="nar-stemmes-det-pa-stortinget-scatter"></div>
 
-<style>
-.n-r-stemmes-det-p-stortinget .c3-tooltip th { color: #111; }
-</style>
-
 
 
 
