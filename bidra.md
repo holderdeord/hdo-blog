@@ -4,10 +4,10 @@ NB! Alt som gjøres på Github er åpent for alle å se.
 Det kreves en [Github](https://github.com/)-konto for å jobbe med bloggen. Følg instrukser [her](https://github.com/join).
 Vi bruker [Jekyll](jekyllrb.com) på denne bloggen.
 
-[A. Jeg vil publisere](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#a-jeg-vil-publisere)
-[B. Jeg vil forhandsvise uten publisering](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#b-jeg-vil-forhandsvise-uten-publisering)
-[C. Jeg vil bruke Prose.io til skriving](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#c-jeg-vil-bruke-proseio-til-skriving)
-[D. Jeg trenger hjelp med bilder, lenker, lister og annet Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown)
+[A. Jeg vil publisere](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#a-jeg-vil-publisere)  
+[B. Jeg vil forhandsvise uten publisering](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#b-jeg-vil-forhandsvise-uten-publisering)  
+[C. Jeg vil bruke Prose.io til skriving](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#c-jeg-vil-bruke-proseio-til-skriving)  
+[D. Jeg trenger hjelp med bilder, lenker, lister og annet Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown)  
 [E. Metadata for post hos hdo-blog](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)
 
 ## A. Jeg vil publisere
