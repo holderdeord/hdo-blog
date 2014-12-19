@@ -16,7 +16,7 @@ scripts:
   - __title__
 ---
 
-**Med dokumentaren [«Pels»](http://tv.nrk.no/serie/brennpunkt/MDUP11001814/09-12-2014) (sendt på NRK 9. desember 2014) og [pelsdyrutvalgets](http://www.regjeringen.no/nb/dep/lmd/tema/dyr/utvalg-som-skal-gjennomga-pelsdyrnaringe.html?id=74880...) innstilling som legges frem 15. desember blusser pelsdyrdebatten opp på ny. Vi har sett på partienes løfter i denne og forrige periode.**
+**Med dokumentaren [«Pels»](http://tv.nrk.no/serie/brennpunkt/MDUP11001814/09-12-2014) (sendt på NRK 9. desember 2014) og [pelsdyrutvalgets](https://www.regjeringen.no/nb/tema/mat-fiske-og-landbruk/dyr/innsikt/utvalg-som-skal-gjennomga-pelsdyrnaringe/id748801/) innstilling som legges frem 15. desember blusser pelsdyrdebatten opp på ny. Vi har sett på partienes løfter i denne og forrige periode.**
 
 Ved hjelp av Holder de ords [løftedatabase](https://www.holderdeord.no/promises) har vi gått gjennom partienes løfter om pelsdyrnæringen. En sammenligning på tvers av periodene viser at det er bevegelse i partienes standpunkter.
 
