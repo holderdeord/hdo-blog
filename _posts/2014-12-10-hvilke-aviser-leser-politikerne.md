@@ -35,7 +35,7 @@ Pressens evne til å sette dagsorden får ikke minst utslag i Stortingets spørr
 
 > Jeg tror vi alle er dypt berørt over oppslagene i VG knyttet til Odin, svarte statsministeren.
 
-Sånn har det ikke alltid vært. I etterkrigstiden var det norske pressekorpset ekstremt politisert, ofte med en helt utilslørt partipolitisk tilknytning. En sjefsredaktør kunne gjerne sitte i sentralstyret til i et politisk parti. Journalistene identifiserte seg med makten, og utfordret i liten grad den dagsorden som de politiske institusjonene hadde satt.
+Sånn har det ikke alltid vært. I etterkrigstiden var det norske pressekorpset ekstremt politisert, ofte med en helt utilslørt partipolitisk tilknytning. En sjefsredaktør kunne gjerne sitte i sentralstyret til et politisk parti. Journalistene identifiserte seg med makten, og utfordret i liten grad den dagsorden som de politiske institusjonene hadde satt.
 
 Selv om mediene ikke lenger har en direkte kobling til partier og politiske institusjoner, er den redaksjonelle friheten under press fra kommersielle eiere med strenge krav til inntjening. Medieproduktene innrettes mot eiernes forventninger, som har overtatt partienes rolle i valg av redaktører og journalistiske rammebetingelser. Løsrivelsen kan føre til en mer maktkritisk presse, men med en blindsone for egne eieres makt og interesser.
 
