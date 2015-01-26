@@ -10,12 +10,13 @@
     function drawTotals() {
         var cols = [];
         var entries = d3.entries(totals).sort(function (a, b) { return d3.descending(a.value, b.value); });
+        var labels = entries.map(function (d) { return d.key; });
 
-        cols.push(['x'].concat(entries.map(function (d) { return d.key; })));
+        cols.push(['x'].concat(labels));
         cols.push(['Antall referanser'].concat(entries.map(function (d) { return d.value; })));
         cols.push(['Opplag 2013'].concat(entries.map(function (e) { return prints[e.key]; })));
 
-        var chart = c3.generate({
+        var totalsChart = c3.generate({
             bindto: document.getElementById('hvilke-aviser-leser-politikerne-totals'),
             data: {
                 x: 'x',
@@ -27,9 +28,13 @@
                 type: 'line'
             },
             axis: {
-                x: { type: 'category' },
+                x: {
+                    type: 'category',
+                    tick: { multiline: false }
+                },
                 rotated: true
             },
+            transition: { duration: 0 },
             point: { show: true },
             tooltip: {
                 format: {
@@ -52,7 +57,7 @@
                 .map(normalize)
                 .sort(function (a, b) { return d3.descending(a.score, b.score); });
 
-        var chart = c3.generate({
+        var normalizedChart = c3.generate({
             bindto: document.getElementById('hvilke-aviser-leser-politikerne-normalized'),
             data: {
                 x: 'x',
@@ -63,9 +68,13 @@
                 type: 'line'
             },
             axis: {
-                x: { type: 'category' },
+                x: {
+                    type: 'category',
+                    tick: { multiline: false }
+                },
                 rotated: true
             },
+            transition: { duration: 0 },
             tooltip: {
                 format: {
                     title: function (idx) { return (idx + 1) + '. ' + data[idx].key; },
@@ -78,7 +87,7 @@
     }
 
     function drawParties() {
-        var chart = c3.generate({
+        var partiesChart = c3.generate({
             bindto: document.getElementById('hvilke-aviser-leser-politikerne-by-party'),
             data: {
                 x: 'Parti',
@@ -93,7 +102,7 @@
 
         var previousKey;
 
-        function load(key) {
+        return function (key) {
             var entries = d3
                     .entries(byParty[key])
                     .filter(function (e) { return e.key !== "Ukjent" && e.value > 0; })
@@ -106,19 +115,17 @@
             cols.push(['Parti'].concat(entries.map(function (e) { return e.key; })));
             cols.push([colKey].concat(entries.map(function (e) { return e.value; })));
 
-            chart.load({
+            partiesChart.load({
                 columns: cols,
                 unload: previousKey
             });
 
             previousKey = colKey;
-        }
-
-        return load;
+        };
     }
 
     function drawTimeline() {
-        var chart = c3.generate({
+        var timelineChart = c3.generate({
             bindto: document.getElementById('hvilke-aviser-leser-politikerne-by-year'),
             data: {
                 x: 'year',
@@ -132,7 +139,7 @@
 
         var previousKey;
 
-        function load(key) {
+        return function (key) {
             var cols = [];
             var entries = d3
                     .entries(byYear[key])
@@ -142,15 +149,13 @@
             cols.push(['year'].concat(entries.map(function (e) { return +e.key; })));
             cols.push([colKey].concat(entries.map(function (e) { return e.value; })));
 
-            chart.load({
+            timelineChart.load({
                 columns: cols,
                 unload: previousKey
             });
 
             previousKey = colKey;
-        }
-
-        return load;
+        };
     }
 
     function createGraph(obj) {

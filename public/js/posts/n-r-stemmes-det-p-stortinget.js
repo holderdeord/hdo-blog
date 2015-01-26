@@ -114,9 +114,10 @@
             axis: {
                 rotated: false,
                 x: { type: 'category' },
-                y: { min: 0},
+                y: { min: 0 },
                 y2: { show: true, min: 0 }
             },
+            transition: { duration: 0 },
             point: { show: false}
         });
     }
