@@ -26,8 +26,9 @@
                 ],
                 type: 'bar'
             },
+            transition: { duration: 0 },
             axis: {
-                x: { type: 'category' },
+                x: { type: 'category', tick: { multiline: false } },
                 rotated: true
             }
         });
@@ -50,6 +51,7 @@
                 ],
                 type: 'bar'
             },
+            transition: { duration: 0 },
             axis: {
                 x: { type: 'category' },
                 rotated: false

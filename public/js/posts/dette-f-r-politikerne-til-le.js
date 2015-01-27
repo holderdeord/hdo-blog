@@ -26,8 +26,9 @@
                 columns: cols,
                 type: 'bar'
             },
+            transition: { duration: 0 },
             axis: {
-                x: { type: 'category' },
+                x: { type: 'category', tick: { multiline: false } },
                 rotated: true
             },
             color: { pattern: ["#e0c600"] }
