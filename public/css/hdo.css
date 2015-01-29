@@ -590,7 +590,6 @@ a.pagination-item:hover {
 
 .muted { color: #7a7a7a; }
 
-
 /* A small hack for enhancing lead paragraphs. */
 .post-content > p:first-child > strong:first-child {
   font-weight: 300;
@@ -600,4 +599,12 @@ a.pagination-item:hover {
 }
 main > .post .post-content > p:first-child > strong:first-child {
   margin-bottom: 2rem;
+}
+
+.fact-box {
+    border-top: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+    padding: 1em;
+    margin: 2em;
+    font-size: 0.9em;
 }
