@@ -2,6 +2,7 @@
 layout: post
 title: Kan Mulla Krekar settes i forvaring?
 date: "2015-12-31T23:59:59.000+01:00"
+thumbnail: http://upload.wikimedia.org/wikipedia/commons/1/1e/Mullah_Krekar.jpg
 authors:
 - Alexander H. Eide
 - Herman Westrum Thorsen
