@@ -18,7 +18,7 @@ tags:
 
 Nestleder i Fremskrittspartiet [Per Sandberg](https://www.holderdeord.no/representatives/pes) entret nylig debatten med å [referere](http://www.tv2.no/a/6473763) til et nedstemt representantforslag fremmet av partiet i 2007 der de ønsket å endre utlendingsloven. Forslaget gikk ut på at personer som er ansett som en trussel mot rikets sikkerhet, men som ikke kan sendes ut, kan settes i forvaring til utreisevedtaket kan effektueres.
 
-<div style="float: right; width: 45%; padding: 1.5em;">
+<div class="right-box">
   <a href="https://www.holderdeord.no/representatives/pes">
     <img src="https://www.holderdeord.no/api/representatives/pes/image?version=medium" alt="ime" style="border-radius: 4px;"/>
     <figcaption>Per Sandberg (FrP)</figcaption>
@@ -32,7 +32,7 @@ Disse argumentene ble da, som de også blir i dag, møtt med referanser til konv
 
 I [Dagsnytt Atten](http://www.nrk.no/norge/sentrale-ap-politikere-ville-bryte-menneskerettighetene-1.12177597) i går kom det frem at også tidligere statsråd for Arbeiderpartiet, [Knut Storberget](https://www.holderdeord.no/representatives/knus), var villig til å bryte menneskerettighetene i forbindelse med en flykaprersak i 2002. Siv Jensen, en av debattantene, som sist uke [bekreftet](http://www.tv2.no/v/873476/) at hun var villig til å sette menneskerettighetene til side for å sende Krekar ut, forsøkte å nyansere diskusjonen ved å argumentere for modernisering og nytolkning av EMK. Det samme ble fremsatt i innstillingen fra 2007, hvor det ble påpekt at EMK sto i veien for nasjonal lovgivning og derfor burde revurderes. Nederland var da ifølge FrP et eksempel på et land som opererer med en annen tolkning av EMK, der asylsøkere som skal returnere på ubestemt tid kan settes i forvaring. Forbeholdet er at en må være sikker på at utsendelse er gjennomførbart, noe en ikke er i tilfellet Krekar.
 
-<figure class="fact-box" style="float: left; width: 45%;">
+<figure class="fact-box left-box">
   <strong>Bakgrunn:</strong>
 
   I en <a href="http://www.domstol.no/DAtemplates/Article____16943.aspx">kjennelse av Høyesterett</a> fra 2007 ble Krekar bestemt utvist fra Norge på bakgrunn av at han er ansett som en trussel mot rikets sikkerhet. Utvisningsvedtaket kan likevel ikke effektueres da han risikerer dødsstraff dersom han vender tilbake til hjemlandet Irak. Norge har gjennom <a href="https://lovdata.no/dokument/NL/lov/1999-05-21-30/KAPITTEL_emkn-1#KAPITTEL_emkn-1">EMK</a> forpliktet seg til å ikke sende personer tilbake til land der de risikerer dødsstraff og tortur.

@@ -604,7 +604,25 @@ main > .post .post-content > p:first-child > strong:first-child {
 .fact-box {
     border-top: 1px solid #e2e2e2;
     border-bottom: 1px solid #e2e2e2;
-    padding: 1em;
-    margin: 2em;
     font-size: 0.9em;
+    margin: 1em;
+}
+
+.right-box, .left-box {
+    padding: 1.5em;
+    width: 100%;
+}
+
+@media (min-width: 30em) {
+    .right-box {
+       float: right;
+       width: 50%;
+   };
+}
+
+@media (min-width: 30em) {
+    .left-box {
+       float: left;
+       width: 50%;
+   };
 }
