@@ -13,6 +13,7 @@ tags:
 scripts:
   - d3
   - c3
+  - hdo-widgets
   - __title__
 ---
 
@@ -69,7 +70,6 @@ Blant partiene som har stemt ned forslagene, er det enkelte representanter som h
 
 I denne stortingsperioden har MDG fremmet et [forslag om å avvikle pelsdyrnæringen](https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=61168). Forslaget er til behandling i Næringskomiteen og vil bli stemt over på nyåret. Skal vi tro partienes løfter vil forslaget få støtte av SV, Arbeiderpartiet og Venstre, mens det fortsatt er åpent hva KrF, Høyre og Frp vil lande på. Samtidig holder vi en knapp på at Senterpartiet vil stemme mot avvikling.
 
-<script src="https://www.holderdeord.no/widgets"></script>
 
 <style>
 #pelsdyr-meninger-vis {
