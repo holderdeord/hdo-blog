@@ -52,8 +52,7 @@ var data = {
 
 createStoryJS({
     type:       'timeline',
-    width:      '512',
-    height:     '600',
+    height:     '500',
     source:     data,
     lang:       'no',
     font:       'NewsCycle-Merriweather',
