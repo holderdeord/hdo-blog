@@ -3,21 +3,22 @@ layout: post
 title: Uærlig om tiggeforbud
 date: "2015-02-05T21:35:00.000+02:00"
 comments: true
-thumbnail: http://upload.wikimedia.org/wikipedia/commons/b/be/Begging%2C_Dublin%2C_October_2010.JPG
-authors:
-- Hanna Tranås
-tags:
-- tigging
-- tiggeforbud
-- senterpartiet
-- høyre
-- fremskrittspartiet
-- løftebrudd
-scripts:
-- twitter-wjs
-- hdo-widgets
-- timelinejs
-- __title__
+thumbnail: "http://upload.wikimedia.org/wikipedia/commons/b/be/Begging%2C_Dublin%2C_October_2010.JPG"
+authors: 
+  - Hanna Tranås
+tags: 
+  - tigging
+  - tiggeforbud
+  - senterpartiet
+  - høyre
+  - fremskrittspartiet
+  - løftebrudd
+scripts: 
+  - "twitter-wjs"
+  - "hdo-widgets"
+  - timelinejs
+  - __title__
+published: true
 ---
 
 **Justisdepartementet sendte 22. januar 2015 ut forslag om nasjonalt tiggeforbud på høring. Høringsfristen var satt til 15. februar, men hele prosessen ble 5. februar avbrutt av at Senterpartiet, som var garantist for flertallet, plutselig trakk sin støtte.**
@@ -28,7 +29,7 @@ I kjølvannet av at Senterpartiet trakk sin støtte til et nasjonalt forbud mot 
 
 ### Sakens gang
 
-Forslaget som ble sendt ut på høring var en oppfølging av et [vedtak i Stortinget](https://stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=59721) 16. juni 2014. Da sørget Senterpartiet først for flertall for lokalt tiggeforbud, og så for flertall for at et forslag om nasjonalt forbud skulle fremmes i god tid til at det kunne være på plass innen sommeren 2015. Justiskomiteens representant for Senterpartiet, [Jenny Klinge](https://www.holderdeord.no/representatives/jkl), [mente den gang](https://stortinget.no/Global/pdf/Innstillinger/Stortinget/2013-2014/Inns-201314-275.pdf) at «et nasjonalt forbud mot tigging vil avhjelpe den situasjonen som har oppstått de siste årene, og at lokale forbud ikke er tilstrekkelig.» Dette er ikke overraskende siden Senterpartiet sammen med FrP er det partiet som i lengst tid har gått inn for et tiggerforbud. Ved Stortingsvalget i 2009 het det i deres program at:
+Forslaget som ble sendt ut på høring var en oppfølging av et [vedtak i Stortinget](https://stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=59721) 16. juni 2014. Da sørget Senterpartiet først for flertall for lokalt tiggeforbud, og så for flertall for at et forslag om nasjonalt forbud skulle fremmes i god tid til at det kunne være på plass innen sommeren 2015. Justiskomiteens representant for Senterpartiet, [Jenny Klinge](https://www.holderdeord.no/representatives/jkl), [mente den gang](https://stortinget.no/Global/pdf/Innstillinger/Stortinget/2013-2014/Inns-201314-275.pdf) at «et nasjonalt forbud mot tigging vil avhjelpe den situasjonen som har oppstått de siste årene, og at lokale forbud ikke er tilstrekkelig.» Dette er ikke overraskende siden Senterpartiet sammen med FrP er det partiet som i lengst tid har gått inn for et tiggeforbud. Ved Stortingsvalget i 2009 het det i deres program at:
 
 <a class="hdo-promises-widget" data-promises="11688,3784" href="https://www.holderdeord.no/">Laster innhold...</a>
 
@@ -36,7 +37,7 @@ Ved Stortingsvalget i 2013 hadde Høyre blitt med på tanken, mens regjeringens 
 
 <a class="hdo-promises-widget" data-promises="8306,11117,10273,8704,7541" href="https://www.holderdeord.no/">Laster innhold...</a>
 
-Det er flere merkelige ting med det som har skjedd i etterkant av at Senterpartiet trakk sin støtte. For det første er det rart at regjeringspartiene går ut i media med feil informasjon. Til [NRK](http://www.nrk.no/norge/_-sp-har-fort-sine-eigne-bak-lyset-1.12191633) sier stortingsrepresentant [Peter Christian Frøølich](https://www.holderdeord.no/representatives/pcf) (H) at
+Det er flere merkelige ting med det som har skjedd i etterkant av at Senterpartiet trakk sin støtte. For det første er det rart at regjeringspartiene går ut i media med feil informasjon. Til [NRK](http://www.nrk.no/norge/_-sp-har-fort-sine-eigne-bak-lyset-1.12191633) sier stortingsrepresentant [Peter Christian Frølich](https://www.holderdeord.no/representatives/pcf) (H) at
 
 > Dette er nesten som et politisk sirkus, spesielt når det er Senterpartiet som har stelt i stand dette. [...] Senterpartiet tvang oss nærmest til å innføre et nasjonalt forbud i stedet for at kommunene skulle få bestemme selv, men så blir Senterpartiet uenige med Senterpartiet. De bryter en avtale.
 
@@ -75,4 +76,3 @@ og at
 Den korte høringsfristen, satt til 15. februar, ble begrunnet med at høringsinstansene både våren 2013 og våren 2014 ga uttalelser om adgangen til å regulere eller forby tigging. Dette er sant, med unntak av innlemmelsen av medvirkning til tigging, samt forslaget om strafferamme for brudd på et eventuelt forbud, som har blitt utvida fra to måneder til inntil et år siden FrP og Høyre satt i opposisjon og fremmet forslag der. [Marit Arnstad]([Marit Arnstad](https://www.holderdeord.no/representatives/maa)) sier til [Dagsnytt atten](http://radio.nrk.no/serie/dagsnytt-atten/nmag03002515/05-02-2015#t=47s) at det var at medvirkning skulle straffes som var utslagsgivende. Dette har aldri tidligere vært foreslått av regjeringspartiene.
 
 At Senterpartiet nå totalt avviser et hvert nasjonalt forbud vitner imidlertid om at stormen rundt forslaget har gjort at også et moderert forslag er såpass kontroversielt at Senterpartiets stortingsgruppe ikke vil assosieres med det, til tross for at flertallet i partiet har gått inn for det i to stortingsperioder. For å unngå å gå på akkord med både eget landsmøtevedtak og vedtaket av juni 2014, burde Senterpartiet brukt muligheten sin til å forme lovforslaget når det blir behandlet i Stortingets justiskomité. Partiet bryter sitt løfte om å innføre et nasjonalt forbud mot tigging ved å ikke ønske å forhandle med Regjeringen om en alternativ utforming av et slikt lovforslag.
-
