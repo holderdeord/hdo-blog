@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uærlig om tiggeforbud
-date: "2015-12-31T23:59:59.000+01:00"
+date: "2015-02-05T21:35:00.000+02:00"
 comments: true
 thumbnail: http://upload.wikimedia.org/wikipedia/commons/b/be/Begging%2C_Dublin%2C_October_2010.JPG
 authors:
