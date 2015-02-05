@@ -2,6 +2,8 @@
 layout: post
 title: Uærlig om tiggeforbud
 date: "2015-12-31T23:59:59.000+01:00"
+comments: true
+thumbnail: http://upload.wikimedia.org/wikipedia/commons/b/be/Begging%2C_Dublin%2C_October_2010.JPG
 authors:
 - Hanna Tranås
 tags:
@@ -70,7 +72,7 @@ og at
 
 ### Likevel…
 
-Den korte høringsfristen, satt til 15. februar, ble begrunnet med at høringsinstansene både våren 2013 og våren 2014 ga uttalelser om adgangen til å regulere eller forby tigging. Dette er sant, med unntak av innlemmelsen av medvirkning til tigging, samt forslaget om strafferamme for brudd på et eventuelt forbud, som har blitt utvida fra to måneder til inntil et år siden FrP og Høyre satt i opposisjon og fremmet forslag der. [Marit Arnstad]([Marit Arnstad](https://www.holderdeord.no/representatives/maa)) sier til [Dagsnytt atten](http://radio.nrk.no/serie/dagsnytt-atten/nmag03002515/05-02-2015#t=47s) at det var at medvirkning skulle straffes som var utslagsgivende. Dette har aldri tidligere vært foreslått av regjeringspartiene, og Senterpartiet kan således like gjerne beskylde regjeringa for avtalebrudd.
+Den korte høringsfristen, satt til 15. februar, ble begrunnet med at høringsinstansene både våren 2013 og våren 2014 ga uttalelser om adgangen til å regulere eller forby tigging. Dette er sant, med unntak av innlemmelsen av medvirkning til tigging, samt forslaget om strafferamme for brudd på et eventuelt forbud, som har blitt utvida fra to måneder til inntil et år siden FrP og Høyre satt i opposisjon og fremmet forslag der. [Marit Arnstad]([Marit Arnstad](https://www.holderdeord.no/representatives/maa)) sier til [Dagsnytt atten](http://radio.nrk.no/serie/dagsnytt-atten/nmag03002515/05-02-2015#t=47s) at det var at medvirkning skulle straffes som var utslagsgivende. Dette har aldri tidligere vært foreslått av regjeringspartiene.
 
 At Senterpartiet nå totalt avviser et hvert nasjonalt forbud vitner imidlertid om at stormen rundt forslaget har gjort at også et moderert forslag er såpass kontroversielt at Senterpartiets stortingsgruppe ikke vil assosieres med det, til tross for at flertallet i partiet har gått inn for det i to stortingsperioder. For å unngå å gå på akkord med både eget landsmøtevedtak og vedtaket av juni 2014, burde Senterpartiet brukt muligheten sin til å forme lovforslaget når det blir behandlet i Stortingets justiskomité. Partiet bryter sitt løfte om å innføre et nasjonalt forbud mot tigging ved å ikke ønske å forhandle med Regjeringen om en alternativ utforming av et slikt lovforslag.
 
