@@ -63,6 +63,7 @@
                     label: 'Avstemninger'
                 }
             },
+            transition: { duration: 0 },
             legend: { show: false },
             tooltip: {
                 format: {
@@ -128,7 +129,6 @@
     dayCounts();
     hourHistogram('#nar-stemmes-det-pa-stortinget-hours', 'Antall avstemninger', voteHours);
     hourHistogram('#nar-stemmes-det-pa-stortinget-rebel-hours', 'Antall utbryterstemmer', rebelHours);
-    rebelHours();
     scatter();
 
 }());
