@@ -41,11 +41,11 @@ Velg: <select id="nar-stemmes-det-pa-stortinget-calendar-select"><option>Avstemn
 
 #### Når på døgnet stemmes det?
 
-Er dette morsomt? Litt usikker.
+Alle avstemninger:
 
 <div id="nar-stemmes-det-pa-stortinget-hours"></div>
 
-Når er det feilstemmer?
+Når forekommer utbryterstemmer?
 
 <div id="nar-stemmes-det-pa-stortinget-rebel-hours"></div>
 

@@ -4,3 +4,4 @@ _site/
 !/tags
 .ruby-version
 npm-debug.log
+.tern-port
