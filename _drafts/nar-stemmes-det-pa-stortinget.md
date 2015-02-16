@@ -45,6 +45,10 @@ Er dette morsomt? Litt usikker.
 
 <div id="nar-stemmes-det-pa-stortinget-hours"></div>
 
+Når er det feilstemmer?
+
+<div id="nar-stemmes-det-pa-stortinget-rebel-hours"></div>
+
 #### Stemmes det mer feil på lange dager?
 
 Her er forholdet mellom antall voteringer og utbryterstemmer.

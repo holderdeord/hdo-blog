@@ -80,15 +80,40 @@
                 columns: [
                     ['Time på døgnet'].concat(data.map(function (e) { return e[0]; })),
                     ['Antall avstemninger'].concat(data.map(function (e) { return e[1]; }))
+
                 ],
                 type: 'bar'
 
             },
+            transition: { duration: 0},
             axis: {
                 x: { type: 'category' }
             }
         });
     }
+
+    function rebelHours() {
+        var data = [["07", 0], ["08", 0], ["09", 32], ["10", 35], ["11", 155], ["12", 177], ["13", 131], ["14", 179], ["15", 111], ["16", 165], ["17", 164], ["18", 153], ["19", 291], ["20", 242], ["21", 101], ["22", 122], ["23", 48], ["24", 11], ["01", 0], ["02", 0], ["03", 0], ["04", 0], ["05", 0], ["06", 0]];
+
+        var chart = c3.generate({
+            bindto: '#nar-stemmes-det-pa-stortinget-rebel-hours',
+            data: {
+                x: 'Time på døgnet',
+                columns: [
+                    ['Time på døgnet'].concat(data.map(function (e) { return e[0]; })),
+                    ['Antall utrbyterstemmer'].concat(data.map(function (e) { return e[1]; }))
+
+                ],
+                type: 'bar'
+            },
+            transition: { duration: 0},
+            axis: {
+                x: { type: 'category' }
+            }
+        });
+    }
+
+
 
     function dayCounts() {
         var days = [["2009-2010", 67], ["2010-2011", 72], ["2011-2012", 71], ["2012-2013", 65], ["2013-2014", 57]];
@@ -124,6 +149,7 @@
     heatmap('votes');
     dayCounts();
     hours();
+    rebelHours();
     scatter();
 
 }());
