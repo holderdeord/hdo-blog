@@ -1,22 +1,23 @@
 ---
 layout: post
-title: Når stemmes det på Stortinget?
+title: "Når stemmes det på Stortinget?"
 date: "2015-12-31T23:59:59.000+01:00"
-authors:
+authors: 
   - Hanna Tranås
   - Jari Bakken
-tags:
-- avstemninger
-- stortinget
-- utbrytere
-scripts:
-- d3
-- c3
-- cal-heatmap
-- __title__
+tags: 
+  - avstemninger
+  - stortinget
+  - utbrytere
+scripts: 
+  - d3
+  - c3
+  - "cal-heatmap"
+  - __title__
+published: true
 ---
 
-**Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.**
+**Voteringer i stortinget skjer når en sak er ferdigbehandlet, gjerne mot slutten av dagens møter og gjerne på tampen av vår- og høstsesjonene. Men kan stemmetidspunkt påvirke stemmegivningen til den enkelte representant? Og hva skyldes det at antall voteringer falt markant etter valget i 2013? Her er en liten oversikt over stemmegivning på tinget i perioden 2009 til 2014.**
 
 #### Når på året stemmes det?
 
@@ -54,7 +55,3 @@ Når forekommer utbryterstemmer?
 Her er forholdet mellom antall voteringer og utbryterstemmer.
 
 <div id="nar-stemmes-det-pa-stortinget-scatter"></div>
-
-
-
-
