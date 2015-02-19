@@ -3,14 +3,14 @@ layout: post
 title: Søndagsåpne butikker
 date: 2015-02-19T18:55:19+00:00"
 comments: false
-authors: 
+authors:
   - Hanna Tranås
-tags: 
+tags:
   - søndagsåpent
   - handel
   - næringsliv
   - åpningstid
-scripts: 
+scripts:
   - "hdo-widgets"
 ---
 
@@ -23,8 +23,8 @@ Ikke overraskende er partiene delt etter klassiske ideologiske linjer i denne sa
 <a class="hdo-promises-widget" data-promises="8616,8095,5714,11723,11456" href="https://www.holderdeord.no/">Laster innhold...</a>
 
 <a class="hdo-promises-widget" data-promises="4627,2364,5583" href="https://www.holderdeord.no/">Laster innhold...</a>
- 
-Dette kan ha sammenheng med at saken i forrige periode var oppe til debatt fire ganger; to ganger i 2011 og to ganger i 2012. På hver sin ytterkant har KrF og FrP stått. FrP har ved to anledninger fremmet forslag om å umiddelbart fjerne alle begrensninger på åpningstider, samt å fjerne «Brustad-bua», som altså er navnet på dagligvarebutikker som ikke er større enn 100 kvadratmeter. 
+
+Dette kan ha sammenheng med at saken i forrige periode var oppe til debatt fire ganger; to ganger i 2011 og to ganger i 2012. På hver sin ytterkant har KrF og FrP stått. FrP har ved to anledninger fremmet forslag om å umiddelbart fjerne alle begrensninger på åpningstider, samt å fjerne «Brustad-bua», som altså er navnet på dagligvarebutikker som ikke er større enn 100 kvadratmeter.
 
 Argumentene fra FrP har vært at:
 
@@ -34,15 +34,17 @@ Argumentene fra FrP har vært at:
 * Å kvitte seg med byråkratiet knyttet til kontroll av virksomhetene vil være positivt
 * Mange deltidsansatte vil få mulighet til å jobbe mer hvis man opphever begrensningene på søndagsåpent, og de vil slik kunne tjene mer
 
-KrF har på motsatt side tatt til orde for å stramme inn regelverket ytterligere, fordi flere virksomheter omgår reglementet. Argumentene deres har vært at: 
+KrF har på motsatt side tatt til orde for å stramme inn regelverket ytterligere, fordi flere virksomheter omgår reglementet. Argumentene deres har vært at:
 
 * Formålet med helligdagsfreden er å bidra til at folk gis anledning til å ha helgefri ved å sørge for at én dag i uka er annerledes enn vanlige hverdager
-* Søndagsfri er viktig for at alle skal ha muligheten for et godt familieliv 
+* Søndagsfri er viktig for at alle skal ha muligheten for et godt familieliv
 * Søndagsfri er en del av den kristne kulturarven
 * Raske samfunnsendringer gjør det enda viktigere å verne om søndagen som familiedag for de yrkesgruppene som ikke er nødt til å arbeide
 
-De andre partiene har inntatt mer moderate, men forutsigbare standpunkter. Arbeiderpartiet, SV og Senterpartiet har stemt mot å endre loven på noen som helst måte, altså verken å tillate mer søndagsåpne butikker eller å stramme inn regelverket ytterligere. De rødgrønnes holdning til saken kan oppsummeres med følgende sitat fra komitéinnstillingen da FrPs forslag om å avvikle åpningstidsbestemmelsene i 2012: 
+De andre partiene har inntatt mer moderate, men forutsigbare standpunkter. Arbeiderpartiet, SV og Senterpartiet har stemt mot å endre loven på noen som helst måte, altså verken å tillate mer søndagsåpne butikker eller å stramme inn regelverket ytterligere. De rødgrønnes holdning til saken kan oppsummeres med følgende sitat fra komitéinnstillingen da FrPs forslag om å avvikle åpningstidsbestemmelsene i 2012:
 
 > Komiteens flertall, alle unntatt medlemmene fra Fremskrittspartiet og Høyre, viser til at ansatte rapporterer om økt arbeidspress på ugunstige tider siden 2003, ikke minst i forbindelse med julehandelen. Flertallet mener det er viktig å sikre at også ansatte innen varehandelen skal ha mulighet til fritid som de kan dele med andre. Flertallet mener det ikke er behov for å liberalisere regelverket ytterligere, da dette vil kunne medføre mindre frihet for de ansatte.
 
-Høyre og Venstre har på sin side stemt for å endre loven, men ikke med umiddelbar virkning. 
+Flere organisasjoner, deriblant Handel og kontor, Fremtiden i våre hender, Virke, Frivillighet Norge og Norsk Transportarbeiderforbund har imidlertid sendt et åpent brev til kulturminister Torhild Widvey der de ber om at konsekvensene ved å endre lovverket utredes, og hvor de redegjør for sine argumenter mot. Også NHO har gått ut mot lovendringen.
+
+Høyre og Venstre har på sin side stemt for å endre loven, men ikke med umiddelbar virkning.
