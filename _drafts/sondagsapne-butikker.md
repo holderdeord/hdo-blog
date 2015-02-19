@@ -28,11 +28,11 @@ Dette kan ha sammenheng med at saken i forrige periode var oppe til debatt fire 
 
 Argumentene fra FrP har vært at:
 
-* å tillate eksempelvis hagesentrene å holde åpent er negativ bransjevridning, i det at mange andre utsalgssteder som kanskje har mye av det samme sortimentet ikke får lov til å holde åpent og dermed ikke tjene penger
-* tilbud og etterspørsel bør være de rådende prinsippene når man bestemmer åpningstider, ikke et lovverk
-* det er behov for lokale tilpasninger knyttet til lokale behov, som eksempelvis små tettsteder som ikke har en bensinstasjon eller en kiosk
-* å kvitte seg med byråkratiet knyttet til kontroll av virksomhetene vil være positivt
-* mange deltidsansatte vil få mulighet til å jobbe mer hvis man opphever begrensningene på søndagsåpent, og de vil slik kunne tjene mer
+* Å tillate eksempelvis hagesentrene å holde åpent er negativ bransjevridning, i det at mange andre utsalgssteder som kanskje har mye av det samme sortimentet ikke får lov til å holde åpent og dermed ikke tjene penger
+* Tilbud og etterspørsel bør være de rådende prinsippene når man bestemmer åpningstider, ikke et lovverk
+* Det er behov for lokale tilpasninger knyttet til lokale behov, som eksempelvis små tettsteder som ikke har en bensinstasjon eller en kiosk
+* Å kvitte seg med byråkratiet knyttet til kontroll av virksomhetene vil være positivt
+* Mange deltidsansatte vil få mulighet til å jobbe mer hvis man opphever begrensningene på søndagsåpent, og de vil slik kunne tjene mer
 
 KrF har på motsatt side tatt til orde for å stramme inn regelverket ytterligere, fordi flere virksomheter omgår reglementet. Argumentene deres har vært at: 
 
@@ -41,8 +41,8 @@ KrF har på motsatt side tatt til orde for å stramme inn regelverket ytterliger
 * Søndagsfri er en del av den kristne kulturarven
 * Raske samfunnsendringer gjør det enda viktigere å verne om søndagen som familiedag for de yrkesgruppene som ikke er nødt til å arbeide
 
-De andre partiene har inntatt mer moderate, men forutsigbare standpunkter. Arbeiderpartiet, SV og Senterpartiet har stemt mot å endre loven på noen som helst måte, altså verken å tillate mer søndagsåpne butikker eller å innstramme regelverket ytterligere. Disses holdning til saken kan oppsummeres med følgende sitat fra komitéinnstillingen da FrPs forslag om å avvikle åpningstidsbestemmelsene i 2012: 
+De andre partiene har inntatt mer moderate, men forutsigbare standpunkter. Arbeiderpartiet, SV og Senterpartiet har stemt mot å endre loven på noen som helst måte, altså verken å tillate mer søndagsåpne butikker eller å stramme inn regelverket ytterligere. De rødgrønnes holdning til saken kan oppsummeres med følgende sitat fra komitéinnstillingen da FrPs forslag om å avvikle åpningstidsbestemmelsene i 2012: 
 
-Komiteens flertall, alle unntatt medlemmene fra Fremskrittspartiet og Høyre, viser til at ansatte rapporterer om økt arbeidspress på ugunstige tider siden 2003, ikke minst i forbindelse med julehandelen. Flertallet mener det er viktig å sikre at også ansatte innen varehandelen skal ha mulighet til fritid som de kan dele med andre. Flertallet mener det ikke er behov for å liberalisere regelverket ytterligere, da dette vil kunne medføre mindre frihet for de ansatte.
+> Komiteens flertall, alle unntatt medlemmene fra Fremskrittspartiet og Høyre, viser til at ansatte rapporterer om økt arbeidspress på ugunstige tider siden 2003, ikke minst i forbindelse med julehandelen. Flertallet mener det er viktig å sikre at også ansatte innen varehandelen skal ha mulighet til fritid som de kan dele med andre. Flertallet mener det ikke er behov for å liberalisere regelverket ytterligere, da dette vil kunne medføre mindre frihet for de ansatte.
 
 Høyre og Venstre har på sin side stemt for å endre loven, men ikke med umiddelbar virkning. 
