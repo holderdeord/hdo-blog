@@ -31,7 +31,7 @@
                 x: { type: 'category', tick: { multiline: false } },
                 rotated: true
             },
-            color: { pattern: ["#e0c600"] }
+            color: { pattern: ["#606b82"] }
         });
     }
 
