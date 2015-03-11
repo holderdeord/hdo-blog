@@ -139,6 +139,10 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
 /* Code */
 code,
 pre {

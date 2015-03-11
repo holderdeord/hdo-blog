@@ -4,7 +4,6 @@ title: Dette får politikerne til å le
 date: "2016-12-31T23:59:59.000+01:00"
 authors:
   - Herman Westrum Thorsen
-  - Anders Olsen Sandvik
   - Jari Bakken
 tags:
   - referater
@@ -24,16 +23,20 @@ scripts:
 
 Når det blir sagt noe morsomt på Stortinget, skrives det ofte inn i referatene som «munterhet i salen» eller «latter i salen».
 
-Vi har tidligere søkt gjennom referatene for å finne ut [hvilke aviser politikerne leser]({% post_url 2014-12-10-hvilke-aviser-leser-politikerne %}). Ved hjelp av den samme metoden kan vi finne ut hvem som er de morsomste representantene. Her er en topp 10-liste over latterutbrudd per innlegg de siste seks årene:
+Vi har tidligere søkt gjennom referatene for å finne ut [hvilke aviser politikerne leser]({% post_url 2014-12-10-hvilke-aviser-leser-politikerne %}). Ved hjelp av samme metode kan vi finne ut hvem som er de morsomste representantene.
+
+Disse 10 talerne har skapt flest latterutbrudd de siste 6 årene.
 
 <div class="om-munterhet-representative-chart"></div>
-<figcaption>Munterhet/latter per innlegg, oktober 2008 - november 2014</figcaption>
+<figcaption class="text-center">Antall latterutbrudd per person, oktober 2008 - februar 2015</figcaption>
 
-Om vi grupperer på partitilhørighet, seiler KrF - sannsynligvis takket være Hareide og Syversen - opp på førsteplass.
+Om vi ser på partienes latterinnbrudd per inlegg, seiler KrF - sannsynligvis takket være Hareide og Syversen - opp på førsteplass.
 
-<div class="om-munterhet-party-chart"></div>
-<figcaption>Munterhet/latter per innlegg, oktober 2008 - november 2014</figcaption>
+<div class="om-munterhet-party-percent-chart"></div>
+<figcaption class="text-center">Andel innlegg med latterutbrudd, oktober 2008 - februar 2015</figcaption>
 
-Stortingssalens største humorist er tilsynelatende stortingspresidenten selv. Personen som leder stortingsmøtene blir alltid tiltalt av representantene som «president», uavhengig om vedkommende er stortingspresidenten eller en av de fem visepresidentene som sammen utgjør Stortingets presidentskap.
+Det kan virke som om stemningen er på sitt beste rett etter et valg:
 
-Når vi graver dypere i referatene og finner hvem som kom med de ulike uttalelsene så er det et par av presidentskapets medlemmer som utmerker seg:
+<div class="om-munterhet-timeline-chart"></div>
+<figcaption class="text-center">Andel innlegg med latterutbrudd per stortingssesjon, 2008 - 2014</figcaption>
+
