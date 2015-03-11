@@ -30,7 +30,7 @@ Disse 10 talerne har skapt flest latterutbrudd de siste 6 årene.
 <div class="om-munterhet-representative-chart"></div>
 <figcaption class="text-center">Antall latterutbrudd per person, oktober 2008 - februar 2015</figcaption>
 
-Om vi ser på partienes latterinnbrudd per inlegg, seiler KrF - sannsynligvis takket være Hareide og Syversen - opp på førsteplass.
+Om vi ser på partienes latterutbrudd per innlegg, seiler KrF - sannsynligvis takket være Hareide og Syversen - opp på førsteplass.
 
 <div class="om-munterhet-party-percent-chart"></div>
 <figcaption class="text-center">Andel innlegg med latterutbrudd, oktober 2008 - februar 2015</figcaption>
