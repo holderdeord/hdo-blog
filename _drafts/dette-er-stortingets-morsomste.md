@@ -42,14 +42,14 @@ Når det blir sagt noe morsomt på Stortinget, skrives det ofte inn i referatene
 > Jeg mener å huske at jeg også hadde godt humør da jeg var statsminister. Jeg kan i hvert fall erindre at jeg lo flere ganger, og jeg var i alle fall tidvis engasjert.
 > <cite>Jens Stoltenberg i Stortinget, 22. oktober 2013</cite>
 
-Vi har tidligere søkt gjennom referatene for å finne ut [hvilke aviser politikerne leser]({% post_url 2014-12-10-hvilke-aviser-leser-politikerne %}). Ved hjelp av samme metode kan vi finne ut hvem som er de morsomste representantene. Her er alle politikere som har fått salen til å le mer enn én gang de siste seks årene:
+Vi har tidligere søkt gjennom referatene for å finne ut [hvilke aviser politikerne leser]({% post_url 2014-12-10-hvilke-aviser-leser-politikerne %}). Ved hjelp av samme metode kan vi finne ut hvem som er morsomst. Her er alle politikere som har fått salen til å le mer enn én gang de siste seks årene:
 
 <div class="om-munterhet-representative-chart"></div>
 <figcaption class="text-center">Antall latterutbrudd per person, oktober 2008 - februar 2015</figcaption>
 
 Jens Stoltenberg, landets statsminister gjennom fire av de seks årene vi har referater for, topper listen. Han har fått salen til å le i 18 av sine totalt 907 innlegg i salen (1,98 %).
 
-Om vi i stedet grupperer på parti og ser hvor mange prosent av partiets innlegg som fører til latter, er vinneren KrF. Sannsynligvis er det takket være Hareide og Syversen, som begge er blant de topp fem morsomste talerne.
+Om vi i stedet grupperer på parti er vinneren KrF, regnet som prosent av partiets innlegg. Sannsynligvis er det takket være representantene Syversen og Hareide, som begge er blant de topp fem morsomste talerne.
 
 <div class="om-munterhet-party-percent-chart"></div>
 <figcaption class="text-center">Andel innlegg med latterutbrudd, oktober 2008 - februar 2015</figcaption>
