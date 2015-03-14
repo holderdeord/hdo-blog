@@ -73,8 +73,13 @@
   {% endif %}
 
   {% if page.video %}
-    <meta property="og:video" content="{{ page.video }}">
-    <!-- Twitter? -->
+    <meta property="og:video:url" content="{{ page.video.url }}">
+    <meta property="og:video:type" content="text/html">
+
+    {% if page.video.flash_url %}
+        <meta property="og:video:url" content="{{ page.video.flash_url }}">
+        <meta property="og:video:type" content="application/x-shockwave-flash">
+    {% endif %}
   {% endif %}
 
   {% if page.tags %}{% for tag in page.tags %}

@@ -18,17 +18,20 @@ scripts:
   - c3
   - __title__
 published: true
-video: https://player.vimeo.com/video/122051171
-thumbnail: https://i.vimeocdn.com/video/510733790.webp?mw=960&mh=540
+video:
+    url: https://player.vimeo.com/video/122201484
+    flash_url: https://vimeo.com/moogaloop.swf?clip_id=122201484&autoplay=1
+thumbnail: https://i.vimeocdn.com/video/510994213_1280x720.webp
 ---
 
 **Selv om det er en formell tone i stortingssalen er det fremdeles rom for kjappe kommentarer og humoristiske skråblikk. Vi har gravd i referatene og Stortingets videoarkiv for å finne ut hva som får våre folkevalgte til å le.**
 
 <iframe
-    src="{{ page.video }}"
+    src="{{ page.video.url }}"
     width="100%"
-    height="281"
+    height="350"
     frameborder="0"
+    style="padding-bottom: 2rem;"
     webkitallowfullscreen
     mozallowfullscreen
     allowfullscreen>
@@ -39,21 +42,21 @@ Når det blir sagt noe morsomt på Stortinget, skrives det ofte inn i referatene
 > Jeg mener å huske at jeg også hadde godt humør da jeg var statsminister. Jeg kan i hvert fall erindre at jeg lo flere ganger, og jeg var i alle fall tidvis engasjert.
 > <cite>Jens Stoltenberg i Stortinget, 22. oktober 2013</cite>
 
-Vi har tidligere søkt gjennom referatene for å finne ut [hvilke aviser politikerne leser]({% post_url 2014-12-10-hvilke-aviser-leser-politikerne %}). Ved hjelp av samme metode kan vi finne ut hvem som er de morsomste representantene.
-
-Her er politikerne som har fått salen til å le mer enn én gang de siste seks årene:
+Vi har tidligere søkt gjennom referatene for å finne ut [hvilke aviser politikerne leser]({% post_url 2014-12-10-hvilke-aviser-leser-politikerne %}). Ved hjelp av samme metode kan vi finne ut hvem som er de morsomste representantene. Her er alle politikere som har fått salen til å le mer enn én gang de siste seks årene:
 
 <div class="om-munterhet-representative-chart"></div>
 <figcaption class="text-center">Antall latterutbrudd per person, oktober 2008 - februar 2015</figcaption>
 
-Om vi ser på partienes latterutbrudd per innlegg, seiler KrF - sannsynligvis takket være Hareide og Syversen, som begge er blant topp fem morsomme talere - opp på førsteplass.
+Jens Stoltenberg, landets statsminister gjennom fire av de seks årene vi har referater for, topper listen. Han har fått salen til å le i 18 av sine totalt 907 innlegg i salen (1,98 %).
+
+Om vi i stedet grupperer på parti og ser hvor mange prosent av partiets innlegg som fører til latter, er vinneren KrF. Sannsynligvis er det takket være Hareide og Syversen, som begge er blant de topp fem morsomste talerne.
 
 <div class="om-munterhet-party-percent-chart"></div>
 <figcaption class="text-center">Andel innlegg med latterutbrudd, oktober 2008 - februar 2015</figcaption>
 
-Det kan virke som om stemningen er på sitt beste rett etter et valg:
+Et forsøk på å finne ut om lattermildheten har endret seg over tid lar oss ikke trekke all verden av konklusjoner. Men det er verdt å merke seg at sesjonen før en valgkamp har konsekvent mindre latter enn sesjonen etter.
 
 <div class="om-munterhet-timeline-chart"></div>
 <figcaption class="text-center">Andel innlegg med latterutbrudd per stortingssesjon, 2008 - 2014</figcaption>
 
-Du kan se alle våre bakgrunnsdata [her](https://docs.google.com/spreadsheets/d/1ibIUhKuq-h1QL_LwTYoVuKeClm59HwLSRjcyVsm6__U/edit?usp=sharing).
+Har du ideer til ting vi burde undersøke i referatene? Ta gjerne kontakt i kommentarfeltet under, på [epost](mailto:jari@holderdeord.no), [Twitter](https://twitter.com/holderdeord) eller [Facebook](https://facebook.com/holderdeord). Bakgrunnstall for denne artikkelen finner du [her](https://docs.google.com/spreadsheets/d/1ibIUhKuq-h1QL_LwTYoVuKeClm59HwLSRjcyVsm6__U/edit?usp=sharing).
