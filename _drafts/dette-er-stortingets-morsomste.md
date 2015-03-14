@@ -18,10 +18,11 @@ scripts:
   - c3
   - __title__
 published: true
+comments: true
 video:
     url: https://player.vimeo.com/video/122201484
     flash_url: https://vimeo.com/moogaloop.swf?clip_id=122201484&autoplay=1
-thumbnail: https://i.vimeocdn.com/video/510994213_1280x720.webp
+thumbnail: http://files.holderdeord.no/images/dette-er-stortingets-morsomste.jpg
 ---
 
 **Selv om det er en formell tone i stortingssalen er det fremdeles rom for kjappe kommentarer og humoristiske skråblikk. Vi har gravd i referatene og Stortingets videoarkiv for å finne ut hva som får våre folkevalgte til å le.**
