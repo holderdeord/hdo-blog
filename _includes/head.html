@@ -72,6 +72,11 @@
     <meta name="twitter:image:src" content="{{ site.url }}/images/logo.jpg">
   {% endif %}
 
+  {% if page.video %}
+    <meta property="og:video" content="{{ page.video }}">
+    <!-- Twitter? -->
+  {% endif %}
+
   {% if page.tags %}{% for tag in page.tags %}
     <meta property="article:tag" content="{{ tag }}">
   {% endfor %}
