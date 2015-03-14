@@ -8,9 +8,10 @@
         format: function(d) { return d + '%'; }
     };
 
-    function drawTopList(selector, data, key, type) {
+    function drawTopList(selector, data, key, opts) {
         var cols = [];
-        var type = type || 'bar';
+        var opts = opts || {};
+        var type = opts.type || 'bar';
 
         var tickFormatter = key === 'percent' ? percentFormat : undefined;
         var yTitle        = key === 'percent' ? 'Prosent' : 'Antall';
@@ -29,7 +30,7 @@
             axis: {
                 x: { type: 'category', tick: { multiline: false } },
                 y: { tick: tickFormatter },
-                rotated: true
+                rotated: !!opts.rotated
             },
             legend: { show: false },
             color: { pattern: colorPattern }
@@ -74,7 +75,7 @@
         });
     }
 
-    drawTopList('.om-munterhet-representative-chart', repCounts.slice(0, 23), 'count', 'line');
+    drawTopList('.om-munterhet-representative-chart', repCounts.slice(0, 23), 'count', {type: 'line', rotated: true});
     drawTopList('.om-munterhet-party-chart', partyCounts, 'count');
     drawTopList('.om-munterhet-party-percent-chart', sortBy('percent', partyCounts), 'percent');
     drawTimeline('.om-munterhet-timeline-chart', timeline);
