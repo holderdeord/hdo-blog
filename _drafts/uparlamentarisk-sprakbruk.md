@@ -2,16 +2,17 @@
 layout: post
 title: Uparlamentarisk språkbruk
 date: "2016-12-31T23:59:59.000+01:00"
-authors:
+authors: 
   - Hanna Tranås
-tags:
+tags: 
   - parlamentarisk språk
   - stortinget
   - munterhet
-scripts:
+scripts: 
   - d3
   - c3
   - __title__
+published: true
 ---
 
 **Det er mye som skiller det norske Stortinget fra det britiske underhuset. En av de tydeligste skillene er nok hva som anses som akseptabel oppførsel og akseptabel språkbruk.  Og da snakker vi ikke bare om at det ikke er greit å beskylde et annet parti for å være [ansvarlig for massakrering av kvinner og barn i Midtøsten](http://www.nrk.no/norge/terror-rekruttering_-frp-skylder-pa-krf-1.12218009).**
@@ -32,30 +33,36 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid
     class="uparlamanterisk-sprakbruk-party-chart"
     data-type="bar"
     data-value-title="Antall klubbinger"
-    data-values='{"FrP": 51, "SV": 28, "A": 22, "H": 15, "KrF": 6, "Sp": 3, "V": 5}'>
-</div>
+    data-values='{
+      "FrP": 51, 
+      "SV": 28, 
+      "A": 22, 
+      "H": 15, 
+      "KrF": 6, 
+      "Sp": 3, 
+      "V": 5
+  }'></div>
 
 Disse representantene får mest refs:
 
 <div
     class="uparlamanterisk-sprakbruk-person-chart"
-    data-type="bar"
+    data-type="line"
     data-rotated
     data-value-title="Antall klubbinger"
     data-values='{
-        "Ketil Solvik-Olsen (FrP)": 11,
-        "Snorre Valen (SV)": 6,
-        "Bård Hoksrud (FrP)": 6,
-        "Hallgeir H. Langeland (SV)": 4,
-        "Erik Solheim (SV)": 4,
-        "Karin Andersen (SV)": 4,
-        "Morten Ørsal Johansen (FrP)": 4,
-        "Tord Lien (FrP)": 3,
-        "Per Sandberg (FrP)": 3,
-        "Heikki Holmås (SV)": 3,
-        "Harald T. Nesvik (FrP)": 3
-    }'>
-</div>
+        "Ketil Solvik-Olsen, FrP": 11,
+        "Snorre Valen, SV": 6,
+        "Bård Hoksrud, FrP": 6,
+        "Hallgeir H. Langeland, SV": 4,
+        "Erik Solheim, SV": 4,
+        "Karin Andersen, SV": 4,
+        "Morten Ørsal Johansen, FrP": 4,
+        "Tord Lien, FrP": 3,
+        "Per Sandberg, FrP": 3,
+        "Heikki Holmås, SV": 3,
+        "Harald T. Nesvik, FrP": 3
+    }'></div>
 
 Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
 
