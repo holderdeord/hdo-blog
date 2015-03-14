@@ -11,8 +11,11 @@
     function drawTopList(selector, data, key) {
         var cols = [];
 
+        var tickFormatter = key === 'percent' ? percentFormat : undefined;
+        var yTitle        = key === 'percent' ? 'Prosent' : 'Antall';
+
         cols.push(['x'].concat(data.map(function (d) { return d.name; })));
-        cols.push(['A'].concat(data.map(function (d) { return d[key]; })));
+        cols.push([].concat(data.map(function (d) { return d[key]; })));
 
         var chart = c3.generate({
             bindto: selector,
@@ -24,7 +27,7 @@
             transition: { duration: 0 },
             axis: {
                 x: { type: 'category', tick: { multiline: false } },
-                y: { tick: key === 'percent' ? percentFormat : undefined },
+                y: { tick: tickFormatter },
                 rotated: true
             },
             legend: { show: false },
@@ -70,7 +73,7 @@
         });
     }
 
-    drawTopList('.om-munterhet-representative-chart', repCounts, 'count');
+    drawTopList('.om-munterhet-representative-chart', repCounts.slice(0, 6), 'count');
     drawTopList('.om-munterhet-party-chart', partyCounts, 'count');
     drawTopList('.om-munterhet-party-percent-chart', sortBy('percent', partyCounts), 'percent');
 
