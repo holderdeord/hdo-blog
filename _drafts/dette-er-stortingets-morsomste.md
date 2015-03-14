@@ -29,7 +29,7 @@ thumbnail: http://files.holderdeord.no/images/dette-er-stortingets-morsomste.jpg
 
 <iframe
     src="{{ page.video.url }}"
-    width="100%"
+    width="512"
     height="350"
     frameborder="0"
     style="padding-bottom: 2rem;"
