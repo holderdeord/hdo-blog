@@ -20,7 +20,11 @@
 
   <meta content="{{ site.title }}" property="og:site_name">
 
-  {% if page.description %}
+  {% if page.excerpt %}
+    <meta content="{{ page.excerpt | strip_html | xml_escape }}" name="description">
+    <meta content="{{ page.excerpt | strip_html | xml_escape }}" property="og:description">
+    <meta content="{{ page.excerpt | strip_html | xml_escape }}" name="twitter:description">
+  {% else if page.description %}
     <meta content="{{ page.description }}" name="description">
     <meta content="{{ page.description }}" property="og:description">
     <meta content="{{ page.description }}" name="twitter:description">
