@@ -2,17 +2,18 @@
 layout: post
 title: Om utbryterstemmer
 date: "2015-12-31T23:59:59.000+01:00"
-authors:
-- Jari Bakken
-tags:
-- avstemninger
-- stortinget
-- utbrytere
-scripts:
-- d3
-- c3
-- __title__
-- twitter-wjs
+authors: 
+  - Jari Bakken
+tags: 
+  - avstemninger
+  - stortinget
+  - utbrytere
+scripts: 
+  - d3
+  - c3
+  - __title__
+  - "twitter-wjs"
+published: true
 ---
 
 **Forrige måned laget vi [@partipisken][partipisken], en Twitter-konto som tvitrer hver gang noen stemmer mot flertallet i sitt eget parti på Stortinget. Nå har vi sett på hva utbryterstemmer har betydd historisk og gravd litt i hva som gjemmer seg bak tallene.**
@@ -35,6 +36,7 @@ Som Aslak nevner er mange av utbryterstemmene rett og slett et resultat av at re
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> Må ha stemt feil der, gitt.</p>&mdash; Geir S. Toskedal (@Toskedal) <a href="https://twitter.com/Toskedal/status/543753856497496065">December 13, 2014</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/partipisken">@partipisken</a> Dette var en teknisk feil :-)</p>&mdash; Elin Agdestein (@ElinAgdestein) <a href="https://twitter.com/ElinAgdestein/status/563596522705940480">February 6, 2015</a></blockquote>
 
 Sannsynligvis gjelder dette en skuffende høy prosentandel av utbryterstemmene. Dessverre er det vanskelig å skille uten å faktisk spørre representantene. Men det er liten grunn til å tro at X stemte mot Y og A for B av samvittighetsgrunner. Så lenge feilstemmingen ikke påvirker utfallet i saken har ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
 
@@ -75,5 +77,3 @@ Det kan fremstå som om en styrke at enkeltrepresentanter mener så sterkt om en
 
 [partipisken]: https://twitter.com/partipisken
 [aslak]: https://twitter.com/aslak_gatas
-
-
