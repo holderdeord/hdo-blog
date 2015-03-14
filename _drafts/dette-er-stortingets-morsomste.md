@@ -41,7 +41,7 @@ Når det blir sagt noe morsomt på Stortinget, skrives det ofte inn i referatene
 
 Vi har tidligere søkt gjennom referatene for å finne ut [hvilke aviser politikerne leser]({% post_url 2014-12-10-hvilke-aviser-leser-politikerne %}). Ved hjelp av samme metode kan vi finne ut hvem som er de morsomste representantene.
 
-Her er alle politikere som har fått salen til å le mer enn én gang de siste seks årene:
+Her er politikerne som har fått salen til å le mer enn én gang de siste seks årene:
 
 <div class="om-munterhet-representative-chart"></div>
 <figcaption class="text-center">Antall latterutbrudd per person, oktober 2008 - februar 2015</figcaption>
