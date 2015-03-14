@@ -10,6 +10,9 @@ tags:
   - humor
   - munterhet
   - representanter
+  - stortinget
+  - video
+  - taler
 scripts:
   - d3
   - c3
