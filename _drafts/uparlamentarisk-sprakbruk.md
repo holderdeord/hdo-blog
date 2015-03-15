@@ -19,7 +19,8 @@ published: true
 
 **Det er mye som skiller det norske Stortinget fra det britiske underhuset. En av de tydeligste skillene er nok hva som anses som akseptabel oppførsel og akseptabel språkbruk.**
 
-- **Eks på britene eller tyrkerne? Eller begge?**
+<iframe height="315" src="https://www.youtube-nocookie.com/embed/PWeaLGealHQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<figcaption class="text-center">Litt andre tilstander enn på Stortinget</figcaption>
 
 I [Stortingets forretningsorden § 55](https://www.stortinget.no/Global/pdf/stortingetsforretningsordenbokmal.pdf?epslanguage=no) heter det at «upassende eller fornærmelig atferd eller tale ikke er tillatt. Slik atferd eller tale skal påtales av presidenten.» I § 56 utdypes hva som menes med upassende eller fornærmelig *adferd*, der det heter at «det er ikke tillatt å gi støyende uttrykk for misnøye eller bifall under forhandlingene», men det mangler en definisjon på upassende tale. Dette er ikke tilfelle, selv om Øyvind Korsberg, som var 1. visepresident i perioden 2009-2013, i en [debatt 22. mars 2010](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100322/1/#a16) uttalte at
 
