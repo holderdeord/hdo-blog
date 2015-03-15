@@ -2,13 +2,13 @@
 layout: post
 title: Uparlamentarisk språkbruk
 date: "2016-12-31T23:59:59.000+01:00"
-authors:
+authors: 
   - Hanna Tranås
-tags:
+tags: 
   - parlamentarisk språk
   - stortinget
   - munterhet
-scripts:
+scripts: 
   - d3
   - c3
   - jquery
@@ -93,6 +93,9 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
                 <li>visvas</li>
                 <li>løgn</li>
                 <li>pinadø</li>
+                <li>møkk</li>
+                <li>dritt</li>
+                <li>blottet</li>
             </ul>
         </div>
 
@@ -112,6 +115,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
             <li>«å overkjøre noen»</li>
             <li>«å sable ned»</li>
             <li>«ideologisk fyllekjøring»</li>
+            <li>«pedagogisk fyllekjøring»</li>
             <li>«henger ikke på greip»</li>
             <li>«like forbaska»</li>
             </ul>
@@ -135,6 +139,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
                 <li>tåpelige</li>
                 <li>rabiate</li>
                 <li>breiflabb (heller ikke indirekte)</li>
+                <li>døve og blinde</li>
             </ul>
         </div>
 
@@ -143,6 +148,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
 
             <ul>
               <li>lyve</li>
+              <li>snakke dritt</li>
               <li>være betalte lobbyister</li>
               <li>drive med tullebudsjettering</li>
               <li>at de ikke har giddet å lese det de skulle ha lest</li>
@@ -154,6 +160,8 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
               <li>gi blaffen</li>
               <li>bløffe</li>
               <li>tøve</li>
+              <li>mene at 70 % av befolkningen er idioter</li>
+              <li>ha et parasittaktig forhold til regjeringen</li>
             </ul>
         </div>
 
@@ -174,6 +182,10 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
                 <li>driver med forsøpling av debatten</li>
                 <li>forfekter «voodoo-økonomi»</li>
                 <li>har et like kort perspektiv som et «one-night-stand»</li>
+                <li>biter seg selv i halen</li>
+                <li>sparker befolkningen i ballene</li>
+                <li>bevilger penger som kan sammenlignes med musepiss i havet</li>
+                <li>fremstår som kastrerte</li>
             </ul>
         </div>
 
@@ -193,6 +205,8 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
                 <li>en tragedie</li>
                 <li>tåketale</li>
                 <li>ganske tullete</li>
+                <li>på jordet</li>
+                <li>løgnaktige påstander</li>
             </ul>
         </div>
 
