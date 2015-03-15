@@ -43,26 +43,6 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid
       "V": 5
   }'></div>
 
-Disse representantene får mest refs:
-
-<div
-    class="uparlamanterisk-sprakbruk-person-chart"
-    data-type="line"
-    data-rotated
-    data-value-title="Antall klubbinger"
-    data-values='{
-        "Ketil Solvik-Olsen, FrP": 11,
-        "Snorre Valen, SV": 6,
-        "Bård Hoksrud, FrP": 6,
-        "Hallgeir H. Langeland, SV": 4,
-        "Erik Solheim, SV": 4,
-        "Karin Andersen, SV": 4,
-        "Morten Ørsal Johansen, FrP": 4,
-        "Tord Lien, FrP": 3,
-        "Per Sandberg, FrP": 3,
-        "Heikki Holmås, SV": 3,
-        "Harald T. Nesvik, FrP": 3
-    }'></div>
 
 Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
 
@@ -213,6 +193,26 @@ Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Storting
 
 > «Jeg oppfatter at vi kanskje har fått et nytt parlamentarisk uttrykk i denne forsamlingen, for jeg registrerer at presidenten ikke klubbet da representanten Langeland brukte ordet «ræva». Jeg synes ikke det er et parlamentarisk uttrykk om politikk som andre fører, i hvert fall ikke fra denne talerstol»
 
-Hoksrud kaster imidlertid stein i glasshus når han sladrer på Langeland. Han har riktignok aldri brukt uttrykket «ræva», men han blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.
+Hoksrud kaster imidlertid stein i glasshus når han sladrer på Langeland. Han har riktignok aldri brukt uttrykket «ræva», men han blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
 Hoksrud er imidlertid bare nest verst, hvis det å bli klubbet ofte er en dårlig ting. Andreplassen deler han med SVs Snorre Serrigstad Valen, mens lista trones av FrPs Ketil Solvik-Olsen.
+Disse representantene får mest refs:
+
+<div
+    class="uparlamanterisk-sprakbruk-person-chart"
+    data-type="line"
+    data-rotated
+    data-value-title="Antall klubbinger"
+    data-values='{
+        "Ketil Solvik-Olsen, FrP": 11,
+        "Snorre Valen, SV": 6,
+        "Bård Hoksrud, FrP": 6,
+        "Hallgeir H. Langeland, SV": 4,
+        "Erik Solheim, SV": 4,
+        "Karin Andersen, SV": 4,
+        "Morten Ørsal Johansen, FrP": 4,
+        "Tord Lien, FrP": 3,
+        "Per Sandberg, FrP": 3,
+        "Heikki Holmås, SV": 3,
+        "Harald T. Nesvik, FrP": 3
+    }'></div>
