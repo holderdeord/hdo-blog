@@ -203,15 +203,15 @@ Disse representantene får mest refs:
     data-rotated
     data-value-title="Antall klubbinger"
     data-values='{
-        "Ketil Solvik-Olsen, FrP": 11,
-        "Snorre Valen, SV": 6,
-        "Bård Hoksrud, FrP": 6,
-        "Hallgeir H. Langeland, SV": 4,
-        "Erik Solheim, SV": 4,
-        "Karin Andersen, SV": 4,
+        "Ketil Solvik-Olsen, FrP": 10,
+        "Bård Hoksrud, FrP": 7,
+        "Snorre Valen, SV": 6,       
+        "Hallgeir H. Langeland, SV": 6,
+        "Erik Solheim, SV": 5,
+        "Karin Andersen, SV": 5,
         "Morten Ørsal Johansen, FrP": 4,
-        "Tord Lien, FrP": 3,
-        "Per Sandberg, FrP": 3,
+        "Jan-Henrik Fredriken, FrP": 4,
+        "Per Sandberg, FrP": 4,
         "Heikki Holmås, SV": 3,
-        "Harald T. Nesvik, FrP": 3
+        "Tord Lien, FrP": 3
     }'></div>
