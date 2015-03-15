@@ -15,7 +15,7 @@ scripts:
 published: true
 ---
 
-**Det er mye som skiller det norske Stortinget fra det britiske underhuset. En av de tydeligste skillene er nok hva som anses som akseptabel oppførsel og akseptabel språkbruk.  Og da snakker vi ikke bare om at det ikke er greit å beskylde et annet parti for å være [ansvarlig for massakrering av kvinner og barn i Midtøsten](http://www.nrk.no/norge/terror-rekruttering_-frp-skylder-pa-krf-1.12218009).**
+**Det er mye som skiller det norske Stortinget fra det britiske underhuset. En av de tydeligste skillene er nok hva som anses som akseptabel oppførsel og akseptabel språkbruk.**
 
 - **Eks på britene eller tyrkerne? Eller begge?**
 
