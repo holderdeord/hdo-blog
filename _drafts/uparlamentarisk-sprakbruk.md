@@ -23,7 +23,7 @@ I [Stortingets forretningsorden § 55](https://www.stortinget.no/Global/pdf/stor
 
 > Presidenten vil bare minne om at man ikke skal bruke uparlamentariske uttrykk i denne salen. Presidenten har en viss mistanke om at det går an å skaffe seg informasjon om hvilke uttrykk man ikke skal bruke i denne salen
 
-er ikke dette tilfelle. Presidenten, eller den av visepresidentene som har presidentplassen i debatten, står nemlig fritt til å klubbe ned de ord og uttrykk han eller hun mener er upassende. Dette illustreres tydelig av en diskusjon i Stortinget 19.12.2013 hvor President Olemic Thommesen klubbet Snorre Valens (SV) omtale av et forslag som «corny». På motsvar til Heikki Holmås, som innvendte at han synes dette burde være et godkjent uttrykk, svarte Thommesen:
+er ikke dette tilfelle. Presidenten, eller den av visepresidentene som har presidentplassen i debatten, står nemlig fritt til å klubbe ned de ord og uttrykk han eller hun mener er upassende. Dette illustreres tydelig av en diskusjon i Stortinget 19.12.2013 hvor President Olemic Thommesen klubbet Snorre Valens (SV) omtale av et forslag som «corny». På [motsvar til Heikki Holmås (SV)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2013-2014/131219/2/#a10), som innvendte at han synes dette burde være et godkjent uttrykk, svarte Thommesen:
 
 > Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning
 
@@ -183,7 +183,7 @@ Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Storting
 
 > __Presidenten:__ Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
 
-[Knut Arild Hareide slapp 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) å bli klubbet, selv om han brukte religiøse uttrykk og Presidenten godt kunne høre hva som ble sagt:
+[Knut Arild Hareide (KrF) slapp 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) å bli klubbet, selv om han brukte religiøse uttrykk og Presidenten godt kunne høre hva som ble sagt:
 
 > __Knut Arild Hareide:__ Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
 
