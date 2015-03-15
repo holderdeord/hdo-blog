@@ -163,7 +163,7 @@ Selv om det er på kanten er det derimot **lov** å:
 * si at en motstander er «på bærtur»
 * si at noe er «sabla kostbart», så lenge det er i en debatt om forsvaret
 * si at motstanderne løp rundt under hele valgkampen og narret folk
-*  si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»
+* si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»
 * kalle en motstander et råskinn, så lenge det er godt ment
 * si at noe er «noe svineri», så lenge de er i en debatt om landbruket
 * å si at man ikke har tenkt å kalle en motstander for ei ku
