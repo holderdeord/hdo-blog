@@ -34,13 +34,13 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid
     data-type="bar"
     data-value-title="Antall klubbinger"
     data-values='{
-      "FrP": 51, 
-      "SV": 28, 
-      "A": 22, 
-      "H": 15, 
-      "KrF": 6, 
-      "Sp": 3, 
-      "V": 5
+      "FrP": 52, 
+      "SV": 32, 
+      "A": 21, 
+      "H": 12, 
+      "KrF": 5, 
+      "Sp": 4, 
+      "V": 3
   }'></div>
 
 
