@@ -125,7 +125,7 @@ Man skal ikke si om andres politikk at de:
 * har en molbopolitikk
 * driver statlig utpressing
 * driver med politisk utpressing
-* driver målebåndstyranni
+* driver målebåndtyranni
 * driver med bistandspornografi
 * driver med overgrep fra det offentlige
 * driver med forsøpling av debatten
