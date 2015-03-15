@@ -2,13 +2,13 @@
 layout: post
 title: Uparlamentarisk språkbruk
 date: "2016-12-31T23:59:59.000+01:00"
-authors: 
+authors:
   - Hanna Tranås
-tags: 
+tags:
   - parlamentarisk språk
   - stortinget
   - munterhet
-scripts: 
+scripts:
   - d3
   - c3
   - jquery
@@ -43,29 +43,41 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid
       "KrF": 5,
       "Sp": 3,
       "V": 5
-  }'></div>
+  }'>
+</div>
 
 
 Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
 
-<div>
-    <style>
-    #uparlamanterisk-sprakbruk-wordlists {
-        width: 50%px;
-        height: 400px;
-        box-shadow: 0 -1px 0 #e5e5e5,0 0 2px rgba(0,0,0,.12),0 2px 4px rgba(0,0,0,.24);
-        margin: 2rem 0;
-    }
+<style>
+#uparlamanterisk-sprakbruk-wordlist-container {
+    box-shadow: 0 -1px 0 #e5e5e5,0 0 2px rgba(0,0,0,.12),0 2px 4px rgba(0,0,0,.24);
+    margin: 2rem 0;
+    width: 100%;
+}
 
-    #uparlamanterisk-sprakbruk-wordlists .turn-page {
-        padding: 0.8rem;
-        font-size: 0.8rem;
-        background-color: #A8AEBC;
-    }
+#uparlamanterisk-sprakbruk-wordlist-container .prev:hover, .next:hover {
+    background-color: #eee;
+}
 
-    #uparlamanterisk-sprakbruk-wordlists ul { padding-top: 0.5rem;}
-    </style>
+#uparlamanterisk-sprakbruk-wordlists {
+    height: 400px;
+}
 
+#uparlamanterisk-sprakbruk-wordlists .turn-page {
+    padding: 0.8rem;
+    font-size: 0.8rem;
+    background-color: #BFC6D5;
+    width: 100%;
+}
+
+#uparlamanterisk-sprakbruk-wordlists ul {
+    padding-top: 0.5rem;
+}
+</style>
+
+
+<div id="uparlamanterisk-sprakbruk-wordlist-container">
     <div id="uparlamanterisk-sprakbruk-wordlists">
         <div>
             <h3>Parlamentarisk ordliste</h3>
@@ -73,7 +85,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
         </div>
 
         <div>
-            Man skal <strong>unngå</strong> ord som:
+            <h4>Man skal <strong>unngå</strong> ord som:</h4>
 
             <ul>
                 <li>tull</li>
@@ -85,6 +97,13 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
                 <li>tøv</li>
                 <li>corny</li>
                 <li>frekt/frekk/frekkas/frekkis</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>&nbsp;</h4>
+
+            <ul>
                 <li>galskap</li>
                 <li>jaggu meg</li>
                 <li>bombeangrep</li>
@@ -100,31 +119,31 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
         </div>
 
         <div>
-            Man <strong>ikke</strong> bruke bildespråk i kategorien:
+            <h4>Man <strong>ikke</strong> bruke billedspråk som:</h4>
 
             <ul>
-            <li>«å slenge ut av seg»</li>
-            <li>«å drite på draget»</li>
-            <li>«å lire av seg»</li>
-            <li>«å bry seg katten»</li>
-            <li>«å sause sammen»</li>
-            <li>«å spytte ut»</li>
-            <li>«å få døren midt i fleisen»</li>
-            <li>«å bite seg selv i halen»</li>
-            <li>«å ta noe for god fisk»</li>
-            <li>«å overkjøre noen»</li>
-            <li>«å sable ned»</li>
-            <li>«ideologisk fyllekjøring»</li>
-            <li>«pedagogisk fyllekjøring»</li>
-            <li>«henger ikke på greip»</li>
-            <li>«like forbaska»</li>
+                <li>å slenge ut av seg</li>
+                <li>å drite på draget</li>
+                <li>å lire av seg</li>
+                <li>å bry seg katten</li>
+                <li>å sause sammen</li>
+                <li>å spytte ut</li>
+                <li>å få døren midt i fleisen</li>
+                <li>å bite seg selv i halen</li>
+                <li>å ta noe for god fisk</li>
+                <li>å overkjøre noen</li>
+                <li>å sable ned</li>
+                <li>ideologisk fyllekjøring</li>
+                <li>pedagogisk fyllekjøring</li>
+                <li>henger ikke på greip</li>
+                <li>like forbaska</li>
             </ul>
         </div>
 
         <div>
-            Man skal ikke kalle motstandere:
+            <h4>Man skal <strong>ikke</strong> kalle motstandere:</h4>
+
             <ul>
-                <li>arrogante</li>
                 <li>frekke</li>
                 <li>frekkaser</li>
                 <li>hoverende</li>
@@ -144,16 +163,23 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
         </div>
 
         <div>
-            Man skal ikke beskylde motstandere for å:
+            <h4>Man skal ikke beskylde motstandere for å:</h4>
 
             <ul>
-              <li>lyve</li>
-              <li>snakke dritt</li>
-              <li>være betalte lobbyister</li>
-              <li>drive med tullebudsjettering</li>
-              <li>at de ikke har giddet å lese det de skulle ha lest</li>
-              <li>ikke utvise edruelighet eller sannferdighet</li>
-              <li>ha «frekkhetens nådegave»</li>
+                <li>lyve</li>
+                <li>snakke dritt</li>
+                <li>være betalte lobbyister</li>
+                <li>drive med tullebudsjettering</li>
+                <li>at de ikke har giddet å lese det de skulle ha lest</li>
+                <li>ikke utvise edruelighet eller sannferdighet</li>
+                <li>ha «frekkhetens nådegave»</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>&nbsp;</h4>
+
+            <ul>
               <li>ikke ha peiling</li>
               <li>ha en sløv holdning</li>
               <li>latterliggjøre</li>
@@ -166,10 +192,10 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
         </div>
 
         <div>
-            Man skal ikke si om andres politikk at de:
+            <h4>Man skal ikke si om andres politikk at de:</h4>
 
             <ul>
-                <li>Raner bilister</li>
+                <li>raner bilister</li>
                 <li>driver med landeveisrøveri</li>
                 <li>driver hushaivirksomhet</li>
                 <li>tisser på seg selv for å holde varmen</li>
@@ -177,6 +203,13 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
                 <li>driver statlig utpressing</li>
                 <li>driver med politisk utpressing</li>
                 <li>driver målebåndstyranni</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>&nbsp;</h4>
+
+            <ul>
                 <li>driver med bistandspornografi</li>
                 <li>driver med overgrep fra det offentlige</li>
                 <li>driver med forsøpling av debatten</li>
@@ -190,7 +223,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
         </div>
 
         <div>
-            Man skal ikke kalle motstandernes innlegg eller forslag for:
+            <h4>Man skal ikke kalle motstandernes innlegg eller forslag for:</h4>
 
             <ul>
                 <li>hånlige</li>
@@ -211,7 +244,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
         </div>
 
         <div>
-            Man skal som hovedregel holde seg religiøst nøytral og ikke si:
+            <h4>Man skal som hovedregel holde seg religiøst nøytral og ikke si:</h4>
 
             <ul>
                 <li>«for Guds skyld»</li>
@@ -224,7 +257,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
         </div>
 
         <div>
-            Selv om det er på kanten er det derimot <strong>lov</strong> å:
+            <h4>Selv om det er på kanten er det derimot <strong>lov</strong> å:</h4>
 
             <ul>
               <li>omtale motstanderens politikk og uttalelser som et dobbeltspill</li>
@@ -232,6 +265,13 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
               <li>si at en motstander er «på bærtur»</li>
               <li>si at noe er «sabla kostbart», så lenge det er i en debatt om forsvaret</li>
               <li>si at motstanderne løp rundt under hele valgkampen og narret folk</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>&nbsp;</h4>
+
+            <ul>
               <li> si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»</li>
               <li>kalle en motstander et råskinn, så lenge det er godt ment</li>
               <li>si at noe er «noe svineri», så lenge de er i en debatt om landbruket</li>
@@ -242,9 +282,12 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
     </div>
 
     <div class="text-center">
-        <button class="prev">Forrige</button>
-        <button class="next">Neste</button>
+        <div style="width: 50%; float: left;" class="prev">&larr;</div>
+        <div style="width: 50%; float: left;" class="next">&rarr;</div>
+
+        <div style="clear: both;"></div>
     </div>
+
 </div>
 
 Det skal imidlertid sies at representantene ofte slipper unna med upassende ord og uttrykk, illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
