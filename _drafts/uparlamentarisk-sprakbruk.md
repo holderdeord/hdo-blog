@@ -29,18 +29,18 @@ Presidenten, eller den av visepresidentene som har presidentplassen i debatten, 
 
 > Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning
 
-Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som ikke er greit å si fra Stortingets talerstol, basert på hva som har blitt klubbet. Totalt har Presidenten funnet det nødvendig å klubbe 154 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som oftest blir irettesatt, og det er fløypartiene som utmerker seg som mest rebelske.
+Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som ikke er greit å si fra Stortingets talerstol, basert på hva som har blitt klubbet. Totalt har Presidenten funnet det nødvendig å klubbe 148 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som oftest blir irettesatt, og det er fløypartiene som utmerker seg som mest rebelske.
 
 <div
     class="uparlamanterisk-sprakbruk-party-chart"
     data-type="bar"
     data-value-title="Antall klubbinger"
     data-values='{
-      "FrP": 58,
-      "SV": 36,
+      "FrP": 55,
+      "SV": 34,
       "A": 26,
       "H": 20,
-      "KrF": 6,
+      "KrF": 5,
       "Sp": 3,
       "V": 5
   }'></div>
@@ -272,9 +272,7 @@ Vi har også kommet over følgende [ikke-navngitte sladring 10.02.2011](https://
 
 Hoksrud kaster stein i glasshus når han sladrer på Langeland. Han har riktignok aldri brukt uttrykket «ræva», men han blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
-Hoksrud er imidlertid bare nest verst, hvis det å bli klubbet ofte er en dårlig ting. Lista trones av partikollega Ketil Solvik-Olsen, mens SV følger med de fire neste.
-
-Disse representantene får mest refs:
+Hoksrud er imidlertid bare nest verst, hvis det å bli klubbet ofte er en dårlig ting. Lista trones av partikollega Ketil Solvik-Olsen, mens Hoksrud selv deler andreplassen med SVs Snorre Valen og Hallgeir Langeland:
 
 <div
     class="uparlamanterisk-sprakbruk-person-chart"
@@ -283,11 +281,11 @@ Disse representantene får mest refs:
     data-value-title="Antall klubbinger"
     data-values='{
         "Ketil Solvik-Olsen, FrP": 10,
-        "Bård Hoksrud, FrP": 7,
+        "Bård Hoksrud, FrP": 6,
         "Snorre Valen, SV": 6,
         "Hallgeir H. Langeland, SV": 6,
-        "Erik Solheim, SV": 5,
-        "Karin Andersen, SV": 5,
+        "Erik Solheim, SV": 4,
+        "Karin Andersen, SV": 4,
         "Morten Ørsal Johansen, FrP": 4,
         "Jan-Henrik Fredriken, FrP": 4,
         "Per Sandberg, FrP": 4,
