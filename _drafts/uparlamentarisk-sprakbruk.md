@@ -48,114 +48,112 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
 
 Man skal unngå ord som:
 
-* tull,
-* tøys,
-* bløff,
-* juks,
-* lureri,
-* bedrag,
-* tøv,
-* corny,
-* frekt,
-* frekk,
-* frekkas og frekkis,
-* galskap,
-* jaggu meg,
-* bombeangrep,
-* rushelvete,
-* svinebinding,
-* visvas,
-* løgn,
+* tull
+* tøys
+* bløff
+* juks
+* lureri
+* bedrag
+* tøv
+* corny
+* frekt/frekk/frekkas/frekkis,
+* galskap
+* jaggu meg
+* bombeangrep
+* rushelvete
+* svinebinding
+* visvas
+* løgn
 * pinadø
 
 Ellers skal man ikke bruke bildespråk i kategorien:
 
-* «å slenge ut av seg»,
-* «å drite på draget»,
-* «å lire av seg»,
-* «å bry seg katten»,
-* «å sause sammen»,
-* «å spytte ut»,
-* «å få døren midt i fleisen»,
-* «å bite seg selv i halen»,
-* «å ta noe for god fisk»,
-* «å overkjøre noen»,
-* «å sable ned»,
+* «å slenge ut av seg»
+* «å drite på draget»
+* «å lire av seg»
+* «å bry seg katten»
+* «å sause sammen»
+* «å spytte ut»
+* «å få døren midt i fleisen»
+* «å bite seg selv i halen»
+* «å ta noe for god fisk»
+* «å overkjøre noen»
+* «å sable ned»
 * «ideologisk fyllekjøring»
 * «henger ikke på greip»
 * «like forbaska»
 
 Man skal ikke kalle motstandere:
 
-* arrogante,
-* frekke,
-* frekkaser,
-* hoverende,
-* forvirret,
-* sleipe,
-* hyklerske,
-* mindre sympatiske,
-* sleivet,
-* sutrete,
-* ved navn på tegneseriefigurer,
-* tullete,
-* tåpelige,
-* rabiate,
+* arrogante
+* frekke
+* frekkaser
+* hoverende
+* forvirret
+* sleipe
+* hyklerske
+* mindre sympatiske
+* sleivet
+* sutrete
+* ved navn på tegneseriefigurer
+* tullete
+* tåpelige
+* rabiate
 * breiflabb (ikke indirekte heller)
 
 Man skal ikke beskylde motstandere for å:
 
-* lyve,
-* være betalte lobbyister,
-* drive med tullebudsjettering,
-* at de ikke har giddet å lese det de skulle ha lest,
-* ikke utvise edruelighet eller sannferdighet,
-* ha «frekkhetens nådegave»,
-* ikke ha peiling,
-* ha en sløv holdning,
-* latterliggjøre,
-* gi blaffen,
-* bløffe,
+* lyve
+* være betalte lobbyister
+* drive med tullebudsjettering
+* at de ikke har giddet å lese det de skulle ha lest
+* ikke utvise edruelighet eller sannferdighet
+* ha «frekkhetens nådegave»
+* ikke ha peiling
+* ha en sløv holdning
+* latterliggjøre
+* gi blaffen
+* bløffe
 * tøve
 
 Man skal ikke si om andres politikk at de:
 
-* Raner bilister,
-* driver med landeveisrøveri,
-* driver hushaivirksomhet,
-* tisser på seg selv for å holde varmen,
-* har en molbopolitikk,
-* driver statlig utpressing,
+* Raner bilister
+* driver med landeveisrøveri
+* driver hushaivirksomhet
+* tisser på seg selv for å holde varmen
+* har en molbopolitikk
+* driver statlig utpressing
 * driver med politisk utpressing
-* driver målebåndstyranni,
-* driver med bistandspornografi,
-* driver med overgrep fra det offentlige,
-* driver med forsøpling av debatten,
-* forfekter «voodoo-økonomi»,
+* driver målebåndstyranni
+* driver med bistandspornografi
+* driver med overgrep fra det offentlige
+* driver med forsøpling av debatten
+* forfekter «voodoo-økonomi»
 * har et like kort perspektiv som et «one-night-stand»
 
 Man skal ikke kalle motstandernes innlegg eller forslag for:
 
-* hånlige,
-* i tåkeheimen,
-* floskler,
-* hykleri,
-* bare tull,
-* dårlige,
-* dumme,
-* meningsløse,
-* fordummende,
-* en tragedie,
-* tåketale,
+* hånlige
+* i tåkeheimen
+* floskler
+* hykleri
+* bare tull
+* dårlige
+* dumme
+* meningsløse
+* fordummende
+* en tragedie
+* tåketale
 * ganske tullete
 
-Man skal ikke være blasfemisk og si:
+Man skal som hovedregel holde seg religiøst nøytral og ikke si:
 
-* «påkalle høyere makter» ved å si «for Guds skyld»,
-* «gudskjelov»,
-* «Gud forby»,
-* «i Herrens navn»,
-* «som fanden leser Bibelen»,
+* «for Guds skyld»
+* «gudskjelov»
+* «Gud forby»
+* «i Herrens navn»
+* «som fanden leser Bibelen»
 * «å se fanden på høylys dag» (her ville for øvrig President Andersen godtatt «spøkelser på høylys dag» eller «en viss mann på høylys dag»).
 
 Selv om det er på kanten er det derimot **lov** å:
@@ -196,6 +194,7 @@ Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Storting
 Hoksrud kaster imidlertid stein i glasshus når han sladrer på Langeland. Han har riktignok aldri brukt uttrykket «ræva», men han blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
 Hoksrud er imidlertid bare nest verst, hvis det å bli klubbet ofte er en dårlig ting. Andreplassen deler han med SVs Snorre Serrigstad Valen, mens lista trones av FrPs Ketil Solvik-Olsen.
+
 Disse representantene får mest refs:
 
 <div
