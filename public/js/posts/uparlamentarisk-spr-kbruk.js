@@ -32,4 +32,20 @@
 
     drawChart('.uparlamanterisk-sprakbruk-party-chart');
     drawChart('.uparlamanterisk-sprakbruk-person-chart');
+
+    wordlists = $('#uparlamanterisk-sprakbruk-wordlists');
+
+    wordlists.turn({
+        gradients: true,
+        acceleration: true
+    });
+
+    var turnNext = function() { wordlists.turn('next'); };
+    var turnPrev = function() { wordlists.turn('previous'); };
+
+    $("button.next").click(turnNext);
+    $("button.prev").click(turnPrev);
+
+    // $("div[data-next]").click(turnNext);
+    // $("div[data-prev]").click(turnPrev);
 }());

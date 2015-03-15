@@ -2,15 +2,17 @@
 layout: post
 title: Uparlamentarisk språkbruk
 date: "2016-12-31T23:59:59.000+01:00"
-authors: 
+authors:
   - Hanna Tranås
-tags: 
+tags:
   - parlamentarisk språk
   - stortinget
   - munterhet
-scripts: 
+scripts:
   - d3
   - c3
+  - jquery
+  - turnjs
   - __title__
 published: true
 ---
@@ -34,140 +36,202 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid
     data-type="bar"
     data-value-title="Antall klubbinger"
     data-values='{
-      "FrP": 58, 
-      "SV": 36, 
-      "A": 25, 
-      "H": 20, 
-      "KrF": 6, 
-      "Sp": 3, 
+      "FrP": 58,
+      "SV": 36,
+      "A": 25,
+      "H": 20,
+      "KrF": 6,
+      "Sp": 3,
       "V": 5
   }'></div>
 
 
 Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
 
-Man skal unngå ord som:
+<div>
+    <style>
+    #uparlamanterisk-sprakbruk-wordlists {
+        width: 50%px;
+        height: 400px;
+        box-shadow: 0 -1px 0 #e5e5e5,0 0 2px rgba(0,0,0,.12),0 2px 4px rgba(0,0,0,.24);
+        margin: 2rem 0;
+    }
 
-* tull
-* tøys
-* bløff
-* juks
-* lureri
-* bedrag
-* tøv
-* corny
-* frekt/frekk/frekkas/frekkis,
-* galskap
-* jaggu meg
-* bombeangrep
-* rushelvete
-* svinebinding
-* visvas
-* løgn
-* pinadø
+    #uparlamanterisk-sprakbruk-wordlists .turn-page {
+        padding: 0.8rem;
+        font-size: 0.8rem;
+        background-color: #A8AEBC;
+    }
 
-Ellers skal man ikke bruke bildespråk i kategorien:
+    #uparlamanterisk-sprakbruk-wordlists ul { padding-top: 0.5rem;}
+    </style>
 
-* «å slenge ut av seg»
-* «å drite på draget»
-* «å lire av seg»
-* «å bry seg katten»
-* «å sause sammen»
-* «å spytte ut»
-* «å få døren midt i fleisen»
-* «å bite seg selv i halen»
-* «å ta noe for god fisk»
-* «å overkjøre noen»
-* «å sable ned»
-* «ideologisk fyllekjøring»
-* «henger ikke på greip»
-* «like forbaska»
+    <div id="uparlamanterisk-sprakbruk-wordlists">
+        <div>
+            <h3>Parlamentarisk ordliste</h3>
+            til glede for gamle og nye representanter
+        </div>
 
-Man skal ikke kalle motstandere:
+        <div>
+            Man skal <strong>unngå</strong> ord som:
 
-* arrogante
-* frekke
-* frekkaser
-* hoverende
-* forvirret
-* sleipe
-* hyklerske
-* mindre sympatiske
-* sleivet
-* sutrete
-* ved navn på tegneseriefigurer
-* tullete
-* tåpelige
-* rabiate
-* breiflabb (ikke indirekte heller)
+            <ul>
+                <li>tull</li>
+                <li>tøys</li>
+                <li>bløff</li>
+                <li>juks</li>
+                <li>lureri</li>
+                <li>bedrag</li>
+                <li>tøv</li>
+                <li>corny</li>
+                <li>frekt/frekk/frekkas/frekkis</li>
+                <li>galskap</li>
+                <li>jaggu meg</li>
+                <li>bombeangrep</li>
+                <li>rushelvete</li>
+                <li>svinebinding</li>
+                <li>visvas</li>
+                <li>løgn</li>
+                <li>pinadø</li>
+            </ul>
+        </div>
 
-Man skal ikke beskylde motstandere for å:
+        <div>
+            Man <strong>ikke</strong> bruke bildespråk i kategorien:
 
-* lyve
-* være betalte lobbyister
-* drive med tullebudsjettering
-* at de ikke har giddet å lese det de skulle ha lest
-* ikke utvise edruelighet eller sannferdighet
-* ha «frekkhetens nådegave»
-* ikke ha peiling
-* ha en sløv holdning
-* latterliggjøre
-* gi blaffen
-* bløffe
-* tøve
+            <ul>
+            <li>«å slenge ut av seg»</li>
+            <li>«å drite på draget»</li>
+            <li>«å lire av seg»</li>
+            <li>«å bry seg katten»</li>
+            <li>«å sause sammen»</li>
+            <li>«å spytte ut»</li>
+            <li>«å få døren midt i fleisen»</li>
+            <li>«å bite seg selv i halen»</li>
+            <li>«å ta noe for god fisk»</li>
+            <li>«å overkjøre noen»</li>
+            <li>«å sable ned»</li>
+            <li>«ideologisk fyllekjøring»</li>
+            <li>«henger ikke på greip»</li>
+            <li>«like forbaska»</li>
+            </ul>
+        </div>
 
-Man skal ikke si om andres politikk at de:
+        <div>
+            Man skal ikke kalle motstandere:
+            <ul>
+                <li>arrogante</li>
+                <li>frekke</li>
+                <li>frekkaser</li>
+                <li>hoverende</li>
+                <li>forvirret</li>
+                <li>sleipe</li>
+                <li>hyklerske</li>
+                <li>mindre sympatiske</li>
+                <li>sleivet</li>
+                <li>sutrete</li>
+                <li>ved navn på tegneseriefigurer</li>
+                <li>tullete</li>
+                <li>tåpelige</li>
+                <li>rabiate</li>
+                <li>breiflabb (heller ikke indirekte)</li>
+            </ul>
+        </div>
 
-* Raner bilister
-* driver med landeveisrøveri
-* driver hushaivirksomhet
-* tisser på seg selv for å holde varmen
-* har en molbopolitikk
-* driver statlig utpressing
-* driver med politisk utpressing
-* driver målebåndtyranni
-* driver med bistandspornografi
-* driver med overgrep fra det offentlige
-* driver med forsøpling av debatten
-* forfekter «voodoo-økonomi»
-* har et like kort perspektiv som et «one-night-stand»
+        <div>
+            Man skal ikke beskylde motstandere for å:
 
-Man skal ikke kalle motstandernes innlegg eller forslag for:
+            <ul>
+              <li>lyve</li>
+              <li>være betalte lobbyister</li>
+              <li>drive med tullebudsjettering</li>
+              <li>at de ikke har giddet å lese det de skulle ha lest</li>
+              <li>ikke utvise edruelighet eller sannferdighet</li>
+              <li>ha «frekkhetens nådegave»</li>
+              <li>ikke ha peiling</li>
+              <li>ha en sløv holdning</li>
+              <li>latterliggjøre</li>
+              <li>gi blaffen</li>
+              <li>bløffe</li>
+              <li>tøve</li>
+            </ul>
+        </div>
 
-* hånlige
-* i tåkeheimen
-* floskler
-* hykleri
-* bare tull
-* dårlige
-* dumme
-* meningsløse
-* fordummende
-* en tragedie
-* tåketale
-* ganske tullete
+        <div>
+            Man skal ikke si om andres politikk at de:
 
-Man skal som hovedregel holde seg religiøst nøytral og ikke si:
+            <ul>
+                <li>Raner bilister</li>
+                <li>driver med landeveisrøveri</li>
+                <li>driver hushaivirksomhet</li>
+                <li>tisser på seg selv for å holde varmen</li>
+                <li>har en molbopolitikk</li>
+                <li>driver statlig utpressing</li>
+                <li>driver med politisk utpressing</li>
+                <li>driver målebåndstyranni</li>
+                <li>driver med bistandspornografi</li>
+                <li>driver med overgrep fra det offentlige</li>
+                <li>driver med forsøpling av debatten</li>
+                <li>forfekter «voodoo-økonomi»</li>
+                <li>har et like kort perspektiv som et «one-night-stand»</li>
+            </ul>
+        </div>
 
-* «for Guds skyld»
-* «gudskjelov»
-* «Gud forby»
-* «i Herrens navn»
-* «som fanden leser Bibelen»
-* «å se fanden på høylys dag» (her ville for øvrig President Andersen godtatt «spøkelser på høylys dag» eller «en viss mann på høylys dag»).
+        <div>
+            Man skal ikke kalle motstandernes innlegg eller forslag for:
 
-Selv om det er på kanten er det derimot **lov** å:
+            <ul>
+                <li>hånlige</li>
+                <li>i tåkeheimen</li>
+                <li>floskler</li>
+                <li>hykleri</li>
+                <li>bare tull</li>
+                <li>dårlige</li>
+                <li>dumme</li>
+                <li>meningsløse</li>
+                <li>fordummende</li>
+                <li>en tragedie</li>
+                <li>tåketale</li>
+                <li>ganske tullete</li>
+            </ul>
+        </div>
 
-* omtale motstanderens politikk og uttalelser som et dobbeltspill
-* sammenligne en motstander med en struts som stikker hodet i jorden
-* si at en motstander er «på bærtur»
-* si at noe er «sabla kostbart», så lenge det er i en debatt om forsvaret
-* si at motstanderne løp rundt under hele valgkampen og narret folk
-* si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»
-* kalle en motstander et råskinn, så lenge det er godt ment
-* si at noe er «noe svineri», så lenge de er i en debatt om landbruket
-* å si at man ikke har tenkt å kalle en motstander for ei ku
-* sammenligne situasjonen på Island etter finanskrisen med situasjonen i Danmark etter det Østerrisk-Preussiske angrepet i 1864
+        <div>
+            Man skal som hovedregel holde seg religiøst nøytral og ikke si:
+
+            <ul>
+                <li>«for Guds skyld»</li>
+                <li>«gudskjelov»</li>
+                <li>«Gud forby»</li>
+                <li>«i Herrens navn»</li>
+                <li>«som fanden leser Bibelen»</li>
+                <li>«å se fanden på høylys dag» (her ville for øvrig President Andersen godtatt «spøkelser på høylys dag» eller «en viss mann på høylys dag»).</li>
+            </ul>
+        </div>
+
+        <div>
+            Selv om det er på kanten er det derimot <strong>lov</strong> å:
+
+            <ul>
+              <li>omtale motstanderens politikk og uttalelser som et dobbeltspill</li>
+              <li>sammenligne en motstander med en struts som stikker hodet i jorden</li>
+              <li>si at en motstander er «på bærtur»</li>
+              <li>si at noe er «sabla kostbart», så lenge det er i en debatt om forsvaret</li>
+              <li>si at motstanderne løp rundt under hele valgkampen og narret folk</li>
+              <li> si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»</li>
+              <li>kalle en motstander et råskinn, så lenge det er godt ment</li>
+              <li>si at noe er «noe svineri», så lenge de er i en debatt om landbruket</li>
+              <li>å si at man ikke har tenkt å kalle en motstander for ei ku</li>
+              <li>sammenligne situasjonen på Island etter finanskrisen med situasjonen i Danmark etter det Østerrisk-Preussiske angrepet i 1864</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="text-center">
+        <button class="prev">Forrige</button>
+        <button class="next">Neste</button>
+    </div>
+</div>
 
 Det skal imidlertid sies at representantene ofte slipper unna med upassende ord og uttrykk, illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
 
@@ -205,7 +269,7 @@ Disse representantene får mest refs:
     data-values='{
         "Ketil Solvik-Olsen, FrP": 10,
         "Bård Hoksrud, FrP": 7,
-        "Snorre Valen, SV": 6,       
+        "Snorre Valen, SV": 6,
         "Hallgeir H. Langeland, SV": 6,
         "Erik Solheim, SV": 5,
         "Karin Andersen, SV": 5,

@@ -39,6 +39,10 @@
     <script type="text/javascript" src="http://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"></script>
   {% endif %}
 
+  {% if script == 'turnjs' %}
+    <script type="text/javascript" src="/public/js/lib/turn.min.js"></script>
+  {% endif %}
+
   {% if script == '__title__' %}
     <script src="/public/js/posts/{{ page.title | slugify }}.js"></script>
   {% endif %}
