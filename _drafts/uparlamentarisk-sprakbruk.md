@@ -19,7 +19,7 @@ published: true
 
 **Det er mye som skiller det norske Stortinget fra det britiske underhuset. En av de tydeligste skillene er nok hva som anses som akseptabel oppførsel og akseptabel språkbruk.**
 
-<iframe height="315" src="https://www.youtube-nocookie.com/embed/PWeaLGealHQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="512" height="315" src="https://www.youtube-nocookie.com/embed/PWeaLGealHQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 <figcaption class="text-center">Litt andre tilstander enn på Stortinget</figcaption>
 
 I [Stortingets forretningsorden § 55](https://www.stortinget.no/Global/pdf/stortingetsforretningsordenbokmal.pdf?epslanguage=no) heter det at «upassende eller fornærmelig atferd eller tale ikke er tillatt. Slik atferd eller tale skal påtales av presidenten.» I § 56 utdypes hva som menes med upassende eller fornærmelig *adferd*, der det heter at «det er ikke tillatt å gi støyende uttrykk for misnøye eller bifall under forhandlingene», men det mangler en definisjon på upassende tale. Dette er ikke tilfelle, selv om Øyvind Korsberg, som var 1. visepresident i perioden 2009-2013, i en [debatt 22. mars 2010](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100322/1/#a16) uttalte at
@@ -293,7 +293,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
 
 Det skal imidlertid sies at representantene ofte slipper unna med upassende ord og uttrykk, illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
 
-> «La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.»
+> La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.
 
 Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Stortingets talerstol, men bare blitt klubbet én gang.
 
@@ -302,17 +302,28 @@ Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Storting
 Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort.
 [Knut Arild Hareide (KrF) slapp imidlertid 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) å bli klubbet, selv om han brukte religiøse uttrykk og Presidenten godt kunne høre hva som ble sagt:
 
-> __Knut Arild Hareide:__ Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
+<blockquote>Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
+   <cite>Knut Arild Hareide</cite>
+</blockquote>
 
-> __Presidenten:__ Presidenten kan berolige representanten Hareide med at «halleluja» absolutt ikke er et uparlamentarisk uttrykk. (Munterhet i salen)
+<blockquote>Presidenten kan berolige representanten Hareide med at «halleluja» absolutt ikke er et uparlamentarisk uttrykk. (Munterhet i salen)
+    <cite>Presidenten</cite>
+</blockquote>
+
 
 Vi har også kommet over følgende [ikke-navngitte sladring 10.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
 
-> __Presidenten:__ Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
+<blockquote>
+    Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
+    <cite>Presidenten</cite>
+</blockquote>
 
- Bård Hoksrud sladret imidlertid fra talerstolen [11.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
+Bård Hoksrud sladret imidlertid fra talerstolen [11.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
 
-> «Jeg oppfatter at vi kanskje har fått et nytt parlamentarisk uttrykk i denne forsamlingen, for jeg registrerer at presidenten ikke klubbet da representanten Langeland brukte ordet «ræva». Jeg synes ikke det er et parlamentarisk uttrykk om politikk som andre fører, i hvert fall ikke fra denne talerstol»
+<blockquote>
+    Jeg oppfatter at vi kanskje har fått et nytt parlamentarisk uttrykk i denne forsamlingen, for jeg registrerer at presidenten ikke klubbet da representanten Langeland brukte ordet «ræva». Jeg synes ikke det er et parlamentarisk uttrykk om politikk som andre fører, i hvert fall ikke fra denne talerstol
+    <cite>Bård Hoksrud</cite>
+</blockquote>
 
 Hoksrud kaster stein i glasshus når han sladrer på Langeland. Han har riktignok aldri brukt uttrykket «ræva», men han blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
