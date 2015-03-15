@@ -255,21 +255,22 @@ Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Storting
 
 ### Kan slippe unna
 
-Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort, men vi har kommet over følgende [ikke-navngitte sladring 10.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
-
-> __Presidenten:__ Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
-
-[Knut Arild Hareide (KrF) slapp 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) å bli klubbet, selv om han brukte religiøse uttrykk og Presidenten godt kunne høre hva som ble sagt:
+Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort.
+[Knut Arild Hareide (KrF) slapp imidlertid 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) å bli klubbet, selv om han brukte religiøse uttrykk og Presidenten godt kunne høre hva som ble sagt:
 
 > __Knut Arild Hareide:__ Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
 
 > __Presidenten:__ Presidenten kan berolige representanten Hareide med at «halleluja» absolutt ikke er et uparlamentarisk uttrykk. (Munterhet i salen)
 
+Vi har også kommet over følgende [ikke-navngitte sladring 10.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
+
+> __Presidenten:__ Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
+
  Bård Hoksrud sladret imidlertid fra talerstolen [11.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
 
 > «Jeg oppfatter at vi kanskje har fått et nytt parlamentarisk uttrykk i denne forsamlingen, for jeg registrerer at presidenten ikke klubbet da representanten Langeland brukte ordet «ræva». Jeg synes ikke det er et parlamentarisk uttrykk om politikk som andre fører, i hvert fall ikke fra denne talerstol»
 
-Hoksrud kaster imidlertid stein i glasshus når han sladrer på Langeland. Han har riktignok aldri brukt uttrykket «ræva», men han blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
+Hoksrud kaster stein i glasshus når han sladrer på Langeland. Han har riktignok aldri brukt uttrykket «ræva», men han blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
 Hoksrud er imidlertid bare nest verst, hvis det å bli klubbet ofte er en dårlig ting. Lista trones av partikollega Ketil Solvik-Olsen, mens SV følger med de fire neste.
 
