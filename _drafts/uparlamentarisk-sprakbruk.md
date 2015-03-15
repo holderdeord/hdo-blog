@@ -29,7 +29,7 @@ Presidenten, eller den av visepresidentene som har presidentplassen i debatten, 
 
 > Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning
 
-Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som ikke er greit å si fra Stortingets talerstol, basert på hva som har blitt klubbet. Totalt har Presidenten funnet det nødvendig å klubbe 154 ganger de siste seks årene. Stoplediagrammet under viser hvilke partier som oftest blir irettesatt.
+Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som ikke er greit å si fra Stortingets talerstol, basert på hva som har blitt klubbet. Totalt har Presidenten funnet det nødvendig å klubbe 154 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som oftest blir irettesatt, og det er fløypartiene som utmerker seg som mest rebelske.
 
 <div
     class="uparlamanterisk-sprakbruk-party-chart"
@@ -38,7 +38,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid
     data-values='{
       "FrP": 58,
       "SV": 36,
-      "A": 25,
+      "A": 26,
       "H": 20,
       "KrF": 6,
       "Sp": 3,
@@ -206,7 +206,7 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
                 <li>tåketale</li>
                 <li>ganske tullete</li>
                 <li>på jordet</li>
-                <li>løgnaktige påstander</li>
+                <li>løgnaktige </li>
             </ul>
         </div>
 
