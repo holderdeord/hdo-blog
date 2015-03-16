@@ -292,15 +292,15 @@ Totalt har Presidenten funnet det nødvendig å klubbe 148 ganger de siste seks 
   }'>
 </div>
 
-Det skal sies at representantene ofte slipper unna med upassende ord og uttrykk, illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
+### Kan slippe unna
+
+Lista med "på kanten-ord" er naturligvis ikke komplett. Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort. Vi kan uansett konkludere med at reglene er ganske inkonsekvente, eksempelvis illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
 
 > La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.
 
 Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Stortingets talerstol, men bare blitt klubbet én gang.
 
-### Kan slippe unna
-
-Lista med "på kanten-ord" er naturligvis ikke komplett. Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort. Vi kan uansett konkludere med at reglene er ganske inkonsekvente. Som det fremgår i ordboka er det ikke tillatt å si "for Guds skyld" eller "gudskjelov", men [Knut Arild Hareide (KrF) slapp 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) unna, selv om han brukte religiøse uttrykk:
+Som det fremgår i ordboka er det ikke tillatt å si "for Guds skyld" eller "gudskjelov", men [Knut Arild Hareide (KrF) slapp 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) unna, selv om han brukte religiøse uttrykk:
 
 <blockquote>Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
    <cite>Knut Arild Hareide</cite>
@@ -310,6 +310,7 @@ Lista med "på kanten-ord" er naturligvis ikke komplett. Å finne alle ord som i
     <cite>Presidenten</cite>
 </blockquote>
 
+### Sladrehank
 
 Vi har også kommet over følgende [ikke-navngitte sladring 10.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
 
