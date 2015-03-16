@@ -21,7 +21,6 @@ published: true
 comments: true
 video:
     url: https://player.vimeo.com/video/122201484
-    flash_url: https://vimeo.com/moogaloop.swf?clip_id=122201484&autoplay=1
 thumbnail: http://files.holderdeord.no/images/dette-er-stortingets-morsomste.jpg
 ---
 
