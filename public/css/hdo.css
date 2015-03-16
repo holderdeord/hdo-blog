@@ -342,7 +342,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead {
   position: fixed;
-  z-index: 10;
+  z-index: 100;
   background-color: white;
   top: 0;
   left: 0;
