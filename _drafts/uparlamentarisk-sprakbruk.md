@@ -30,25 +30,9 @@ Presidenten, eller den av visepresidentene som har presidentplassen i debatten, 
 
 > Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning
 
-Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har imidlertid søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som ikke er greit å si fra Stortingets talerstol, basert på hva som har blitt klubbet. Totalt har Presidenten funnet det nødvendig å klubbe 148 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som oftest blir irettesatt, og det er fløypartiene som utmerker seg som mest rebelske.
-
-<div
-    class="uparlamanterisk-sprakbruk-party-chart"
-    data-type="bar"
-    data-value-title="Antall klubbinger"
-    data-values='{
-      "FrP": 55,
-      "SV": 34,
-      "A": 26,
-      "H": 20,
-      "KrF": 5,
-      "Sp": 3,
-      "V": 5
-  }'>
-</div>
+Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som ikke er greit å si fra Stortingets talerstol, basert på hva som har blitt klubbet. Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
 
 
-Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
 
 <style>
 #uparlamanterisk-sprakbruk-wordlist-container {
@@ -291,7 +275,24 @@ Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord so
 
 </div>
 
-Det skal imidlertid sies at representantene ofte slipper unna med upassende ord og uttrykk, illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
+Totalt har Presidenten funnet det nødvendig å klubbe 148 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som oftest blir irettesatt, og det er fløypartiene som utmerker seg som mest rebelske.
+
+<div
+    class="uparlamanterisk-sprakbruk-party-chart"
+    data-type="bar"
+    data-value-title="Antall klubbinger"
+    data-values='{
+      "FrP": 55,
+      "SV": 34,
+      "A": 26,
+      "H": 20,
+      "KrF": 5,
+      "Sp": 3,
+      "V": 5
+  }'>
+</div>
+
+Det skal sies at representantene ofte slipper unna med upassende ord og uttrykk, illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
 
 > La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.
 
