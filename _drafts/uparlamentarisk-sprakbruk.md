@@ -317,7 +317,7 @@ Vi har også kommet over følgende [ikke-navngitte sladring 10.02.2011](https://
     <cite>Presidenten</cite>
 </blockquote>
 
-Bård Hoksrud sladret imidlertid fra talerstolen [11.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
+Bård Hoksrud sladret imidlertid åpent fra talerstolen [11.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
 
 <blockquote>
     Jeg oppfatter at vi kanskje har fått et nytt parlamentarisk uttrykk i denne forsamlingen, for jeg registrerer at presidenten ikke klubbet da representanten Langeland brukte ordet «ræva». Jeg synes ikke det er et parlamentarisk uttrykk om politikk som andre fører, i hvert fall ikke fra denne talerstol
