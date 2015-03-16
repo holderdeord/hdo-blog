@@ -80,16 +80,6 @@
     <meta name="twitter:image:src" content="{{ site.url }}/images/logo.jpg">
   {% endif %}
 
-  {% if page.video %}
-    <meta property="og:video:url" content="{{ page.video.url }}">
-    <meta property="og:video:type" content="text/html">
-
-    {% if page.video.flash_url %}
-        <meta property="og:video:url" content="{{ page.video.flash_url }}">
-        <meta property="og:video:type" content="application/x-shockwave-flash">
-    {% endif %}
-  {% endif %}
-
   {% if page.tags %}{% for tag in page.tags %}
     <meta property="article:tag" content="{{ tag }}">
   {% endfor %}
