@@ -17,6 +17,7 @@ scripts:
 - d3
 - c3
 - __title__
+twitter_card: summary_large_image
 ---
 
 **Vi har undersøkt hvilke medieaktører som oftest siteres på Stortinget. Basert på referater fra de siste seks årene kan vi lære noe om hvem som setter politisk dagsorden i Norge.**
