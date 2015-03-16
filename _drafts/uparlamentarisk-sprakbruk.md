@@ -299,8 +299,7 @@ Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Storting
 
 ### Kan slippe unna
 
-Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort.
-[Knut Arild Hareide (KrF) slapp imidlertid 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) å bli klubbet, selv om han brukte religiøse uttrykk og Presidenten godt kunne høre hva som ble sagt:
+Lista med "på kanten-ord" er naturligvis ikke komplett. Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort. Vi kan uansett konkludere med at reglene er ganske inkonsekvente. Som det fremgår i ordboka er det ikke tillatt å si "for Guds skyld" eller "gudskjelov", men [Knut Arild Hareide (KrF) slapp 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) unna, selv om han brukte religiøse uttrykk:
 
 <blockquote>Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
    <cite>Knut Arild Hareide</cite>
