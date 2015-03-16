@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dette er Stortingets morsomste
-date: "2016-12-31T23:59:59.000+01:00"
+date: "2015-03-16T15:04:00.000+01:00"
 authors:
   - Herman Westrum Thorsen
   - Jari Bakken
