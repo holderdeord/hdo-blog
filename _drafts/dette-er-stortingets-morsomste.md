@@ -30,10 +30,8 @@ twitter_card: summary_large_image
 
 <iframe
     src="{{ page.video.url }}"
-    width="512"
-    height="350"
+    class="embedded-video"
     frameborder="0"
-    style="padding-bottom: 2rem;"
     webkitallowfullscreen
     mozallowfullscreen
     allowfullscreen>
@@ -62,3 +60,4 @@ Et forsøk på å finne ut om lattermildheten har endret seg over tid lar oss ik
 <figcaption class="text-center">Andel innlegg med latterutbrudd per stortingssesjon, 2008 - 2014</figcaption>
 
 Har du ideer til ting vi burde undersøke i referatene? Ta gjerne kontakt i kommentarfeltet under, på [epost](mailto:jari@holderdeord.no), [Twitter](https://twitter.com/holderdeord) eller [Facebook](https://facebook.com/holderdeord). Bakgrunnstall for denne artikkelen finner du [her](https://docs.google.com/spreadsheets/d/1ibIUhKuq-h1QL_LwTYoVuKeClm59HwLSRjcyVsm6__U/edit?usp=sharing).
+

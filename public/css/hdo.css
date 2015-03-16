@@ -606,6 +606,7 @@ main > .post .post-content > p:first-child > strong:first-child {
   margin-bottom: 2rem;
 }
 
+/* boxes */
 .fact-box {
     border-top: 1px solid #e2e2e2;
     border-bottom: 1px solid #e2e2e2;
@@ -623,11 +624,25 @@ main > .post .post-content > p:first-child > strong:first-child {
        float: right;
        width: 50%;
    };
-}
 
-@media (min-width: 30em) {
-    .left-box {
+   .left-box {
        float: left;
        width: 50%;
    };
+
 }
+
+
+/* embedded */
+.embedded-video {
+    height: 325px;
+    width: 100%;
+    padding-bottom: 2rem;
+}
+
+@media (max-width: 30em) {
+    .embedded-video {
+        height: 200px;
+    }
+}
+

@@ -8,13 +8,9 @@
         format: function(d) { return d + '%'; }
     };
 
-    repCounts.forEach(function(d) {
-        d.name = d.name + ', ' + d.party + '';
-    });
-
     function drawTopList(selector, data, key, opts) {
+        opts = opts || {};
         var cols = [];
-        var opts = opts || {};
         var type = opts.type || 'bar';
 
         var tickFormatter = key === 'percent' ? percentFormat : undefined;
