@@ -199,10 +199,10 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>driver med overgrep fra det offentlige</li>
                 <li>driver med forsøpling av debatten</li>
                 <li>forfekter «voodoo-økonomi»</li>
-                <li>har et like kort perspektiv som et «one-night-stand»</li>
+                <li>har et like kortsiktig perspektiv som et «one-night-stand»</li>
                 <li>biter seg selv i halen</li>
-                <li>sparker befolkningen i ballene</li>
-                <li>bevilger penger som kan sammenlignes med musepiss i havet</li>
+                <li>ballesparker befolkningen</li>
+                <li>bevilger summer som kan sammenlignes med musepiss i havet</li>
                 <li>fremstår som kastrerte</li>
             </ul>
         </div>
@@ -248,7 +248,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
               <li>omtale motstanderens politikk og uttalelser som et dobbeltspill</li>
               <li>sammenligne en motstander med en struts som stikker hodet i jorden</li>
               <li>si at en motstander er «på bærtur»</li>
-              <li>si at noe er «sabla kostbart», så lenge det er i en debatt om forsvaret</li>
+              <li>si at noe er «sabla kostbart», så lenge det skjer i en debatt om forsvaret</li>
               <li>si at motstanderne løp rundt under hele valgkampen og narret folk</li>
             </ul>
         </div>
@@ -259,8 +259,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
             <ul>
               <li> si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»</li>
               <li>kalle en motstander et råskinn, så lenge det er godt ment</li>
-              <li>si at noe er «noe svineri», så lenge de er i en debatt om landbruket</li>
-              <li>å si at man ikke har tenkt å kalle en motstander for ei ku</li>
+              <li>si at noe er «noe svineri», så lenge det skjer i en debatt om landbruket</li>
+              <li>å påpeke at man ikke har tenkt å kalle en motstander for ei ku</li>
               <li>sammenligne situasjonen på Island etter finanskrisen med situasjonen i Danmark etter det Østerrisk-Preussiske angrepet i 1864</li>
             </ul>
         </div>
@@ -294,7 +294,7 @@ Totalt har Presidenten funnet det nødvendig å klubbe 148 ganger de siste seks 
 
 ### Kan slippe unna
 
-Lista med "på kanten-ord" er naturligvis ikke komplett. Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort. Vi kan uansett konkludere med at reglene er ganske inkonsekvente, eksempelvis illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
+Lista med "på kanten-ord" over er naturligvis ikke komplett. Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort. Vi kan uansett konkludere med at reglene er ganske inkonsekvente, eksempelvis illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
 
 > La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.
 
