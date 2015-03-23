@@ -101,8 +101,12 @@ I opposisjon er det også mindre problematisk å fristille, særlig hvis vi har 
 
 <div id="{{ page.title | slugify }}-timeline"></div>
 
+Den neste grafen viser utbrytere per parti over tid, og vi ser at representantene i mye større grad stemmer mot flertallet i sitt parti når de er i opposisjon enn i posisjon. Dette gjelder både for Høyre og FrP, som har færre utbrytere nå enn i perioden 2009-2013, og for SV og Sp som har flere utbrytere nå enn da de satt i regjering. 
 
-I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler også helt selvsagt.
+- inn her med utbrytere per parti over tid
+
+I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler selvsagt, siden Rasmus Hansson ikke kan stemme mot seg selv. Det finnes naturligvis også tilfeller der han trolig har stemt "mot eget parti", som i [denne avstemningen](https://www.holderdeord.no/votes/1403271166ne), der han stemte for SVs alternative statsbudsjett.
+
 
 #### Er samvittighetsstemmer en god ting?
 
