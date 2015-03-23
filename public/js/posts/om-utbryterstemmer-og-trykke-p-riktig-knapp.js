@@ -88,8 +88,8 @@
         });
     }
 
-    drawTop20({selector: '#om-utbryterstemmer-top-20'});
-    drawParties({selector: '#om-utbryterstemmer-parties', normalized: false});
-    drawParties({selector: '#om-utbryterstemmer-parties-normalized', normalized: true});
-    drawTimeline({selector: '#om-utbryterstemmer-timeline'});
+    drawTop20({selector: '#om-utbryterstemmer-og-trykke-p-riktig-knapp-top-20'});
+    drawParties({selector: '#om-utbryterstemmer-og-trykke-p-riktig-knapp-parties', normalized: false});
+    drawParties({selector: '#om-utbryterstemmer-og-trykke-p-riktig-knapp-parties-normalized', normalized: true});
+    drawTimeline({selector: '#om-utbryterstemmer-og-trykke-p-riktig-knapp-timeline'});
 }());
