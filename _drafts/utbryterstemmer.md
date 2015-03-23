@@ -16,13 +16,28 @@ scripts:
 published: true
 ---
 
-**Forrige måned laget vi [@partipisken][partipisken], en Twitter-konto som tvitrer hver gang noen stemmer mot flertallet i sitt eget parti på Stortinget. Nå har vi sett på hva utbryterstemmer har betydd historisk og gravd litt i hva som gjemmer seg bak tallene.**
+**på grunn av sin person, men som representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
 
-[Aslak Borgersrud][aslak] brukte lørdag topplister fra vår database til [å konfrontere](http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/) to politikere med tallene. ...
+I det norske systemet tas uenigheter om saker hvor det ikke finnes landsmøtevedtak innad i partienes stortingsgrupper, der man diskuterer seg fram til et felles standpunkt som binder representantene. Dette sikrer at partiet fremstår som enhetlig og at man får gjennomslag for sine saker der det er snakk om skjøre flertall. Dette er i motsetning til for eksempel i den tyske Bundestagen. Der representerer medlemmene hele folket og skal i følge grunnloven “ikke være bundet av ordrer eller instrukser fra eget parti, men av egen samvittighet”. I det norske systemet får representantene kun følge samvittigheten i spesielle tilfeller.  
+
+Tabellen under viser imidlertid at å bryte med partiet skjer ganske ofte. Tabellen under viser antall såkalte utbryterstemmer per parti, altså hvor mange ganger representanter har stemt mot flertallet i eget parti.
+
+<div id="{{ page.title | slugify }}-top-20"></div>
+
+Her er partiene, etter antall utbryterstemmer. Man trenger minst tre representanter for at noen skal kunne bryte med flertallet. Venstre hadde med sine to representanter derfor ingen utbryterstemmer i 2009-2013, og MDG med sin vil ene representant ikke ha noen i denne perioden.
+
+<div id="{{ page.title | slugify }}-parties"></div>
+<figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
+
+Men det er forskjell i størrelse på partiene, så absolutte tall kan være misvisende. Hva om vi ser på antall utbryterstemmer per innvalgte representant?
+
+<div id="{{ page.title | slugify }}-parties-normalized"></div>
+<figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
+
 
 #### Sjelden med vilje
 
-Som Aslak nevner er mange av utbryterstemmene rett og slett et resultat av at representantene trykker feil. Det bekreftes ikke minst av reaksjonene [@partipisken][partipisken] har fått fra representantene på Twitter:
+I november i fjor laget vi [@partipisken][partipisken], en Twitter-konto som tvitrer hver gang noen stemmer mot flertallet i sitt eget parti på Stortinget. Tilsvarene vi har fått antyder at de tilsynelatende rebelske stemmene dessverre ofte kun er resultat av sløvhet:
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> Hm, det tror jeg må ha vært en feil! Må prøve å rydde opp i det med sekretariatet.</p>&mdash; Snorre Valen (@snorrevalen) <a href="https://twitter.com/snorrevalen/status/533232690859102209">November 14, 2014</a></blockquote>
 
@@ -38,25 +53,47 @@ Som Aslak nevner er mange av utbryterstemmene rett og slett et resultat av at re
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> Dette var en teknisk feil :-)</p>&mdash; Elin Agdestein (@ElinAgdestein) <a href="https://twitter.com/ElinAgdestein/status/563596522705940480">February 6, 2015</a></blockquote>
 
+
+Det var også det [Aslak Borgersrud][aslak] fant da han i desember brukte topplister fra vår database til [å konfrontere](http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/) to politikere med tallene.
+
+
+
+Som Aslak nevner er mange av utbryterstemmene rett og slett et resultat av at representantene trykker feil. Det bekreftes ikke minst av reaksjonene [@partipisken][partipisken] har fått fra representantene på Twitter:
+
+
+og vi fikk da vi bestemte oss for å konfrontere andre politikere i saker med overraskende mange utbrytere, som i en avstemning om å utrede og lovfeste minstelønn, en avstemning om endringer i barneloven, en avstemning om å gi kommunene økt myndighet når det gjelder motorferdsel i utmark og i en avstemning om endringer i abortloven:
+
+Sansynligvis feilstemming.
+Mvh O.Grimstad
+
+Jeg husker ikke denne avstemningen spesielt, og antar derfor at det må ha vært en feilstemme for mitt vedkommende. 							Henning Warloe
+
+
+Jeg støttet Høyre sitt forslag til motorferdsel i utmark. 
+Når det gjelder abortsaken så har jeg stemt feil.
+Bente Thorsen
+
+
+
+
+Så lenge feilstemmingen ikke påvirker utfallet i saken har ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
+
+Det er selvfølgelig beklagelig. […] Heldigvis har disse feilene ikke hatt betydning for flertallet.
+
+Og som Høyres Sveinung Stensland svarte til oss:
+
+Jeg stemte dessverre feil, opplyste innpiskeren om det, men vi fant det ikke nødvendig å korrigere protokollen. 
+Sveinung Stensland
+
+
+
+
 Sannsynligvis gjelder dette en skuffende høy prosentandel av utbryterstemmene. Dessverre er det vanskelig å skille uten å faktisk spørre representantene. Men det er liten grunn til å tro at X stemte mot Y og A for B av samvittighetsgrunner. Så lenge feilstemmingen ikke påvirker utfallet i saken har ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
 
 > Det er selvfølgelig beklagelig. [...] Heldigvis har disse feilene ikke hatt betydning for flertallet.
 
 #### Litt statistikk
 
-Her er de topp 20 representantene på lista:
-
-<div id="{{ page.title | slugify }}-top-20"></div>
-
-Her er partiene, etter antall utbryterstemmer. Man trenger minst tre representanter for at noen skal kunne bryte med flertallet. Venstre hadde med sine to representanter derfor ingen utbryterstemmer i 2009-2013, og MDG med sin vil ene representant ikke ha noen i denne perioden.
-
-<div id="{{ page.title | slugify }}-parties"></div>
-<figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
-
-Men det er forskjell i størrelse på partiene, så absolutte tall kan være misvisende. Hva om vi ser på antall utbryterstemmer per innvalgte representant?
-
-<div id="{{ page.title | slugify }}-parties-normalized"></div>
-<figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
 Hvor mange prosent av avstemningene har en eller flere utbrytere?
 
