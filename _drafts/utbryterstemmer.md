@@ -58,14 +58,14 @@ Det var også det [Aslak Borgersrud][aslak] fant da han i desember brukte toppli
 
 
 > Sansynligvis feilstemming.
-										Mvh O.Grimstad
+										Oskar Grimstad, FrP
 
 > Jeg husker ikke denne avstemningen spesielt, og antar derfor at det må ha vært en feilstemme for mitt vedkommende. 							
-										Henning Warloe
+										Henning Warloe, H
 
 
 > Jeg støttet Høyre sitt forslag til motorferdsel i utmark. Når det gjelder abortsaken så har jeg stemt feil.
-										Bente Thorsen
+										Bente Thorsen, FrP
 
 
 Så lenge feilstemmingen ikke påvirker utfallet i saken har nemlig ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
@@ -78,12 +78,6 @@ Og som Høyres Sveinung Stensland svarte til oss:
 
 Dette siste henviser til stortingspraksisen med å melde inn standpunktene på forhånd. Presidenten vet derfor hva utfallet av avstemningen skal bli. Skulle utfallet av voteringen bli annerledes enn det som var meldt inn på forhånd vil Presidenten si fra, og så må de ta hele voteringen på nytt. Hvis det ikke tipper utfallet gjør det ingenting, så det er få som orker å si fra, hvis de i det hele tatt fikk med seg at de trykka på feil knapp. Av i alt 2083 stemmer mot eget parti i perioden 2009 til i dag har representanter kun oppdaget, eller brydd seg med å si fra om, at de stemte feil 59 ganger. 
 
-
-
-
-Hvor mange prosent av avstemningene har en eller flere utbrytere?
-
-<div id="{{ page.title | slugify }}-timeline"></div>
 
 #### Noen ganger med vilje
 
@@ -99,11 +93,16 @@ I noen tilfeller tillater imidlertid også norske politiske partier at represent
 										Bente Thorsen, FrP
 
 
+Et kroneksempel på slike samvittighetsstemmer er striden om datalagringsdirektivet, som ikke var eksplisitt omtalt i Høyres partiprogram. Høyre støttet Arbeiderpartiet og sikret flertall på Stortinget for den nye loven. Flere fremtredende stortingsrepresentanter fra Høyre, blant annet Nikolai Astrup og Michael Tetzschner, gikk offentlig ut mot lovforslaget. Flere andre Høyrefolk mente datalagringsdirektivet brøt med Høyres prinsipper og partiprogram, som understreker viktigheten av personvern. Der heter det at: 
 
-- abortlov, ekteskapslov, DLD (Tetzschner),
-- pelsdyr?
-- finne noen saker hvor utbrytere har endret utfallet
-- bruk bilder av representanter
+> For å sikre personvern og ytringsfrihet vil Høyre stille seg kritisk til innføringen av nye lover som øker adgangen til, eller omfanget av, overvåkning i samfunnet.
+
+I opposisjon er det også mindre problematisk å fristille, særlig hvis vi har en flertallsregjering. Grafen under viser at enhetlig stemmegiving i partigruppene har blitt styrket det siste året. 
+
+<div id="{{ page.title | slugify }}-timeline"></div>
+
+
+I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler også helt selvsagt.
 
 #### Er samvittighetsstemmer en god ting?
 
