@@ -16,7 +16,7 @@ scripts:
 published: true
 ---
 
-**på grunn av sin person, men som representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
+**Det norske systemet legger opp til en streng partidisiplin. Representantene er ikke primært valgt på grunn av sin person, men som representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
 
 I det norske systemet tas uenigheter om saker hvor det ikke finnes landsmøtevedtak innad i partienes stortingsgrupper, der man diskuterer seg fram til et felles standpunkt som binder representantene. Dette sikrer at partiet fremstår som enhetlig og at man får gjennomslag for sine saker der det er snakk om skjøre flertall. Dette er i motsetning til for eksempel i den tyske Bundestagen. Der representerer medlemmene hele folket og skal i følge grunnloven “ikke være bundet av ordrer eller instrukser fra eget parti, men av egen samvittighet”. I det norske systemet får representantene kun følge samvittigheten i spesielle tilfeller.  
 
