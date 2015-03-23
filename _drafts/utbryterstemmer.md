@@ -57,42 +57,28 @@ I november i fjor laget vi [@partipisken][partipisken], en Twitter-konto som tvi
 Det var også det [Aslak Borgersrud][aslak] fant da han i desember brukte topplister fra vår database til [å konfrontere](http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/) to politikere med tallene, og det vi fikk da vi bestemte oss for å konfrontere andre politikere i saker med overraskende mange utbrytere, som i en avstemning om å [lovfeste minstelønn](https://www.holderdeord.no/votes/1418069544ne), en avstemning om [endringer i barneloven](https://www.holderdeord.no/votes/1268171572ne), en avstemning om å [gi kommunene økt myndighet over motorferdsel i utmark](https://www.holderdeord.no/votes/1273513544ne) og i en avstemning om [endringer i abortloven:](https://www.holderdeord.no/votes/1360701677ne)
 
 
+> Sansynligvis feilstemming.
+										Mvh O.Grimstad
 
-Som Aslak nevner er mange av utbryterstemmene rett og slett et resultat av at representantene trykker feil. Det bekreftes ikke minst av reaksjonene [@partipisken][partipisken] har fått fra representantene på Twitter:
-
-
-og vi fikk da vi bestemte oss for å konfrontere andre politikere i saker med overraskende mange utbrytere, som i en avstemning om å utrede og lovfeste minstelønn, en avstemning om endringer i barneloven, en avstemning om å gi kommunene økt myndighet når det gjelder motorferdsel i utmark og i en avstemning om endringer i abortloven:
-
-Sansynligvis feilstemming.
-Mvh O.Grimstad
-
-Jeg husker ikke denne avstemningen spesielt, og antar derfor at det må ha vært en feilstemme for mitt vedkommende. 							Henning Warloe
+> Jeg husker ikke denne avstemningen spesielt, og antar derfor at det må ha vært en feilstemme for mitt vedkommende. 							
+										Henning Warloe
 
 
-Jeg støttet Høyre sitt forslag til motorferdsel i utmark. 
-Når det gjelder abortsaken så har jeg stemt feil.
-Bente Thorsen
+> Jeg støttet Høyre sitt forslag til motorferdsel i utmark. Når det gjelder abortsaken så har jeg stemt feil.
+										Bente Thorsen
 
 
+Så lenge feilstemmingen ikke påvirker utfallet i saken har nemlig ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
 
-
-Så lenge feilstemmingen ikke påvirker utfallet i saken har ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
-
-Det er selvfølgelig beklagelig. […] Heldigvis har disse feilene ikke hatt betydning for flertallet.
+> Det er selvfølgelig beklagelig. […] Heldigvis har disse feilene ikke hatt betydning for flertallet.
 
 Og som Høyres Sveinung Stensland svarte til oss:
 
-Jeg stemte dessverre feil, opplyste innpiskeren om det, men vi fant det ikke nødvendig å korrigere protokollen. 
-Sveinung Stensland
+> Jeg stemte dessverre feil, opplyste innpiskeren om det, men vi fant det ikke nødvendig å korrigere protokollen. 
+
+Dette siste henviser til stortingspraksisen med å melde inn standpunktene på forhånd. Presidenten vet derfor hva utfallet av avstemningen skal bli. Skulle utfallet av voteringen bli annerledes enn det som var meldt inn på forhånd vil Presidenten si fra, og så må de ta hele voteringen på nytt. Hvis det ikke tipper utfallet gjør det ingenting, så det er få som orker å si fra, hvis de i det hele tatt fikk med seg at de trykka på feil knapp. Av i alt 2083 stemmer mot eget parti i perioden 2009 til i dag har representanter kun oppdaget, eller brydd seg med å si fra om, at de stemte feil 59 ganger. 
 
 
-
-
-Sannsynligvis gjelder dette en skuffende høy prosentandel av utbryterstemmene. Dessverre er det vanskelig å skille uten å faktisk spørre representantene. Men det er liten grunn til å tro at X stemte mot Y og A for B av samvittighetsgrunner. Så lenge feilstemmingen ikke påvirker utfallet i saken har ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
-
-> Det er selvfølgelig beklagelig. [...] Heldigvis har disse feilene ikke hatt betydning for flertallet.
-
-#### Litt statistikk
 
 
 Hvor mange prosent av avstemningene har en eller flere utbrytere?
@@ -101,7 +87,18 @@ Hvor mange prosent av avstemningene har en eller flere utbrytere?
 
 #### Noen ganger med vilje
 
-... her trengs litt mer analyse av det politiske innholdet ...
+I noen tilfeller tillater imidlertid også norske politiske partier at representantene fristilles, særlig i såkalte samvittighetssaker. De får altså tillatelse fra resten av partigruppen til å stemme mot flertallet i gruppen. Vi har ikke klart å få tak i noen offisielle reglementer, men har fått følgende sitat:
+
+> Vi er fristilt i saker som ikke er bestemt av landsmøtet, eller som er hjemlet i partiprogram eller regjeringsplattform.
+										Sveinung Stensland, H
+
+> I Arbeiderpartiet har vi tradisjon for å diskutere oss fram til et standpunkt i en sak for så å stemme sammen. I enkelte saker, for eksempel saker som berører samvittighetsspørsmål eller saker som betyr mye for den enkelte kan gruppa stille medlemmene fritt. Dette syns jeg er en grei ordning.
+										Sonja Mandt, Ap
+
+> Når det gjelder samvittighetsspørsmål så synes jeg det er viktig at representantene får stå fritt til å stemme etter egen overbevisning, så lenge programmet vi er innvalgt på ikke sier noe om den konkrete saken. Dette er forøvrig en regel som vi har følgt i saker som går på samvittighet. 
+										Bente Thorsen, FrP
+
+
 
 - abortlov, ekteskapslov, DLD (Tetzschner),
 - pelsdyr?
