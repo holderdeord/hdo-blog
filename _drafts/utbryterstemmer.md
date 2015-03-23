@@ -110,7 +110,28 @@ I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP 
 
 #### Er samvittighetsstemmer en god ting?
 
-Det kan fremstå som om en styrke at enkeltrepresentanter mener så sterkt om en sak at hun prinsippfast trosser partipisken og bryter med flertallet. Men hvordan hadde systemet fungert om alle skulle følge sin egen overbevisning? ... her trengs noen statsvitere, intervju med parlamentariske ledere ...
+Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak eller avtaler med andre partier, som i samarbeidsavtalen dagens regjering har med Venstre og KrF. Man kan imidlertid argumentere for at større frihet for representantene burde være regelen i saker der partiet mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveining Stensland i sitatet over mener politikken er i Høyre. 
+
+Et eksempel for å illustrere det problematiske med partipisk er avstemningen om hvorvidt norske sykehus skal tilby omskjæring av guttebarn. Dette er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. 
+
+I slike saker finnes «løsningen» i Stortingets utbyttersystem, der innpiskerne for de ulike partiene sørger for at den politiske balansen opprettholdes når ikke alle er til stede i salen. Freddy de Ruiter i Ap fortalte til Dagsavisen at han benyttet seg av denne ordningen og ba om å få bli byttet ut for å slippe å stemme for loven:
+
+> Det var mest renhårig. Jeg kunne ikke stemme for dette av samvittighetsgrunner 
+
+Hensikten med utbyttingssystemet er imidlertid å ta hensyn til at representantene har mange andre oppgaver enn å møte i Stortingssalen, og ikke alle har mulighet til å møte hver gang. Hvordan utbyttingssystemet praktiseres er i stor grad opp til hvert enkelt parti; det er en såkalt gentleman agreement mellom partiene, og er basert på tillit. Representantene plikter imidlertid i følge ansvarlighetsloven å møte i Stortinget såfremt de har gyldig fravær. Det er derfor problematisk at dette systemet kan brukes som en enkel utvei for å slippe å vise at man er uenig med partiets standpunkt, eller å måtte stemme for noe man egentlig er mot, når man faktisk har mulighet til å møte. At man ikke er enig med eget parti bør ikke være gyldig grunn til å avstå fra en avstemning. 
+
+At ordningen kan benyttes på denne måten gjør det vanskelig å ettergå representantene. Vi kan ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det. 
+
+I følge Michael Tetzschner i Høyre har de når det er snakk om samvittighetsspørsmål
+> en fin tradisjon med å "stille representantene fritt". Formuleringen tyder på at man har hjemmel til å binde, men det har man ikke juridisk. Så realiteten er at man ikke vil bruke sosialt press på de som utgjør mindretallet. Der man såkalt binder, er det snakk om overtalelse og argumentasjon. 
+
+Videre skriver han til Holder de ord at 
+
+> Jeg gjør også oppmerksom på at hvis partiet har vedtatt et program, og en valgt representant uttrykkelig og offentlig har reservert seg før han blir nominert, har han muligheten til å stå fritt. Men set sier seg selv at det må være så viktig sak at den er konkret omtalt i programmet.
+I tillegg er de fleste representanter gode til å skille mellom sterkt prinsipielle saker og "annen orden"s saker.  Man vil neppe møte forståelse for å stemme mot partiet i praktiske saker, eller valg mellom utpreget tekniske løsninger. 
+OL saken er et godt eksempel på at man ikke skulle kunne utøve noe særlig press mot representantene i en sak som ikke en gang stod omtalt i programmet og ville koste 35 mrd x 1 eller x2 eller x3.
+
+
 
 [partipisken]: https://twitter.com/partipisken
 [aslak]: https://twitter.com/aslak_gatas
