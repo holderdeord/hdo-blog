@@ -131,7 +131,7 @@ Videre skriver han til Holder de ord at
 I tillegg er de fleste representanter gode til å skille mellom sterkt prinsipielle saker og "annen orden"s saker.  Man vil neppe møte forståelse for å stemme mot partiet i praktiske saker, eller valg mellom utpreget tekniske løsninger. 
 OL saken er et godt eksempel på at man ikke skulle kunne utøve noe særlig press mot representantene i en sak som ikke en gang stod omtalt i programmet og ville koste 35 mrd x 1 eller x2 eller x3.
 
-
+Vampus og reservasjonsrett?
 
 [partipisken]: https://twitter.com/partipisken
 [aslak]: https://twitter.com/aslak_gatas
