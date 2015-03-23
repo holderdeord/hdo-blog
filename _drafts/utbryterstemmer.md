@@ -3,7 +3,8 @@ layout: post
 title: Om utbryterstemmer og å trykke på riktig knapp
 date: "2015-12-31T23:59:59.000+01:00"
 authors: 
-  - Jari Bakken
+  - Hanna Tranås
+  - Alexander Habash Eide
 tags: 
   - avstemninger
   - stortinget
@@ -12,7 +13,7 @@ scripts:
   - d3
   - c3
   - __title__
-  - "twitter-wjs"
+  - twitter-wjs
 published: true
 ---
 
