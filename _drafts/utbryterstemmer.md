@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Om utbryterstemmer
+title: Om utbryterstemmer og å trykke på riktig knapp
 date: "2015-12-31T23:59:59.000+01:00"
 authors: 
   - Jari Bakken
