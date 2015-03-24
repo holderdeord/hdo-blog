@@ -284,11 +284,11 @@ Totalt har Presidenten funnet det nødvendig å klubbe 147 ganger de siste seks 
     data-values='{
       "FrP": 55,
       "SV": 34,
-      "A": 26,
+      "A": 25,
       "H": 20,
-      "KrF": 5,
+      "KrF": 4,
       "Sp": 3,
-      "V": 5
+      "V": 4
   }'>
 </div>
 
