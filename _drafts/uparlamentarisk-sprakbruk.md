@@ -259,7 +259,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
             <ul>
               <li> si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»</li>
               <li>kalle en motstander et råskinn, så lenge det er godt ment</li>
-              <li>si at noe er «noe svineri», så lenge det skjer i en debatt om landbruket</li>
+              <li>si at noe er «noe svineri», så lenge det skjer i en debatt om dyrevelferd</li>
               <li>å påpeke at man ikke har tenkt å kalle en motstander for ei ku</li>
               <li>sammenligne situasjonen på Island etter finanskrisen med situasjonen i Danmark etter det Østerrisk-Preussiske angrepet i 1864</li>
             </ul>
