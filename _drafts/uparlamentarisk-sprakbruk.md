@@ -275,7 +275,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
 
 </div>
 
-Totalt har Presidenten funnet det nødvendig å klubbe 148 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som oftest blir irettesatt, og det er fløypartiene som utmerker seg som mest rebelske.
+Totalt har Presidenten funnet det nødvendig å klubbe 147 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som oftest blir irettesatt, og det er fløypartiene som utmerker seg som mest rebelske.
 
 <div
     class="uparlamanterisk-sprakbruk-party-chart"
