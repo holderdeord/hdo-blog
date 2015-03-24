@@ -34,6 +34,7 @@
     }
 
     drawChart('.uparlamanterisk-sprakbruk-party-chart');
+    drawChart('.uparlamanterisk-sprakbruk-party-percent-chart');
     drawChart('.uparlamanterisk-sprakbruk-person-chart');
     drawChart('.uparlamanterisk-sprakbruk-person-percent-chart');
 

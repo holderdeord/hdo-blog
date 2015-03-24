@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Uparlamentarisk språkbruk
+title: Dette bør du ikke si på Stortinget
 date: "2016-12-31T23:59:59.000+01:00"
 authors: 
   - Hanna Tranås
+  - Jari Bakken
 tags: 
   - parlamentarisk språk
   - stortinget
@@ -26,11 +27,11 @@ I [Stortingets forretningsorden § 55](https://www.stortinget.no/Global/pdf/stor
 
 > Presidenten vil bare minne om at man ikke skal bruke uparlamentariske uttrykk i denne salen. Presidenten har en viss mistanke om at det går an å skaffe seg informasjon om hvilke uttrykk man ikke skal bruke i denne salen
 
-Presidenten, eller den av visepresidentene som har presidentplassen i debatten, står nemlig fritt til å klubbe ned de ord og uttrykk han eller hun mener er upassende. Dette illustreres tydelig av en diskusjon i Stortinget 19.12.2013 hvor President Olemic Thommesen klubbet Snorre Valens (SV) omtale av et forslag som «corny». På [motsvar til Heikki Holmås (SV)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2013-2014/131219/2/#a10), som innvendte at han synes dette burde være et godkjent uttrykk, svarte Thommesen:
+Presidenten, eller den av visepresidentene som har presidentplassen i debatten, står nemlig fritt til å klubbe ned de ord og uttrykk han eller hun mener er upassende. Dette illustreres tydelig av en diskusjon i Stortinget 19. desember 2013 hvor President Olemic Thommessen (H) klubbet Snorre Valens (SV) omtale av et forslag som «corny». På [motsvar til Heikki Holmås (SV)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2013-2014/131219/2/#a10), som innvendte at han synes dette burde være et godkjent uttrykk, svarte Thommessen:
 
-> Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning
+> Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning.
 
-Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som har blitt klubbet, og da altså ikke er greie å bruke fra Stortingets talerstol. Da flere av ordene og uttrykkene har blitt klubbet flere ganger, (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
+Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som har blitt klubbet, og da altså ikke er greie å bruke fra Stortingets talerstol. Da flere av ordene og uttrykkene har blitt klubbet flere ganger (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
 
 
 
@@ -104,7 +105,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
         </div>
 
         <div>
-            <h4>Man <strong>ikke</strong> bruke billedspråk som:</h4>
+            <h4>Man skal <strong>ikke</strong> bruke billedspråk som:</h4>
 
             <ul>
                 <li>å slenge ut av seg</li>
@@ -275,7 +276,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
 
 </div>
 
-Totalt har Presidenten funnet det nødvendig å klubbe 145 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som oftest blir irettesatt, og det er fløypartiene som utmerker seg som mest rebelske.
+Totalt har Presidenten funnet det nødvendig å klubbe 145 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som irettesettes oftest, og det er fløypartiene som utmerker seg som mest rebelske.
 
 <div
     class="uparlamanterisk-sprakbruk-party-chart"
@@ -288,19 +289,43 @@ Totalt har Presidenten funnet det nødvendig å klubbe 145 ganger de siste seks 
       "H": 20,
       "KrF": 4,
       "Sp": 3,
-      "V": 4
+      "V": 4,
+      "MDG": 0
   }'>
 </div>
+<figcaption class="text-center">Antall innlegg klubbet per parti, oktober 2008 - januar 2015 </figcaption>
+
+Dette inntrykket endrer seg ikke dramatisk om vi tar høyde for at noen partier har flere innlegg enn andre, og heller ser på prosentandel som klubbes: 
+
+<div
+    class="uparlamanterisk-sprakbruk-party-percent-chart"
+    data-type="bar"
+    data-postfix="%"
+    data-value-title="Andel innlegg klubbet"
+    data-values='{
+        "SV":  0.48009037,
+        "FrP": 0.4520424098,
+        "H":   0.1571462246,
+        "A":   0.1463443189,
+        "V":   0.1101018442,
+        "KrF": 0.07045974987,
+        "Sp":  0.04173042148,
+        "MDG": 0
+  }'>
+</div>
+<figcaption class="text-center">Andel av partiets innlegg som ble klubbet, oktober 2008 - januar 2015</figcaption>
 
 ### Kan slippe unna
 
-Lista med "på kanten-ord" over er naturligvis ikke komplett. Å finne alle ord som ikke har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort. Vi kan uansett konkludere med at reglene er ganske inkonsekvente, eksempelvis illustrert ved FrPs Arne Sortevik som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3)
+Lista med «på kanten-ord» over er naturligvis ikke komplett. Å finne alle ord som *ikke* har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort. Vi kan uansett konkludere med at reglene er ganske inkonsekvente, eksempelvis illustrert ved Arne Sortevik (FrP) som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3):
 
 > La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.
 
-Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Stortingets talerstol, men bare blitt klubbet én gang. Han har sannsynligvis snakket fra talerstolen da noen andre enn Andersen holdt presidentklubba. Han og Carl I. Hagen har i alle fall noe forskjellig oppfatning av hva som er akseptabel språkbruk. Hagen har [klubbet både Arbeiderpartiets Sylvia Brustad](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090312/1/#a8.8) og [SVs Erik Solheim](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090514/1/#a8.10) for å si at noe ikke henger på greip, mens Dag Terje Andersen eksplisitt har [uttalt fra presidentplassen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100430/1/#a10) at "å henge på greip" slett ikke er et uparlamentarisk uttrykk. 
+Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Stortingets talerstol, men bare blitt klubbet én gang. Han har sannsynligvis snakket fra talerstolen da noen andre enn Andersen holdt presidentklubba. 
 
-Som det fremgår i ordboka er det ikke tillatt å si "for Guds skyld" eller "gudskjelov", men [Knut Arild Hareide (KrF) slapp 20.03.2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) unna, selv om han brukte religiøse uttrykk:
+Han og visepresident Carl I. Hagen (FrP) har i alle fall noe forskjellig oppfatning av hva som er akseptabel språkbruk. Hagen har [klubbet både Sylvia Brustad](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090312/1/#a8.8) (Ap) og [Erik Solheim](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090514/1/#a8.10) (SV) for å si at noe ikke henger på greip, mens Dag Terje Andersen eksplisitt har [uttalt fra presidentplassen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100430/1/#a10) at «å henge på greip» slett ikke er et uparlamentarisk uttrykk. 
+
+Som det fremgår i ordboka er det ikke tillatt å si «for Guds skyld» eller «gudskjelov», men Knut Arild Hareide (KrF) [slapp 20. mars 2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) unna selv om han brukte religiøse uttrykk:
 
 <blockquote>Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
    <cite>Knut Arild Hareide</cite>
@@ -312,22 +337,21 @@ Som det fremgår i ordboka er det ikke tillatt å si "for Guds skyld" eller "gud
 
 ### Sladrehank
 
-Vi har også kommet over følgende [ikke-navngitte sladring 10.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
+Vi har også kommet over følgende ikke-navngitte sladring [10. februar 2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
 
 <blockquote>
     Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
     <cite>Presidenten</cite>
 </blockquote>
 
-Bård Hoksrud sladret imidlertid åpent fra talerstolen [11.02.2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
+Bård Hoksrud (FrP) sladret imidlertid åpent fra talerstolen [11. februar 2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
 
 <blockquote>
     Jeg oppfatter at vi kanskje har fått et nytt parlamentarisk uttrykk i denne forsamlingen, for jeg registrerer at presidenten ikke klubbet da representanten Langeland brukte ordet «ræva». Jeg synes ikke det er et parlamentarisk uttrykk om politikk som andre fører, i hvert fall ikke fra denne talerstol
     <cite>Bård Hoksrud</cite>
 </blockquote>
 
-Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubba flest ganger med nettopp Langeland, sammen med SVs Snorre Valen. Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
-
+Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubba flest ganger med nettopp Langeland, sammen med Snorre Valen (SV). Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen (A) Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
 Her er alle representanter som har blitt klubbet mer enn 2 ganger:
 
@@ -349,9 +373,9 @@ Her er alle representanter som har blitt klubbet mer enn 2 ganger:
         "Heikki Holmås, SV": 3,
         "Tord Lien, FrP": 3
     }'></div>
-<figcaption>Antall innlegg klubbet per representant</figcaption>
+<figcaption class="text-center">Antall innlegg klubbet per representant, oktober 2008 - januar 2015</figcaption>
 
-Noen representanter snakker mer enn andre. Om vi ser tallene relativt for antall innlegg, ender vi opp med følgende liste
+Om vi ser på de samme tallene relativt til antall innlegg representanten har holdt, ender vi opp med følgende topp 10-liste:
 
 <div
     class="uparlamanterisk-sprakbruk-person-percent-chart"
@@ -368,6 +392,9 @@ Noen representanter snakker mer enn andre. Om vi ser tallene relativt for antall
         "Arild Grande, Ap": 2.150537634,
         "Morten Ørsal Johansen, FrP": 2.040816327,
         "Olav Gunnar Ballo, SV": 2.0,
-        "Anne Marit Bjørnflaten, Ap": 1.98019802
+        "Anne Marit Bjørnflaten, Ap": 1.98019802,
+        "Jan-Henrik Fredriksen, FrP": 1.877934272
     }'></div>
-<figcaption>Andel innlegg klubbet per representant</figcaption>
+<figcaption class="text-center">Andel innlegg klubbet per representant, oktober 2008 - januar 2015</figcaption>
+
+Bakgrunnsdata for denne artikkelen finner du [her](https://docs.google.com/spreadsheets/d/1FZMnXG9Fg7TEh5WvXbp0T2LNLtu3Ed99cU5HnU27CO8/edit?usp=sharing).
