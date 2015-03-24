@@ -326,9 +326,8 @@ Bård Hoksrud sladret imidlertid åpent fra talerstolen [11.02.2011](https://www
     <cite>Bård Hoksrud</cite>
 </blockquote>
 
-Hoksrud kaster stein i glasshus når han sladrer på Langeland. Han har riktignok aldri brukt uttrykket «ræva», men han blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
+Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubba flest ganger med nettopp Langeland, sammen med SVs Snorre Valen. Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
-Hoksrud er imidlertid bare nest verst, hvis det å bli klubbet ofte er en dårlig ting. Lista trones av partikollega Ketil Solvik-Olsen, mens Hoksrud selv deler andreplassen med SVs Snorre Valen og Hallgeir Langeland:
 
 <div
     class="uparlamanterisk-sprakbruk-person-chart"
