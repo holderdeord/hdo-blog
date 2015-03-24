@@ -360,14 +360,14 @@ Noen representanter snakker mer enn andre. Om vi ser tallene relativt for antall
     data-postfix="%"
     data-value-title="Andel innlegg klubbet"
     data-values='{
-        "Åse M. Schmidt": 8.333333333,
-        "Rolf Terje Klungland": 2.857142857,
-        "Hårek Elvenes": 2.777777778,
-        "Hallgeir H. Langeland": 2.371541502,
-        "Fredric Holen Bjørdal": 2.222222222,
-        "Arild Grande": 2.150537634,
-        "Morten Ørsal Johansen": 2.040816327,
-        "Olav Gunnar Ballo": 2.0,
-        "Anne Marit Bjørnflaten": 1.98019802
+        "Åse Michaelsen, FrP": 8.333333333,
+        "Rolf Terje Klungland, Ap": 2.857142857,
+        "Hårek Elvenes, H": 2.777777778,
+        "Hallgeir H. Langeland, SV": 2.371541502,
+        "Fredric Holen Bjørdal, Ap": 2.222222222,
+        "Arild Grande, Ap": 2.150537634,
+        "Morten Ørsal Johansen, FrP": 2.040816327,
+        "Olav Gunnar Ballo, SV": 2.0,
+        "Anne Marit Bjørnflaten, Ap": 1.98019802
     }'></div>
 <figcaption>Andel innlegg klubbet per representant</figcaption>
