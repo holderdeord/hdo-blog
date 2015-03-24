@@ -329,6 +329,8 @@ Bård Hoksrud sladret imidlertid åpent fra talerstolen [11.02.2011](https://www
 Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubba flest ganger med nettopp Langeland, sammen med SVs Snorre Valen. Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
 
+Her er alle representanter som har blitt klubbet mer enn 2 ganger:
+
 <div
     class="uparlamanterisk-sprakbruk-person-chart"
     data-type="line"
@@ -347,3 +349,25 @@ Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplasse
         "Heikki Holmås, SV": 3,
         "Tord Lien, FrP": 3
     }'></div>
+<figcaption>Antall innlegg klubbet per representant</figcaption>
+
+Noen representanter snakker mer enn andre. Om vi ser tallene relativt for antall innlegg, ender vi opp med følgende liste
+
+<div
+    class="uparlamanterisk-sprakbruk-person-percent-chart"
+    data-type="line"
+    data-rotated
+    data-postfix="%"
+    data-value-title="Andel innlegg klubbet"
+    data-values='{
+        "Åse M. Schmidt": 8.333333333,
+        "Rolf Terje Klungland": 2.857142857,
+        "Hårek Elvenes": 2.777777778,
+        "Hallgeir H. Langeland": 2.371541502,
+        "Fredric Holen Bjørdal": 2.222222222,
+        "Arild Grande": 2.150537634,
+        "Morten Ørsal Johansen": 2.040816327,
+        "Olav Gunnar Ballo": 2.0,
+        "Anne Marit Bjørnflaten": 1.98019802
+    }'></div>
+<figcaption>Andel innlegg klubbet per representant</figcaption>

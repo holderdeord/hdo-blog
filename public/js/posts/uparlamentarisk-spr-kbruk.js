@@ -6,8 +6,11 @@
         var data    = d3.entries(JSON.parse(el.attr('data-values')));
         var yTitle  = el.attr('data-value-title') || 'y';
         var rotated = el.attr('data-rotated') !== null;
+        var postfix = el.attr('data-postfix');
 
         data.sort(function(a,b) { return d3.descending(a.value, b.value); });
+
+        var tickFormatter = postfix ? function(e) { return e + postfix; } : undefined;
 
         var chart = c3.generate({
             bindto: el.node(),
@@ -22,7 +25,7 @@
             transition: { duration: 0 },
             axis: {
                 x: { type: 'category', tick: { multiline: false } },
-                // y: { tick: tickFormatter },
+                y: { tick: { format: tickFormatter } },
                 rotated: rotated
             },
             legend: { show: false },
@@ -32,6 +35,7 @@
 
     drawChart('.uparlamanterisk-sprakbruk-party-chart');
     drawChart('.uparlamanterisk-sprakbruk-person-chart');
+    drawChart('.uparlamanterisk-sprakbruk-person-percent-chart');
 
     wordlists = $('#uparlamanterisk-sprakbruk-wordlists');
 
