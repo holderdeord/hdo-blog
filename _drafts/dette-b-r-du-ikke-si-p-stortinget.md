@@ -318,7 +318,7 @@ Dette inntrykket endrer seg ikke dramatisk om vi tar høyde for at noen partier 
 
 ### Sladrehank
 
-Vi har også kommet over følgende ikke-navngitte sladring [10. februar 2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
+Selv om det er opp til Presidenten å avgjøre hva som er greit å si, hender det at representantene sladrer på hverandre, som i denne ikke-navngitte sladringen [10. februar 2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
 
 <blockquote>
     Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
