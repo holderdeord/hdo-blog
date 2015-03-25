@@ -31,7 +31,7 @@ Presidenten, eller den av visepresidentene som har presidentplassen i debatten, 
 
 > Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning.
 
-Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som har blitt klubbet, og da altså ikke er greie å bruke fra Stortingets talerstol. Da flere av ordene og uttrykkene har blitt klubbet flere ganger (særlig ord som «frekt» og «tull»), har vi tatt på oss å lage en huskeliste for representantene, slik at de kan lære hvilke ord og uttrykk presidentskapet ikke setter pris på.
+Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008 for å finne ut hvilke ord og uttrykk som har blitt klubbet, og da altså ikke er greie å bruke fra Stortingets talerstol. Da flere av ordene og uttrykkene har blitt klubbet flere ganger (særlig ord som «frekt» og «tull»), har vi laget en huskeliste for representantene som viser hvilke ord og uttrykk presidentskapet ikke setter pris på.
 
 
 
