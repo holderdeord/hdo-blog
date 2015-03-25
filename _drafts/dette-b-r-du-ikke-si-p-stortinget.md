@@ -31,7 +31,7 @@ Presidenten, eller den av visepresidentene som har presidentplassen i debatten, 
 
 > Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning.
 
-Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008, og laget en huskeliste for representantene over hvilke ord og uttrykk presidentskapet ikke setter pris på og som derfor kan bli klubbet:
+Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008, og laget en huskeliste for representantene over hvilke ord og uttrykk presidentskapet ikke setter pris på, og som derfor kan bli klubbet:
 
 
 
@@ -321,9 +321,9 @@ Lista med «på kanten-ord» over er naturligvis ikke komplett. Å finne alle or
 
 > La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.
 
-Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Stortingets talerstol, men bare blitt klubbet én gang. Presidentene har ofte ganske forskjellige oppfatninger av hva som er akseptabel språkbruk. Dag Terje Andersen og tidligere visepresident Carl I. Hagen har i alle fall det. Hagen har [klubbet både Sylvia Brustad](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090312/1/#a8.8) (Ap) og [Erik Solheim](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090514/1/#a8.10) (SV) for å si at noe ikke henger på greip, mens Dag Terje Andersen eksplisitt har [uttalt fra presidentplassen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100430/1/#a10) at «å henge på greip» er innafor.
+Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Stortingets talerstol, men bare blitt klubbet én gang. Presidentene har ofte ganske forskjellige oppfatninger av hva som er akseptabel språkbruk. Eksempelvis har  tidligere visepresident Carl I. Hagen [klubbet både Sylvia Brustad](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090312/1/#a8.8) (Ap) og [Erik Solheim](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090514/1/#a8.10) (SV) for å si at noe ikke henger på greip, mens Dag Terje Andersen eksplisitt har [uttalt fra presidentplassen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100430/1/#a10) at «å henge på greip» er innafor.
 
-Andersen er imidlertid opptatt av at [man ikke skal påkalle høyere makter](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110309/muntligsporretime/#a9.1), og har klubbet uttrykk som «for Guds skyld» og «gudskjelov». Knut Arild Hareide (KrF) [slapp 20. mars 2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) likevel unna selv om han brukte religiøse uttrykk:
+Andersen er imidlertid opptatt av at [man ikke skal påkalle høyere makter](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110309/muntligsporretime/#a9.1), og har klubbet uttrykk som «for Guds skyld» og «gudskjelov». Knut Arild Hareide (KrF) [slapp 20. mars 2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) likevel unna med følgende:
 
 <blockquote>Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
    <cite>Knut Arild Hareide</cite>
