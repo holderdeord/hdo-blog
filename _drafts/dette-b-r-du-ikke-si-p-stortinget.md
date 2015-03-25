@@ -56,7 +56,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
 }
 
 #uparlamanterisk-sprakbruk-wordlists {
-    height: 350px;
+    height: 360px;
 }
 
 #uparlamanterisk-sprakbruk-wordlists .turn-page {
@@ -114,7 +114,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
         </div>
 
         <div>
-            <h4>Man skal <strong>ikke</strong> bruke billedspråk som:</h4>
+            <h4>Man skal ikke bruke billedspråk som:</h4>
 
             <ul>
                 <li>å slenge ut av seg</li>
@@ -124,6 +124,13 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>å sause sammen</li>
                 <li>å spytte ut</li>
                 <li>å få døren midt i fleisen</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>&nbsp;</h4>
+
+            <ul>
                 <li>å bite seg selv i halen</li>
                 <li>å ta noe for god fisk</li>
                 <li>å overkjøre noen</li>
@@ -136,7 +143,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
         </div>
 
         <div>
-            <h4>Man skal <strong>ikke</strong> kalle motstandere:</h4>
+            <h4>Man skal ikke kalle motstandere:</h4>
 
             <ul>
                 <li>frekke</li>
@@ -146,6 +153,13 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>sleipe</li>
                 <li>hyklerske</li>
                 <li>mindre sympatiske</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>&nbsp;</h4>
+
+            <ul>
                 <li>sleivet</li>
                 <li>sutrete</li>
                 <li>ved navn på tegneseriefigurer</li>
@@ -228,6 +242,13 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>bare tull</li>
                 <li>dårlige</li>
                 <li>dumme</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>&nbsp;</h4>
+
+            <ul>
                 <li>meningsløse</li>
                 <li>fordummende</li>
                 <li>en tragedie</li>
@@ -264,8 +285,6 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
         </div>
 
         <div>
-            <h4>&nbsp;</h4>
-
             <ul>
               <li> si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»</li>
               <li>kalle en motstander et råskinn, så lenge det er godt ment</li>
