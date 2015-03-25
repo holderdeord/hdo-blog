@@ -384,7 +384,7 @@ Om vi ser på de samme tallene relativt til antall innlegg representanten har ho
 
 ### Kan slippe unna
 
-Lista med «på kanten-ord» over er naturligvis ikke komplett. Vi kan uansett konkludere med at reglene er ganske inkonsekvente, eksempelvis illustrert ved Arne Sortevik (FrP) som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3):
+Lista med «på kanten-ord» over er naturligvis ikke komplett, og man kan ofte slippe unna med et ord eller uttrykk én gang, men som man en annen gang vil bli klubbet på. Et eksempel på dette er Arne Sortevik (FrP) som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3):
 
 <blockquote>
 La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.
