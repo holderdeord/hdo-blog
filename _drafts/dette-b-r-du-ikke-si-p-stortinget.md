@@ -323,14 +323,14 @@ Lista med «på kanten-ord» over er naturligvis ikke komplett. Å finne alle or
 
 Dette har Sortevik rett i. Han har brukt dette uttrykket syv ganger fra Stortingets talerstol, men bare blitt klubbet én gang. Siden presidentene selv avgjør hva som er over streken, blir det ofte arbitrært. Andersen og tidligere visepresident Carl I. Hagen har i alle fall noe forskjellig oppfatning av hva som er akseptabel språkbruk. Hagen har [klubbet både Sylvia Brustad](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090312/1/#a8.8) (Ap) og [Erik Solheim](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/090514/1/#a8.10) (SV) for å si at noe ikke henger på greip, mens Dag Terje Andersen eksplisitt har [uttalt fra presidentplassen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100430/1/#a10) at «å henge på greip» slett ikke er et uparlamentarisk uttrykk. 
 
-Som det fremgår i ordboka er det ikke tillatt å si «for Guds skyld» eller «gudskjelov», men Knut Arild Hareide (KrF) [slapp 20. mars 2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) unna selv om han brukte religiøse uttrykk:
+Andersen er imidlertid opptatt av at [man ikke skal påkalle høyere makter](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110309/muntligsporretime/#a9.1)og har klubbet uttrykk som «for Guds skyld» og «gudskjelov». Knut Arild Hareide (KrF) [slapp 20. mars 2013](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2012-2013/130320/muntligsporretime/#a6.1) likevel unna selv om han brukte religiøse uttrykk:
 
 <blockquote>Eg er litt usikker på om det er eit parlamentarisk uttrykk – eg trur eg må seie det likevel: Halleluja! (Latter i salen)
    <cite>Knut Arild Hareide</cite>
 </blockquote>
 
 <blockquote>Presidenten kan berolige representanten Hareide med at «halleluja» absolutt ikke er et uparlamentarisk uttrykk. (Munterhet i salen)
-    <cite>Presidenten</cite>
+    <cite>President Andersen</cite>
 </blockquote>
 
 ### Sladrehank
