@@ -339,7 +339,7 @@ Vi har også kommet over følgende ikke-navngitte sladring [10. februar 2011](ht
 
 <blockquote>
     Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
-    <cite>Presidenten</cite>
+    <cite>President Jagland</cite>
 </blockquote>
 
 Bård Hoksrud (FrP) sladret imidlertid åpent fra talerstolen [11. februar 2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
