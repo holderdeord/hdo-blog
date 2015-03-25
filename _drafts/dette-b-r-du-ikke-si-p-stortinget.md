@@ -27,7 +27,7 @@ I [Stortingets forretningsorden § 55](https://www.stortinget.no/Global/pdf/stor
 
 > Presidenten vil bare minne om at man ikke skal bruke uparlamentariske uttrykk i denne salen. Presidenten har en viss mistanke om at det går an å skaffe seg informasjon om hvilke uttrykk man ikke skal bruke i denne salen
 
-Presidenten, eller den av visepresidentene som har presidentplassen i debatten, står nemlig fritt til å klubbe ned de ord og uttrykk han eller hun mener er upassende. Dette illustreres tydelig av en diskusjon i Stortinget 19. desember 2013 hvor President Olemic Thommessen (H) klubbet Snorre Valens (SV) omtale av et forslag som «corny». På [motsvar til Heikki Holmås (SV)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2013-2014/131219/2/#a10), som innvendte at han synes dette burde være et godkjent uttrykk, svarte Thommessen:
+Presidenten, eller den av visepresidentene som har presidentplassen i debatten, står nemlig fritt til å klubbe ned de ord og uttrykk han eller hun mener er upassende. Dette illustreres tydelig av en diskusjon i Stortinget 19. desember 2013 hvor President Olemic Thommessen klubbet Snorre Valens (SV) omtale av et forslag som «corny». På [motsvar til Heikki Holmås (SV)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2013-2014/131219/2/#a10), som innvendte at han synes dette burde være et godkjent uttrykk, svarte Thommessen:
 
 > Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning.
 
