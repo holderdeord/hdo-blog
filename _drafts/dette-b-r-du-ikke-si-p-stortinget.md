@@ -351,7 +351,7 @@ Bård Hoksrud (FrP) sladret imidlertid åpent fra talerstolen [11. februar 2011]
     <cite>Bård Hoksrud</cite>
 </blockquote>
 
-Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubba flest ganger med nettopp Langeland, sammen med Snorre Valen (SV). Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen (A) Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
+Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubba flest ganger med nettopp Langeland, sammen med Snorre Valen (SV). Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen (Ap) Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
 Her er alle representanter som har blitt klubbet mer enn 2 ganger:
 
