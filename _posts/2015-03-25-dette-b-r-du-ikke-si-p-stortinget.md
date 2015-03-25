@@ -8,7 +8,7 @@ authors:
 tags:
   - parlamentarisk språk
   - stortinget
-  - munterhet
+  - presidenten
 scripts:
   - d3
   - c3
