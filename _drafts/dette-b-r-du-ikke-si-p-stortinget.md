@@ -333,6 +333,15 @@ Andersen er imidlertid opptatt av at [man ikke skal påkalle høyere makter](htt
     <cite>President Andersen</cite>
 </blockquote>
 
+En grei regel for å snike til seg noen sleivspark uten å bli klubba synes imidlertid å være å påpeke at man er klar over at det er uparlamentarisk, som [FrPs Erlend Wiborg nylig gjorde](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/150217/2/#a12):
+
+> Jeg vil anta det er uparlamentarisk, og derfor skal jeg ikke hevde at Arbeiderpartiet er for diskriminering (…)
+
+Eller som Arbeiderpartiets [Freddy de Ruiter 03.05.2011:](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110503/7/#a5):
+
+> Kanskje jeg skulle starte med Jan Eggums sang «På 'an igjen», for det er jo det som er realitetene når Fremskrittspartiet masseproduserer representantforslag. Forslagene har stort sett dét til felles at alt er galt, og at ingenting fungerer. Denne gjentagende triste fortellingen får vi presentert både på samferdselsområdet og på en rekke andre samfunnsområder. Det får meg til å tenke på tittelen til debutboken til Ari Behn, men det er neppe innenfor parlamentarisk godkjent ordbruk å nevne bokens tittel
+
+
 ### Sladrehank
 
 Vi har også kommet over følgende ikke-navngitte sladring [10. februar 2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
