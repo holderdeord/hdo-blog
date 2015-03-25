@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dette bør du ikke si på Stortinget
-date: "2016-12-31T23:59:59.000+01:00"
+date: "2015-03-25T17:32:59.000+01:00"
 authors:
   - Hanna Tranås
   - Jari Bakken
@@ -15,7 +15,10 @@ scripts:
   - jquery
   - turnjs
   - __title__
+comments: true
 published: true
+thumbnail: http://files.holderdeord.no/images/stortingssalen.jpg
+twitter_card: summary_large_image
 ---
 
 **Det er mye som skiller det norske Stortinget fra det britiske underhuset. En av de tydeligste skillene er nok hva som anses som akseptabel oppførsel og akseptabel språkbruk.**
@@ -25,9 +28,7 @@ published: true
      frameborder="0"
      class="embedded-video"
      allowfullscreen>
-</iframe>
-
-<figcaption class="text-center">Litt andre tilstander enn på Stortinget</figcaption>
+</iframe><figcaption class="text-center">Litt andre tilstander enn på Stortinget</figcaption>
 
 I [Stortingets forretningsorden § 55](https://www.stortinget.no/Global/pdf/stortingetsforretningsordenbokmal.pdf?epslanguage=no) heter det at «upassende eller fornærmelig atferd eller tale ikke er tillatt. Slik atferd eller tale skal påtales av presidenten.» I § 56 utdypes hva som menes med upassende eller fornærmelig *adferd*, der det heter at «det er ikke tillatt å gi støyende uttrykk for misnøye eller bifall under forhandlingene». Det mangler imidlertid en definisjon på upassende tale, til tross for at Øyvind Korsberg, som var 1. visepresident i perioden 2009-2013, i en [debatt 22. mars 2010](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100322/1/#a16) uttalte at
 
