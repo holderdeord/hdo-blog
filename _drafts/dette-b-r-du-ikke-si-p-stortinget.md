@@ -336,7 +336,7 @@ Bård Hoksrud (FrP) sladret imidlertid åpent fra talerstolen [11. februar 2011]
     <cite>Bård Hoksrud</cite>
 </blockquote>
 
-Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubba flest ganger med nettopp Langeland, sammen med Snorre Valen (SV). Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen (Ap) Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
+Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubbet flest ganger med nettopp Langeland, sammen med Snorre Valen (SV). Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen (Ap) Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)
 
 Her er alle representanter som har blitt klubbet mer enn 2 ganger:
 
@@ -384,7 +384,7 @@ Om vi ser på de samme tallene relativt til antall innlegg representanten har ho
 
 ### Kan slippe unna
 
-Lista med «på kanten-ord» over er naturligvis ikke komplett. Å finne alle ord som *ikke* har blitt klubba, til tross for at de er på kanten, er en langt mer omfattende oppgave, så det har vi ikke gjort. Vi kan uansett konkludere med at reglene er ganske inkonsekvente, eksempelvis illustrert ved Arne Sortevik (FrP) som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3):
+Lista med «på kanten-ord» over er naturligvis ikke komplett. Vi kan uansett konkludere med at reglene er ganske inkonsekvente, eksempelvis illustrert ved Arne Sortevik (FrP) som etter å ha blitt klubbet av President Dag Terje Andersen [uttalte](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100512/ordinarsporretime/4/#a2.3):
 
 <blockquote>
 La meg bemerke at denne representanten har brukt uttrykket «politisk utpressing» mange ganger fra denne talerstolen, med andre presidenter, og da pleier det å gå ganske så bra.
@@ -403,7 +403,7 @@ Andersen er imidlertid opptatt av at [man ikke skal påkalle høyere makter](htt
 <cite>President Andersen</cite>
 </blockquote>
 
-En grei regel for å snike til seg noen sleivspark uten å bli klubba synes imidlertid å være å påpeke at man er klar over at det er uparlamentarisk, som FrPs Erlend Wiborg [nylig gjorde](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/150217/2/#a12):
+En grei regel for å snike til seg noen sleivspark uten å bli klubbet synes imidlertid å være å påpeke at man er klar over at det er uparlamentarisk, som FrPs Erlend Wiborg [nylig gjorde](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/150217/2/#a12):
 
 <blockquote>Jeg vil anta det er uparlamentarisk, og derfor skal jeg ikke hevde at Arbeiderpartiet er for diskriminering (…)
 <cite>Erlend Wiborg</cite>
