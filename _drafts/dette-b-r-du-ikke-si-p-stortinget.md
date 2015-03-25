@@ -2,14 +2,14 @@
 layout: post
 title: Dette bør du ikke si på Stortinget
 date: "2016-12-31T23:59:59.000+01:00"
-authors: 
+authors:
   - Hanna Tranås
   - Jari Bakken
-tags: 
+tags:
   - parlamentarisk språk
   - stortinget
   - munterhet
-scripts: 
+scripts:
   - d3
   - c3
   - jquery
@@ -20,7 +20,13 @@ published: true
 
 **Det er mye som skiller det norske Stortinget fra det britiske underhuset. En av de tydeligste skillene er nok hva som anses som akseptabel oppførsel og akseptabel språkbruk.**
 
-<iframe width="512" height="315" src="https://www.youtube-nocookie.com/embed/PWeaLGealHQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe
+     src="https://www.youtube-nocookie.com/embed/PWeaLGealHQ?rel=0&amp;controls=0&amp;showinfo=0"
+     frameborder="0"
+     class="embedded-video"
+     allowfullscreen>
+</iframe>
+
 <figcaption class="text-center">Litt andre tilstander enn på Stortinget</figcaption>
 
 I [Stortingets forretningsorden § 55](https://www.stortinget.no/Global/pdf/stortingetsforretningsordenbokmal.pdf?epslanguage=no) heter det at «upassende eller fornærmelig atferd eller tale ikke er tillatt. Slik atferd eller tale skal påtales av presidenten.» I § 56 utdypes hva som menes med upassende eller fornærmelig *adferd*, der det heter at «det er ikke tillatt å gi støyende uttrykk for misnøye eller bifall under forhandlingene». Det mangler imidlertid en definisjon på upassende tale, til tross for at Øyvind Korsberg, som var 1. visepresident i perioden 2009-2013, i en [debatt 22. mars 2010](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100322/1/#a16) uttalte at
@@ -38,7 +44,6 @@ Presidenten, eller den av visepresidentene som har presidentplassen i debatten, 
 Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008, funnet fram alle klubbinger og laget en huskeliste for representantene over hvilke ord og uttrykk presidentskapet ikke setter pris på. Bruk pilene nederst for å bla i ordlista:
 
 
-
 <style>
 #uparlamanterisk-sprakbruk-wordlist-container {
     box-shadow: 0 -1px 0 #e5e5e5,0 0 2px rgba(0,0,0,.12),0 2px 4px rgba(0,0,0,.24);
@@ -51,7 +56,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
 }
 
 #uparlamanterisk-sprakbruk-wordlists {
-    height: 400px;
+    height: 350px;
 }
 
 #uparlamanterisk-sprakbruk-wordlists .turn-page {
@@ -160,7 +165,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>snakke dritt</li>
                 <li>være betalte lobbyister</li>
                 <li>drive med tullebudsjettering</li>
-                <li>at de ikke har giddet å lese det de skulle ha lest</li>
+                <li>ikke har giddet å lese det de skulle ha lest</li>
                 <li>ikke utvise edruelighet eller sannferdighet</li>
                 <li>ha «frekkhetens nådegave»</li>
             </ul>
@@ -193,6 +198,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>driver statlig utpressing</li>
                 <li>driver med politisk utpressing</li>
                 <li>driver målebåndstyranni</li>
+                <li>driver med bistandspornografi</li>
+                <li>driver med overgrep fra det offentlige</li>
             </ul>
         </div>
 
@@ -200,8 +207,6 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
             <h4>&nbsp;</h4>
 
             <ul>
-                <li>driver med bistandspornografi</li>
-                <li>driver med overgrep fra det offentlige</li>
                 <li>driver med forsøpling av debatten</li>
                 <li>forfekter «voodoo-økonomi»</li>
                 <li>har et like kortsiktig perspektiv som et «one-night-stand»</li>
@@ -299,7 +304,7 @@ Totalt har Presidenten funnet det nødvendig å klubbe 145 ganger de siste seks 
 </div>
 <figcaption class="text-center">Antall innlegg klubbet per parti, oktober 2008 - januar 2015 </figcaption>
 
-Dette inntrykket endrer seg ikke dramatisk om vi tar høyde for at noen partier har flere innlegg enn andre, og heller ser på prosentandel som klubbes: 
+Dette inntrykket endrer seg ikke dramatisk om vi tar høyde for at noen partier har flere innlegg enn andre, og heller ser på prosentandel som klubbes:
 
 <div
     class="uparlamanterisk-sprakbruk-party-percent-chart"

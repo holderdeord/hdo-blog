@@ -42,7 +42,9 @@
 
     wordlists.turn({
         gradients: true,
-        acceleration: true
+        acceleration: true,
+        duration: 500,
+        display: $(window).width() > 500 ? 'double' : 'single'
     });
 
     var turnNext = function() { wordlists.turn('next'); };
@@ -50,7 +52,4 @@
 
     $(".next").click(turnNext);
     $(".prev").click(turnPrev);
-
-    // $("div[data-next]").click(turnNext);
-    // $("div[data-prev]").click(turnPrev);
 }());
