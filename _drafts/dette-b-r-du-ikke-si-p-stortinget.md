@@ -35,7 +35,7 @@ Presidenten, eller den av visepresidentene som har presidentplassen i debatten, 
 <cite>President Thommessen</cite>
 </blockquote>
 
-Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008, og laget en huskeliste for representantene over hvilke ord og uttrykk presidentskapet ikke setter pris på, og som derfor kan bli klubbet. Bruk pilene nederst for å bla i ordlista:
+Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008, funnet fram alle klubbinger og laget en huskeliste for representantene over hvilke ord og uttrykk presidentskapet ikke setter pris på. Bruk pilene nederst for å bla i ordlista:
 
 
 
