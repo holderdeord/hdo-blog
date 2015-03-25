@@ -54,6 +54,10 @@ I november i fjor laget vi [@partipisken][partipisken], en Twitter-konto som tvi
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> Dette var en teknisk feil :-)</p>&mdash; Elin Agdestein (@ElinAgdestein) <a href="https://twitter.com/ElinAgdestein/status/563596522705940480">February 6, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> Da stemte jeg i så fall stemt feil i natt.</p>&mdash; Anne T Wøien (@AnneTWh) <a href="https://twitter.com/AnneTWh/status/580645734078382080">March 25, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> det ble en lang natt</p>&mdash; Sveinung Stensland (@sveinungen) <a href="https://twitter.com/sveinungen/status/580645226865430528">March 25, 2015</a></blockquote>
+
 
 Det var også det [Aslak Borgersrud][aslak] fant da han i desember brukte topplister fra vår database til [å konfrontere](http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/) to politikere med tallene, og det vi fikk da vi bestemte oss for å konfrontere andre politikere i saker med overraskende mange utbrytere, som i en avstemning om å [lovfeste minstelønn](https://www.holderdeord.no/votes/1418069544ne), en avstemning om [endringer i barneloven](https://www.holderdeord.no/votes/1268171572ne), en avstemning om å [gi kommunene økt myndighet over motorferdsel i utmark](https://www.holderdeord.no/votes/1273513544ne) og i en avstemning om [endringer i abortloven:](https://www.holderdeord.no/votes/1360701677ne)
 
