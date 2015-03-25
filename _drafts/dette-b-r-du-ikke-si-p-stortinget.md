@@ -25,13 +25,17 @@ published: true
 
 I [Stortingets forretningsorden § 55](https://www.stortinget.no/Global/pdf/stortingetsforretningsordenbokmal.pdf?epslanguage=no) heter det at «upassende eller fornærmelig atferd eller tale ikke er tillatt. Slik atferd eller tale skal påtales av presidenten.» I § 56 utdypes hva som menes med upassende eller fornærmelig *adferd*, der det heter at «det er ikke tillatt å gi støyende uttrykk for misnøye eller bifall under forhandlingene». Det mangler imidlertid en definisjon på upassende tale, til tross for at Øyvind Korsberg, som var 1. visepresident i perioden 2009-2013, i en [debatt 22. mars 2010](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100322/1/#a16) uttalte at
 
-> Presidenten vil bare minne om at man ikke skal bruke uparlamentariske uttrykk i denne salen. Presidenten har en viss mistanke om at det går an å skaffe seg informasjon om hvilke uttrykk man ikke skal bruke i denne salen
+<blockquote>Presidenten vil bare minne om at man ikke skal bruke uparlamentariske uttrykk i denne salen. Presidenten har en viss mistanke om at det går an å skaffe seg informasjon om hvilke uttrykk man ikke skal bruke i denne salen
+<cite>President Korsberg</cite>
+</blockquote>
 
 Presidenten, eller den av visepresidentene som har presidentplassen i debatten, står nemlig fritt til å klubbe ned de ord og uttrykk han eller hun mener er upassende. Dette illustreres tydelig av en diskusjon i Stortinget 19. desember 2013 hvor President Olemic Thommessen klubbet Snorre Valens (SV) omtale av et forslag som «corny». På [motsvar til Heikki Holmås (SV)](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2013-2014/131219/2/#a10), som innvendte at han synes dette burde være et godkjent uttrykk, svarte Thommessen:
 
-> Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning.
+<blockquote>Presidenten vil for ordens skyld bemerke at vurderingen av hva som er et parlamentarisk uttrykk, er et anliggende for presidenten alene, og at hva representantene måtte mene om det, er av underordnet betydning.
+<cite>President Thommessen</cite>
+</blockquote>
 
-Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008, og laget en huskeliste for representantene over hvilke ord og uttrykk presidentskapet ikke setter pris på, og som derfor kan bli klubbet:
+Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor søkt gjennom alle referatene fra debattene i Stortinget siden 2008, og laget en huskeliste for representantene over hvilke ord og uttrykk presidentskapet ikke setter pris på, og som derfor kan bli klubbet. Bruk pilene nederst for å bla i ordlista:
 
 
 
@@ -276,7 +280,7 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
 
 </div>
 
-Totalt har Presidenten funnet det nødvendig å klubbe 145 ganger de siste seks årene. Stolpediagrammet under viser hvilke partier som irettesettes oftest, og det er fløypartiene som utmerker seg som mest rebelske.
+Totalt har Presidenten funnet det nødvendig å klubbe 145 ganger de siste seks årene. Diagrammet under viser hvilke partier som irettesettes oftest, og det er fløypartiene som utmerker seg som mest rebelske.
 
 <div
     class="uparlamanterisk-sprakbruk-party-chart"
