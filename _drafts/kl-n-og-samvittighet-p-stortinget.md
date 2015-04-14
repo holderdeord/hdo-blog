@@ -38,8 +38,6 @@ Men det er forskjell i størrelse på partiene, så absolutte tall kan være mis
 <div id="{{ page.title | slugify }}-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
-<img src="http://files.holderdeord.no/images/partipisken.jpg" />
-
 #### Sjelden med vilje
 
 I november i fjor laget vi [@partipisken](https://twitter.com/partipisken), en Twitter-konto som tvitrer hver gang noen stemmer mot flertallet i sitt eget parti på Stortinget. Tilbakemeldingene vi har fått antyder at de tilsynelatende rebelske stemmene ofte kun er et resultat av sløvhet.
@@ -92,9 +90,7 @@ I noen tilfeller tillater imidlertid de politiske partiene at representantene fr
 <cite>Sonja Mandt, Ap</cite>
 </blockquote>
 
-Et kroneksempel på en slik sak var [striden om datalagringsdirektivet](https://www.holderdeord.no/issues/69-innfore-datalagringsdirektivet) (vedtatt 2011). Høyre støttet Arbeiderpartiet og sikret flertall på Stortinget for den nye loven, men til tross for at lovforslaget ikke var eksplisitt omtalt i Høyres partiprogram, gikk flere fremtredende stortingsrepresentanter fra Høyre offentlig ut mot lovforslaget. Dette gjaldt blant annet Nikolai Astrup og Michael Tetzschner.
-
-Langt flere høyrefolk mente datalagringsdirektivet brøt med Høyres liberale prinsipper og partiprogrampunkter omhandlende personvern. Der heter det at:
+Et kroneksempel på en slik sak var [striden om datalagringsdirektivet](https://www.holderdeord.no/issues/69-innfore-datalagringsdirektivet) (vedtatt 2011). Høyre støttet Arbeiderpartiet og sikret flertall på Stortinget for den nye loven, men til tross for at lovforslaget ikke var eksplisitt omtalt i Høyres partiprogram, gikk flere fremtredende stortingsrepresentanter fra Høyre offentlig ut mot lovforslaget. Dette gjaldt blant annet Nikolai Astrup og Michael Tetzschner. Langt flere høyrefolk mente datalagringsdirektivet brøt med Høyres liberale prinsipper og partiprogrampunkter omhandlende personvern. Der heter det at:
 
 <blockquote>For å sikre personvern og ytringsfrihet vil Høyre stille seg kritisk til innføringen av nye lover som øker adgangen til, eller omfanget av, overvåkning i samfunnet.</blockquote>
 
@@ -121,7 +117,9 @@ At ordningen kan benyttes på denne måten gjør det i tillegg vanskelig å ette
 
 Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak eller avtaler med andre partier, som i samarbeidsavtalen dagens regjering har med Venstre og KrF. Man kan imidlertid argumentere for at større frihet for representantene burde være regelen i saker der partiet mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre.
 
-I en mail til oss forklarer Micheal Tetzchner videre at det ikke er mulig å «juridisk» binde representanter, men at det er hjemmel for å binde via overtalelse og argumentasjon. Vissnok for at det ikke skal utøves «sosialt press mot mindretallet». Vi kan dog forestille oss at det nettopp er sosialt press mindretallet møter ved overtalelese og argumentasjon fra flertallet, og at dette er noe av grunnen til at representanter benytter seg av utbyttersystemet for å unngå å stemme imot flertallet. Det er helt klart en fin balansegang mellom det å overtale og argumentere seg frem til oppslutning om et standpunkt, og det å yte sosialt press mot et mindretall.
+<img src="{{ page.thumbnail }}" />
+
+I en mail til oss forklarer Michael Tetzschner videre at det ikke er mulig å «juridisk» binde representanter, men at det er hjemmel for å binde via overtalelse og argumentasjon. Vissnok for at det ikke skal utøves «sosialt press mot mindretallet». Vi kan dog forestille oss at det nettopp er sosialt press mindretallet møter ved overtalelese og argumentasjon fra flertallet, og at dette er noe av grunnen til at representanter benytter seg av utbyttersystemet for å unngå å stemme imot flertallet. Det er helt klart en fin balansegang mellom det å overtale og argumentere seg frem til oppslutning om et standpunkt, og det å yte sosialt press mot et mindretall.
 
 Et eksempel for å illustrere det problematiske med partipisk er avstemningen om hvorvidt norske sykehus skal tilby omskjæring av guttebarn. Dette er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker.
 
