@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Om utbryterstemmer og å trykke på riktig knapp
+title: Samvittighetsfulle utbrytere eller trøtte
 date: "2015-12-31T23:59:59.000+01:00"
 authors: 
   - Hanna Tranås
