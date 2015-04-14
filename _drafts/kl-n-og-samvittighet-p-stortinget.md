@@ -15,6 +15,11 @@ scripts:
   - __title__
   - twitter-wjs
 published: true
+comments: true
+published: true
+thumbnail: http://files.holderdeord.no/images/partipisken.jpg
+twitter_card: summary_large_image
+
 ---
 
 **Det norske systemet legger opp til en streng partidisiplin. Representantene er ikke primært valgt på grunn av sin person, men som representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
@@ -33,6 +38,7 @@ Men det er forskjell i størrelse på partiene, så absolutte tall kan være mis
 <div id="{{ page.title | slugify }}-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
+<img src="http://files.holderdeord.no/images/partipisken.jpg" />
 
 #### Sjelden med vilje
 
@@ -86,7 +92,9 @@ I noen tilfeller tillater imidlertid de politiske partiene at representantene fr
 <cite>Sonja Mandt, Ap</cite>
 </blockquote>
 
-Et kroneksempel på en slik sak var striden om datalagringsdirektivet (vedtatt 2011). Høyre støttet Arbeiderpartiet og sikret flertall på Stortinget for den nye loven, men, til tross for at lovforslaget ikke var eksplisitt omtalt i Høyres partiprogram, gikk flere fremtredende stortingsrepresentanter fra Høyre, blant annet Nikolai Astrup og Michael Tetzschner, offentlig ut mot lovforslaget. Langt flere høyrefolk mente datalagringsdirektivet brøt med Høyres liberale prinsipper og partiprogrampunkter omhandlende personvern. Der heter det at:
+Et kroneksempel på en slik sak var [striden om datalagringsdirektivet](https://www.holderdeord.no/issues/69-innfore-datalagringsdirektivet) (vedtatt 2011). Høyre støttet Arbeiderpartiet og sikret flertall på Stortinget for den nye loven, men til tross for at lovforslaget ikke var eksplisitt omtalt i Høyres partiprogram, gikk flere fremtredende stortingsrepresentanter fra Høyre offentlig ut mot lovforslaget. Dette gjaldt blant annet Nikolai Astrup og Michael Tetzschner.
+
+Langt flere høyrefolk mente datalagringsdirektivet brøt med Høyres liberale prinsipper og partiprogrampunkter omhandlende personvern. Der heter det at:
 
 <blockquote>For å sikre personvern og ytringsfrihet vil Høyre stille seg kritisk til innføringen av nye lover som øker adgangen til, eller omfanget av, overvåkning i samfunnet.</blockquote>
 
