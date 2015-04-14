@@ -96,34 +96,6 @@ inn her med utbrytere per parti over tid
 I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler selvsagt, siden Rasmus Hansson ikke kan stemme mot seg selv.
 
 
-#### Noen ganger med vilje
-
-I noen tilfeller tillater imidlertid også norske politiske partier at representantene fristilles, særlig i såkalte samvittighetssaker. De får altså tillatelse fra resten av partigruppen til å stemme mot flertallet i gruppen. Vi har ikke klart å få tak i noen offisielle reglementer, men har fått følgende sitat:
-
-> Vi er fristilt i saker som ikke er bestemt av landsmøtet, eller som er hjemlet i partiprogram eller regjeringsplattform.
-										Sveinung Stensland, H
-
-> I Arbeiderpartiet har vi tradisjon for å diskutere oss fram til et standpunkt i en sak for så å stemme sammen. I enkelte saker, for eksempel saker som berører samvittighetsspørsmål eller saker som betyr mye for den enkelte kan gruppa stille medlemmene fritt. Dette syns jeg er en grei ordning.
-										Sonja Mandt, Ap
-
-> Når det gjelder samvittighetsspørsmål så synes jeg det er viktig at representantene får stå fritt til å stemme etter egen overbevisning, så lenge programmet vi er innvalgt på ikke sier noe om den konkrete saken. Dette er forøvrig en regel som vi har følgt i saker som går på samvittighet. 
-										Bente Thorsen, FrP
-
-
-Et kroneksempel på slike samvittighetsstemmer er striden om datalagringsdirektivet, som ikke var eksplisitt omtalt i Høyres partiprogram. Høyre støttet Arbeiderpartiet og sikret flertall på Stortinget for den nye loven. Flere fremtredende stortingsrepresentanter fra Høyre, blant annet Nikolai Astrup og Michael Tetzschner, gikk offentlig ut mot lovforslaget. Flere andre Høyrefolk mente datalagringsdirektivet brøt med Høyres prinsipper og partiprogram, som understreker viktigheten av personvern. Der heter det at: 
-
-> For å sikre personvern og ytringsfrihet vil Høyre stille seg kritisk til innføringen av nye lover som øker adgangen til, eller omfanget av, overvåkning i samfunnet.
-
-I opposisjon er det også mindre problematisk å fristille, særlig hvis vi har en flertallsregjering. Grafen under viser at enhetlig stemmegiving i partigruppene har blitt styrket det siste året. 
-
-<div id="{{ page.title | slugify }}-timeline"></div>
-
-Den neste grafen viser utbrytere per parti over tid, og vi ser at representantene i mye større grad stemmer mot flertallet i sitt parti når de er i opposisjon enn i posisjon. Dette gjelder både for Høyre og FrP, som har færre utbrytere nå enn i perioden 2009-2013, og for SV og Sp som har flere utbrytere nå enn da de satt i regjering. 
-
-- inn her med utbrytere per parti over tid
-
-I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler selvsagt, siden Rasmus Hansson ikke kan stemme mot seg selv.
-
 ####Den enkle veien ut
 
 Utbyttingssystemet er en enkel utvei om man helst vil slippe å vise at man er uenig med partiets standpunkt eller ikke ønsker å stemme for noe man egentlig er i mot. Ordningen gjør det mulig å slippe å møte til avstemning med den opprinnelige hensikt å ta hensyn til at representantene har mange andre oppgaver i tillegg til å møte i Stortingssalen. Det problematiske ved dette er at representanter så enkelt skal kunne avstå fra å stemme når de faktisk har mulighet til å delta. At man ikke er enig med eget parti bør ikke være gyldig grunn til å avstå fra en avstemning. 
