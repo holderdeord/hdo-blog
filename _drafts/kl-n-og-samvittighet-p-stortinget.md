@@ -57,7 +57,7 @@ Dessverre virker det som at det ikke er snakk om partikonflikter som kommer til 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> det ble en lang natt</p>&mdash; Sveinung Stensland (@sveinungen) <a href="https://twitter.com/sveinungen/status/580645226865430528">March 25, 2015</a></blockquote>
 
 
-Det var også det [Aslak Borgersrud](https://twitter.com/aslak_gatas) fant da han i desember brukte topplister fra vår database til [å konfrontere](http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/) to politikere med tallene, og det var dette inntrykket vi satt igjen med etter vår egen konfrontasjon med politikere vedrørende saker med overraskende mange utbrytere. For å nevne noen: [lovfesting av minstelønn](https://www.holderdeord.no/votes/1418069544ne), [endringer i barneloven](https://www.holderdeord.no/votes/1268171572ne), [endringer i abortloven](https://www.holderdeord.no/votes/1360701677ne).
+Det var også det [Aslak Borgersrud](https://twitter.com/aslak_gatas) fant da han i desember brukte topplister fra vår database til [å konfrontere](http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/) to politikere med tallene, og det var dette inntrykket vi satt igjen med etter vår egen konfrontasjon med politikere vedrørende saker med overraskende mange utbrytere, deriblant [lovfesting av minstelønn](https://www.holderdeord.no/votes/1418069544ne), [endringer i barneloven](https://www.holderdeord.no/votes/1268171572ne), [endringer i abortloven](https://www.holderdeord.no/votes/1360701677ne).
 
 <div id="{{ page.title | slugify }}-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
@@ -91,7 +91,7 @@ Det interessante er imidlertid dette med «samvittighetssaker». Vi har vært i 
 <cite>Sonja Mandt, Ap</cite>
 </blockquote>
 
-«Samvittighetsspørsmål» er et uklart begrep, da eksempler på at representanter med viten og vilje har stemt mot eget parti spenner fra forslag om å hindre legers rett til å nekte henvisning til abort, innføre datalagringsdirektivet, styrke det lokale selvstyret over motorferdsel i utmark og avvikle monarkiet. 
+«Samvittighetsspørsmål» er et uklart begrep, da eksempler på at representanter med viten og vilje har stemt mot eget parti spenner fra forslag om å [hindre legers rett til å nekte henvisning til abort](https://www.holderdeord.no/votes/1393504041ne), [innføre datalagringsdirektivet](https://www.holderdeord.no/votes/1301946411e), [styrke det lokale selvstyret over motorferdsel i utmark](https://www.holderdeord.no/votes/1302039912ne) og [avvikle monarkiet](https://www.holderdeord.no/votes/1363721273ne). 
 
 Det som er tydelig er uansett at partiene i mye større grad tillater selvstendig stemmegiving når de er i opposisjon, sammenlignet med når de er i posisjon. Dette er ikke veldig merkelig, særlig ikke for perioden 2009-2013, der opposisjonen ikke hadde noe å vinne på å svinge pisken.
 
@@ -133,7 +133,7 @@ Han avviser altså at partipisken kan svinges i Høyre, men skriver senere at
 
 > Hvis det gjelder saker som kan få betydning for regjeringens overlevelse eller anseelse, vil det å tviholde på egne primærstandpunkter ikke bli forstått med mindre det dreier seg om grunnleggende menneskerettighetsprinsipper. Selv den mest ranke idealist må kunne være i stand til å prioritere sine slag.
 
-I Arbeiderpartiet var saken om rituell omskjæring av guttebarn ikke en tydelig samvittighetssak. Dette er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
+I Arbeiderpartiet var saken om [rituell omskjæring av guttebarn](https://www.holderdeord.no/votes/1402951833e)ikke en tydelig samvittighetssak. Dette er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
 
 > Det var mest renhårig. Jeg kunne ikke stemme for dette av samvittighetsgrunner, 
  Freddy de Ruiter til [Dagsavisen, 03.01.2015](http://www.dagsavisen.no/innenriks/slaget-om-ny-omskj%C3%A6ringslov-1.308487)
