@@ -98,14 +98,14 @@ Det som er tydelig er uansett at partiene i mye større grad tillater selvstendi
 <div id="{{ page.title | slugify }}-parties-timeline"></div>
 <figcaption>Andel utbryterstemmer per parti, oktober 2009 - desember 2014</figcaption>
 
+Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som muligens indikerer større uenigheter innad i regjeringen med støttepartier enn blant de rødgrønne.
+
 <div id="{{ page.title | slugify }}-timeline"></div>
 <figcaption>Totalt antall utbryterstemmer over tid</figcaption>
 
-Den neste grafen viser utbrytere per parti over tid, og vi ser at representantene i mye større grad stemmer mot flertallet i sitt parti når de er i opposisjon enn i posisjon. Dette gjelder både for Høyre og FrP, som har færre utbrytere nå enn i perioden 2009-2013, og for SV og Sp som har flere utbrytere nå enn da de satt i regjering.
-
-
 
 I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler selvsagt, siden Rasmus Hansson ikke kan stemme mot seg selv.
+
 
 
 #### Den enkle veien ut
