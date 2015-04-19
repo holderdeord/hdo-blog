@@ -28,7 +28,7 @@ Streng partidisiplin gjør livet enklere både for ledere i posisjon og opposisj
 
 > shall be elected in general, direct, free, equal and secret elections. They shall be representatives of the whole people, not bound by orders or instructions, and responsible only to their conscience.
 
-Partidisiplin betyr imidlertid ikke at representantene aldri stemmer mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer per parti
+Partidisiplin betyr imidlertid ikke at representantene aldri stemmer mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer.
 
 <div id="{{ page.title | slugify }}-parties"></div>
 <figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
@@ -116,12 +116,28 @@ At ordningen kan benyttes på denne måten gjør det i tillegg vanskelig å ette
 
 #### Bør representantene innvilges større frihet?
 
-Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak eller avtaler med andre partier, som i samarbeidsavtalen dagens regjering har med Venstre og KrF. Man kan imidlertid argumentere for at større frihet for representantene burde være regelen i saker der partiet mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre.
+Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak. Representantene er som sagt representanter nettopp for partiprogrammet, og demokratiet internt i partiene er viktig. Man kan imidlertid argumentere for at større frihet for representantene burde være regelen i saker der partiet mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre. 
 
 <img src="{{ page.thumbnail }}" />
 
-I en mail til oss forklarer Michael Tetzschner videre at det ikke er mulig å «juridisk» binde representanter, men at det er hjemmel for å binde via overtalelse og argumentasjon. Vissnok for at det ikke skal utøves «sosialt press mot mindretallet». Vi kan dog forestille oss at det nettopp er sosialt press mindretallet møter ved overtalelese og argumentasjon fra flertallet, og at dette er noe av grunnen til at representanter benytter seg av utbyttersystemet for å unngå å stemme imot flertallet. Det er helt klart en fin balansegang mellom det å overtale og argumentere seg frem til oppslutning om et standpunkt, og det å yte sosialt press mot et mindretall.
+Hva som er en samvittighetssak og ikke er som sagt litt uklart. Det som imidlertid ikke var en samvittighetssak i Høyre var striden om reservasjonsrett. Avtalen med støttepartiene gjorde at han var klar for å bruke pisken, siden samvittigheten til legene trumfet samvittigheten til representantene:
+«Når det gjelder å stille representantene fritt, har Høyre hatt en tradisjon for det når det gjelder spørsmålet om selvbestemt abort. Da har det vært en sak for den enkeltes personlige samvittighet. Men her snakker vi altså om noen leger som ønsker å utøve sin samvittighet ved å kunne reservere seg.» - Trond Helleland, Trontaledebatten 22.10.2013
 
-Et eksempel for å illustrere det problematiske med partipisk er avstemningen om hvorvidt norske sykehus skal tilby omskjæring av guttebarn. Dette er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker.
+Dette til tross for at Høyres Michael Tetschner i en e-post til oss bedyret at de aldri hadde hatt spørsmål om fristilling i andre saker enn datalagringsdirektivetsaken.  
+> I samvittighetsspørsmål har Høyre en fin tradisjon med å "stille representantene fritt". Formuleringen tyder på at man har hjemmel til å binde, men det har man ikke juridisk. Så realiteten er at man ikke vil bruke sosialt press på de som utgjør mindretallet. Der man såkalt binder, er det snakk om overtalelse og argumentasjon.
 
-Dette viser at det fortsatt er behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Det er heller presset derifra som burde få en individuell representant eller et helt parti til å snu.
+
+Han avviser altså at partipisken kan svinges i Høyre, men skriver senere at 
+«Hvis det gjelder saker som kan få betydning for regjeringens overlevelse eller anseelse, vil det å tviholde på egne primærstandpunkter ikke bli forstått med mindre det dreier seg om grunnleggende menneskerettighetsprinsipper. Selv den mest ranke idealist må kunne være i stand til å prioritere sine slag.»
+
+I Arbeiderpartiet var saken om rituell omskjæring av guttebarn ikke en tydelig samvittighetssak. Dette er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
+
+> Det var mest renhårig. Jeg kunne ikke stemme for dette av samvittighetsgrunner, 
+ Freddy de Ruiter til Dagsavisen, 03.01.2015
+
+Utbyttingsordningen gjør det mulig å slippe å møte til avstemning med den opprinnelige hensikt å ta hensyn til at representantene har mange andre oppgaver enn å møte i Stortingssalen. Det er imidlertid problematisk hvis denne ordningen benyttes til å avstå fra å stemme når de faktisk har mulighet til å delta. At man ikke er enig med eget parti bør ikke være gyldig grunn til å avstå fra en avstemning. 
+Det store problemet med dette er at man i flere saker vil kunne ha falske flertall, noe som utfordrer kjernen i parlamentarismen. 
+
+At ordningen kan benyttes på denne måten gjør det i tillegg vanskelig å ettergå representantene. Vi kan ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det.
+
+Dette viser at det fortsatt er behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Debatten ville blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er. Det er heller presset derifra som burde få en individuell representant eller et helt parti til å snu.
