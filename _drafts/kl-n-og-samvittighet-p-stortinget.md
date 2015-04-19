@@ -121,9 +121,11 @@ Det er forståelig at representantene ikke kan fristilles der det finnes landsm�
 <img src="{{ page.thumbnail }}" />
 
 Hva som er en samvittighetssak og ikke er som sagt litt uklart. Det som imidlertid ikke var en samvittighetssak i Høyre var striden om reservasjonsrett. Avtalen med støttepartiene gjorde at han var klar for å bruke pisken, siden samvittigheten til legene trumfet samvittigheten til representantene:
-«Når det gjelder å stille representantene fritt, har Høyre hatt en tradisjon for det når det gjelder spørsmålet om selvbestemt abort. Da har det vært en sak for den enkeltes personlige samvittighet. Men her snakker vi altså om noen leger som ønsker å utøve sin samvittighet ved å kunne reservere seg.» - Trond Helleland, Trontaledebatten 22.10.2013
+
+> Når det gjelder å stille representantene fritt, har Høyre hatt en tradisjon for det når det gjelder spørsmålet om selvbestemt abort. Da har det vært en sak for den enkeltes personlige samvittighet. Men her snakker vi altså om noen leger som ønsker å utøve sin samvittighet ved å kunne reservere seg. - Trond Helleland, Trontaledebatten 22.10.2013
 
 Dette til tross for at Høyres Michael Tetschner i en e-post til oss bedyret at de aldri hadde hatt spørsmål om fristilling i andre saker enn datalagringsdirektivetsaken.  
+
 > I samvittighetsspørsmål har Høyre en fin tradisjon med å "stille representantene fritt". Formuleringen tyder på at man har hjemmel til å binde, men det har man ikke juridisk. Så realiteten er at man ikke vil bruke sosialt press på de som utgjør mindretallet. Der man såkalt binder, er det snakk om overtalelse og argumentasjon.
 
 
@@ -140,4 +142,4 @@ Det store problemet med dette er at man i flere saker vil kunne ha falske flerta
 
 At ordningen kan benyttes på denne måten gjør det i tillegg vanskelig å ettergå representantene. Vi kan ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det.
 
-Dette viser at det fortsatt er behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Debatten ville blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er. Det er heller presset derifra som burde få en individuell representant eller et helt parti til å snu.
+Dette viser at det fortsatt er behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Debatten ville også blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er. Det er heller presset derifra som burde få en individuell representant eller et helt parti til å snu.
