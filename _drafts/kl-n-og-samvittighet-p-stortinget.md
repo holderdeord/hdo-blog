@@ -2,31 +2,33 @@
 layout: post
 title: Kløn og samvittighet på Stortinget
 date: "2015-12-31T23:59:59.000+01:00"
-authors:
+authors: 
   - Hanna Tranås
   - Alexander Habash Eide
-tags:
+tags: 
   - avstemninger
   - stortinget
   - utbrytere
-scripts:
+scripts: 
   - d3
   - c3
   - __title__
-  - twitter-wjs
+  - "twitter-wjs"
 published: true
 comments: true
-published: true
-thumbnail: http://files.holderdeord.no/images/partipisken.jpg
+thumbnail: "http://files.holderdeord.no/images/partipisken.jpg"
 twitter_card: summary_large_image
-
 ---
 
-**Det norske systemet legger opp til en streng partidisiplin. Representantene er ikke primært valgt på grunn av sin person, men som representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
+**Til tross for at vi i Norge formelt sett har direkte valg på stortingsrepresentanter fra de ulike valgkretsene, stemmer folk i liten grad på representantene. De som kommer inn er representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
 
-I motsetning til for eksempel den tyske Bundestagen, der medlemmene representerer hele folket, og ifølge grunnloven «ikke skal være bundet av ordrer eller instrukser fra eget parti, men av egen samvittighet», åpner ikke det norske systemet for at uenigheter innad i partiene skal påvirke stemmeresultatene. Her i Norge diskuterer partienes representanter seg frem til et felles bindende standpunkt før voteringen finner sted og sikrer slik enklere gjennomslag for sine saker, spesielt der det er snakk om skjøre flertall.
+I det norske systemet har vi derfor en tradisjon for streng partipisk.  Programmet utformes av grasrota i partiet, og hvilke saker som kommer med i programmet avhenger av de ulike blokkene i partiet. Partiets politikk vedtas på landsmøtet og dette er det stortingsgruppen skal forholde seg til. I de sakene hvor partiene ikke har vedtatt politikk diskuterer stortingsgruppen seg frem til et felles bindende standpunkt før voteringen finner sted.
 
-Figuren under viser antall såkalte utbryterstemmer per parti, altså hvor mange ganger en eller flere representanter har stemt mot flertallet i eget parti.
+Streng partidisiplin gjør livet enklere både for ledere i posisjon og opposisjon. Innpiskerne i de ulike partiene har derfor en relativt enkel jobb, da de ikke er nødt til å overtale og overbevise alle medlemmene i sitt parti hver gang noe skal stemmes over, i motsetning til for eksempel i den amerikanske kongressen eller i den tyske Bundestagen, hvor medlemmene
+
+> shall be elected in general, direct, free, equal and secret elections. They shall be representatives of the whole people, not bound by orders or instructions, and responsible only to their conscience.
+
+Partidisiplin betyr imidlertid ikke at representantene aldri stemmer mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer per parti
 
 <div id="{{ page.title | slugify }}-parties"></div>
 <figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
@@ -40,7 +42,7 @@ Men det er forskjell i størrelse på partiene, så absolutte tall kan være mis
 
 #### Sjelden med vilje
 
-I november i fjor laget vi [@partipisken](https://twitter.com/partipisken), en Twitter-konto som tvitrer hver gang noen stemmer mot flertallet i sitt eget parti på Stortinget. Tilbakemeldingene vi har fått antyder at de tilsynelatende rebelske stemmene ofte kun er et resultat av sløvhet.
+Dessverre virker det som at det ikke er snakk om partikonflikter som kommer til syne i disse tallene. I november i fjor laget vi [@partipisken](https://twitter.com/partipisken), en Twitter-konto som tvitrer hver gang noen stemmer mot flertallet i sitt eget parti på Stortinget. Tilbakemeldingene vi har fått antyder at de tilsynelatende rebelske stemmene ofte kun er et resultat av sløvhet.
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> denne gangen var det rett og slett fingeren, ikke pisken som svang <a href="https://twitter.com/hashtag/feiltrykking?src=hash">#feiltrykking</a></p>&mdash; kari henriksen (@karhenr) <a href="https://twitter.com/karhenr/status/541917331820404736">December 8, 2014</a></blockquote>
 
@@ -60,7 +62,9 @@ Det var også det [Aslak Borgersrud](https://twitter.com/aslak_gatas) fant da ha
 <div id="{{ page.title | slugify }}-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
 
-Det viste seg likevel at det ikke fantes noen sammenheng mellom stemmetidspunkt på døgnet og antall utbryterstemmer/feilstemmer. Politikere stemmer ikke oftere feil eller mer i tråd med sin samvittighet senere enn tidligere på døgnet, da de kanskje er trettere og dermed litt sløvere enn ellers. Spekulasjoner om hva som kan være årsaken, det være seg språktekniske aspekter ved voteringsspørsmålet, eller uoppmerksomhet fra tid til annen, blir heller ikke så viktig når vi vet at en feilstemme aldri har endret et resultat av en votering på Stortinget. Og så lenge feilstemmingen ikke påvirker utfallet i saken, har heller ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
+Det viser seg likevel at det ikke finnes noen sammenheng mellom stemmetidspunkt på døgnet og antall utbryterstemmer/feilstemmer. Politikere stemmer ikke oftere feil eller mer i tråd med sin samvittighet senere enn tidligere på døgnet, da de kanskje er trettere og dermed litt sløvere enn ellers. Spekulasjoner om hva som kan være årsaken, det være seg språktekniske aspekter ved voteringsspørsmålet, eller uoppmerksomhet fra tid til annen, blir heller ikke så viktig når vi vet at en feilstemme aldri har endret et resultat av en votering på Stortinget. Stemmegivingen meldes nemlig inn på forhånd, med unntak av noen få spørsmål som fremmes i salen, og dersom Presidenten oppdager at utfallet av saken er annerledes enn det som var meldt inn vil han eller hun opplyse om dette og voteringen tas på nytt. 
+
+Noen ganger oppdager representantene at de har stemt feil, og gir beskjed om dette ved å rope ut til Presidenten. Dette har vi imidlertid kun funnet 59 eksempler på i alle referatene fra perioden oktober 2009 til i dag, mens antallet utbryterstemmer er 2083. Så lenge feilstemmingen ikke påvirker utfallet i saken, har nemlig ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
 
 <blockquote>Det er selvfølgelig beklagelig. […] Heldigvis har disse feilene ikke hatt betydning for flertallet.
 <cite>Robert Eriksson, FrP</cite>
@@ -72,15 +76,12 @@ Og som Høyres Sveinung Stensland svarte til oss:
 <cite>Sveinung Stensland, H</cite>
 </blockquote>
 
-#### Spiller det noen rolle?
+Faren for at en feilstemme kan påvirke resultatet av en avstemming er med andre ord svært liten, og vi kan ikke annet enn å konkludere med at dette ikke utgjør noen forskjell for vedtak av lover, ei heller er dette derfor en trussel mot vårt representative demokrati. Partienes politikk gjenspeiles rett som det er, og velgerne trenger ikke å frykte at deres mann/kvinne på tinget gjesper ens hjertesak over den partiideologiske linja.
 
-Overnevnte sitat henviser til stortingspraksisen med å melde inn standpunktene på forhånd. Presidenten vet ved hver anledning hva utfallet av en avstemming vil bli, og skulle utfallet av voteringen bli annerledes enn det som var meldt inn på forhånd, vil Presidenten si ifra og voteringen tas på nytt. Hvis utfallet ikke endres, gjør det ingenting å stemme feil og få gidder derfor å si i fra om de uheldigvis skulle stemme feil, hvis de da i det hele tatt fikk med seg at de trykket på feil knapp. Av i alt 2083 stemmer mot eget parti i perioden 2009 til i dag har representanter kun oppdaget, eller brydd seg med å si fra om, at de stemte feil 59 ganger.
-
-Faren for at en feilstemme kan påvirke resultatet av en avstemming er med andre ord svært liten, og vi kan ikke annet enn å konkludere med at dette ikke utgjør noen forskjell for vedtak av lover, ei heller er dette derfor en trussel mot vårt representative demokrati. Partienes politikk gjenspeiles rett som det er, og velgerene trenger ikke å frykte at deres mann/kvinne på tinget gjesper ens hjertesak over den partiideologiske linja.
 
 #### Noen ganger med vilje
 
-I noen tilfeller tillater imidlertid de politiske partiene at representantene fristilles, særlig i såkalte samvittighetssaker. I slike saker får representantene tillatelse fra resten av partigruppen til å stemme imot flertallet av gruppen. Vi har ikke klart å få tak i noen offisielle reglementer, men har fått følgende sitat:
+Det interessante er imidlertid dette med «samvittighetssaker». Vi har vært i kontakt med representanter fra Høyre, FrP, Arbeiderpartiet og Senterpartiet, og alle forteller oss at de i samvittighetsspørsmål lar representantene stemme fritt.
 
 <blockquote>Vi er fristilt i saker som ikke er bestemt av landsmøtet, eller som er hjemlet i partiprogram eller regjeringsplattform.
 <cite>Sveinung Stensland, H</cite>
@@ -90,19 +91,19 @@ I noen tilfeller tillater imidlertid de politiske partiene at representantene fr
 <cite>Sonja Mandt, Ap</cite>
 </blockquote>
 
-Et kroneksempel på en slik sak var [striden om datalagringsdirektivet](https://www.holderdeord.no/issues/69-innfore-datalagringsdirektivet) (vedtatt 2011). Høyre støttet Arbeiderpartiet og sikret flertall på Stortinget for den nye loven, men til tross for at lovforslaget ikke var eksplisitt omtalt i Høyres partiprogram, gikk flere fremtredende stortingsrepresentanter fra Høyre offentlig ut mot lovforslaget. Dette gjaldt blant annet Nikolai Astrup og Michael Tetzschner. Langt flere høyrefolk mente datalagringsdirektivet brøt med Høyres liberale prinsipper og partiprogrampunkter omhandlende personvern. Der heter det at:
+«Samvittighetsspørsmål» er et uklart begrep, da eksempler på at representanter med viten og vilje har stemt mot eget parti spenner fra forslag om å hindre legers rett til å nekte henvisning til abort, innføre datalagringsdirektivet, styrke det lokale selvstyret over motorferdsel i utmark og avvikle monarkiet. 
 
-<blockquote>For å sikre personvern og ytringsfrihet vil Høyre stille seg kritisk til innføringen av nye lover som øker adgangen til, eller omfanget av, overvåkning i samfunnet.</blockquote>
+Det som er tydelig er uansett at partiene i mye større grad tillater selvstendig stemmegiving når de er i opposisjon, sammenlignet med når de er i posisjon. Dette er ikke veldig merkelig, særlig ikke for perioden 2009-2013, der opposisjonen ikke hadde noe å vinne på å svinge pisken.
 
-I opposisjon er det også mindre problematisk å fristille, særlig hvis vi har en flertallsregjering. Grafen under viser at enhetlig stemmegiving i partigruppene har blitt styrket det siste året.
+<div id="{{ page.title | slugify }}-parties-timeline"></div>
+<figcaption>Andel utbryterstemmer per parti, oktober 2009 - desember 2014</figcaption>
 
 <div id="{{ page.title | slugify }}-timeline"></div>
 <figcaption>Totalt antall utbryterstemmer over tid</figcaption>
 
 Den neste grafen viser utbrytere per parti over tid, og vi ser at representantene i mye større grad stemmer mot flertallet i sitt parti når de er i opposisjon enn i posisjon. Dette gjelder både for Høyre og FrP, som har færre utbrytere nå enn i perioden 2009-2013, og for SV og Sp som har flere utbrytere nå enn da de satt i regjering.
 
-<div id="{{ page.title | slugify }}-parties-timeline"></div>
-<figcaption>Andel utbryterstemmer per parti, oktober 2009 - desember 2014</figcaption>
+
 
 I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler selvsagt, siden Rasmus Hansson ikke kan stemme mot seg selv.
 
