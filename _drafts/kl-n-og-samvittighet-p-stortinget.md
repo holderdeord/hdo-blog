@@ -130,7 +130,8 @@ Dette til tross for at Høyres Michael Tetschner i en e-post til oss bedyret at 
 
 
 Han avviser altså at partipisken kan svinges i Høyre, men skriver senere at 
-«Hvis det gjelder saker som kan få betydning for regjeringens overlevelse eller anseelse, vil det å tviholde på egne primærstandpunkter ikke bli forstått med mindre det dreier seg om grunnleggende menneskerettighetsprinsipper. Selv den mest ranke idealist må kunne være i stand til å prioritere sine slag.»
+
+> Hvis det gjelder saker som kan få betydning for regjeringens overlevelse eller anseelse, vil det å tviholde på egne primærstandpunkter ikke bli forstått med mindre det dreier seg om grunnleggende menneskerettighetsprinsipper. Selv den mest ranke idealist må kunne være i stand til å prioritere sine slag.
 
 I Arbeiderpartiet var saken om rituell omskjæring av guttebarn ikke en tydelig samvittighetssak. Dette er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
 
