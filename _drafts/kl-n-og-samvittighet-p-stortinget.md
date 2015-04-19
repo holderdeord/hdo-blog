@@ -122,7 +122,7 @@ Det er forståelig at representantene ikke kan fristilles der det finnes landsm�
 
 Hva som er en samvittighetssak og ikke er som sagt litt uklart. Det som imidlertid ikke var en samvittighetssak i Høyre var striden om reservasjonsrett. Avtalen med støttepartiene gjorde at han var klar for å bruke pisken, siden samvittigheten til legene trumfet samvittigheten til representantene:
 
-> Når det gjelder å stille representantene fritt, har Høyre hatt en tradisjon for det når det gjelder spørsmålet om selvbestemt abort. Da har det vært en sak for den enkeltes personlige samvittighet. Men her snakker vi altså om noen leger som ønsker å utøve sin samvittighet ved å kunne reservere seg. - Trond Helleland, Trontaledebatten 22.10.2013
+> Når det gjelder å stille representantene fritt, har Høyre hatt en tradisjon for det når det gjelder spørsmålet om selvbestemt abort. Da har det vært en sak for den enkeltes personlige samvittighet. Men her snakker vi altså om noen leger som ønsker å utøve sin samvittighet ved å kunne reservere seg. - Trond Helleland, [Trontaledebatten 22.10.2013](https://www.stortinget.no/globalassets/pdf/referater/stortinget/2013-2014/s131022-ny-des-2014.pdf)
 
 Dette til tross for at Høyres Michael Tetschner i en e-post til oss bedyret at de aldri hadde hatt spørsmål om fristilling i andre saker enn datalagringsdirektivetsaken.  
 
@@ -135,7 +135,7 @@ Han avviser altså at partipisken kan svinges i Høyre, men skriver senere at
 I Arbeiderpartiet var saken om rituell omskjæring av guttebarn ikke en tydelig samvittighetssak. Dette er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
 
 > Det var mest renhårig. Jeg kunne ikke stemme for dette av samvittighetsgrunner, 
- Freddy de Ruiter til Dagsavisen, 03.01.2015
+ Freddy de Ruiter til [Dagsavisen, 03.01.2015](http://www.dagsavisen.no/innenriks/slaget-om-ny-omskj%C3%A6ringslov-1.308487)
 
 Utbyttingsordningen gjør det mulig å slippe å møte til avstemning med den opprinnelige hensikt å ta hensyn til at representantene har mange andre oppgaver enn å møte i Stortingssalen. Det er imidlertid problematisk hvis denne ordningen benyttes til å avstå fra å stemme når de faktisk har mulighet til å delta. At man ikke er enig med eget parti bør ikke være gyldig grunn til å avstå fra en avstemning. 
 Det store problemet med dette er at man i flere saker vil kunne ha falske flertall, noe som utfordrer kjernen i parlamentarismen. 
