@@ -22,7 +22,9 @@ twitter_card: summary_large_image
 
 **Til tross for at vi i Norge formelt sett har direkte valg på stortingsrepresentanter fra de ulike valgkretsene, stemmer folk i liten grad på representantene. De som kommer inn er representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
 
-I det norske systemet har vi en tradisjon for streng partidisplin.  Programmet utformes av grasrota i partiet, og hvilke saker som kommer med i programmet avhenger av de ulike blokkene i partiet. Partiets politikk vedtas på landsmøtet og dette er det stortingsgruppen skal forholde seg til. I de sakene hvor partiene ikke har vedtatt politikk diskuterer stortingsgruppen seg frem til et felles bindende standpunkt før voteringen finner sted.
+I det norske systemet har vi en tradisjon for streng partidisplin.  Programmet utformes av grasrota i partiet, og hvilke saker som kommer med i programmet avhenger av de ulike blokkene i partiet. Partiets politikk vedtas på landsmøtet og dette er det stortingsgruppen skal forholde seg til. I de sakene hvor partiene ikke har vedtatt politikk diskuterer stortingsgruppen seg frem til et felles bindende standpunkt før voteringen finner sted. Som Senterpartiets Geir Pollestad svarte i en e-post til oss:
+
+> Jeg vet at alene har jeg en av 169 stemmer. Sammen med Sp har jeg 10 stemmer. Så jeg vil nok også i fremtiden akseptere de konklusjoner som gruppen fremmer. Selv om det kan tenkes saker der man bryter med partilinja - men da kan man ikke vente at hele gruppa stiller opp for deg den dagen du har et knapt flertall med deg i gruppa. 
 
 Streng partidisiplin gjør livet enklere for ledere i både posisjon og opposisjon. Innpiskerne i de ulike partiene har derfor en relativt enkel jobb, da de ikke er nødt til å overtale og overbevise hvert enkelt medlem av sitt parti til å stemme i tråd med partilinja. Innpiskernes jobb er hovedsakelig å sørge for at det er nok folk til stede under avstemningene, slik at forholdet mellom partiene er likt selv når ikke alle representantene er til stede. 
 
@@ -68,7 +70,7 @@ Eller som Høyres Ove Trellevik svarte på spørsmål om en avstemning om å [in
 
 > Det var nok en feilstemme fra min side, men her burde jeg fulgt litt bedre med fordi her kunne jeg stemt som jeg gjorde. Dette fordi sosial dumping ikke har noen defenisjon. En nasjonal minstelønn ville ha hjulpet oss. I mangel på nasjonal minstelønn så blir tariff allmengjort i enkelte bransjer. Jeg vil heller ha nasjonal minstelønn fremfor allmengjøring av tariff for hver bransje. Men jeg rakk ikke å formidle mitt synspunkt internt i Høyre,  og burde således stemt slik partiet ville - men jeg stemte feil! Hadde jeg gitt beskjed kunne jeg stemt som jeg ville! 
 
-Det viser seg likevel at det ikke finnes noen sammenheng mellom stemmetidspunkt på døgnet og antall utbryterstemmer/feilstemmer. Politikere stemmer ikke oftere feil eller mer i tråd med sin samvittighet senere enn tidligere på døgnet, da de kanskje er trettere og dermed litt sløvere enn ellers. Spekulasjoner om hva som kan være årsaken, det være seg språktekniske aspekter ved voteringsspørsmålet, eller uoppmerksomhet fra tid til annen, blir heller ikke så viktig når vi vet at en feilstemme aldri har endret et resultat av en votering på Stortinget. Stemmegivingen meldes nemlig inn på forhånd, med unntak av noen få spørsmål som fremmes i salen, og dersom Presidenten oppdager at utfallet av saken er annerledes enn det som var meldt inn vil han eller hun opplyse om dette og voteringen tas på nytt. 
+Det viser seg likevel at det ikke finnes noen sammenheng mellom stemmetidspunkt på døgnet og antall utbryterstemmer/feilstemmer. Politikere stemmer altså ikke oftere feil (eller mer i tråd med sin samvittighet) senere enn tidligere på døgnet, da de kanskje er trettere og dermed litt sløvere enn ellers. Spekulasjoner rundt hva som kan være årsaken, det være seg språktekniske aspekter ved voteringsspørsmålet, eller uoppmerksomhet fra tid til annen, blir heller ikke så viktig når vi vet at sannsynligheten for at feilstemme tipper resultatet av en votering på Stortinget er svørt liten. Stemmegivingen meldes nemlig inn på forhånd, med unntak av noen få spørsmål som fremmes i salen, og dersom Presidenten oppdager at utfallet av saken er annerledes enn det som var meldt inn vil han eller hun opplyse om dette og voteringen tas på nytt. 
 
 Noen ganger oppdager representantene at de har stemt feil, og gir beskjed om dette ved å rope ut til Presidenten. Dette har vi imidlertid kun funnet 59 eksempler på i alle referatene fra perioden oktober 2009 til i dag, mens antallet utbryterstemmer er 2083. Så lenge feilstemmingen ikke påvirker utfallet i saken, har nemlig ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
 
@@ -87,7 +89,7 @@ Faren for at en feilstemme kan påvirke resultatet av en avstemming er med andre
 
 #### Noen ganger med vilje
 
-Det interessante er imidlertid dette med «samvittighetssaker». Vi har vært i kontakt med representanter fra Høyre, FrP, Arbeiderpartiet og Senterpartiet, og alle forteller oss at de i samvittighetsspørsmål lar representantene stemme fritt.
+Det interessante er imidlertid dette med «samvittighetssaker». Vi har vært i kontakt med representanter fra Høyre, FrP, Arbeiderpartiet og Senterpartiet, og alle forteller oss at partiets tradisjon er at de i samvittighetsspørsmål lar representantene stemme fritt.
 
 <blockquote>Vi er fristilt i saker som ikke er bestemt av landsmøtet, eller som er hjemlet i partiprogram eller regjeringsplattform.
 <cite>Sveinung Stensland, H</cite>
