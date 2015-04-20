@@ -22,20 +22,18 @@ twitter_card: summary_large_image
 
 **Til tross for at vi i Norge formelt sett har direkte valg på stortingsrepresentanter fra de ulike valgkretsene, stemmer folk i liten grad på representantene. De som kommer inn er representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
 
-I det norske systemet har vi derfor en tradisjon for streng partipisk.  Programmet utformes av grasrota i partiet, og hvilke saker som kommer med i programmet avhenger av de ulike blokkene i partiet. Partiets politikk vedtas på landsmøtet og dette er det stortingsgruppen skal forholde seg til. I de sakene hvor partiene ikke har vedtatt politikk diskuterer stortingsgruppen seg frem til et felles bindende standpunkt før voteringen finner sted.
+I det norske systemet har vi en tradisjon for streng partidisplin.  Programmet utformes av grasrota i partiet, og hvilke saker som kommer med i programmet avhenger av de ulike blokkene i partiet. Partiets politikk vedtas på landsmøtet og dette er det stortingsgruppen skal forholde seg til. I de sakene hvor partiene ikke har vedtatt politikk diskuterer stortingsgruppen seg frem til et felles bindende standpunkt før voteringen finner sted.
 
-Streng partidisiplin gjør livet enklere både for ledere i posisjon og opposisjon. Innpiskerne i de ulike partiene har derfor en relativt enkel jobb, da de ikke er nødt til å overtale og overbevise alle medlemmene i sitt parti hver gang noe skal stemmes over, i motsetning til for eksempel i den amerikanske kongressen eller i den tyske Bundestagen, hvor medlemmene
+Streng partidisiplin gjør livet enklere for ledere i både posisjon og opposisjon. Innpiskerne i de ulike partiene har derfor en relativt enkel jobb, da de ikke er nødt til å overtale og overbevise hvert enkelt medlem av sitt parti til å stemme i tråd med partilinja. Innpiskernes jobb er hovedsakelig å sørge for at det er nok folk til stede under avstemningene, slik at forholdet mellom partiene er likt selv når ikke alle representantene er til stede. 
 
-> shall be elected in general, direct, free, equal and secret elections. They shall be representatives of the whole people, not bound by orders or instructions, and responsible only to their conscience.
-
-Partidisiplin betyr imidlertid ikke at representantene aldri stemmer mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer.
+Streng partidisiplin betyr imidlertid ikke at representantene aldri stemmer mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer, altså antall ganger en representant fra et parti har stemt mot flertallet i partiet.
 
 <div id="{{ page.title | slugify }}-parties"></div>
 <figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
 
-Man trenger minst tre representanter for at noen skal kunne bryte med flertallet. Venstre hadde med sine to representanter derfor ingen utbryterstemmer i 2009-2013, og MDG med sin vil ene representant ikke ha noen i denne perioden.
+Man trenger minst tre representanter for at noen skal kunne bryte med flertallet. Venstre hadde med sine to representanter derfor ingen utbryterstemmer i 2009-2013, og MDG vil med sin ene representant ikke ha noen i denne perioden.
 
-Men det er forskjell i størrelse på partiene, så absolutte tall kan være misvisende. Hva om vi ser på antall utbryterstemmer per innvalgte representant?
+Siden det er forskjell i størrelse på partiene, kan absolutte tall være misvisende. Tabellen under viser utbrytere kontrollert for partistørrelse.
 
 <div id="{{ page.title | slugify }}-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
