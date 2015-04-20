@@ -40,7 +40,7 @@ Siden det er forskjell i størrelse på partiene, kan absolutte tall være misvi
 
 #### Sjelden med vilje
 
-Dessverre virker det som at det ikke er snakk om partikonflikter som kommer til syne i disse tallene. I november i fjor laget vi [@partipisken](https://twitter.com/partipisken), en Twitter-konto som tvitrer hver gang noen stemmer mot flertallet i sitt eget parti på Stortinget. Tilbakemeldingene vi har fått antyder at de tilsynelatende rebelske stemmene ofte kun er et resultat av sløvhet.
+Dessverre virker det som at det ikke er snakk om partikonflikter som kommer til syne i disse tallene. I november i fjor laget vi [@partipisken](https://twitter.com/partipisken), en Twitter-konto som tvitrer hver gang noen stemmer mot flertallet i sitt eget parti på Stortinget. Tilbakemeldingene vi har fått antyder at de tilsynelatende rebelske stemmene ofte kun er et resultat av sløvhet. 
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> denne gangen var det rett og slett fingeren, ikke pisken som svang <a href="https://twitter.com/hashtag/feiltrykking?src=hash">#feiltrykking</a></p>&mdash; kari henriksen (@karhenr) <a href="https://twitter.com/karhenr/status/541917331820404736">December 8, 2014</a></blockquote>
 
@@ -59,6 +59,14 @@ Det var også det [Aslak Borgersrud](https://twitter.com/aslak_gatas) fant da ha
 
 <div id="{{ page.title | slugify }}-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
+
+Representantene trykker altså rett og slett på feil knapp, eller de følger ikke alltid godt nok med når det redegjøres for hva det stemmes over. Som Senterpartiets Kjersti Toppe svarte på spørsmål om en [avstemning om reservasjonsrett](https://www.holderdeord.no/votes/1393504041ne):
+
+> Det var flere forslag her og jeg kan ikke huske dette forslaget isolert.  Poenget mitt er at slik jeg leser forslaget nå, kunne jeg godt stemme for at det (ikke en rett, men jeg mener det skal være en mulighet
+
+Eller som Høyres Ove Trellevik svarte på spørsmål om en avstemning om å [innføre nasjonal minstelønn](https://www.holderdeord.no/votes/1418069544ne), og hvor han og syv andre Høyrerepresentanter stemte mot flertallet i partiet:
+
+> Det var nok en feilstemme fra min side, men her burde jeg fulgt litt bedre med fordi her kunne jeg stemt som jeg gjorde. Dette fordi sosial dumping ikke har noen defenisjon. En nasjonal minstelønn ville ha hjulpet oss. I mangel på nasjonal minstelønn så blir tariff allmengjort i enkelte bransjer. Jeg vil heller ha nasjonal minstelønn fremfor allmengjøring av tariff for hver bransje. Men jeg rakk ikke å formidle mitt synspunkt internt i Høyre,  og burde således stemt slik partiet ville - men jeg stemte feil! Hadde jeg gitt beskjed kunne jeg stemt som jeg ville! 
 
 Det viser seg likevel at det ikke finnes noen sammenheng mellom stemmetidspunkt på døgnet og antall utbryterstemmer/feilstemmer. Politikere stemmer ikke oftere feil eller mer i tråd med sin samvittighet senere enn tidligere på døgnet, da de kanskje er trettere og dermed litt sløvere enn ellers. Spekulasjoner om hva som kan være årsaken, det være seg språktekniske aspekter ved voteringsspørsmålet, eller uoppmerksomhet fra tid til annen, blir heller ikke så viktig når vi vet at en feilstemme aldri har endret et resultat av en votering på Stortinget. Stemmegivingen meldes nemlig inn på forhånd, med unntak av noen få spørsmål som fremmes i salen, og dersom Presidenten oppdager at utfallet av saken er annerledes enn det som var meldt inn vil han eller hun opplyse om dette og voteringen tas på nytt. 
 
