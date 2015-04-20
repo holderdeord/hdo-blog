@@ -99,36 +99,39 @@ Det interessante er imidlertid dette med «samvittighetssaker». Vi har vært i 
 <cite>Sonja Mandt, Ap</cite>
 </blockquote>
 
-«Samvittighetsspørsmål» er et uklart begrep, da eksempler på at representanter med viten og vilje har stemt mot eget parti spenner fra forslag om å [hindre legers rett til å nekte henvisning til abort](https://www.holderdeord.no/votes/1393504041ne), [innføre datalagringsdirektivet](https://www.holderdeord.no/votes/1301946411e), [styrke det lokale selvstyret over motorferdsel i utmark](https://www.holderdeord.no/votes/1302039912ne) og [avvikle monarkiet](https://www.holderdeord.no/votes/1363721273ne). 
+«Samvittighetsspørsmål» er et uklart begrep, da eksempler på at representanter med viten og vilje har stemt mot eget parti spenner fra forslag om å [hindre legers rett til å nekte henvisning til abort](https://www.holderdeord.no/votes/1393504041ne)og [innføre datalagringsdirektivet](https://www.holderdeord.no/votes/1301946411e) til stemmer for å [styrke det lokale selvstyret over motorferdsel i utmark](https://www.holderdeord.no/votes/1302039912ne) og å [avvikle monarkiet](https://www.holderdeord.no/votes/1363721273ne). 
 
 Det som er tydelig er uansett at partiene i mye større grad tillater selvstendig stemmegiving når de er i opposisjon, sammenlignet med når de er i posisjon. Dette er ikke veldig merkelig, særlig ikke for perioden 2009-2013, der opposisjonen ikke hadde noe å vinne på å svinge pisken.
 
 <div id="{{ page.title | slugify }}-parties-timeline"></div>
 <figcaption>Andel utbryterstemmer per parti, oktober 2009 - desember 2014</figcaption>
 
-Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som muligens indikerer større uenigheter innad i regjeringen med støttepartier enn blant de rødgrønne.
+Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som kan indikere større uenigheter innad i regjeringen med støttepartier enn blant de rødgrønne.
 
 <div id="{{ page.title | slugify }}-timeline"></div>
 <figcaption>Totalt antall utbryterstemmer over tid</figcaption>
 
 
-I 2013-2014 er det første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler selvsagt, siden Rasmus Hansson ikke kan stemme mot seg selv.
+2013-2014 er første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler selvsagt, siden Rasmus Hansson ikke kan stemme mot seg selv.
 
 
 #### Bør representantene innvilges større frihet?
 
-Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak. Representantene er som sagt representanter nettopp for partiprogrammet, og demokratiet internt i partiene er viktig. Man kan imidlertid argumentere for at større frihet for representantene burde være regelen i saker der partiet mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre. 
+Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak eller politikken er hjemlet i regjeringsplattformen. Representantene er som sagt representanter nettopp for partiprogrammet, og demokratiet internt i partiene er viktig. Man kan imidlertid argumentere for at større frihet for representantene burde være regelen i saker der partiet eller regjeringskoalisjonen mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre. 
 
 <img src="{{ page.thumbnail }}" />
 
-Hva som er en samvittighetssak og ikke er som sagt litt uklart. Det som imidlertid ikke var en samvittighetssak i Høyre var striden om reservasjonsrett. Avtalen med støttepartiene gjorde at han var klar for å bruke pisken, siden samvittigheten til legene trumfet samvittigheten til representantene:
+Hva som er en samvittighetssak og ikke er som sagt litt uklart. Det som imidlertid ikke var en samvittighetssak i Høyre var striden om reservasjonsrett. Avtalen med støttepartiene gjorde at Trond Helleland var klar for å bruke pisken, siden samvittigheten til legene trumfet samvittigheten til representantene:
 
 > Når det gjelder å stille representantene fritt, har Høyre hatt en tradisjon for det når det gjelder spørsmålet om selvbestemt abort. Da har det vært en sak for den enkeltes personlige samvittighet. Men her snakker vi altså om noen leger som ønsker å utøve sin samvittighet ved å kunne reservere seg. - Trond Helleland, [Trontaledebatten 22.10.2013](https://www.stortinget.no/globalassets/pdf/referater/stortinget/2013-2014/s131022-ny-des-2014.pdf)
 
-Dette til tross for at Høyres Michael Tetschner i en e-post til oss bedyret at de aldri hadde hatt spørsmål om fristilling i andre saker enn datalagringsdirektivetsaken.  
+Også i forbindelse med OL-saken var Helleland i følge [Dagbladet](http://www.dagbladet.no/2014/09/29/nyheter/innenriks/ol_and_2022/ol_oslo_2022/hoyre/35503361/) klar for å svinge pisken:
+
+> Hvis regjeringen fremmer en sak for Stortinget som krever et visst antall stemmer i vår gruppe for å få flertall, så er det åpning i reglementet vårt for å binde representanter.
+
+Høyres Michael Tetschner bedyrer imidlertid i en e-post til oss at de aldri har hatt spørsmål om fristilling i andre saker enn datalagringsdirektivetsaken.  
 
 > I samvittighetsspørsmål har Høyre en fin tradisjon med å "stille representantene fritt". Formuleringen tyder på at man har hjemmel til å binde, men det har man ikke juridisk. Så realiteten er at man ikke vil bruke sosialt press på de som utgjør mindretallet. Der man såkalt binder, er det snakk om overtalelse og argumentasjon.
-
 
 Han avviser altså at partipisken kan svinges i Høyre, men skriver senere at 
 
@@ -140,8 +143,7 @@ I Arbeiderpartiet var saken om [rituell omskjæring av guttebarn](https://www.ho
  Freddy de Ruiter til [Dagsavisen, 03.01.2015](http://www.dagsavisen.no/innenriks/slaget-om-ny-omskj%C3%A6ringslov-1.308487)
 
 Utbyttingsordningen gjør det mulig å slippe å møte til avstemning med den opprinnelige hensikt å ta hensyn til at representantene har mange andre oppgaver enn å møte i Stortingssalen. Det er imidlertid problematisk hvis denne ordningen benyttes til å avstå fra å stemme når de faktisk har mulighet til å delta. At man ikke er enig med eget parti bør ikke være gyldig grunn til å avstå fra en avstemning. 
-Det store problemet med dette er at man i flere saker vil kunne ha falske flertall, noe som utfordrer kjernen i parlamentarismen. 
 
-At ordningen kan benyttes på denne måten gjør det i tillegg vanskelig å ettergå representantene. Vi kan ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det.
+Et problem med dette er at man i noen saker vil kunne ha falske flertall. Når uenighetene i partiene ikke kommer til uttrykk i voteringene kan vi ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet. 
 
-Det er derfor behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Debatten ville også blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er. Det er heller presset derifra som burde få en individuell representant eller et helt parti til å snu.
+Det er derfor behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Det er heller presset derfra som burde få en individuell representant eller et helt parti til å snu. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det. Med større frihet ville den politiske debatten også blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er. 
