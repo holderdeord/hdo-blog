@@ -22,7 +22,7 @@ twitter_card: summary_large_image
 
 **Den norske partipolitiske tradisjon hviler på en streng partidisiplin. Representantene er ikke primært valgt på grunn av sin person, men som representanter for et partiprogram det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men hva når dette ikke skjer? Vi har tatt en titt på utbryterstemmer.**
 
-Partirogrammenes innhold, som utformes av grasrota i partiet, avhenger av de ulike interne partipolitiske blokkenes gjennomslagskraft. På landsmøtene blir saker som vinner frem vedtatt og nedtegnet, og senere fulgt opp av den respektive stortingsgruppe som deretter stemmer i tråd med dette. 
+Partiprogrammenes innhold, som utformes av grasrota i partiet, avhenger av de ulike interne partipolitiske blokkenes gjennomslagskraft. På landsmøtene blir saker som vinner frem vedtatt og nedtegnet, og senere fulgt opp av den respektive stortingsgruppe som deretter stemmer i tråd med dette. 
 
 Streng partidisiplin gjør livet enklere for ledere både i posisjon og opposisjon. Innpiskerne i de ulike partiene har derfor en relativt enkel jobb, da de ikke er nødt til å overtale og overbevise hvert enkelt medlem av sitt parti til å stemme i tråd med partilinja. Innpiskernes jobb er hovedsakelig å sørge for at det er nok folk til stede under avstemningene, slik at forholdet mellom partiene er likt selv når ikke alle representantene er til stede. 
 
