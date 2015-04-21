@@ -22,7 +22,7 @@ twitter_card: summary_large_image
 
 **Til tross for at vi i Norge formelt sett har direkte valg på stortingsrepresentanter fra de ulike valgkretsene, stemmer folk i liten grad på representantene. De som kommer inn er representanter for et partiprogram som det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men dette skjer ikke alltid.**
 
-I Norge har vi tradisjon for streng partidisplin.  Programmet utformes av grasrota i partiet, og hvilke saker som kommer med i programmet avhenger av de ulike blokkene i partiet. Partiets politikk vedtas på landsmøtet og dette er det stortingsgruppen skal forholde seg til. I de sakene hvor partiene ikke har vedtatt politikk diskuterer stortingsgruppen seg frem til et felles bindende standpunkt før voteringen finner sted. Som Senterpartiets Geir Pollestad svarte i en e-post til oss:
+I Norge har vi tradisjon for streng partidisplin.  Programmet utformes av grasrota i partiet, og hvilke saker som kommer med i programmet avhenger av de ulike interne partipolitiske blokkenes gjennomslagskraft, formalisert og vedtatt på landsmøtet. Dette må deretter stortingsgruppen forholde seg til, men i de sakene hvor partiet ikke har vedtatt politikk, diskuterer stortingsgruppen seg frem til et felles bindende standpunkt før votering finner sted. Som Senterpartiets Geir Pollestad svarte i en e-post til oss:
 
 > Jeg vet at alene har jeg en av 169 stemmer. Sammen med Sp har jeg 10 stemmer. Så jeg vil nok også i fremtiden akseptere de konklusjoner som gruppen fremmer. Selv om det kan tenkes saker der man bryter med partilinja - men da kan man ikke vente at hele gruppa stiller opp for deg den dagen du har et knapt flertall med deg i gruppa. 
 
