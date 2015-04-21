@@ -106,13 +106,13 @@ Det som er tydelig er dog at partiene i mye større grad tillater selvstendig st
 <div id="{{ page.title | slugify }}-parties-timeline"></div>
 <figcaption>Andel utbryterstemmer per parti, oktober 2009 - desember 2014</figcaption>
 
-Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som kan indikere større uenigheter innad i regjeringen med støttepartier enn blant de rødgrønne.
+2013-2014 er første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og MDG mangler (siden Rasmus Hansson ikke kan stemme mot seg selv).
 
 <div id="{{ page.title | slugify }}-timeline"></div>
 <figcaption>Totalt antall utbryterstemmer over tid</figcaption>
 
+Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som kan indikere større uenigheter innad i regjeringen med støttepartier enn blant de rødgrønne.
 
-2013-2014 er første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og MDG mangler selvsagt (siden Rasmus Hansson ikke kan stemme mot seg selv).
 
 
 #### Bør representantene innvilges større frihet?
