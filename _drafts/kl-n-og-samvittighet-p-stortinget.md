@@ -28,7 +28,7 @@ I Norge har vi tradisjon for streng partidisplin.  Programmet utformes av grasro
 
 Streng partidisiplin gjør livet enklere for ledere i både posisjon og opposisjon. Innpiskerne i de ulike partiene har derfor en relativt enkel jobb, da de ikke er nødt til å overtale og overbevise hvert enkelt medlem av sitt parti til å stemme i tråd med partilinja. Innpiskernes jobb er hovedsakelig å sørge for at det er nok folk til stede under avstemningene, slik at forholdet mellom partiene er likt selv når ikke alle representantene er til stede. 
 
-Streng partidisiplin betyr imidlertid ikke at representantene aldri stemmer mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer, altså antall ganger en representant fra et parti har stemt mot flertallet i partiet.
+Streng partidisiplin betyr imidlertid også at representantene skjelden stemmer mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer, altså antall ganger en representant fra et parti har stemt mot flertallet i partiet.
 
 <div id="{{ page.title | slugify }}-parties"></div>
 <figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
@@ -62,7 +62,7 @@ Det var også det [Aslak Borgersrud](https://twitter.com/aslak_gatas) fant da ha
 <div id="{{ page.title | slugify }}-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
 
-Representantene trykker altså rett og slett på feil knapp, eller de følger ikke alltid godt nok med når det redegjøres for hva det stemmes over. Som Senterpartiets Kjersti Toppe svarte på spørsmål om en [avstemning om reservasjonsrett](https://www.holderdeord.no/votes/1393504041ne):
+Representantene trykker altså rett og slett på feil knapp, eller de følger ikke alltid like godt nok med når det redegjøres for hva det stemmes over. Som Senterpartiets Kjersti Toppe svarte på spørsmål om en [avstemning om reservasjonsrett](https://www.holderdeord.no/votes/1393504041ne):
 
 > Det var flere forslag her og jeg kan ikke huske dette forslaget isolert.  Poenget mitt er at slik jeg leser forslaget nå, kunne jeg godt stemme for at det (ikke en rett, men jeg mener det skal være en mulighet
 
@@ -70,9 +70,9 @@ Eller som Høyres Ove Trellevik svarte på spørsmål om en avstemning om å [in
 
 > Det var nok en feilstemme fra min side, men her burde jeg fulgt litt bedre med fordi her kunne jeg stemt som jeg gjorde. Dette fordi sosial dumping ikke har noen defenisjon. En nasjonal minstelønn ville ha hjulpet oss. I mangel på nasjonal minstelønn så blir tariff allmengjort i enkelte bransjer. Jeg vil heller ha nasjonal minstelønn fremfor allmengjøring av tariff for hver bransje. Men jeg rakk ikke å formidle mitt synspunkt internt i Høyre,  og burde således stemt slik partiet ville - men jeg stemte feil! Hadde jeg gitt beskjed kunne jeg stemt som jeg ville! 
 
-Det viser seg likevel at det ikke finnes noen sammenheng mellom stemmetidspunkt på døgnet og antall utbryterstemmer/feilstemmer. Politikere stemmer altså ikke oftere feil (eller mer i tråd med sin samvittighet) senere enn tidligere på døgnet, da de kanskje er trettere og dermed litt sløvere enn ellers. Spekulasjoner rundt hva som kan være årsaken, det være seg språktekniske aspekter ved voteringsspørsmålet, eller uoppmerksomhet fra tid til annen, blir heller ikke så viktig når vi vet at sannsynligheten for at feilstemme tipper resultatet av en votering på Stortinget er svørt liten. Stemmegivingen meldes nemlig inn på forhånd, med unntak av noen få spørsmål som fremmes i salen, og dersom Presidenten oppdager at utfallet av saken er annerledes enn det som var meldt inn vil han eller hun opplyse om dette og voteringen tas på nytt. 
+Det viser seg likevel at det ikke finnes noen sammenheng mellom stemmetidspunkt på døgnet og antall utbryterstemmer/feilstemmer. Politikere stemmer altså ikke oftere feil (eller mer i tråd med sin samvittighet) senere enn tidligere på døgnet, da de kanskje er trettere og dermed litt sløvere enn ellers. Spekulasjoner rundt hva som kan være årsaken, det være seg språktekniske aspekter ved voteringsspørsmålet, eller uoppmerksomhet fra tid til annen, blir heller ikke så viktig når vi vet at sannsynligheten for at feilstemme tipper resultatet av en votering på Stortinget er svært liten. Stemmegivingen meldes nemlig inn på forhånd, med unntak av noen få spørsmål som fremmes i salen, og dersom Presidenten oppdager at utfallet av saken er annerledes enn det som var meldt inn, vil han eller hun opplyse om dette og voteringen tas på nytt. 
 
-Noen ganger oppdager representantene at de har stemt feil, og gir beskjed om dette ved å rope ut til Presidenten. Dette har vi imidlertid kun funnet 59 eksempler på i alle referatene fra perioden oktober 2009 til i dag, mens antallet utbryterstemmer er 2083. Så lenge feilstemmingen ikke påvirker utfallet i saken, har nemlig ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
+Noen ganger oppdager representantene at de har stemt feil, og gir beskjed om dette ved å rope ut til Presidenten. Dette har vi imidlertid kun funnet 59 eksempler på i alle referatene fra perioden oktober 2009 til i dag, mens antallet utbryterstemmer er 2083. Så lenge feilstemmingen ikke påvirker utfallet i saken, har ikke representantene noen grunn til å få dem rettet. Som Robert Erikssons svar til Aslak Borgersrud:
 
 <blockquote>Det er selvfølgelig beklagelig. […] Heldigvis har disse feilene ikke hatt betydning for flertallet.
 <cite>Robert Eriksson, FrP</cite>
@@ -89,7 +89,7 @@ Faren for at en feilstemme kan påvirke resultatet av en avstemming er med andre
 
 #### Noen ganger med vilje
 
-Det interessante er imidlertid dette med «samvittighetssaker». Vi har vært i kontakt med representanter fra Høyre, FrP, Arbeiderpartiet og Senterpartiet, og alle forteller oss at partiets tradisjon er at de i samvittighetsspørsmål lar representantene stemme fritt.
+Det interessante er derimot dette med «samvittighetssaker». Vi har vært i kontakt med representanter fra Høyre, FrP, Arbeiderpartiet og Senterpartiet, og alle forteller oss at partiets tradisjon er at de i samvittighetsspørsmål lar representantene stemme fritt.
 
 <blockquote>Vi er fristilt i saker som ikke er bestemt av landsmøtet, eller som er hjemlet i partiprogram eller regjeringsplattform.
 <cite>Sveinung Stensland, H</cite>
@@ -101,7 +101,7 @@ Det interessante er imidlertid dette med «samvittighetssaker». Vi har vært i 
 
 «Samvittighetsspørsmål» er et uklart begrep, da eksempler på at representanter med viten og vilje har stemt mot eget parti spenner fra forslag om å [hindre legers rett til å nekte henvisning til abort](https://www.holderdeord.no/votes/1393504041ne)og [innføre datalagringsdirektivet](https://www.holderdeord.no/votes/1301946411e) til stemmer for å [styrke det lokale selvstyret over motorferdsel i utmark](https://www.holderdeord.no/votes/1302039912ne) og å [avvikle monarkiet](https://www.holderdeord.no/votes/1363721273ne). 
 
-Det som er tydelig er uansett at partiene i mye større grad tillater selvstendig stemmegiving når de er i opposisjon, sammenlignet med når de er i posisjon. Dette er ikke veldig merkelig, særlig ikke for perioden 2009-2013, der opposisjonen ikke hadde noe å vinne på å svinge pisken.
+Det som er tydelig er dog at partiene i mye større grad tillater selvstendig stemmegiving når de er i opposisjon, sammenlignet med når de er i posisjon. Dette er ikke veldig merkelig, særlig ikke for perioden 2009-2013, der opposisjonen ikke hadde noe å vinne på å svinge pisken.
 
 <div id="{{ page.title | slugify }}-parties-timeline"></div>
 <figcaption>Andel utbryterstemmer per parti, oktober 2009 - desember 2014</figcaption>
@@ -112,7 +112,7 @@ Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som ka
 <figcaption>Totalt antall utbryterstemmer over tid</figcaption>
 
 
-2013-2014 er første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og det dermed er vanskelig å anklage noen for å bryte ut. MDG mangler selvsagt, siden Rasmus Hansson ikke kan stemme mot seg selv.
+2013-2014 er første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og MDG mangler selvsagt (siden Rasmus Hansson ikke kan stemme mot seg selv).
 
 
 #### Bør representantene innvilges større frihet?
