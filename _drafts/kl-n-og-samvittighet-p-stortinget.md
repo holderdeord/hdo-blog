@@ -127,7 +127,7 @@ Også i forbindelse med OL-saken var Helleland i følge [Dagbladet](http://www.d
 
 > Hvis regjeringen fremmer en sak for Stortinget som krever et visst antall stemmer i vår gruppe for å få flertall, så er det åpning i reglementet vårt for å binde representanter.
 
-Høyres Michael Tetschner bedyrer likevel i en e-post til oss at de aldri har hatt spørsmål om fristilling i andre saker enn datalagringsdirektivetsaken.  
+Høyres Michael Tetschner bedyrer på sin side i en e-post til oss at de aldri har hatt spørsmål om fristilling i andre saker enn datalagringsdirektivetsaken.  
 
 > I samvittighetsspørsmål har Høyre en fin tradisjon med å "stille representantene fritt". Formuleringen tyder på at man har hjemmel til å binde, men det har man ikke juridisk. Så realiteten er at man ikke vil bruke sosialt press på de som utgjør mindretallet. Der man såkalt binder, er det snakk om overtalelse og argumentasjon.
 
