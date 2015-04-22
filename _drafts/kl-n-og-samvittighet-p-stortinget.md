@@ -82,7 +82,7 @@ Og som Høyres Sveinung Stensland svarte til oss:
 <cite>Sveinung Stensland, H</cite>
 </blockquote>
 
-Faren for at en feilstemme kan påvirke resultatet av en avstemming er med andre ord svært liten, og vi kan ikke annet enn å konkludere med at dette ikke utgjør noen forskjell for vedtak av lover, ei heller er dette derfor en trussel mot vårt representative demokrati. Partienes politikk gjenspeiles rett som det er, og velgerne trenger ikke å frykte at deres mann/kvinne på tinget gjesper ens hjertesak over den partiideologiske linja.
+Faren for at en feilstemme kan påvirke resultatet av en avstemming er med andre ord minimal, og vi kan ikke annet enn å konkludere med at dette ikke utgjør noen forskjell for vedtak av lover, ei heller er dette derfor en trussel mot vårt representative demokrati. Partienes politikk gjenspeiles rett som det er, og velgerne trenger ikke å frykte at deres mann/kvinne på tinget gjesper ens hjertesak over den partiideologiske linja.
 
 
 #### Noen ganger med vilje
@@ -145,4 +145,4 @@ Utbyttingsordningen gjør det mulig å slippe å møte til avstemning med den op
 
 Et problem med dette er at man i noen saker vil kunne ha falske flertall. Når uenighetene i partiene ikke kommer til uttrykk i voteringene kan vi heller ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet. 
 
-Det er derfor behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Det er heller presset derfra som burde få en individuell representant eller et helt parti til å snu. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det. Med større frihet ville den politiske debatten også blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er.
+Vi mener det derfor er behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Det er heller presset derfra som burde få en individuell representant eller et helt parti til å snu. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det. Med større frihet ville den politiske debatten også blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er.
