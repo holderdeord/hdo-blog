@@ -60,7 +60,7 @@ Det var også det [Aslak Borgersrud](https://twitter.com/aslak_gatas) fant ut da
 <div id="{{ page.title | slugify }}-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
 
-Representantene trykker altså rett og slett på feil knapp, eller de følger ikke alltid like godt nok med når det redegjøres for hva det stemmes over. Som Senterpartiets Kjersti Toppe svarte på spørsmål om en [avstemning om reservasjonsrett](https://www.holderdeord.no/votes/1393504041ne):
+Representantene trykker altså rett og slett på feil knapp, eller de følger ikke alltid like godt med når det redegjøres for hva det stemmes over. Som Senterpartiets Kjersti Toppe svarte på spørsmål om en [avstemning om reservasjonsrett](https://www.holderdeord.no/votes/1393504041ne):
 
 > Det var flere forslag her og jeg kan ikke huske dette forslaget isolert.  Poenget mitt er at slik jeg leser forslaget nå, kunne jeg godt stemme for at det (ikke en rett, men jeg mener det skal være en mulighet
 
