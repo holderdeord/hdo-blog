@@ -26,7 +26,7 @@ Partiprogrammets innhold, som utformes av grasrota i partiet, avhenger av de uli
 
 Streng partidisiplin gjør livet enklere for ledere både i posisjon og opposisjon. Innpiskerne i de ulike partiene har derfor en relativt enkel jobb, da de ikke er nødt til å overtale og overbevise hvert enkelt medlem av sitt parti til å stemme i tråd med partilinja. Innpiskernes jobb er hovedsakelig å sørge for at det er nok folk til stede under avstemningene, slik at forholdet mellom partiene er likt selv når ikke alle representantene er til stede. 
 
-Streng partidisiplin betyr imidlertid også at representantene skjelden stemmer i mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer, altså antall ganger en representant fra et parti har stemt mot flertallet i partiet.
+Streng partidisiplin betyr imidlertid også at representantene skjelden stemmer  mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer, altså antall ganger en representant fra et parti har stemt mot flertallet i partiet.
 
 <div id="{{ page.title | slugify }}-parties"></div>
 <figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
