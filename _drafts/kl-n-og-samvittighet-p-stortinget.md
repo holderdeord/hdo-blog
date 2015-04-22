@@ -31,7 +31,7 @@ Streng partidisiplin betyr imidlertid også at representantene skjelden stemmer 
 <div id="{{ page.title | slugify }}-parties"></div>
 <figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
 
-Man trenger minst tre representanter for at noen skal kunne bryte med flertallet. Venstre hadde med sine to representanter derfor ingen utbryterstemmer i 2009-2013, og MDG vil med sin ene representant ikke ha noen i denne perioden.
+For å kunne bryte med flertallet trenger man stemmer fra minst tre representanter. Venstre hadde med sine to representanter derfor ingen utbryterstemmer i 2009-2013, og MDG vil med sin ene representant ikke ha noen i denne perioden.
 
 Siden det er forskjell i størrelse på partiene, kan absolutte tall være misvisende. Tabellen under viser utbrytere kontrollert for partistørrelse.
 
