@@ -115,7 +115,7 @@ Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som ka
 
 #### Bør representantene innvilges større frihet?
 
-Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak eller politikken er hjemlet i regjeringsplattformen. Representantene er som sagt representanter nettopp for partiprogrammet, og demokratiet internt i partiene er viktig. Man kan imidlertid argumentere for at større frihet for representantene burde være regelen i saker der partiet eller regjeringskoalisjonen mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre. 
+Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak eller politikken er hjemlet i regjeringsplattformen. Representantene er som sagt representanter nettopp for partiprogrammet, og demokratiet internt i partiene er viktig. Man kan fortsatt argumentere for at større frihet for representantene burde være regelen i saker der partiet eller regjeringskoalisjonen mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre. 
 
 <img src="{{ page.thumbnail }}" />
 
