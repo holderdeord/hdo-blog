@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Utbrytere: Stortingets rebeller?"
+title: Kløn og samvittighet på Stortinget
 date: "2015-12-31T23:59:59.000+01:00"
 authors: 
   - Hanna Tranås
