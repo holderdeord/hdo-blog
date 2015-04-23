@@ -20,7 +20,7 @@ thumbnail: "http://files.holderdeord.no/images/partipisken.jpg"
 twitter_card: summary_large_image
 ---
 
-**I god norsk partipolitisk tradisjon tro, svinges partipisken over våre folkevalgte på tinget når det stemmes. Det forventes at de stiller seg bak det vedtatte partiprogram. Men hva med de gangene samvittigheten griper inn? Bør representantene fristilles i større grad? Og er det egentlig bare samvittighet som ligger til grunn for utbrytertrangen? Vi har tatt en titt på utbryterstemmer.**
+**I god norsk partipolitisk tradisjon tro, svinges partipisken over våre folkevalgte på tinget når det stemmes. Det forventes at de stiller seg bak partiprogrammet. Men hva med de gangene samvittigheten griper inn? Bør representantene fristilles i større grad? Og er det egentlig bare samvittighet som ligger til grunn for utbrytertrangen? Vi har tatt en titt på utbryterstemmer.**
 
 Partiprogrammets innhold, som utformes av grasrota i partiet, avhenger av de ulike interne partipolitiske blokkenes gjennomslagskraft. På landsmøtet blir saker som vinner frem vedtatt og nedtegnet, og senere fulgt opp av den respektive stortingsgruppe som deretter stemmer i tråd med dette.
 
@@ -63,10 +63,6 @@ Det var også det [Aslak Borgersrud](https://twitter.com/aslak_gatas) fant ut da
 Representantene trykker altså rett og slett på feil knapp, eller de følger ikke alltid like godt med når det redegjøres for hva det stemmes over. Som Senterpartiets Kjersti Toppe svarte på spørsmål om en [avstemning om reservasjonsrett](https://www.holderdeord.no/votes/1393504041ne):
 
 > Det var flere forslag her og jeg kan ikke huske dette forslaget isolert.  Poenget mitt er at slik jeg leser forslaget nå, kunne jeg godt stemme for at det (ikke en rett, men jeg mener det skal være en mulighet
-
-Eller som Høyres Ove Trellevik svarte på spørsmål om en avstemning om å [innføre nasjonal minstelønn](https://www.holderdeord.no/votes/1418069544ne), og hvor han og syv andre Høyrerepresentanter stemte mot flertallet i partiet:
-
-> Det var nok en feilstemme fra min side, men her burde jeg fulgt litt bedre med fordi her kunne jeg stemt som jeg gjorde. Dette fordi sosial dumping ikke har noen defenisjon. En nasjonal minstelønn ville ha hjulpet oss. I mangel på nasjonal minstelønn så blir tariff allmengjort i enkelte bransjer. Jeg vil heller ha nasjonal minstelønn fremfor allmengjøring av tariff for hver bransje. Men jeg rakk ikke å formidle mitt synspunkt internt i Høyre,  og burde således stemt slik partiet ville - men jeg stemte feil! Hadde jeg gitt beskjed kunne jeg stemt som jeg ville!
 
 Det viser seg likevel at det ikke finnes noen sammenheng mellom for eksempel stemmetidspunkt på døgnet og antall utbryterstemmer/feilstemmer. Politikere stemmer altså ikke oftere feil (eller mer i tråd med sin samvittighet) senere enn tidligere på døgnet, da de kanskje er trettere og dermed litt sløvere enn ellers. Spekulasjoner rundt hva som kan være årsaken, det være seg språktekniske aspekter ved voteringsspørsmålet, eller uoppmerksomhet fra tid til annen, blir heller ikke så viktig når vi vet at sannsynligheten for at feilstemme tipper resultatet av en votering på Stortinget er svært liten. Stemmegivingen meldes nemlig inn på forhånd, med unntak av noen få spørsmål som fremmes i salen, og dersom Presidenten oppdager at utfallet av saken er annerledes enn det som var meldt inn, vil han eller hun opplyse om dette og voteringen tas på nytt.
 
@@ -112,6 +108,18 @@ Det som er tydelig er dog at partiene i mye større grad tillater selvstendig st
 Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som kan indikere større uenigheter innad i regjeringen med støttepartier enn blant de rødgrønne.
 
 
+#### Den enkle veien ute er ikke alltid den beste
+
+I de sakene partiet ikke har vedtatt politikk, diskuterer vanligvis stortingsgruppen seg frem til et felles bindende standpunkt før votering finner sted. I Arbeiderpartiet var saken om [rituell omskjæring av guttebarn](https://www.holderdeord.no/votes/1402951833e) en slik sak, men ikke en tydelig samvittighetssak. Spørsmålet er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
+
+<blockquote>
+Det var mest renhårig. Jeg kunne ikke stemme for dette av samvittighetsgrunner
+<cite>Freddy de Ruiter til <a href="http://www.dagsavisen.no/innenriks/slaget-om-ny-omskj%C3%A6ringslov-1.308487">Dagsavisen, 03.01.2015</a></cite>
+</blockquote>
+
+Utbyttingsordningen gjør det mulig å slippe å møte til avstemning med den opprinnelige hensikt å ta hensyn til at representantene har mange andre oppgaver enn å møte i Stortingssalen. Det er imidlertid problematisk hvis denne ordningen benyttes til å avstå fra å stemme når de faktisk har mulighet til å delta. At man ikke er enig med eget parti bør ikke være gyldig grunn til å avstå fra en avstemning.
+
+Et problem med dette er at man i noen saker vil kunne ha falske flertall. Når uenighetene i partiene ikke kommer til uttrykk i voteringene kan vi heller ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet.
 
 #### Bør representantene innvilges større frihet?
 
@@ -138,18 +146,4 @@ Han avviser altså at partipisken kan svinges i Høyre, men skriver senere at
 
 > Hvis det gjelder saker som kan få betydning for regjeringens overlevelse eller anseelse, vil det å tviholde på egne primærstandpunkter ikke bli forstått med mindre det dreier seg om grunnleggende menneskerettighetsprinsipper. Selv den mest ranke idealist må kunne være i stand til å prioritere sine slag.
 
-
-#### Den enkle veien ut
-
-I de sakene partiet ikke har vedtatt politikk, diskuterer vanligvis stortingsgruppen seg frem til et felles bindende standpunkt før votering finner sted. I Arbeiderpartiet var saken om [rituell omskjæring av guttebarn](https://www.holderdeord.no/votes/1402951833e) en slik sak, men ikke en tydelig samvittighetssak. Spørsmålet er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
-
-<blockquote>
-Det var mest renhårig. Jeg kunne ikke stemme for dette av samvittighetsgrunner
-<cite>Freddy de Ruiter til <a href="http://www.dagsavisen.no/innenriks/slaget-om-ny-omskj%C3%A6ringslov-1.308487">Dagsavisen, 03.01.2015</a></cite>
-</blockquote>
-
-Utbyttingsordningen gjør det mulig å slippe å møte til avstemning med den opprinnelige hensikt å ta hensyn til at representantene har mange andre oppgaver enn å møte i Stortingssalen. Det er imidlertid problematisk hvis denne ordningen benyttes til å avstå fra å stemme når de faktisk har mulighet til å delta. At man ikke er enig med eget parti bør ikke være gyldig grunn til å avstå fra en avstemning.
-
-Et problem med dette er at man i noen saker vil kunne ha falske flertall. Når uenighetene i partiene ikke kommer til uttrykk i voteringene kan vi heller ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet.
-
-Vi mener det derfor er behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Det er heller presset derfra som burde få en individuell representant eller et helt parti til å snu. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det. Med større frihet ville den politiske debatten også blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er.
+Vi i Holder de ord mener det er behov for mer åpenhet og større aksept for samvittighetstemmer innad i partiene. Med større åpenhet, også utenfor partienes lukkede dører, ville representantene ikke bare stått fast ved sine prinsipper, men også følt på hva menneskene de representerer mener. Det er heller presset derfra som burde få en individuell representant eller et helt parti til å snu. Hvis representanter skal bindes bør det skje ved landsmøtevedtak, ikke ved at et flertall i stortingsgruppen bestemmer det. Med større frihet ville den politiske debatten også blitt langt mer spennende, og de ulike regionale interessene ville kunnet komme frem, slik hensikten med valgkretser jo er.
