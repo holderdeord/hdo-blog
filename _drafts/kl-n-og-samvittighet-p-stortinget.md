@@ -20,7 +20,7 @@ thumbnail: "http://files.holderdeord.no/images/partipisken.jpg"
 twitter_card: summary_large_image
 ---
 
-**I god norsk partipolitisk tradisjon, svinges partipisken over våre folkevalgte på tinget når det stemmes. Men hva med de gangene samvittigheten griper inn? Bør representantene fristilles i større grad? Og er det egentlig bare samvittighet som ligger til grunn for utbryterstemmer? **
+**I god norsk partipolitisk tradisjon, svinges partipisken over våre folkevalgte på tinget når det stemmes. Men hva med de gangene samvittigheten griper inn? Bør representantene fristilles i større grad? Og er det egentlig bare samvittighet som ligger til grunn for utbryterstemmer?**
 
 Partiprogrammets innhold, som utformes av grasrota i partiet, avhenger av de ulike interne partipolitiske blokkenes gjennomslagskraft. På landsmøtet blir saker som vinner frem vedtatt og nedtegnet, og senere fulgt opp av den respektive stortingsgruppe som deretter stemmer i tråd med dette.
 
