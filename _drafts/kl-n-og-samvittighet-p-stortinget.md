@@ -108,7 +108,7 @@ Det som er tydelig er dog at partiene i mye større grad tillater selvstendig st
 Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som kan indikere større uenigheter innad i regjeringen med støttepartier enn blant de rødgrønne.
 
 
-#### Den enkle veien ute er ikke alltid den beste
+#### Den enkle veien ut er ikke alltid den beste
 
 I de sakene partiet ikke har vedtatt politikk, diskuterer vanligvis stortingsgruppen seg frem til et felles bindende standpunkt før votering finner sted. I Arbeiderpartiet var saken om [rituell omskjæring av guttebarn](https://www.holderdeord.no/votes/1402951833e) en slik sak, men ikke en tydelig samvittighetssak. Spørsmålet er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
 
