@@ -121,6 +121,7 @@ Utbyttingsordningen gjør det mulig å slippe å møte til avstemning med den op
 
 Et problem med dette er at man i noen saker vil kunne ha falske flertall. Når uenighetene i partiene ikke kommer til uttrykk i voteringene kan vi heller ikke vite hva representantene fra våre valgkretser faktisk mener i ulike saker (med mindre de går ut i media med det), bare hva partigruppen på Stortinget mener, noe som er en svakhet ved partidemokratiet.
 
+
 #### Bør representantene innvilges større frihet?
 
 Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak eller politikken er hjemlet i regjeringsplattformen. Representantene er som sagt representanter nettopp for partiprogrammet, og demokratiet internt i partiene er viktig. Man kan fortsatt argumentere for at større frihet for representantene burde være regelen i saker der partiet eller regjeringskoalisjonen mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre.
