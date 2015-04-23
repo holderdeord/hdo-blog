@@ -20,7 +20,7 @@ thumbnail: "http://files.holderdeord.no/images/partipisken.jpg"
 twitter_card: summary_large_image
 ---
 
-**I god norsk partipolitisk tradisjon tro, svinges partipisken over våre folkevalgte på tinget når det stemmes. Det forventes at de stiller seg bak det vedtatte partiprogram. Men hva med de gangene samvittigheten griper inn? Bør representantene fristilles i større grad? Og er det egentlig bare samvittighet som ligger til grunn for utbryterene? Vi har tatt en titt på utbryterstemmer.**
+**I god norsk partipolitisk tradisjon tro, svinges partipisken over våre folkevalgte på tinget når det stemmes. Det forventes at de stiller seg bak det vedtatte partiprogram. Men hva med de gangene samvittigheten griper inn? Bør representantene fristilles i større grad? Og er det egentlig bare samvittighet som ligger til grunn for utbrytertrangen? Vi har tatt en titt på utbryterstemmer.**
 
 Partiprogrammets innhold, som utformes av grasrota i partiet, avhenger av de ulike interne partipolitiske blokkenes gjennomslagskraft. På landsmøtet blir saker som vinner frem vedtatt og nedtegnet, og senere fulgt opp av den respektive stortingsgruppe som deretter stemmer i tråd med dette.
 
@@ -138,6 +138,8 @@ Han avviser altså at partipisken kan svinges i Høyre, men skriver senere at
 
 > Hvis det gjelder saker som kan få betydning for regjeringens overlevelse eller anseelse, vil det å tviholde på egne primærstandpunkter ikke bli forstått med mindre det dreier seg om grunnleggende menneskerettighetsprinsipper. Selv den mest ranke idealist må kunne være i stand til å prioritere sine slag.
 
+
+#### Den enkle veien ut
 
 I de sakene partiet ikke har vedtatt politikk, diskuterer vanligvis stortingsgruppen seg frem til et felles bindende standpunkt før votering finner sted. I Arbeiderpartiet var saken om [rituell omskjæring av guttebarn](https://www.holderdeord.no/votes/1402951833e) en slik sak, men ikke en tydelig samvittighetssak. Spørsmålet er ikke omtalt i Arbeiderpartiets program, ei heller vært oppe til behandling på et landsmøte, og er således en sak representantene ikke har lovet noe som helst i, eller en sak der velgerne forventer noe spesielt, annet enn utfra velgerens oppfatning av hva partiet står for. Saken ble diskutert internt, men representantene fikk ikke tillatelse til å stemme slik de ville, til tross for at Sonja Mandt i Arbeiderpartiet har sagt at de har tradisjon for å la folk stemme fritt i samvittighetssaker. I stedet for å tvinge folk til å stemme for en sak de i utgangspunktet var mot fant Arbeiderpartiets Freddy de Ruiter en fiffig løsning på problemet: Han ba om å bli byttet ut så han ikke måtte møte i salen.
 
