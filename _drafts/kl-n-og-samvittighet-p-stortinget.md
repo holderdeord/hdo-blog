@@ -2,14 +2,14 @@
 layout: post
 title: Kløn og samvittighet på Stortinget
 date: "2015-12-31T23:59:59.000+01:00"
-authors:
+authors: 
   - Hanna Tranås
   - Alexander Habash Eide
-tags:
+tags: 
   - avstemninger
   - stortinget
   - utbrytere
-scripts:
+scripts: 
   - d3
   - c3
   - __title__
@@ -20,7 +20,7 @@ thumbnail: "http://files.holderdeord.no/images/partipisken.jpg"
 twitter_card: summary_large_image
 ---
 
-**Den norske partipolitiske tradisjon hviler på en streng partidisiplin. Representantene er ikke primært valgt på grunn av sin person, men som representanter for et partiprogram det forventes at de både stiller seg bak, fronter og stemmer i tråd med. Men hva når dette ikke skjer? Vi har tatt en titt på utbryterstemmer.**
+**I god norsk partipolitisk tradisjon tro, svinges partipisken over våre folkevalgte på tinget når det stemmes. Det forventes at de stiller seg bak det vedtatte partiprogram, men hva med de gangene samvittigheten griper inn? Bør representantene fristilles i større grad? Og er det egentlig bare samvittighet som ligger til grunn for utbryterene? Vi har tatt en titt på utbryterstemmer.**
 
 Partiprogrammets innhold, som utformes av grasrota i partiet, avhenger av de ulike interne partipolitiske blokkenes gjennomslagskraft. På landsmøtet blir saker som vinner frem vedtatt og nedtegnet, og senere fulgt opp av den respektive stortingsgruppe som deretter stemmer i tråd med dette.
 
