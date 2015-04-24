@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Kløn og samvittighet på Stortinget
-date: "2015-12-31T23:59:59.000+01:00"
-authors: 
+date: "2015-04-24T11:32:17+02:00"
+authors:
   - Hanna Tranås
   - Alexander Habash Eide
-tags: 
+tags:
   - avstemninger
   - stortinget
   - utbrytere
-scripts: 
+scripts:
   - d3
   - c3
   - __title__
