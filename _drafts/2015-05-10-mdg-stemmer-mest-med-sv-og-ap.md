@@ -18,6 +18,9 @@ scripts:
 
 Holder de ord har gått igjennom stemmegivningen til MDG i denne regjeringsperioden per saksfelt og kategori, og tallene viser at MDG oftest stemmer sammen med den rødgrønne blokken. Vår gjennomgang viser at MDG oftest stemmer sammen med SV, tett etterfulgt av Ap og til en viss grad Sp.
 
+<div id="percentage-overall"></div>
+<figcaption>Prosent av behandlede forslag hvor partiene har stemt lik, oktober 2013 - mai 2015</figcaption>
+
 I kategoriene *helsevesen, statsforfatning og lokalforvaltning* er samtlige partier på Stortinget i høy grad enige seg i mellom. I alle de andre 20 kategoriene stemmer MDG konsekvent mest sammen med SV og Ap.
 
 Av Stortingets 23 kategoriseringer av politiske vedtak er MDG mest enige med SV i 14 kategorier, med Ap i 7, og med Venstre i 2 av alle saksfelt.
@@ -38,7 +41,7 @@ På *kulturfeltet* ser vi igjen at MDG er mest enige med SV (49.9 prosent), så 
 
 I voteringer som omhandler *fiskerier* er MDG mest enig med Ap (49.4 prosent) og minst enig med FrP (32.9 prosent). I spørsmål knyttet til *trossamfunn* er MDG mest enig med SV (49.6) og minst enig med FrP (30.6 prosent). For *landbruket* er tallene lignende. Her er MDG mest enig med SV (58.4) og minst enig med FrP og H (begge 30.3 prosent).
 
-###Samferdsel skiller seg ut
+### Samferdsel skiller seg ut
 
 Det er kun i kategorien *kommunikasjon* som MDG stemmer mer sammen med regjeringspartiene H og FrP og støttepartiene KrF og Venstre. Dette er interessant i seg selv, siden denne kategorien inneholder samferdselspolitikk som jernbane- og veiutbygging.
 
@@ -46,7 +49,7 @@ På dette saksfeltet stemmer MDG med Venstre i 45.8 prosent og med KrF i 44.4 pr
 
 HER TRENGER VI EN KONKRET VOTERING!
 
-###Sår tvil om blokkuavhengigheten
+### Sår tvil om blokkuavhengigheten
 
 Vi er overrasket hvor entydige tallene er når man går igjennom voteringene saksfelt for saksfelt. I oversikten har vi brukt de samme kategoriene som Stortinget opererer med når de kategoriserer voteringer og forsalg.
 
