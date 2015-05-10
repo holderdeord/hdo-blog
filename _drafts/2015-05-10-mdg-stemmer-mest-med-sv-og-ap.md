@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDG stemmer mest med SV og Ap"
+title: MDG stemmer mest med SV og Ap
 date: "2015-05-10T14:59:08.000+02:00"
 authors:
   - Tiina Ruohonen
@@ -39,6 +39,7 @@ På *kulturfeltet* ser vi igjen at MDG er mest enige med SV (49.9 prosent), så 
 I voteringer som omhandler *fiskerier* er MDG mest enig med Ap (49.4 prosent) og minst enig med FrP (32.9 prosent). I spørsmål knyttet til *trossamfunn* er MDG mest enig med SV (49.6) og minst enig med FrP (30.6 prosent). For *landbruket* er tallene lignende. Her er MDG mest enig med SV (58.4) og minst enig med FrP og H (begge 30.3 prosent).
 
 ###Samferdsel skiller seg ut
+
 Det er kun i kategorien *kommunikasjon* som MDG stemmer mer sammen med regjeringspartiene H og FrP og støttepartiene KrF og Venstre. Dette er interessant i seg selv, siden denne kategorien inneholder samferdselspolitikk som jernbane- og veiutbygging.
 
 På dette saksfeltet stemmer MDG med Venstre i 45.8 prosent og med KrF i 44.4 prosent av alle saker. MDG er enig i regjeringspartiene i 43.7 prosent av alle saker. Partiet er enige med de rødgrønne i 40.5 prosent av sakene (Ap), 40.4 prosent av sakene (SV) og 33.8 prosent av sakene (Sp).
@@ -46,11 +47,12 @@ På dette saksfeltet stemmer MDG med Venstre i 45.8 prosent og med KrF i 44.4 pr
 HER TRENGER VI EN KONKRET VOTERING!
 
 ###Sår tvil om blokkuavhengigheten
+
 Vi er overrasket hvor entydige tallene er når man går igjennom voteringene saksfelt for saksfelt. I oversikten har vi brukt de samme kategoriene som Stortinget opererer med når de kategoriserer voteringer og forsalg.
 
 Resultatene sår tvil om påstandene fra partiet om sin egen blokkuavhengighet. Dette er også interessant sett i lys av at partiet gjentatte ganger har sagt at både Ap og H er like mye fossile partier og dermed ikke gjøres skille på. Tallene viser imidlertid at MDG i aller høyeste grad voterer sammen med Ap på så å si alle saksfelt. I de fleste kategoriene er skillet mellom stemmelikheten mellom MDG og SV på den ene siden og MDG og Ap på den andre siden forsvinnende liten.
 
-MDGs stortingsrepresentant Rasmus Hansson har uttalt til Dagsavisen at slike oversikter over hvem han stemmer sammen med på Stortinget er "politisk helt på jorda." Det spørs om ikke Hanssons retorikk er helt på jordet. Det er i hvert fall med på å villede velgere som ønsker å vite hva slags allianser partiet er åpen til å bygge i lokal- og nasjonalpolitikken i årene som kommer.
+MDGs stortingsrepresentant Rasmus Hansson har uttalt til Dagsavisen at slike oversikter over hvem han stemmer sammen med på Stortinget er «politisk helt på jordet». Det spørs om ikke Hanssons retorikk er helt på jordet. Det er i hvert fall med på å villede velgere som ønsker å vite hva slags allianser partiet er åpen til å bygge i lokal- og nasjonalpolitikken i årene som kommer.
 
 
 
