@@ -1,5 +1,5 @@
 (function() {
-    var data = [
+    var dataOverall = [
         { combo: 'MDG + SV',  pct: 51.4 },
         { combo: 'MDG + Ap',  pct: 47.4 },
         { combo: 'MDG + Sp',  pct: 45.6 },
@@ -9,11 +9,11 @@
         { combo: 'MDG + FrP', pct: 41.5 }
     ];
 
-    var chart = c3.generate({
+    c3.generate({
         bindto: '#percentage-overall',
         data: {
             columns: [
-                ['Prosent'].concat(data.map(function(d) { return d.pct; }))
+                ['Prosent'].concat(dataOverall.map(function(d) { return d.pct; }))
             ],
             type: 'bar'
         },
@@ -22,7 +22,7 @@
             x: {
                 type: 'category',
                 tick: { multiline: false },
-                categories: data.map(function(d) { return d.combo; })
+                categories: dataOverall.map(function(d) { return d.combo; })
             },
             y: { tick: { format: function(d) { return d + '%'; }}},
             rotated: true

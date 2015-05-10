@@ -14,7 +14,7 @@ scripts:
   - __title__
 ---
 
-**MDG stemmer oftest sammen med SV og Ap. Dette gjelder på tvers av absolutt alle saksfelt, med unntak av kommunikasjon (ferger, luftfart, post, samferdsel, telekommunikasjon, veitrafikk og veivesen) hvor de stemmer mest med den borgerlige blokken.**
+**MDG stemmer oftest sammen med SV og Ap. Dette gjelder på tvers av alle saksfelt, med unntak av kommunikasjon (ferger, luftfart, post, samferdsel, telekommunikasjon, veitrafikk og veivesen) hvor de stemmer mest med den borgerlige blokken.**
 
 Holder de ord har gått igjennom stemmegivningen til MDG i denne regjeringsperioden per saksfelt og kategori, og tallene viser at MDG oftest stemmer sammen med den rødgrønne blokken. Vår gjennomgang viser at MDG oftest stemmer sammen med SV, tett etterfulgt av Ap og til en viss grad Sp.
 
@@ -57,5 +57,5 @@ Resultatene sår tvil om påstandene fra partiet om sin egen blokkuavhengighet. 
 
 MDGs stortingsrepresentant Rasmus Hansson har uttalt til Dagsavisen at slike oversikter over hvem han stemmer sammen med på Stortinget er «politisk helt på jordet». Det spørs om ikke Hanssons retorikk er helt på jordet. Det er i hvert fall med på å villede velgere som ønsker å vite hva slags allianser partiet er åpen til å bygge i lokal- og nasjonalpolitikken i årene som kommer.
 
-
+Rådataene bak denne artikkelen finner du [her](https://docs.google.com/spreadsheets/d/1B_1Wex5asqpJHUJIwajRAmwr-wKZkcVOw6KyLr7oNWE/edit?usp=sharing).
 
