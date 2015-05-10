@@ -2,16 +2,17 @@
 layout: post
 title: MDG stemmer mest med SV og Ap
 date: "2015-05-10T14:59:08.000+02:00"
-authors:
+authors: 
   - Tiina Ruohonen
-tags:
+tags: 
   - mdg
   - stemmelikhet
   - blokkuavhengighet
-scripts:
+scripts: 
   - d3
   - c3
   - __title__
+published: true
 ---
 
 **MDG stemmer oftest sammen med SV og Ap. Dette gjelder på tvers av alle saksfelt, med unntak av kommunikasjon (ferger, luftfart, post, samferdsel, telekommunikasjon, veitrafikk og veivesen) hvor de stemmer mest med den borgerlige blokken.**
@@ -21,7 +22,7 @@ Holder de ord har gått igjennom stemmegivningen til MDG i denne regjeringsperio
 <div id="percentage-overall"></div>
 <figcaption>Prosent av behandlede forslag hvor partiene har stemt lik, oktober 2013 - mai 2015</figcaption>
 
-I kategoriene *helsevesen, statsforfatning og lokalforvaltning* er samtlige partier på Stortinget i høy grad enige seg i mellom. I alle de andre 20 kategoriene stemmer MDG konsekvent mest sammen med SV og Ap.
+I kategorien *lokalforvaltning* er forskjellen mellom stemmelikheten for MDG og Venstre (37.2 prosent), som er mest enige, liten jamført med stemmelikheten for MDG og FrP (34.5 prosent). I kategorien *kommunikasjon* er MDG mest enige med Venstre. I alle de andre 20 kategoriene stemmer MDG konsekvent mest sammen med SV og Ap.
 
 Av Stortingets 23 kategoriseringer av politiske vedtak er MDG mest enige med SV i 14 kategorier, med Ap i 7, og med Venstre i 2 av alle saksfelt.
 
@@ -58,4 +59,3 @@ Resultatene sår tvil om påstandene fra partiet om sin egen blokkuavhengighet. 
 MDGs stortingsrepresentant Rasmus Hansson har uttalt til Dagsavisen at slike oversikter over hvem han stemmer sammen med på Stortinget er «politisk helt på jordet». Det spørs om ikke Hanssons retorikk er helt på jordet. Det er i hvert fall med på å villede velgere som ønsker å vite hva slags allianser partiet er åpen til å bygge i lokal- og nasjonalpolitikken i årene som kommer.
 
 Rådataene bak denne artikkelen finner du [her](https://docs.google.com/spreadsheets/d/1B_1Wex5asqpJHUJIwajRAmwr-wKZkcVOw6KyLr7oNWE/edit?usp=sharing).
-
