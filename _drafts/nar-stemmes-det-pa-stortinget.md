@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Når stemmes det på Stortinget?"
-date: "2015-12-31T23:59:59.000+01:00"
+date: "2015-01-28T23:59:59.000+01:00"
 authors: 
   - Hanna Tranås
   - Jari Bakken
