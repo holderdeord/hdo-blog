@@ -60,12 +60,12 @@ I den forbindelse er det på plass å trekke frem dette sitatet fra statsministe
 
 “Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.”
 
-Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti
+Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti. Det være seg av samvitttighetsgrunner eller “trykkefeil”.
 
 <div id="kl-n-og-samvittighet-p-stortinget-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
 
-Og hvilke partier som relativt representerer flest utbrytere. Det være seg av samvitttighetsgrunner eller “trykkefeil”.
+Og hvilke partier som relativt representerer flest utbrytere. 
 
 <div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
