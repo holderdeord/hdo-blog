@@ -8,7 +8,7 @@ Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvitt
 
 Å stemme feil, altså å trykke på feil knapp, viser seg etter alt å dømme å ikke være så uvanlig på Stortinget. I tillegg til 59 feilstemmer som er oppdaget og korrigert av representantene selv, har vi fått mange tilbakemeldinger via vår twitterkonto [@partipisken](https://twitter.com/partipisken) på at utbryterstemmer ikke var samvittighetsstemmer, som er en annen grunn til å bryte med flertallet, men at de har stemt feil. 
 
-Det er ikke vanskelig å rette opp i feilstemmer om det oppdages der og da. Representantene kan informere Presidenten. Ellers kan Presidenten selv, på bakgrunn av det partiene på forhånd har innmeldt, oppdage at utfallet blir feil og selv foreslå en ny votering.  I denne saken skjedde dette imidlertid ikke. 
+Det er ikke vanskelig å rette opp i feilstemmer om det oppdages der og da. Representantene kan informere Presidenten. Eller Presidenten kan selv, på bakgrunn av det partiene på forhånd har innmeldt, oppdage at utfallet er feil og selv foreslå en ny votering.  I denne saken skjedde dette imidlertid ikke. 
 
 
 ####MDG foreslår miljøfokus på Svalbard
