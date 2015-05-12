@@ -2,18 +2,19 @@
 layout: post
 title: Nedstemt med falskt flertall
 date: "2015-05-12T00:00:00+02:00"
-authors:
+authors: 
   - Alexander Habash Eide
   - Hanna Tranås
-tags:
+tags: 
   - avstemninger
   - feilstemming
   - stortinget
   - mdg
-scripts:
+scripts: 
   - __title__
 comments: false
 twitter_card: summary_large_image
+published: true
 ---
 
 **For en stund tilbake ble Holder de ord gjort oppmerksom på at et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil. Uskyldig knot? Eller et reelt demokratisk problem? Vi har sett nærmere på saken.**
@@ -37,7 +38,7 @@ I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ik
 
 #### Hva skjedde?
 
-Det vi vet er at innpiskerene i hvertfall hadde gjort en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. Selv med de 4 feilstemmene fra Ap, hadde forslaget likevel ikke fått flertall slik det var varslet på forhånd. Hva som derimot skjedde mellom 9. og 14. desember, dagene mellom avstemmingen fant sted og dagen forslaget ble fremmet på nytt, vet vi ikke med sikkerhet. Det ble ikke foretatt en ny votering rett i etterkant av den første, men MDG skjønte i løpet av fem dager at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte deretter dette inn til Stortingets presidentskap. Den 14. desember ble forslaget fremmet på nytt.
+Det vi vet er at innpiskerene i hvertfall hadde gjort en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. Selv med de 4 feilstemmene fra Ap, hadde forslaget likevel ikke fått flertall slik det var varslet på om forhånd. Hva som derimot skjedde mellom 9. og 14. desember, dagene mellom avstemmingen fant sted og dagen forslaget ble fremmet på nytt, vet vi ikke med sikkerhet. Det ble ikke foretatt en ny votering rett i etterkant av den første, men MDG skjønte i løpet av fem dager at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte deretter dette inn til Stortingets presidentskap. Den 14. desember ble forslaget fremmet på nytt.
 
 Stortingspresident Olemic Thommessen påpekte i den forbindelse at å gjenta avstemmingen stred mot Stortingets forretningsorden § 38 siste ledd der det heter at:
 
