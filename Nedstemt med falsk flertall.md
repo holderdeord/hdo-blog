@@ -62,4 +62,4 @@ Vi vet ikke hvor stor andel av utbryterstemmene som er feilstemmer foruten de so
 
 
 #### Endringer i voteringssystemet
-Voteringssystemet er verdt å sette et søkelys på. Det er bekymringsverdig hvis det er mulig å gjespe en sak over den partiideologiske linja. 
+Voteringssystemet er verdt å sette et søkelys på. Det er bekymringsverdig hvis det er mulig å gjespe en sak over den partiideologiske linja.
