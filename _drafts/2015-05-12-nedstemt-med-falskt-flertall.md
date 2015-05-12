@@ -34,7 +34,7 @@ Miljøpartiet De Grønne fremmet følgende [forslag](https://www.holderdeord.no/
 
 «Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
 
-Da dette var et såkalt “løst forslag til saken” og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter).
+Da dette var et såkalt «løst forslag til saken» og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter).
 
 I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ikke ble meldt i fra om der og da. Tre av de fire representantene fra SV som var til stede stemte for forslaget, mens Snorre Valen tilsynelatende stemte feil. Valen var dog ikke alene om å feilstemme. Forslag 1 fra MDG ble avvist med 53 mot 48 stemmer da også Arbeiderpartiets Fredrik Holen Bjørdal, Jette Christensen, Arild Grande og Anette Trettebergstuen stemte feil.
 
@@ -58,9 +58,9 @@ Arbeiderpartiets Helga Pedersen argumenterte på sin side videre for at forslage
 
 I den forbindelse er det på plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
-“Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.”
+«Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.»
 
-Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti. Det være seg av samvitttighetsgrunner eller “trykkefeil”.
+Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti. Det være seg av samvitttighetsgrunner eller «trykkefeil».
 
 
 <div id="kl-n-og-samvittighet-p-stortinget-top-20"></div>
@@ -74,11 +74,11 @@ Og hvilke partier som relativt representerer flest utbrytere.
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
 
-Saken ble så sendt til behandling i utenriks- og forsvarskomiteen, som man skulle forvente at da var innstilt på å vedta forslaget, siden opposisjonen har flertall i komiteen. I stedet gikk de inn for å kun legge forslaget ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge frem noen sak. Under debatten fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
+Saken ble så sendt til behandling i utenriks- og forsvarskomiteen, som man skulle forvente at da var innstilt på å vedta forslaget, siden opposisjonen har flertall i komiteen. I stedet gikk de inn for å kun legge forslaget ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge frem noen sak. Under debatten fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG «regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier», ikke kun «fremme sak om videre utvikling». Dette forslaget ble da omsider vedtatt.
 
 #### Bare en formalitet?
 
-Forlaget ble vedtatt til slutt, simpelten ved å endre litt på teksten. Vi syntes likevel det ikke bare er "greit" at Stortingets vilje kommer til uttrykk i Stortingssalen, det er det som er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en symbolsk formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
+Forlaget ble vedtatt til slutt, simpelten ved å endre litt på teksten. Vi syntes likevel det ikke bare er «greit» at Stortingets vilje kommer til uttrykk i Stortingssalen, det er det som er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en symbolsk formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
 #### Gjespet de en sak over linja?
 
@@ -88,6 +88,6 @@ Vi vet som nevnt ikke hvor stor andel av utbryterstemmene som er feilstemmer for
 
 #### Endringer i voteringssystemet
 
-Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, “den fjerde statsmakt”, som ikke belyser sike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med “galt” resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget? 
+Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser sike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med «galt» resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget? 
 
-Voteringssytemet er 
+Voteringssytemet er
