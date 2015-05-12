@@ -4,7 +4,7 @@ published: true
 
 #For en stund tilbake ble Holder de ord gjort oppmerksom på at et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil.#
 
-Vi har tidligere skrevet om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering var minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri får konsekvenser. 
+Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering var minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri får konsekvenser. 
 
 Å stemme feil, altså å trykke på feil knapp, viser seg etter alt å dømme å ikke være så uvanlig på Stortinget. I tillegg til 59 feilstemmer som er oppdaget og korrigert av representantene selv, har vi fått mange tilbakemeldinger via vår twitterkonto @partipisken på at utbryterstemmer ikke var samvittighetsstemmer, som er en annen grunn til å bryte med flertallet, men at de har stemt feil. 
 
