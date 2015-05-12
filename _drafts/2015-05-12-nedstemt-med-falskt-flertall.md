@@ -62,10 +62,13 @@ I den forbindelse er det på plass å trekke frem dette sitatet fra statsministe
 
 Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti. Det være seg av samvitttighetsgrunner eller “trykkefeil”.
 
+
 <div id="kl-n-og-samvittighet-p-stortinget-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
 
+
 Og hvilke partier som relativt representerer flest utbrytere. 
+
 
 <div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
@@ -85,6 +88,6 @@ Vi vet som nevnt ikke hvor stor andel av utbryterstemmene som er feilstemmer for
 
 #### Endringer i voteringssystemet
 
-Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, “den fjerde statsmakt”, som ikke belyser sike saker i stor nok grad. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med “galt” resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget?
+Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, “den fjerde statsmakt”, som ikke belyser sike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med “galt” resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget? 
 
-Voteringssystemet er verdt å sette et søkelys på. Det er bekymringsverdig hvis det er mulig å gjespe en sak over den partiideologiske linja.
+Voteringssytemet er 
