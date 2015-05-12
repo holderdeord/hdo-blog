@@ -10,10 +10,10 @@ tags:
   - feilstemming
   - stortinget
   - mdg
-scripts:
+scripts: 
   - d3
   - c3
-  - post:kl-n-og-samvittighet-p-stortinget
+  - "post:kl-n-og-samvittighet-p-stortinget"
 comments: false
 twitter_card: summary_large_image
 published: true
@@ -60,13 +60,12 @@ I den forbindelse er det på plass å trekke frem dette sitatet fra statsministe
 
 “Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.”
 
-Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti og hvilke partier som representerer flest utbrytere. Det være seg av samvitttighetsgrunner eller “trykkefeil”.
-
-<div id="kl-n-og-samvittighet-p-stortinget-parties"></div>
-<figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
+Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti
 
 <div id="kl-n-og-samvittighet-p-stortinget-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
+
+Og hvilke partier som relativt representerer flest utbrytere. Det være seg av samvitttighetsgrunner eller “trykkefeil”.
 
 <div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
