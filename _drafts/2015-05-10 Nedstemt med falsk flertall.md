@@ -24,7 +24,7 @@ I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ik
 #### Hva skjedde?
 Det vi vet er at innpiskerene i hvertfall hadde gjort en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. Selv med de 4 feilstemmene fra Ap, hadde forslaget likevel ikke fått flertall slik det var varslet på forhånd. Hva som derimot skjedde mellom 9. og 14. desember, dagene mellom avstemmingen fant sted og dagen forslaget ble fremmet på nytt, vet vi ikke med sikkerhet. Det ble ikke foretatt en ny votering rett i etterkant av den første, men MDG skjønte i løpet av fem dager at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte deretter dette inn til Stortingets presidentskap. Den 14. desember ble forslaget fremmet på nytt. 
 
-President Thommessen påpekte i den forbindelse at å gjenta avstemmingen stred mot Stortingets forretningsorden § 38 siste ledd der det heter at:
+Stortingspresident Olemic Thommessen påpekte i den forbindelse at å gjenta avstemmingen stred mot Stortingets forretningsorden § 38 siste ledd der det heter at:
 
 «Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.»
 
@@ -51,7 +51,7 @@ Saken ble så sendt til behandling i utenriks- og forsvarskomiteen, som man skul
 
 
 #### Bare en formalitet?
-Forlaget ble vedtatt til slutt, simpelten ved å endre litt på teksten. Vi syntes likevel det ikke bare er greit at Stortingets vilje kommer til uttrykk i Stortingssalen, det er det som er hele hensikten med voteringene. Selve voteringen er strengt tatt bare en symbolsk formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
+Forlaget ble vedtatt til slutt, simpelten ved å endre litt på teksten. Vi syntes likevel det ikke bare er "greit" at Stortingets vilje kommer til uttrykk i Stortingssalen, det er det som er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en symbolsk formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
 #### Gjespet de en sak over linja?
 Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for utfallet. Etter at vi fikk tilgang til informasjon om Svalbard-saken, har vi derimot åpnet for at dette faktisk kan utgjøre et demokratisk problem. 
