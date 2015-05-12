@@ -53,8 +53,6 @@ Saken ble så sendt til behandling i utenriks- og forsvarskomiteen, som man skul
 #### Bare en formalitet?
 Forlaget ble vedtatt til slutt, simpelten ved å endre litt på teksten. Vi syntes likevel det ikke bare er greit at Stortingets vilje kommer til uttrykk i Stortingssalen, det er det som er hele hensikten med voteringene. Selve voteringen er strengt tatt bare en symbolsk formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
-Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, “den fjerde statsmakt”, som ikke belyser sike saker i stor nok grad. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med “galt” resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget? 
-
 #### Gjespet de en sak over linja?
 Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for utfallet. Etter at vi fikk tilgang til informasjon om Svalbard-saken, har vi derimot åpnet for at dette faktisk kan utgjøre et demokratisk problem. 
 
@@ -62,4 +60,5 @@ Vi vet ikke hvor stor andel av utbryterstemmene som er feilstemmer foruten de so
 
 
 #### Endringer i voteringssystemet
+Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, “den fjerde statsmakt”, som ikke belyser sike saker i stor nok grad. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med “galt” resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget? 
 Voteringssystemet er verdt å sette et søkelys på. Det er bekymringsverdig hvis det er mulig å gjespe en sak over den partiideologiske linja.
