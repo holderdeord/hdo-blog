@@ -10,8 +10,10 @@ tags:
   - feilstemming
   - stortinget
   - mdg
-scripts: 
-  - __title__
+scripts:
+  - d3
+  - c3
+  - post:kl-n-og-samvittighet-p-stortinget
 comments: false
 twitter_card: summary_large_image
 published: true
@@ -60,8 +62,15 @@ I den forbindelse er det på plass å trekke frem dette sitatet fra statsministe
 
 Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti og hvilke partier som representerer flest utbrytere. Det være seg av samvitttighetsgrunner eller “trykkefeil”.
 
-tabell parti-feil/utbryterstemmer
-tabell representant-utbryterfeilstemmer
+<div id="kl-n-og-samvittighet-p-stortinget-parties"></div>
+<figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
+
+<div id="kl-n-og-samvittighet-p-stortinget-top-20"></div>
+<figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
+
+<div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
+<figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
+
 
 Saken ble så sendt til behandling i utenriks- og forsvarskomiteen, som man skulle forvente at da var innstilt på å vedta forslaget, siden opposisjonen har flertall i komiteen. I stedet gikk de inn for å kun legge forslaget ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge frem noen sak. Under debatten fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
 
