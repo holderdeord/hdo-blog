@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 **For en stund tilbake ble Holder de ord gjort oppmerksom på at et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil. Uskyldig knot? Eller et reelt demokratisk problem? Vi har sett nærmere på saken.**
