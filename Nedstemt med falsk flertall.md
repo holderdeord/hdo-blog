@@ -4,15 +4,15 @@ published: true
 
 #For en stund tilbake ble Holder de ord gjort oppmerksom på at et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil.#
 
-Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering var minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri får konsekvenser. 
+Vi har tidligere skrevet om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering var minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri får konsekvenser. 
 
-Å stemme feil, altså å trykke på feil knapp, viser seg etter alt å dømme å ikke være så uvanlig på Stortinget. I tillegg til 59 feilstemmer som er oppdaget og korrigert av representantene selv, har vi fått mange tilbakemeldinger via vår twitterkonto [@partipisken](https://twitter.com/partipisken) på at utbryterstemmer ikke var samvittighetsstemmer, som er en annen grunn til å bryte med flertallet, men at de har stemt feil. 
+Å stemme feil, altså å trykke på feil knapp, viser seg etter alt å dømme å ikke være så uvanlig på Stortinget. I tillegg til 59 feilstemmer som er oppdaget og korrigert av representantene selv, har vi fått mange tilbakemeldinger via vår twitterkonto @partipisken på at utbryterstemmer ikke var samvittighetsstemmer, som er en annen grunn til å bryte med flertallet, men at de har stemt feil. 
 
 Det er ikke vanskelig å rette opp i feilstemmer om det oppdages der og da. Representantene kan informere Presidenten. Ellers kan Presidenten selv, på bakgrunn av det partiene på forhånd har innmeldt, oppdage at utfallet blir feil og selv foreslå en ny votering.  I denne saken skjedde dette imidlertid ikke. 
 
 
-MDG foreslår miljøfokus på Svalbard
-Miljøpartiet De Grønne fremmet følgende [forslag](https://www.holderdeord.no/propositions/11443) (forslag 1 av 2) den 9. desember 2014 i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
+####MDG foreslår miljøfokus på Svalbard
+Miljøpartiet De Grønne fremmet følgende forslag (forslag 1 av 2) den 9. desember 2014 i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
 
 «Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
 
@@ -22,7 +22,7 @@ I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ik
 
 
 ####Hva skjedde?
-Vi vet ikke med sikkerhet hva som foregikk mellom 9. desember og 14. desember, dagene mellom avstemmingen fant sted og dagen forslaget ble fremmet på nytt. Det ble ikke foretatt en ny votering rett i etterkant av den første, og MDG skjønte i løpet av fem dager at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og deretter meldte dette inn til Stortingets presidentskap. Den 14. desember ble forslaget fremmet på nytt. 
+Det vi vet er at innpiskerene i hvertfall hadde gjort en dårlig jobb med å samle nok representanter til salen for forslaget. Selv med de 4 feilstemmene fra Ap, hadde forlaget ikke fått flertall slik det var varslet på forhånd. Hva som derimot skjedde mellom 9. desember og 14. desember, dagene mellom avstemmingen fant sted og dagen forslaget ble fremmet på nytt, vet vi ikke med sikkerhet. Det ble ikke foretatt en ny votering rett i etterkant av den første, og MDG skjønte i løpet av fem dager at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og deretter meldte dette inn til Stortingets presidentskap. Den 14. desember ble forslaget fremmet på nytt. 
 
 President Thommessen påpekte i den forbindelse at dette stred mot Stortingets forretningsorden § 38 siste ledd der det heter at:
 
@@ -36,7 +36,12 @@ Thommessen uttalte i forbindelse med saken at:
 
 «Presidenten anser ikke at denne årsaken til at voteringsresultatet ble feil, er en «påtrengende nødvendig» grunn til at Stortinget skal fatte vedtak om å ta forslaget opp til ny behandling.»
 
-Arbeiderpartiets Helga Pedersen argumenterte videre for at forslaget skulle sendes til komitébehandling, og hennes forslag ble så satt opp mot Presidentens forslag, nemlig å anse forslaget for avvist for så å gå videre. Regjeringspartiene støttet Presidentens anbefaling om å glemme forslaget. 
+Arbeiderpartiets Helga Pedersen argumenterte på sin side videre for at forslaget skulle sendes til komitébehandling, som ble satt opp mot Presidentens forslag, nemlig å anse forslaget for avvist for så å gå videre. Regjeringspartiene støttet Presidentens anbefaling om å glemme forslaget. 
+
+Her er noen tall som viser hvem som har stemt mest på tvers av sitt parti og hvilke partier som representerer flest utbrytere. Det være seg av samvitttighetsgrunner eller “trykkefeil”.
+
+tabell parti-feil/utbryterstemmer
+tabell representant-utbryterfeilstemmer
 
 Saken ble så sendt til behandling i utenriks- og forsvarskomiteen, som man skulle forvente at da var innstilt på å vedta forslaget, siden opposisjonen har flertall i komiteen. I stedet gikk de inn for å kun legge forslaget ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge frem noen sak. Under debatten fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
 
@@ -46,17 +51,15 @@ I denne forbindelse er det på plass å trekke frem dette sitatet fra statsminis
 
 “Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.”
 
-Det er ikke bare greit at Stortingets vilje kommer til uttrykk i Stortingssalen, det er hele hensikten med voteringene. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
+Det er ikke bare greit at Stortingets vilje kommer til uttrykk i Stortingssalen, det er hele hensikten med voteringene. Selve voteringen er strengt tatt bare en symbolsk formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
-Vi har tidligere skrevet at selve voteringen bare er en symbolsk formalitet, siden partiene som oftest på forhånd melder inn hva de skal stemme. Nå kan vi argumentere for at voteringene ikke har denne hensikten heller, siden de potensielt kan stå i veien for Stortingets vilje. 
-
-Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som denne saken, men også mediene, “den fjerde statsmakt”, som ikke belyser slike saker. Hypotetisk kan derfor vedtatte lover være basert på voteringer med “galt” resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget? 
+Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som denne saken, men også mediene, “den fjerde statsmakt”, som ikke belyser sike saker i stor nok grad. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med “galt” resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget? 
 
 ####Gjespet de en sak over linja?
 Vi har tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for utfallet. Etter at vi fikk tilgang til informasjon om Svalbard-saken, har vi derimot åpnet for at dette faktisk kan utgjøre et demokratisk problem. 
 
-Vi vet nemlig ikke hvor stor andel av utbryterstemmene som er feilstemmer foruten de som selvrapporteres. Dette leder oss til å spekulere i om feilstemmer likevel kan forekomme oftere sent på kvelden enn tidligere på dagen. I tilfelle denne saken spesielt, der voteringen fant sted nærmere midnatt, virker det som om dette kan ha vært en medvirkende faktor. For hvordan er det mulig at ingen i salen reagerte og sa i fra da det uventede resultatet forelå? Selv ikke Presidenten fant det for godt å opplyse om at det resultatet han på forhånd var forespeilt faktisk ikke forekom.
+Vi vet ikke hvor stor andel av utbryterstemmene som er feilstemmer foruten de som selvrapporteres. Men det leder oss til å spekulere i om feilstemmer likevel kan forekomme oftere sent på kvelden enn tidligere på dagen. I tilfelle denne saken spesielt, der voteringen fant sted nærmere midnatt, virker det som om dette kan ha vært en medvirkende faktor. For hvordan er det mulig at ingen i salen reagerte og sa i fra da det uventede resultatet forelå? Selv ikke Presidenten fant det for godt å opplyse om at det resultatet han på forhånd var forespeilt faktisk ikke forekom. Og innpiskerene hadde uten tvil sovet i timen da det forhåndsvarslede flertallet viste seg å ikke være tilstede i salen.
 
+
+####Endringer i voteringssystemet
 Voteringssystemet er verdt å sette et søkelys på. Det er bekymringsverdig hvis det er mulig å gjespe en sak over den partiideologiske linja. 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
