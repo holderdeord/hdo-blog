@@ -12,7 +12,7 @@ Det er ikke vanskelig å rette opp i feilstemmer om det oppdages der og da. Repr
 
 
 MDG foreslår miljøfokus på Svalbard
-Miljøpartiet De Grønne fremmet følgende forslag (forslag 1 av 2) den 9. desember 2014 i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
+Miljøpartiet De Grønne fremmet følgende [forslag](https://www.holderdeord.no/propositions/11443) (forslag 1 av 2) den 9. desember 2014 i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
 
 «Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
 
