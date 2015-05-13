@@ -48,6 +48,7 @@ Da dette var et såkalt «løst forslag til saken» og derfor ikke hadde vært t
 
 I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ikke ble meldt i fra om der og da. Tre av de fire representantene fra SV som var til stede stemte for forslaget, mens Snorre Valen tilsynelatende stemte feil. Valen var dog ikke alene om å feilstemme. Forslag 1 fra MDG ble avvist med 53 mot 48 stemmer da også Arbeiderpartiets Fredrik Holen Bjørdal, Jette Christensen, Arild Grande og Anette Trettebergstuen stemte feil.
 
+
 #### Hva skjedde?
 
 Det ser ut som at innpiskerene må ha gjort en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. Selv med de 4 feilstemmene fra Ap, hadde forslaget nemlig likevel ikke fått flertall slik det var varslet på om forhånd, da representantene fra Ap, KrF, Sp, Venstre og MDG kun utgjorde 49 av totalt 101 representanter til stede. 
@@ -69,6 +70,7 @@ Thommessen uttalte i Stortinget at:
 Arbeiderpartiets Helga Pedersen argumenterte imidlertid for at forslaget skulle sendes til komitébehandling, og dette forslaget ble satt opp mot Presidentens forslag om å anse MDG-forslaget for avvist for så å gå videre. Regjeringspartiene støttet Presidentens anbefaling om å glemme forslaget.
 
 Det ble så vedtatt at saken skulle sendes til behandling i utenriks- og forsvarskomiteen. Man skulle da forvente at de ville innstille på å vedta forslaget, siden opposisjonen har flertall i komitéen. I stedet gikk de inn for å kun legge det ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge fram noen sak. Under debatten 14. april 2015 fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard **komme med en plan** [vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
+
 
 #### Gjespet de en sak over linja?
 
