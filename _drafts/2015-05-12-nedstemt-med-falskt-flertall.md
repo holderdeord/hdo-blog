@@ -65,13 +65,20 @@ Arbeiderpartiets Helga Pedersen argumenterte imidlertid for at forslaget skulle 
 
 Det ble så vedtatt at saken skulle sendes til behandling i utenriks- og forsvarskomiteen. Man skulle da forvente at de ville innstille på å vedta forslaget, siden opposisjonen har flertall i komitéen. I stedet gikk de inn for å kun legge det ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge fram noen sak. Under debatten fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard **komme med en plan** [vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
 
-#### Bare en formalitet?
+#### Gjespet de en sak over linja?
 
 I denne forbindelse er det på plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
 > Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.
 
 Det er ikke bare "greit" at Stortingets vilje kommer til uttrykk i Stortingssalen, det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal likevel sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
+
+
+
+
+Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for utfallet. Etter at vi fikk tilgang til informasjon om denne saken, har vi derimot åpnet for at dette faktisk kan utgjøre et demokratisk problem.
+
+Vi vet som nevnt ikke hvor stor andel av utbryterstemmene som er feilstemmer foruten de som selvrapporteres eller meldes i fra om der og da. Selvrapportene og det biologiske faktum at vi blir trøttere når sola går ned leder oss likevel til å spekulere i om feilstemmer kan forekomme oftere sent på kvelden enn tidligere på dagen. I tilfelle denne saken spesielt, der voteringen fant sted nærmere midnatt, virker det som om dette kan ha vært en medvirkende faktor. For hvordan er det mulig at ingen i salen reagerte og sa i fra da det uventede resultatet forelå? Selv ikke Presidenten fant det for godt å opplyse om at det resultatet han på forhånd var forespeilt faktisk ikke forekom. Og innpiskerene hadde uten tvil sovet i timen da det forhåndsvarslede flertallet viste seg å ikke være tilstede i salen.
 
 
 Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti. Det være seg av samvitttighetsgrunner eller «trykkefeil».
@@ -91,12 +98,6 @@ Og hvilke partier som representerer relativt flest utbrytere.
 
 
 
-
-#### Gjespet de en sak over linja?
-
-Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for utfallet. Etter at vi fikk tilgang til informasjon om denne saken, har vi derimot åpnet for at dette faktisk kan utgjøre et demokratisk problem.
-
-Vi vet som nevnt ikke hvor stor andel av utbryterstemmene som er feilstemmer foruten de som selvrapporteres eller meldes i fra om der og da. Selvrapportene og det biologiske faktum at vi blir trøttere når sola går ned leder oss likevel til å spekulere i om feilstemmer kan forekomme oftere sent på kvelden enn tidligere på dagen. I tilfelle denne saken spesielt, der voteringen fant sted nærmere midnatt, virker det som om dette kan ha vært en medvirkende faktor. For hvordan er det mulig at ingen i salen reagerte og sa i fra da det uventede resultatet forelå? Selv ikke Presidenten fant det for godt å opplyse om at det resultatet han på forhånd var forespeilt faktisk ikke forekom. Og innpiskerene hadde uten tvil sovet i timen da det forhåndsvarslede flertallet viste seg å ikke være tilstede i salen.
 
 #### Endringer i voteringssystemet
 
