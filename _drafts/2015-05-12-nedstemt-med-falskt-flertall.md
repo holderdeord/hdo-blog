@@ -25,9 +25,14 @@ Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvitt
 
 Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da dersom representanten oppdager at han stemmer feil og informerer Presidenten om det. Presidenten, på bakgrunn av at partiene på forhånd har innmeldt hva de skal stemme, kan også oppdage at utfallet blir feil og selv foreslå en ny votering. Da rettes det opp, og riktig stemme blir registrert. 
 
-Vi har imidlertid kun funnet 59 tilfeller av dette i forrige og inneværende periode, mens antallet tilfeller der representanter bryter med partiet sitt uten å melde fra om at det var feil er 2173 i samme periode. Tabellen under viser absolutte tall per parti.
+Vi har imidlertid kun funnet 59 tilfeller av dette i forrige og inneværende periode, mens antallet tilfeller der representanter bryter med partiet sitt uten å melde fra om at det var feil er 2173 i samme periode. 
 
---inn her med den tabellen
+Den første tabellen under viser absolutte tall per parti, mens den andre viser antall utbryterstemmer relativt til partienes størrelse:
+
+--inn her med den første tabellen
+
+<div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
+<figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
 
 Det hender at representanter stemmer mot eget parti med viten og vilje, av samvittighetsgrunner, men i følge både tilsvar til vår twitterkonto [@partipisken](https://twitter.com/partipisken, samt svar på e-post er det veldig vanlig at de rett og slett stemmer feil, og at de enten ikke oppdager det eller at de lar være å melde fra fordi det ikke har noe å si for utfallet av saken. Vi har imidlertid funnet et eksempel på at det ikke ble oppdaget og det hadde konsekvenser for utfallet.
@@ -75,25 +80,11 @@ Det er ikke bare "greit" at Stortingets vilje kommer til uttrykk i Stortingssale
 
 Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil: det brytes ikke betydelig mye mer med partiet sent på kveld enn ellers på dagen. Etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel, da det skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. For hvordan er det mulig at ingen i salen reagerte på at utfallet ble som det ble når det hadde blitt opplest at det skulle være flertall? 
 
-#### Endringer i voteringssystemet
-
 Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med «galt» resultat. 
 
-Voteringssytemet er
 
 
-Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti. Det være seg av samvitttighetsgrunner eller «trykkefeil».
 
-
-<div id="kl-n-og-samvittighet-p-stortinget-top-20"></div>
-<figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
-
-
-Og hvilke partier som representerer relativt flest utbrytere. 
-
-
-<div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
-<figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
 
 
