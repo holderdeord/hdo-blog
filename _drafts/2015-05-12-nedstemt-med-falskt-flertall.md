@@ -23,7 +23,7 @@ published: true
 
 Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering var minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri kan få konsekvenser.
 
-Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da dersom representanten oppdager at han stemmer feil og informerer Presidenten om det. Presidenten, på bakgrunn av at partiene på forhånd har innmeldt hva de skal stemme, kan også oppdage at utfallet blir feil og selv foreslå en ny votering. Da rettes det opp, og riktig stemme blir registrert. 
+Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da dersom representanten oppdager at han stemmer feil og informerer Stortingsresidenten om det. Presidenten, på bakgrunn av at partiene på forhånd har innmeldt hva de skal stemme, kan også oppdage at utfallet blir feil og selv foreslå en ny votering. Da rettes det opp, og riktig stemme blir registrert. 
 
 Vi har imidlertid kun funnet 59 tilfeller av dette i forrige og inneværende periode, mens antallet tilfeller der representanter bryter med partiet sitt uten å melde fra om at det var feil er 2173 i samme periode. 
 
@@ -82,14 +82,4 @@ Det er ikke bare "greit" at Stortingets vilje kommer til uttrykk i Stortingssale
 
 Vi har tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil: det brytes ikke betydelig mye mer med partiet sent på kveld enn ellers på dagen. Etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel, da det skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. For hvordan er det mulig at ingen i salen reagerte på at utfallet ble som det ble når det hadde blitt opplest at det skulle være flertall? 
 
-Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med «galt» resultat. 
-
-
-
-
-
-
-
-
-
-
+Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med «galt» resultat.
