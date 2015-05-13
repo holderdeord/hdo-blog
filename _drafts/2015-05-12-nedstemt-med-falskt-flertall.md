@@ -74,7 +74,7 @@ Det ble så vedtatt at saken skulle sendes til behandling i utenriks- og forsvar
 
 #### Gjespet de en sak over linja?
 
-I denne forbindelse er det på plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
+I den forbindelse, særlig med tanke på regjeringspartienes motvilje for ny votering, er det på plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
 > Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.
 
