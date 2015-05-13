@@ -45,25 +45,34 @@ I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ik
 
 #### Hva skjedde?
 
-Det vi vet er at innpiskerene i hvertfall hadde gjort en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. Selv med de 4 feilstemmene fra Ap, hadde forslaget likevel ikke fått flertall slik det var varslet på om forhånd. Hva som derimot skjedde mellom den 9. og 14. desember, dagene mellom avstemmingen fant sted og dagen forslaget ble fremmet på nytt, vet vi ikke med sikkerhet. Det ble ikke foretatt en ny votering rett i etterkant av den første, men MDG skjønte i løpet av fem dager at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte deretter dette inn til Stortingets presidentskap. Den 14. desember ble forslaget fremmet på nytt.
+Det ser ut som at innpiskerene må ha gjort en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. Selv med de 4 feilstemmene fra Ap, hadde forslaget nemlig likevel ikke fått flertall slik det var varslet på om forhånd, da representantene fra Ap, KrF, Sp, Venstre og MDG kun utgjorde 49 av totalt 101 representanter til stede. 
 
-Stortingspresident Olemic Thommessen påpekte i den forbindelse at å gjenta avstemmingen stred mot Stortingets forretningsorden § 38 siste ledd der det heter at:
+Nøyaktig hva som skjedde mellom 9. og 14. desember, dagene mellom avstemmingen fant sted og dagen forslaget ble fremmet på nytt, vet vi ikke med sikkerhet. Det ble ikke foretatt en ny votering rett i etterkant av den første, siden ingen meldte i fra om at de hadde stemt feil, men MDG skjønte i løpet av fem dager at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte deretter dette inn til Stortingets presidentskap. Den 14. desember ble forslaget fremmet på nytt.
 
-«Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.»
+Stortingspresident Olemic Thommessen påpekte i den forbindelse at å gjenta avstemmingen stred med Stortingets forretningsorden § 38 siste ledd der det heter at:
+
+> Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.
 
 Presidenten var derfor egentlig ikke villig til å la Stortinget votere over forslaget på nytt, selv om det videre i samme paragraf heter at:
 
-«Er det påtrengende nødvendig, (…) kan Stortinget likevel fatte vedtak om at et forslag tas opp til ny behandling, forutsatt at det igjen blir komitébehandlet.»
+> Er det påtrengende nødvendig, (…) kan Stortinget likevel fatte vedtak om at et forslag tas opp til ny behandling, forutsatt at det igjen blir komitébehandlet.
 
-Thommessen uttalte seg angående saken at:
+Thommessen uttalte i Stortinget at:
 
-«Presidenten anser ikke at denne årsaken til at voteringsresultatet ble feil, er en «påtrengende nødvendig» grunn til at Stortinget skal fatte vedtak om å ta forslaget opp til ny behandling.»
+> Presidenten anser ikke at denne årsaken til at voteringsresultatet ble feil, er en «påtrengende nødvendig» grunn til at Stortinget skal fatte vedtak om å ta forslaget opp til ny behandling.
 
-Arbeiderpartiets Helga Pedersen argumenterte på sin side videre for at forslaget skulle sendes til komitébehandling, som ble satt opp mot Presidentens forslag, nemlig å anse forslaget for avvist for så å gå videre. Regjeringspartiene støttet Presidentens anbefaling om å glemme forslaget.
+Arbeiderpartiets Helga Pedersen argumenterte imidlertid for at forslaget skulle sendes til komitébehandling, og dette forslaget ble satt opp mot Presidentens forslag om å anse MDG-forslaget for avvist for så å gå videre. Regjeringspartiene støttet Presidentens anbefaling om å glemme forslaget.
 
-I den forbindelse er det på plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
+Det ble så vedtatt at saken skulle sendes til behandling i utenriks- og forsvarskomiteen. Man skulle da forvente at de ville innstille på å vedta forslaget, siden opposisjonen har flertall i komitéen. I stedet gikk de inn for å kun legge det ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge fram noen sak. Under debatten fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard **komme med en plan** [vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
 
-«Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.»
+#### Bare en formalitet?
+
+I denne forbindelse er det på plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
+
+> Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.
+
+Det er ikke bare "greit" at Stortingets vilje kommer til uttrykk i Stortingssalen, det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal likevel sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
+
 
 Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti. Det være seg av samvitttighetsgrunner eller «trykkefeil».
 
@@ -79,11 +88,9 @@ Og hvilke partier som representerer relativt flest utbrytere.
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
 
-Saken ble så sendt til behandling i utenriks- og forsvarskomiteen, som man skulle forvente at da var innstilt på å vedta forslaget, siden opposisjonen har flertall i komiteen. I stedet gikk de inn for å kun legge forslaget ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge frem noen sak. Under debatten fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG «regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier», ikke kun «fremme sak om videre utvikling». Dette forslaget ble da omsider vedtatt.
 
-#### Bare en formalitet?
 
-Forlaget ble vedtatt til slutt, simpelten ved å endre litt på teksten. Vi syntes likevel det ikke bare er «greit» at Stortingets vilje kommer til uttrykk i Stortingssalen, det er det som er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en symbolsk formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
+
 
 #### Gjespet de en sak over linja?
 
