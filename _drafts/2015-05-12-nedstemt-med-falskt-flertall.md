@@ -23,18 +23,23 @@ published: true
 
 Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering var minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri kan få konsekvenser.
 
-Å stemme feil, altså å trykke på feil knapp, viser seg etter alt å dømme å ikke være så uvanlig på Stortinget. I tillegg til 59 feilstemmer som er oppdaget og korrigert av representantene selv, har vi fått mange tilbakemeldinger via vår twitterkonto [@partipisken](https://twitter.com/partipisken) på at utbryterstemmer ikke var samvittighetsstemmer, som er en annen grunn til å bryte med flertallet, men at de har stemt feil.
+Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da dersom representanten oppdager at han stemmer feil og informerer Presidenten om det. Presidenten, på bakgrunn av at partiene på forhånd har innmeldt hva de skal stemme, kan også oppdage at utfallet blir feil og selv foreslå en ny votering. Da rettes det opp, og riktig stemme blir registrert. 
 
-Det er ikke vanskelig å rette opp i feilstemmer om det oppdages der og da. Representantene kan informere Presidenten. Eller Presidenten kan selv, på bakgrunn av det partiene på forhånd har innmeldt, oppdage at utfallet er feil og selv foreslå en ny votering.  I denne saken skjedde dette imidlertid ikke.
+Vi har imidlertid kun funnet 59 tilfeller av dette i forrige og inneværende periode, mens antallet tilfeller der representanter bryter med partiet sitt uten å melde fra om at det var feil er 2173 i samme periode. Tabellen under viser absolutte tall per parti.
+
+--inn her med den tabellen
+
+
+Det hender at representanter stemmer mot eget parti med viten og vilje, av samvittighetsgrunner, men i følge både tilsvar til vår twitterkonto [@partipisken](https://twitter.com/partipisken, samt svar på e-post er det veldig vanlig at de rett og slett stemmer feil, og at de enten ikke oppdager det eller at de lar være å melde fra fordi det ikke har noe å si for utfallet av saken. Vi har imidlertid funnet et eksempel på at det ikke ble oppdaget og det hadde konsekvenser for utfallet.
 
 
 #### MDG foreslår miljøfokus på Svalbard
 
-Miljøpartiet De Grønne fremmet følgende [forslag](https://www.holderdeord.no/propositions/11443) (forslag 1 av [2](https://www.holderdeord.no/propositions/11442)) den 9. desember 2014 i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
+Miljøpartiet De Grønne fremmet 9. desember 2014 følgende [forslag](https://www.holderdeord.no/propositions/11443) i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
 
-«Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
+> Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.
 
-Da dette var et såkalt «løst forslag til saken» og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter).
+Da dette var et såkalt «løst forslag til saken» og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter), noe både partiene selv og Presidenten burde være klar over. 
 
 I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ikke ble meldt i fra om der og da. Tre av de fire representantene fra SV som var til stede stemte for forslaget, mens Snorre Valen tilsynelatende stemte feil. Valen var dog ikke alene om å feilstemme. Forslag 1 fra MDG ble avvist med 53 mot 48 stemmer da også Arbeiderpartiets Fredrik Holen Bjørdal, Jette Christensen, Arild Grande og Anette Trettebergstuen stemte feil.
 
