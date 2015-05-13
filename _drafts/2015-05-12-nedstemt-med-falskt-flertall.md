@@ -19,7 +19,7 @@ twitter_card: summary_large_image
 published: true
 ---
 
-**For en stund tilbake ble Holder de ord gjort oppmerksom på at et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil. Uskyldig knot? Eller et reelt demokratisk problem? Vi har sett nærmere på saken.**
+**Et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil. Uskyldig knot? Eller et reelt demokratisk problem?**
 
 Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering var minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri kan få konsekvenser.
 
