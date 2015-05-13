@@ -67,7 +67,7 @@ Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
 
 
-Og hvilke partier som relativt representerer flest utbrytere. 
+Og hvilke partier som representerer relativt flest utbrytere. 
 
 
 <div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
