@@ -73,12 +73,13 @@ I denne forbindelse er det på plass å trekke frem dette sitatet fra statsminis
 
 Det er ikke bare "greit" at Stortingets vilje kommer til uttrykk i Stortingssalen, det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal likevel sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
+Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil: det brytes ikke betydelig mye mer med partiet sent på kveld enn ellers på dagen. Etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel, da det skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. For hvordan er det mulig at ingen i salen reagerte på at utfallet ble som det ble når det hadde blitt opplest at det skulle være flertall? 
 
+#### Endringer i voteringssystemet
 
+Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med «galt» resultat. 
 
-Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for utfallet. Etter at vi fikk tilgang til informasjon om denne saken, har vi derimot åpnet for at dette faktisk kan utgjøre et demokratisk problem.
-
-Vi vet som nevnt ikke hvor stor andel av utbryterstemmene som er feilstemmer foruten de som selvrapporteres eller meldes i fra om der og da. Selvrapportene og det biologiske faktum at vi blir trøttere når sola går ned leder oss likevel til å spekulere i om feilstemmer kan forekomme oftere sent på kvelden enn tidligere på dagen. I tilfelle denne saken spesielt, der voteringen fant sted nærmere midnatt, virker det som om dette kan ha vært en medvirkende faktor. For hvordan er det mulig at ingen i salen reagerte og sa i fra da det uventede resultatet forelå? Selv ikke Presidenten fant det for godt å opplyse om at det resultatet han på forhånd var forespeilt faktisk ikke forekom. Og innpiskerene hadde uten tvil sovet i timen da det forhåndsvarslede flertallet viste seg å ikke være tilstede i salen.
+Voteringssytemet er
 
 
 Her er også noen tall som viser hvem som har stemt mest på tvers av sitt parti. Det være seg av samvitttighetsgrunner eller «trykkefeil».
@@ -99,8 +100,3 @@ Og hvilke partier som representerer relativt flest utbrytere.
 
 
 
-#### Endringer i voteringssystemet
-
-Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser sike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med «galt» resultat. For hva hadde skjedd dersom feilstemmingen ikke hadde blitt oppdaget? 
-
-Voteringssytemet er
