@@ -29,11 +29,11 @@ For å være beslutningsdyktig også når enkelte representanter har kortvarig f
 
 Det er likevel viktig å delta, særlig når man sitter som eneste representant for eget parti. Utbyttingsordningen er heller ikke en unnskyldning for Rasmus Hansson.
 
-Ser vi på tallene for inneværende stortingsperiode, stemmer det at Hansson (66 %) ligger rett over snittet (61 %) i deltakelse ved avstemninger.
+Ser vi på tallene for inneværende stortingsperiode, stemmer det at Hansson (65 %) ligger rett over snittet (61 %) i deltakelse ved avstemninger.
 
-Han er likevel langt fra best i klassen. Hansson havner på 78. plass av dagens 169 møtende representanter. På toppen ruver nemlig Sigurd Hille (H) og Roy Steffensen (FrP) med hele 90 % deltakelse.
+Han er likevel langt fra best i klassen. Hansson havner på 82. plass av dagens 169 møtende representanter. På toppen ruver nemlig Sigurd Hille (H) og Roy Steffensen (FrP) med hele 90 % deltakelse.
 
-Den som har møtt færrest ganger er Arbeiderpartiets noe ferske parlamentariker Jonas Gahr Støre med kun 8 %. Bunnsjiktet deler han med andre kjente politikere som sin partifelle Jens Stoltenberg (12%), FrPs Per Sandberg (17%), SVs Audun Lysbakken (18%) og Bård Vegard Solhjell (17%), Aps Helga Pedersen (25%) og Venstres Trine Skei Grande (28%).
+Den som har møtt færrest ganger er Arbeiderpartiets noe ferske parlamentariker Jonas Gahr Støre med kun 8 %. Bunnsjiktet deler han med andre kjente politikere som FrPs Per Sandberg (17%), Høyres Nicolay Astrup (21%), , SVs Bård Vegard Solhjell (22%) og Venstres Trine Skei Grande (23%).
 
 <div id="{{ page.title | slugify }}-top"></div>
 <figcaption>Topp 20 møtende representanter. TODO: fjerne varaer?</figcaption>
