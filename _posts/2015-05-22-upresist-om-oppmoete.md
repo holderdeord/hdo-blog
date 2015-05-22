@@ -1,21 +1,21 @@
 ---
 layout: post
 title: Upresist om oppmøte
-date: "2015-05-20T21:05:17+02:00"
+date: "2015-05-22T19:45:17+02:00"
 authors:
   - Alexander Habash Eide
   - Jari Bakken
 tags:
-  - avstemninger
-  - stortinget
   - oppmøte
   - mdg
+  - avstemninger
+  - stortinget
 scripts:
   - d3
   - c3
   - __title__
 published: true
-comments: false
+comments: true
 thumbnail: "http://files.holderdeord.no/images/partipisken.jpg"
 twitter_card: summary_large_image
 
