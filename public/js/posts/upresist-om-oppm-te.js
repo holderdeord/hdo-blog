@@ -3,7 +3,7 @@
 
     var data = {
         top: all.slice(0, 20),
-        bottom: all.slice(all.length - 20).reverse()
+        bottom: all.slice(all.length - 20)
     };
 
     Object.keys(data).forEach(function(key) {
