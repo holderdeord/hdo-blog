@@ -23,7 +23,7 @@ twitter_card: summary_large_image
 
 **Rasmus Hansson fra Miljøpartiet de Grønne hevdet på [Dagsnytt 18](http://tv.nrk.no/serie/dagsnytt-atten-tv/NNFA56050715/07-05-2015#t=12m15s) nylig at han sannsynligvis var blant de som møtte til flest avstemninger på Stortinget. Stemmer det?**
 
-Statistikk om oppmøte forteller dessverre lite om representantenes aktivitetsnivå. De har andre  arbeidsoppgaver enn å stemme i stortingssalen, og bestemmer ikke alltid selv hvilke avstemninger de skal delta i.
+Statistikk om oppmøte forteller dessverre lite om representantenes aktivitetsnivå. De har andre arbeidsoppgaver enn å stemme i stortingssalen, og bestemmer ikke alltid selv hvilke avstemninger de skal delta i.
 
 For å være beslutningsdyktig også når enkelte representanter har kortvarig fravær, har Stortinget en ordning med [utbytting](http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Voteringer/), som sikrer at størrelsesforholdet mellom partiene opprettholdes uten at alle er til stede. Hvert parti har en «innpisker» som har ansvar for at balansen mellom partiene ivaretas selv om noen representanter er borte.
 
@@ -33,7 +33,7 @@ Ser vi på tallene for inneværende stortingsperiode, stemmer det at Hansson (65
 
 Han er likevel langt fra best i klassen. Hansson havner på 82. plass av dagens 169 møtende representanter. På toppen ruver nemlig Sigurd Hille (H) og Roy Steffensen (FrP) med hele 90 % deltakelse.
 
-Den som har møtt færrest ganger er Arbeiderpartiets noe ferske parlamentariker Jonas Gahr Støre med kun 8 %. Bunnsjiktet deler han med andre kjente politikere som FrPs Per Sandberg (17%), Høyres Nicolay Astrup (21%), , SVs Bård Vegard Solhjell (22%) og Venstres Trine Skei Grande (23%).
+Den som har møtt færrest ganger er Arbeiderpartiets noe ferske parlamentariker Jonas Gahr Støre med kun 8 %. Bunnsjiktet deler han med andre kjente politikere som FrPs Per Sandberg (17%), Høyres Nicolay Astrup (21%), SVs Bård Vegard Solhjell (22%) og Venstres Trine Skei Grande (23%).
 
 <div id="{{ page.title | slugify }}-top"></div>
 <figcaption>Topp 20 møtende representanter. TODO: fjerne varaer?</figcaption>
