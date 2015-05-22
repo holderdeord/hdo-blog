@@ -24,10 +24,18 @@
             axis: {
                 x: {
                     type: 'category',
-                    tick: { multiline: false }
+                    tick: {
+                        multiline: false
+                    }
+                },
+                y: {
+                    tick: {
+                        format: function (x) { return x + '%'; }
+                    }
                 },
                 rotated: true
             },
+            legend: { show: false },
             transition: { duration: 0 },
             point: { show: true },
             tooltip: {
