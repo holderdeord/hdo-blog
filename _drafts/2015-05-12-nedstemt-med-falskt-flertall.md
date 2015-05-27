@@ -23,9 +23,9 @@ published: true
 
 Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering var minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri kan få konsekvenser.
 
-Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da dersom representanten oppdager at han stemmer feil og informerer Stortingsresidenten om det. Presidenten, på bakgrunn av at partiene på forhånd har innmeldt hva de skal stemme, kan også oppdage at utfallet blir feil og selv foreslå en ny votering. Da rettes det opp, og riktig stemme blir registrert. 
+Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da dersom representanten oppdager at han stemmer feil og informerer Stortingsresidenten om det. Voteringen tas da enten på nytt, eller det rettes opp i protokollen, slik at riktig stemmetall blir registert. Siden partiene i de fleste sakene på forhånd melder inn hva de skal stemme kan også Presidenten foreslå en ny votering dersom feilstemmer fører til at utfallet av en votering blir annerledes enn det Presidenten har i sitt manus 
 
-Vi har imidlertid kun funnet 59 tilfeller av dette i forrige og inneværende periode, mens antallet tilfeller der representanter bryter med partiet sitt uten å melde fra om at det var feil er 2173 i samme periode. 
+Vi har i forrige og inneværende periode imidlertid kun funnet 59 tilfeller av at stortingsrepresentanter sier fra om at de har stemt feil, mens antallet tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. 
 
 Den første tabellen under viser absolutte tall per parti, mens den andre viser antall utbryterstemmer relativt til partienes størrelse:
 
@@ -34,8 +34,7 @@ Den første tabellen under viser absolutte tall per parti, mens den andre viser 
 <div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
-
-Det hender at representanter stemmer mot eget parti med viten og vilje, av samvittighetsgrunner, men i følge både tilsvar til vår twitterkonto [@partipisken](https://twitter.com/partipisken, samt svar på e-post er det veldig vanlig at de rett og slett stemmer feil, og at de enten ikke oppdager det eller at de lar være å melde fra fordi det ikke har noe å si for utfallet av saken. Vi har imidlertid funnet et eksempel på at det ikke ble oppdaget og det hadde konsekvenser for utfallet.
+Det hender selvfølgelig at representanter stemmer mot eget parti med viten og vilje, av samvittighetsgrunner, men i følge både tilsvar til vår twitterkonto [@partipisken](https://twitter.com/partipisken, samt svar på e-post er det veldig vanlig at de rett og slett stemmer feil, og at de enten ikke oppdager det eller at de lar være å melde fra fordi det ikke har noe å si for utfallet av saken. Vi har imidlertid funnet et eksempel på at det ikke ble oppdaget, og det faktisk hadde konsekvenser for utfallet.
 
 
 #### MDG foreslår miljøfokus på Svalbard
@@ -44,18 +43,16 @@ Miljøpartiet De Grønne fremmet 9. desember 2014 følgende [forslag](https://ww
 
 > Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.
 
-Da dette var et såkalt «løst forslag til saken» og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter), noe både partiene selv og Presidenten burde være klar over. 
+Da dette var et såkalt «løst forslag til saken», og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter). I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ikke ble meldt i fra om der og da. 
 
-I tillegg hadde også SV tenkt å stemme for, selv om dette ifølge referatet ikke ble meldt i fra om der og da. Tre av de fire representantene fra SV som var til stede stemte for forslaget, mens Snorre Valen tilsynelatende stemte feil. Valen var dog ikke alene om å feilstemme. Forslag 1 fra MDG ble avvist med 53 mot 48 stemmer da også Arbeiderpartiets Fredrik Holen Bjørdal, Jette Christensen, Arild Grande og Anette Trettebergstuen stemte feil.
+Da forslaget fra MDG ble avvist med 53 mot 48 stemmer burde noen i salen ha reagert. Noen av representantene, eller Presidentskapet, burde være klar over at de oppleste partiene utgjør et flertall, og at noe derfor hadde gått galt under voteringen. Arbeiderpartiets Fredrik Holen Bjørdal, Jette Christensen, Arild Grande og Anette Trettebergstuen stemte nemlig mot resten av partiet. Det samme gjorde SVs Snorre Valen. Hadde disse fem trykket på riktig knapp hadde forslaget gått gjennom, slik det skulle. 
 
+Det ser imidlertid ut som at innpiskerene må ha gjort en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. Dersom SV ikke hadde stemt for forslaget skulle som sagt de andre partiene likevel hatt flertall, dersom hele Ap hadde stemt riktig. De tilstedeværende representantene fra Ap, KrF, Sp, Venstre og MDG utgjorde imidlertid kun 49 av totalt 101 representanter til stede. Det faktiske flertallet disse partiene utgjør var altså ikke representert i salen denne dagen. 
 
-#### Hva skjedde?
+### Prosessen for å rette opp i det
+Siden ingen oppdaget at noe var feil der og da ble voteringen ikke tatt på nytt. I løpet av de påfølgende fem dagene skjønte imidlertid MDG at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte dette inn til Stortingets presidentskap, og forslaget ble fremmet på ny 14. desember.
 
-Det ser ut som at innpiskerene må ha gjort en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. Selv med de 4 feilstemmene fra Ap, hadde forslaget nemlig likevel ikke fått flertall slik det var varslet på om forhånd, da representantene fra Ap, KrF, Sp, Venstre og MDG kun utgjorde 49 av totalt 101 representanter til stede. 
-
-Nøyaktig hva som skjedde mellom 9. og 14. desember, dagene mellom avstemmingen fant sted og dagen forslaget ble fremmet på nytt, vet vi ikke med sikkerhet. Det ble ikke foretatt en ny votering rett i etterkant av den første, siden ingen meldte i fra om at de hadde stemt feil, men MDG skjønte i løpet av fem dager at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte deretter dette inn til Stortingets presidentskap. Den 14. desember ble forslaget fremmet på nytt.
-
-Stortingspresident Olemic Thommessen påpekte i den forbindelse at å gjenta avstemmingen stred med Stortingets forretningsorden § 38 siste ledd der det heter at:
+Stortingspresident Olemic Thommessen var motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden § 38 siste ledd der det heter at:
 
 > Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.
 
