@@ -34,7 +34,7 @@ Den første tabellen under viser absolutte tall per parti, mens den andre viser 
 <div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
-Det hender selvfølgelig at representanter stemmer mot eget parti med viten og vilje, av samvittighetsgrunner, men i følge både tilsvar til vår twitterkonto [@partipisken](https://twitter.com/partipisken, samt svar på e-post er det veldig vanlig at de rett og slett stemmer feil, og at de enten ikke oppdager det eller at de lar være å melde fra fordi det ikke har noe å si for utfallet av saken. Vi har imidlertid funnet et eksempel på at det ikke ble oppdaget, og det faktisk hadde konsekvenser for utfallet.
+Det hender selvfølgelig at representanter stemmer mot eget parti med viten og vilje, av samvittighetsgrunner, men i følge både tilsvar til vår twitterkonto [@partipisken](https://twitter.com/partipisken), samt svar på e-post er det veldig vanlig at de rett og slett stemmer feil, og at de enten ikke oppdager det eller at de lar være å melde fra fordi det ikke har noe å si for utfallet av saken. Vi har imidlertid funnet et eksempel på at det ikke ble oppdaget, og det faktisk hadde konsekvenser for utfallet.
 
 
 #### MDG foreslår miljøfokus på Svalbard
