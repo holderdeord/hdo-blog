@@ -56,27 +56,29 @@ Stortingspresident Olemic Thommessen var motvillig til å tillate en ny votering
 
 > Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.
 
-Presidenten var derfor egentlig ikke villig til å la Stortinget votere over forslaget på nytt, selv om det videre i samme paragraf heter at:
+Det heter imidlertid videre i denne paragraf at
 
 > Er det påtrengende nødvendig, (…) kan Stortinget likevel fatte vedtak om at et forslag tas opp til ny behandling, forutsatt at det igjen blir komitébehandlet.
 
-Thommessen uttalte i Stortinget at:
+Thommessen uttalte likevel at
 
-> Presidenten anser ikke at denne årsaken til at voteringsresultatet ble feil, er en «påtrengende nødvendig» grunn til at Stortinget skal fatte vedtak om å ta forslaget opp til ny behandling.
+> Presidenten anser ikke at denne årsaken til at voteringsresultatet ble feil, er en «påtrengende nødvendig» grunn til at Stortinget skal fatte vedtak om å ta forslaget opp til ny behandling,
 
 Arbeiderpartiets Helga Pedersen argumenterte imidlertid for at forslaget skulle sendes til komitébehandling, og dette forslaget ble satt opp mot Presidentens forslag om å anse MDG-forslaget for avvist for så å gå videre. Regjeringspartiene støttet Presidentens anbefaling om å glemme forslaget.
 
-Det ble så vedtatt at saken skulle sendes til behandling i utenriks- og forsvarskomiteen. Man skulle da forvente at de ville innstille på å vedta forslaget, siden opposisjonen har flertall i komitéen. I stedet gikk de inn for å kun legge det ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge fram noen sak. Under debatten 14. april 2015 fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard **komme med en plan** [vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
+Siden regjeringen som kjent ikke har flertall i Stortinget, og alle de andre partiene egentlig var for forslaget til MDG, ble det så vedtatt at saken skulle sendes til behandling i utenriks- og forsvarskomiteen. Man skulle da forvente at de også ville innstille på å vedta forslaget, siden opposisjonen har flertall i komitéen. I stedet gikk de inn for å kun legge det ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å legge fram noen sak. 
+
+Under debatten 14. april 2015 fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard **komme med en plan** [vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
 
 
-#### Gjespet de en sak over linja?
+#### Demokratisk problematisk?
 
-I den forbindelse, særlig med tanke på regjeringspartienes motvilje for ny votering, er det på plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
+Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass å trekke frem [dette sitatet fra statsminister Erna Solberg] (https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2000-2001/010614/6/#a13) fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
 > Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.
 
-Det er ikke bare "greit" at Stortingets vilje kommer til uttrykk i Stortingssalen, det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal likevel sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
+Det er ikke bare "greit" at Stortingets vilje kommer til uttrykk i Stortingssalen, det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare er en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne skal likevel sørge for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
-Vi har tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil: det brytes ikke betydelig mye mer med partiet sent på kveld enn ellers på dagen. Etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel, da det skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. For hvordan er det mulig at ingen i salen reagerte på at utfallet ble som det ble når det hadde blitt opplest at det skulle være flertall? 
+Vi har tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil: Det brytes ikke betydelig mye mer med partiet sent på kveld enn ellers på dagen. Etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel, da det skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. For hvordan er det mulig at ingen i salen reagerte på at utfallet ble som det ble når det hadde blitt opplest at det skulle være flertall? 
 
 Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk kan faktisk vedtatte lover være basert på voteringer med «galt» resultat.
