@@ -13,6 +13,7 @@ tags:
 scripts: 
   - d3
   - c3
+  - twitter-wjs
   - __title__
 comments: false
 twitter_card: summary_large_image
