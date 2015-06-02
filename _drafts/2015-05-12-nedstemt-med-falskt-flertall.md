@@ -21,9 +21,9 @@ published: true
 
 **Et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil. Uskyldig knot? Eller et reelt demokratisk problem?**
 
-Vi har tidligere skrevet om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering er minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri kan få konsekvenser.
+Vi har tidligere skrevet(link) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering er minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri kan få konsekvenser.
 
-Miljøpartiet De Grønne fremmet nemlig 9. desember 2014 følgende forslag i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
+Miljøpartiet De Grønne fremmet nemlig 9. desember 2014 følgende forslag(link) i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
 
 «Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
 
@@ -36,7 +36,7 @@ Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å sa
 ####Prosessen for å rette opp
 Siden ingen oppdaget at noe var feil der og da ble ikke voteringen tatt på nytt, slik den kunne blitt dersom enten en av feilstemmerne eller Presidenten hadde oppdaget feilen med det samme. I løpet av de påfølgende fem dagene skjønte imidlertid MDG at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte dette inn til Stortingets presidentskap. Forslaget ble så fremmet på nytt 14. desember 2014.
 
-I den forbindelse var Stortingspresident Olemic Thommessen motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden § 38 siste ledd der det heter at:
+I den forbindelse var Stortingspresident Olemic Thommessen motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden(link) § 38 siste ledd der det heter at:
 
 «Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.»
 
@@ -50,7 +50,7 @@ Arbeiderpartiets Helga Pedersen argumenterte på sin side for at forslaget skull
 
 Siden regjeringen som kjent ikke har flertall i Stortinget, og alle de andre partiene egentlig var for forslaget til MDG, ble det så vedtatt at saken skulle sendes til behandling i utenriks- og forsvarskomiteen. Man skulle da forvente at komitéen var innstilt på å vedta forslaget, siden opposisjonen har flertall der. I stedet gikk de inn for å kun legge det ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å foreta seg noen ting.
 
-Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt protokollen, fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen enn i det opprinnelige forslaget. I tredje runde ba MDG «regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan[vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier», ikke kun «fremme sak om videre utvikling.» Dette forslaget ble da omsider vedtatt.
+Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt protokollen, fremmet så MDG forslaget(link) en tredje gang, men da med en sterkere forpliktelse for regjeringen enn i det opprinnelige forslaget. I tredje runde ba MDG «regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier», ikke kun «fremme sak om videre utvikling.» Dette forslaget ble da omsider vedtatt.
 
 ####Demokratisk problematisk?
 Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. I tabellen under kan vi observere den prosentvise andelen utbryterstemmer av de respektive partienes totale antall stemmer fra 2009 til 2014.
