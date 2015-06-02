@@ -36,15 +36,15 @@ Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å sa
 ####Prosessen for å rette opp i det
 Siden ingen oppdaget at noe var feil der og da ble ikke voteringen tatt på nytt, slik den kunne blitt dersom enten en av feilstemmerne eller Presidenten hadde oppdaget feilen med det samme. I løpet av de påfølgende fem dagene skjønte imidlertid MDG at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte dette inn til Stortingets presidentskap. Forslaget ble så fremmet på nytt 14. desember 2014.
 
-Stortingspresident Olemic Thommessen var motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden § 38 siste ledd der det heter at:
+I den forbindelse var imidlertid Stortingspresident Olemic Thommessen motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden § 38 siste ledd der det heter at:
 
 «Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.»
 
-Det heter imidlertid videre i denne paragraf at:
+Det heter likevel videre i samme paragraf at:
 
 «Er det påtrengende nødvendig, (…) kan Stortinget likevel fatte vedtak om at et forslag tas opp til ny behandling, forutsatt at det igjen blir komitébehandlet.»
 
-Thommessen mente likevel at denne årsaken til at voteringsresultatet ble feil, er [ikke er] en «påtrengende nødvendig» grunn til at Stortinget skal fatte vedtak om å ta forslaget opp til ny behandling.
+Thommessen mente dog at denne årsaken til at voteringsresultatet ble feil, ikke er en «påtrengende nødvendig» grunn til at Stortinget skal fatte vedtak om å ta forslaget opp til ny behandling.
 
 Arbeiderpartiets Helga Pedersen argumenterte på sin side for at forslaget skulle sendes til komitébehandling, og hennes forslag ble satt opp mot Presidentens forslag om å anse MDG-forslaget for avvist. Regjeringspartiene støttet Presidentens anbefaling om å glemme forslaget.
 
@@ -53,17 +53,17 @@ Siden regjeringen som kjent ikke har flertall i Stortinget, og alle de andre par
 Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt protokollen, fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen enn i det opprinnelige forslaget. I tredje runde ba MDG «regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan[vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier», ikke kun «fremme sak om videre utvikling.» Dette forslaget ble da omsider vedtatt.
 
 ####Demokratisk problematisk?
-Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. 
+Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. I tabellen under kan vi observere den prosentvise andelen utbryterstemmer av de respektive partienes totale antall stemmer fra 2009 til 2014.
 
 Tabell:
 prosent av partienes avgitte stemmer som er utbrytere:
 
 
-Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
+Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass å trekke frem dette sitatet fra Statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
 «Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.»
 
-Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil. Basert på det datamaterialet vi har kan vi ikke si at det brytes betydelig mye mer med partiet sent på kveld enn ellers på dagen, men etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel. Voteringen skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. Enkelte av våre folkevalgte ser også ut til å mene tidspunkt har noe å si:
+Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil. Basert på det begrensede datamaterialet vi har kan vi ikke si at det brytes betydelig mye mer med partiet sent på kveld enn ellers på dagen, men etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel. Voteringen skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. Enkelte representanter ser også ut til å mene tidspunkt har noe å si:
 
 Inn her tweet Trettebergstuen og Stensland
 
