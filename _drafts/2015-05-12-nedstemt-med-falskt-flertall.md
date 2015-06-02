@@ -26,7 +26,7 @@ Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvitt
 
 Miljøpartiet De Grønne fremmet nemlig 9. desember 2014 følgende [forslag](https://www.holderdeord.no/votes/1418164831ne) i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
 
-«Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
+> «Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
 
 Da dette var et såkalt «løst forslag til saken», og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter). I tillegg hadde også SV tenkt å stemme for, selv om dette i følge referatet ikke ble meldt i fra om der og da. 
 
@@ -63,7 +63,7 @@ Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men det
 
 Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass å trekke frem dette sitatet fra Statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
-«Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.»
+> «Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.»
 
 Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil. Basert på det begrensede datamaterialet vi har kan vi ikke si at det brytes betydelig mye mer med partiet sent på kveld enn ellers på dagen, men etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel. Voteringen skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. Enkelte representanter ser også ut til å mene tidspunkt har noe å si:
 
