@@ -37,6 +37,7 @@ Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å sa
 Siden ingen oppdaget at noe var feil der og da ble ikke voteringen tatt på nytt, slik den kunne blitt dersom enten en av feilstemmerne eller Presidenten hadde oppdaget feilen med det samme. I løpet av de påfølgende fem dagene skjønte imidlertid MDG at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte dette inn til Stortingets presidentskap. Forslaget ble så fremmet på nytt 14. desember 2014.
 
 Stortingspresident Olemic Thommessen var motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden § 38 siste ledd der det heter at:
+
 Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.
 
 Det heter imidlertid videre i denne paragraf at:
