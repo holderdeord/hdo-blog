@@ -33,7 +33,7 @@ Forslaget skulle derfor ha blitt vedtatt. Arbeiderpartiets Fredrik Holen Bjørda
 
 Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. De tilstedeværende representantene fra Ap, KrF, Sp, Venstre og MDG utgjorde nemlig kun 49 av totalt 101, mens de jo skulle vært i flertall. Det faktiske flertallet disse partiene utgjør var altså ikke representert i salen denne dagen, og selv med de fire feilstemmene fra Ap ville ikke forslaget fått flertall slik det var varslet på forhånd. 
  
-Prosessen for å rette opp i det
+####Prosessen for å rette opp i det
 Siden ingen oppdaget at noe var feil der og da ble ikke voteringen tatt på nytt, slik den kunne blitt dersom enten en av feilstemmerne eller Presidenten hadde oppdaget feilen med det samme. I løpet av de påfølgende fem dagene skjønte imidlertid MDG at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte dette inn til Stortingets presidentskap. Forslaget ble så fremmet på nytt 14. desember 2014.
 
 Stortingspresident Olemic Thommessen var motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden § 38 siste ledd der det heter at:
@@ -51,7 +51,7 @@ Siden regjeringen som kjent ikke har flertall i Stortinget, og alle de andre par
 
 Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt protokollen, fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen enn i det opprinnelige forslaget. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan[vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
 
-Demokratisk problematisk?
+####Demokratisk problematisk?
 Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. 
 
 Den første tabellen under viser absolutte tall per parti, mens den andre viser antall utbryterstemmer relativt til partienes størrelse:
