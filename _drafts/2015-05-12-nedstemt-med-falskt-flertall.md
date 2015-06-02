@@ -54,8 +54,9 @@ Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt pr
 ####Demokratisk problematisk?
 Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. 
 
-Den første tabellen under viser absolutte tall per parti, mens den andre viser antall utbryterstemmer relativt til partienes størrelse:
---inn her med den første tabellen
+Tabell:
+Antall utbryterstemmer relativt til partienes størrelse:
+
 
 Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014
 
