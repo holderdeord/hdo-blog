@@ -25,7 +25,7 @@ Vi har tidligere skrevet om utbryterstemmer og feilstemming på Stortinget. Da h
 
 Miljøpartiet De Grønne fremmet nemlig 9. desember 2014 følgende forslag i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
 
-Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.
+«Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
 
 Da dette var et såkalt «løst forslag til saken», og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter). I tillegg hadde også SV tenkt å stemme for, selv om dette i følge referatet ikke ble meldt i fra om der og da. 
 
@@ -38,11 +38,11 @@ Siden ingen oppdaget at noe var feil der og da ble ikke voteringen tatt på nytt
 
 Stortingspresident Olemic Thommessen var motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden § 38 siste ledd der det heter at:
 
-Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.
+«Når et forslag er endelig avgjort, må forslaget ikke bringes frem igjen eller tas opp på nytt i samme stortingssesjon.»
 
 Det heter imidlertid videre i denne paragraf at:
 
-Er det påtrengende nødvendig, (…) kan Stortinget likevel fatte vedtak om at et forslag tas opp til ny behandling, forutsatt at det igjen blir komitébehandlet.
+«Er det påtrengende nødvendig, (…) kan Stortinget likevel fatte vedtak om at et forslag tas opp til ny behandling, forutsatt at det igjen blir komitébehandlet.»
 
 Thommessen mente likevel at denne årsaken til at voteringsresultatet ble feil, er [ikke er] en «påtrengende nødvendig» grunn til at Stortinget skal fatte vedtak om å ta forslaget opp til ny behandling.
 
@@ -50,28 +50,24 @@ Arbeiderpartiets Helga Pedersen argumenterte på sin side for at forslaget skull
 
 Siden regjeringen som kjent ikke har flertall i Stortinget, og alle de andre partiene egentlig var for forslaget til MDG, ble det så vedtatt at saken skulle sendes til behandling i utenriks- og forsvarskomiteen. Man skulle da forvente at komitéen var innstilt på å vedta forslaget, siden opposisjonen har flertall der. I stedet gikk de inn for å kun legge det ved protokollen, noe som i praksis betyr at de tar det til etterretning, men at regjeringen ikke blir nødt til å foreta seg noen ting.
 
-Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt protokollen, fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen enn i det opprinnelige forslaget. I tredje runde ba MDG “regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan[vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier”, ikke kun “fremme sak om videre utvikling.” Dette forslaget ble da omsider vedtatt.
+Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt protokollen, fremmet så MDG forslaget en tredje gang, men da med en sterkere forpliktelse for regjeringen enn i det opprinnelige forslaget. I tredje runde ba MDG «regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan[vår utheving] for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier», ikke kun «fremme sak om videre utvikling.» Dette forslaget ble da omsider vedtatt.
 
 ####Demokratisk problematisk?
 Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. 
 
 Tabell:
-Antall utbryterstemmer relativt til partienes størrelse:
-
-
-Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014
-
+prosent av partienes avgitte stemmer som er utbrytere:
 
 
 Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
-Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.
+«Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.»
 
 Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil. Basert på det datamaterialet vi har kan vi ikke si at det brytes betydelig mye mer med partiet sent på kveld enn ellers på dagen, men etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel. Voteringen skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. Enkelte av våre folkevalgte ser også ut til å mene tidspunkt har noe å si:
 
 Inn her tweet Trettebergstuen og Stensland
 
-Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk sett kan faktisk vedtatte lover være basert på voteringer med «galt» resultat. Å stemme riktig blir særlig viktig når vi har mindretallsregjering, som i dag.
+Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk sett kan faktisk vedtatte lover være basert på voteringer med «galt» resultat, og med dagens mindretallsregjering, blir det å stemme riktig desto viktigere.
 
-Det er heller ikke bare "greit", som Erna Solberg sa, at Stortingets vilje kommer til uttrykk i Stortingssalen; det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.  
+Det er heller ikke bare «greit», som Erna Solberg sa, at Stortingets vilje kommer til uttrykk i Stortingssalen; det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.  
 
