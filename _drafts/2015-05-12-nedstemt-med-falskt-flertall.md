@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nedstemt med falskt flertall
-date: "2015-05-12T00:00:00+02:00"
+date: "2015-06-15T00:00:00+02:00"
 authors: 
   - Alexander Habash Eide
   - Hanna Tranås
@@ -13,7 +13,7 @@ tags:
 scripts: 
   - d3
   - c3
-  - "post:kl-n-og-samvittighet-p-stortinget"
+  - __title__
 comments: false
 twitter_card: summary_large_image
 published: true
@@ -33,7 +33,8 @@ Forslaget skulle derfor ha blitt vedtatt. Arbeiderpartiets Fredrik Holen Bjørda
 
 Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. De tilstedeværende representantene fra Ap, KrF, Sp, Venstre og MDG utgjorde nemlig kun 49 av totalt 101, mens de jo skulle vært i flertall. Det faktiske flertallet disse partiene utgjør var altså ikke representert i salen denne dagen, og selv med de fire feilstemmene fra Ap ville ikke forslaget fått flertall slik det var varslet på forhånd. 
  
-####Prosessen for å rette opp
+#### Prosessen for å rette opp
+
 Siden ingen oppdaget at noe var feil der og da ble ikke voteringen tatt på nytt, slik den kunne blitt dersom enten en av feilstemmerne eller Presidenten hadde oppdaget feilen med det samme. I løpet av de påfølgende fem dagene skjønte imidlertid MDG at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte dette inn til Stortingets presidentskap. Forslaget ble så fremmet på nytt 14. desember 2014.
 
 I den forbindelse var Stortingspresident Olemic Thommessen motvillig til å tillate en ny votering, og viste til Stortingets forretningsorden(link) § 38 siste ledd der det heter at:
@@ -52,12 +53,12 @@ Siden regjeringen som kjent ikke har flertall i Stortinget, og alle de andre par
 
 Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt protokollen, fremmet så MDG forslaget(link) en tredje gang, men da med en sterkere forpliktelse for regjeringen enn i det opprinnelige forslaget. I tredje runde ba MDG «regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier», ikke kun «fremme sak om videre utvikling.» Dette forslaget ble da omsider vedtatt.
 
-####Demokratisk problematisk?
-Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. I tabellen under kan vi observere den prosentvise andelen utbryterstemmer av de respektive partienes totale antall stemmer fra 2009 til 2014.
+#### Demokratisk problematisk?
 
-Tabell:
-prosent av partienes avgitte stemmer som er utbrytere:
+Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. I tabellen under kan vi observere den prosentvise andelen utbryterstemmer av de respektive partienes totale antall stemmer fra 2009 til dags dato.
 
+<div id="percent-rebels-per-party"></div>
+<figcaption>Prosent utbryterstemmer per parti, oktober 2009 - juni 2015</figcaption>
 
 Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass å trekke frem dette sitatet fra Statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
@@ -65,7 +66,9 @@ Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass 
 
 Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil. Basert på det begrensede datamaterialet vi har kan vi ikke si at det brytes betydelig mye mer med partiet sent på kveld enn ellers på dagen, men etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel. Voteringen skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. Enkelte representanter ser også ut til å mene tidspunkt har noe å si:
 
-Inn her tweet Trettebergstuen og Stensland
+<blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> det hele var nok en stemmefeil sent på kvelden. Er <a href="https://twitter.com/hashtag/partitro?src=hash">#partitro</a> :-)</p>&mdash; AnetteTrettebergst. (@Trettebergstuen) <a href="https://twitter.com/Trettebergstuen/status/542586383869960193">December 10, 2014</a></blockquote>
+
+<blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> det ble en lang natt</p>&mdash; Sveinung Stensland (@sveinungen) <a href="https://twitter.com/sveinungen/status/580645226865430528">March 25, 2015</a></blockquote>
 
 Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk sett kan faktisk vedtatte lover være basert på voteringer med «galt» resultat, og med dagens mindretallsregjering, blir det å stemme riktig desto viktigere.
 
