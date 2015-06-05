@@ -34,7 +34,7 @@ Forslaget skulle derfor ha blitt vedtatt. Arbeiderpartiets Fredrik Holen Bjørda
 
 Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. De tilstedeværende representantene fra Ap, KrF, Sp, Venstre og MDG utgjorde nemlig kun 49 av totalt 101, mens de jo skulle vært i flertall. Det faktiske flertallet disse partiene utgjør var altså ikke representert i salen denne dagen, og selv med de fire feilstemmene fra Ap ville ikke forslaget fått flertall slik det var varslet på forhånd. 
  
-#### Prosessen for å rette opp
+#### Prosessen med å rette opp
 
 Siden ingen oppdaget at noe var feil der og da ble ikke voteringen tatt på nytt, slik den kunne blitt dersom enten en av feilstemmerne eller Presidenten hadde oppdaget feilen med det samme. I løpet av de påfølgende fem dagene skjønte imidlertid MDG at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte dette inn til Stortingets presidentskap. Forslaget ble så fremmet på nytt 14. desember 2014.
 
