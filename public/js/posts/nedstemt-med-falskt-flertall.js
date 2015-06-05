@@ -14,7 +14,13 @@
             transition: { duration: 0 },
             axis: {
                 x: { type: 'category' },
+                y: { tick: { format: function (d) { return d + '%'; }} },
                 rotated: false
+            },
+            tooltip: {
+                format: {
+                    value: function(val) { return val.toFixed(2) + '%'; }
+                }
             },
             legend: { show: false },
             color: { pattern: opts.colorPattern }
@@ -62,9 +68,6 @@
     data.sort(function(a, b) {
         return d3.descending(a.value.rebelPercent, b.value.rebelPercent);
     });
-
-
-
 
     chart({
         node: '#percent-rebels-per-party',
