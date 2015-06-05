@@ -65,7 +65,7 @@ Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass 
 
 > «Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.»
 
-Vi har også tidligere diskurert, på bakgrunn av tilbakemeldinger fra representanter, at tidspunkt på døgnet for en votering kan påvirke stemmegivningen. I denne saken, der stemmegivningen skjedde nærmere midnatt og våre folkevalgte hadde vært aktive hele dagen, tenker vi at dette kan ha vært en årsakene til at noen stemte feil. Enkelte representanter ser også ut til å mene tidspunkt har noe å si og har bekreftet dette via vår twitterkonto [@partipisken](https://twitter.com/partipisken):
+Vi har også tidligere diskutert, på bakgrunn av tilbakemeldinger fra representanter, at tidspunkt på døgnet for en votering kan påvirke stemmegivningen. I denne saken, der stemmegivningen skjedde nærmere midnatt og våre folkevalgte hadde vært aktive hele dagen, kan det tenkes at dette kan ha vært en årsakene til at noen stemte feil. Enkelte representanter ser også ut til å mene tidspunkt har noe å si og har bekreftet dette via vår twitterkonto [@partipisken](https://twitter.com/partipisken):
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> det hele var nok en stemmefeil sent på kvelden. Er <a href="https://twitter.com/hashtag/partitro?src=hash">#partitro</a> :-)</p>&mdash; AnetteTrettebergst. (@Trettebergstuen) <a href="https://twitter.com/Trettebergstuen/status/542586383869960193">December 10, 2014</a></blockquote>
 
