@@ -22,13 +22,13 @@ published: true
 
 **Et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil. Uskyldig knot? Eller et reelt demokratisk problem?**
 
-Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering er minimal. Det mener vi for så vidt fortsatt, men det betyr ikke at feilstemming aldri kan få konsekvenser.
+Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering er minimal. Det mener vi forsåvidt fortsatt, men det betyr ikke at det aldri kan skje. Her er historien om en gang det faktisk gikk galt.
 
-Miljøpartiet De Grønne fremmet nemlig 9. desember 2014 følgende [forslag](https://www.holderdeord.no/votes/1418164831ne) i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
+Miljøpartiet De Grønne fremmet 9. desember 2014 følgende [forslag](https://www.holderdeord.no/votes/1418164831ne) i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
 
 > «Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
 
-Da dette var et såkalt «løst forslag til saken», og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjorde sammen med MDG flertall i Stortinget (85 av 169 representanter). I tillegg hadde også SV tenkt å stemme for, selv om dette i følge referatet ikke ble meldt i fra om der og da. 
+Da dette var et såkalt «løst forslag til saken», og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjør sammen med MDG flertall i Stortinget (85 av 169 representanter). I tillegg hadde også SV tenkt å stemme for, selv om dette i følge referatet ikke ble meldt i fra om der og da. 
 
 Forslaget skulle derfor ha blitt vedtatt. Arbeiderpartiets Fredrik Holen Bjørdal, Jette Christensen, Arild Grande og Anette Trettebergstuen stemte imidlertid mot resten av partiet. Det samme gjorde SVs Snorre Valen. Da forslaget så ble avvist med 53 mot 48 stemmer burde noen, enten blant representantene eller presidentskapet, reagert og skjønt at noe hadde gått galt under voteringen. Noen burde jo vært klar over at de oppleste partiene utgjør flertall på Stortinget.
 
@@ -54,18 +54,18 @@ Siden regjeringen som kjent ikke har flertall i Stortinget, og alle de andre par
 
 Under debatten 14. april 2015, etter at forslaget hadde blitt vedtatt vedlagt protokollen, fremmet så MDG [forslaget](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2014-2015/150414/3/) en tredje gang, men da med en sterkere forpliktelse for regjeringen enn i det opprinnelige forslaget. I tredje runde ba MDG «regjeringen i den varslede stortingsmeldingen om Svalbard komme med en plan for utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier», ikke kun «fremme sak om videre utvikling.» Dette forslaget ble da omsider vedtatt.
 
-#### Demokratisk problematisk?
+#### Et demokratisk problem?
 
 Feilstemming, altså å trykke på feil knapp, kan rettes opp der og da, men dette har vi kun funnet 59 tilfeller av i denne og forrige stortingsperiode til sammen. Det totale antall tilfeller der representanter bryter med partiet sitt uten å melde fra er 2173 i samme periode. I tabellen under kan vi observere den prosentvise andelen utbryterstemmer av de respektive partienes totale antall stemmer fra 2009 til dags dato.
 
 <div id="percent-rebels-per-party"></div>
 <figcaption>Prosent utbryterstemmer per parti, oktober 2009 - juni 2015</figcaption>
 
-Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass å trekke frem dette sitatet fra Statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
+Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass å trekke frem dette sitatet fra statsminister Erna Solberg fra en gang hun selv stemte feil og Lars Sponheim gjorde henne oppmerksom på det:
 
 > «Det er sent på kveld, men det ville være greit om det som Stortinget faktisk vil, er det som kommer frem gjennom voteringen.»
 
-Vi har også tidligere hevdet, på bakgrunn av manglende statistisk korrelasjon, at tidspunkt på døgnet for en votering ikke har noe å si for hvor mange som stemmer feil. Basert på det begrensede datamaterialet vi har kan vi ikke si at det brytes betydelig mye mer med partiet sent på kveld enn ellers på dagen, men etter å ha kommet over denne saken tenker vi imidlertid at det kanskje kan ha noe å si likevel. Voteringen skjedde nærmere midnatt og våre folkevalgte hadde holdt på hele dagen. Enkelte representanter ser også ut til å mene tidspunkt har noe å si:
+Vi har også tidligere diskurert, på bakgrunn av tilbakemeldinger fra representanter, at tidspunkt på døgnet for en votering kan påvirke stemmegivningen. I denne saken, der stemmegivningen skjedde nærmere midnatt og våre folkevalgte hadde vært aktive hele dagen, tenker vi at dette kan ha vært en årsakene til at noen stemte feil. Enkelte representanter ser også ut til å mene tidspunkt har noe å si og har bekreftet dette via vår twitterkonto [@partipisken](https://twitter.com/partipisken):
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> det hele var nok en stemmefeil sent på kvelden. Er <a href="https://twitter.com/hashtag/partitro?src=hash">#partitro</a> :-)</p>&mdash; AnetteTrettebergst. (@Trettebergstuen) <a href="https://twitter.com/Trettebergstuen/status/542586383869960193">December 10, 2014</a></blockquote>
 
