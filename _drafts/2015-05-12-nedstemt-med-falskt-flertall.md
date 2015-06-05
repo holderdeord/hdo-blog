@@ -22,7 +22,7 @@ published: true
 
 **Et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil. Uskyldig knot? Eller et reelt demokratisk problem?**
 
-Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering er minimal. Det mener vi forsåvidt fortsatt, men det betyr ikke at det aldri kan skje. Her er historien om en gang det faktisk gikk galt.
+Vi har tidligere [skrevet](http://blog.holderdeord.no/2015/04/24/kl-n-og-samvittighet-p-stortinget/) om utbryterstemmer og feilstemming på Stortinget. Da hevdet vi at faren for at en feilstemme kan påvirke resultatet av en votering er minimal. Her er historien om en gang det faktisk gikk galt.
 
 Miljøpartiet De Grønne fremmet 9. desember 2014 følgende [forslag](https://www.holderdeord.no/votes/1418164831ne) i forbindelse med behandlingen av Svalbardbudsjettet for 2015:
 
