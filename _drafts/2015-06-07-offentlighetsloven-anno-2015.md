@@ -41,7 +41,7 @@ Det er sjelden kost at en politisk vaktbikkje som Holder de ord tar parti, men d
 
 Holder de ord mener utviklingen av lokaldemokratiet går feil vei. Dette er ikke mer åpenhet og mer demokrati, men det motsatte.
 
-Beleilig nok har vi kommunevalg om noen måneder der du selv kan være med på å påvirke din lokalpolitiker i riktig retning. Kristin Røymo (Ap) som er kandidat til byrådslederposten i Tromsø, lover at dersom de vinner valget vil lovendringen ikke få noen betydning i Tromsø.
+Beleilig nok har vi kommunevalg om noen måneder der du selv kan være med på å påvirke din lokalpolitiker i riktig retning. Kristin Røymo (Ap) som er kandidat til byrådslederposten i Tromsø, lover at dersom de vinner valget vil lovendringen ikke få noen betydning i Tromsø. [http://journalisten.no/2015/06/endring-av-offentlighetsloven-en-demokratisk-skandale]
 
 > -Saker vil bli offentlig idet byrådet mottar sakene, sier hun.
 
