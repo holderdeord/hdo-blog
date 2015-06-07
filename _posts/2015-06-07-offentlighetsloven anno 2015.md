@@ -2,8 +2,7 @@
 published: false
 ---
 
-##
-Offentlighetsloven anno 2015 – politisk bekvemmelighet kommer først
+##Offentlighetsloven anno 2015 – politisk bekvemmelighet kommer først##
 
 I dag voterte Stortinget for å innskrenke offentlighetsloven i kommuner og fylkeskommuner med parlamentarisk styreform. Den vedtatte proposisjonen bryter grunnleggende prinsipper om åpenhet som er nødvendig i et fungerende demokrati.
 
