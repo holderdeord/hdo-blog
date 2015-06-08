@@ -8,6 +8,8 @@ tags:
   - offentlighetsloven
   - åpenhet
   - stortinget
+  - kommune
+  - lokaldemokrati
 scripts:
   - hdo-widgets
 published: true
