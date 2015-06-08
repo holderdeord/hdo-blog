@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Offentlighetsloven anno 2015 – politisk bekvemmelighet kommer først
-date: "2015-06-07T23:21:17+02:00"
+date: "2015-06-07T20:38:17+02:00"
 authors: 
   - Tiina Ruohonen
 tags: 
@@ -12,10 +12,9 @@ scripts:
   - hdo-widgets
 published: true
 comments: true
-thumbnail: "http://files.holderdeord.no/images/dette-er-stortingets-morsomste.jpg"
+thumbnail: "http://files.holderdeord.no/images/blog-header.jpg"
 twitter_card: summary_large_image
 ---
-
 
 **I dag voterte Stortinget for å innskrenke offentlighetsloven i kommuner og fylkeskommuner med parlamentarisk styreform. Den vedtatte proposisjonen bryter grunnleggende prinsipper om åpenhet som er nødvendig i et fungerende demokrati.**
 
