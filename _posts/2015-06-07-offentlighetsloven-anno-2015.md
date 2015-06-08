@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Offentlighetsloven anno 2015 – politisk bekvemmelighet kommer først
-date: "2015-06-08T20:38:17+02:00"
+date: "2015-06-07T20:38:17+02:00"
 authors: 
   - Tiina Ruohonen
 tags: 
