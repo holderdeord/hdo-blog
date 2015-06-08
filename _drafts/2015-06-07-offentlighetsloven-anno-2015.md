@@ -37,12 +37,10 @@ Det eneste medlemmet i justiskomiteen som gikk imot flertallet var Senterpartiet
 
 Det er sjelden kost at en politisk vaktbikkje som Holder de ord tar parti, men denne gangen er vi enige med Geir Inge Lien fra Senterpartiet.
 
-Holder de ord mener utviklingen av lokaldemokratiet går feil vei. Lovendringen bidrar neppe til mer åpenhet og mer demokrati. Lokaldemokratiet er helt avhengig av et nært forhold mellom kommunepolitikerne og innbyggerne, og intensjonen bak offentlighetsloven, kommuneloven og ideen om aktiv medvirkning i forvaltningssaker bygger nettopp på åpenhet og prinsippet om tidlig drøfting av saker i offentligheten. Med denne lovendringen vil dette bli vanskelig i flere kommuner og fylkeskommuner. I verste fall vil lovendringen være med på å avpolitisere lokaldemokratiet. Da er det mulig at kommunevalg i større grad vil kunne oppfattes som missekonkurranser.  
+Holder de ord mener utviklingen av lokaldemokratiet går feil vei. Lovendringen bidrar neppe til mer åpenhet og mer demokrati. Lokaldemokratiet er helt avhengig av et nært forhold mellom kommunepolitikerne og innbyggerne, og intensjonen bak offentlighetsloven, kommuneloven og ideen om aktiv medvirkning i forvaltningssaker bygger nettopp på åpenhet og prinsippet om tidlig drøfting av saker i offentligheten. Med denne lovendringen vil dette bli vanskeligere i flere kommuner og fylkeskommuner. I verste fall vil lovendringen være med på å avpolitisere lokaldemokratiet. Da er det mulig at kommunevalg i større grad vil kunne oppfattes som missekonkurranser.  
 
 Beleilig nok har vi kommunevalg om noen måneder der du selv kan være med på å påvirke din lokalpolitiker i riktig retning. Kristin Røymo (Ap) som er kandidat til byrådslederposten i Tromsø, [lover at dersom de vinner valget vil lovendringen ikke få noen betydning i Tromsø.](http://journalisten.no/2015/06/endring-av-offentlighetsloven-en-demokratisk-skandale)
 
 -Saker vil bli offentlig idet byrådet mottar sakene, sier hun.
-
-Du kan være med på å påvirke flere lokalpolitikere til å ta et tilsvarende standpunkt.
 
 **Holder de ord vil følge opp lovendringen i ukene fremover med blant annet en historisk gjennomgang av offentlighetsloven. Følg med!**
