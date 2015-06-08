@@ -22,7 +22,7 @@ twitter_card: summary_large_image
 
 Nå kan kommuner med parlamentarisk styringsform unndra offentligheten forberedende dokumenter til byrådet eller til byrådskonferanser. Først når byrådet får en sak til vedtaksbehandling, skal det gis rett til innsyn. Det betyr at byer som Oslo, Bergen eller Tromsø ikke lenger får vite hva byens folkevalgte planlegger å gjøre i førkant av avgjørelsene. I prinsippet kan altså våre lokale folkevalgte for eksempel privatisere hele omsorgssektoren eller innføre eiendomsskatt uten at noen vet om det på forhånd.
 
-[Innstillingen fra justiskomiteen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2014-2015/inns-201415-320/) ble vedtatt med kun 14 motstemmer i Stortinget. Representantene fra Sp, Venstre, MDG og SV stemte stemte mot forslaget, mens Ap, Høyre, FrP og KrF stemte for. Under debatten av saken i Stortinget i dag påpekte noen av representantene som stemte imot at innstillingen er «et hån mot innbyggerne» (Kjersti Toppe, Sp) og at den «gjør det ulovlige lovlig» (Karin Andersen, SV).
+[Innstillingen fra justiskomiteen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2014-2015/inns-201415-320/) ble vedtatt med kun 14 motstemmer i Stortinget. Representantene fra Sp, Venstre, MDG og SV stemte mot forslaget, mens Ap, Høyre, FrP og KrF stemte for. Under debatten av saken i Stortinget i dag påpekte noen av representantene som stemte imot at innstillingen er «et hån mot innbyggerne» (Kjersti Toppe, Sp) og at den «gjør det ulovlige lovlig» (Karin Andersen, SV).
 
 <a class='hdo-vote-widget' href='https://www.holderdeord.no/' data-vote-id='1433776904e'>Laster innhold fra Holder de ord</a>
 
