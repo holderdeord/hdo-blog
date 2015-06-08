@@ -8,6 +8,8 @@ tags:
   - offentlighetsloven
   - åpenhet
   - stortinget
+scripts:
+  - hdo-widgets
 published: true
 comments: true
 thumbnail: "http://files.holderdeord.no/images/dette-er-stortingets-morsomste.jpg"
@@ -19,7 +21,9 @@ twitter_card: summary_large_image
 
 Nå kan kommuner med parlamentarisk styringsform unndra offentligheten forberedende dokumenter til byrådet eller til byrådskonferanser. Først når byrådet får en sak til vedtaksbehandling, skal det gis rett til innsyn. Det betyr at byer som Oslo, Bergen eller Tromsø ikke lenger får vite hva byens folkevalgte planlegger å gjøre i førkant av avgjørelsene. I prinsippet kan altså våre lokale folkevalgte for eksempel privatisere hele omsorgssektoren eller innføre eiendomsskatt uten at noen vet om det på forhånd.
 
-[Innstillingen fra justiskomiteen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2014-2015/inns-201415-320/) ble vedtatt med kun 14 motstemmer i Stortinget. Representantene fra Sp, Venstre, MDG og SV stemte stemte mot forslaget, mens Ap, Høyre, FrP og KrF stemte for. Under debatten av saken i Stortinget i dag påpekte noen av representantene som stemte imot at innstillingen er «et hån mot innbyggerne» (Kjersti Toppe, Sp) og at den «gjør det ulovlige lovlig» (Karin Andersen, SV). 
+[Innstillingen fra justiskomiteen](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2014-2015/inns-201415-320/) ble vedtatt med kun 14 motstemmer i Stortinget. Representantene fra Sp, Venstre, MDG og SV stemte stemte mot forslaget, mens Ap, Høyre, FrP og KrF stemte for. Under debatten av saken i Stortinget i dag påpekte noen av representantene som stemte imot at innstillingen er «et hån mot innbyggerne» (Kjersti Toppe, Sp) og at den «gjør det ulovlige lovlig» (Karin Andersen, SV).
+
+<a class='hdo-vote-widget' href='https://www.holderdeord.no/' data-vote-id='1433776904e'>Laster innhold fra Holder de ord</a>
 
 Innstramningen ble knapt diskutert i den brede offentligheten før den ble vedtatt. Våre stortingsrepresentanter har heller ikke vært særlig opptatt av offentlighetsloven. Et søk i Stortingets referater viser at offentlighetsloven ble sist nevnt i stortingssalen den 10. juni 2014 i forbindelse med foreslåtte endringer i universitets- og høyskoleloven.
 
