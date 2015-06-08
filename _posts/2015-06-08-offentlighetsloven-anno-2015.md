@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Offentlighetsloven anno 2015 – politisk bekvemmelighet kommer først
-date: "2015-06-07T20:38:17+02:00"
-authors: 
+date: "2015-06-08T20:38:17+02:00"
+authors:
   - Tiina Ruohonen
-tags: 
+tags:
   - offentlighetsloven
   - åpenhet
   - stortinget
@@ -16,6 +16,7 @@ published: true
 comments: true
 thumbnail: "http://files.holderdeord.no/images/blog-header.jpg"
 twitter_card: summary_large_image
+redirect_from: "/2015/06/07/offentlighetsloven-anno-2015/"
 ---
 
 **I dag voterte Stortinget for å innskrenke offentlighetsloven i kommuner og fylkeskommuner med parlamentarisk styreform. Den vedtatte proposisjonen bryter grunnleggende prinsipper om åpenhet som er nødvendig i et fungerende demokrati.**
@@ -30,9 +31,9 @@ Innstramningen ble knapt diskutert i den brede offentligheten før den ble vedta
 
 [Flere påpeker](http://www.aftenposten.no/meninger/leder/Nei-til-innstramninger-i-offentlighetsloven-8018246.html) at hele prosessen frem mot lovendringen var «under enhver kritikk» slik Aftenposten uttrykte det, og at saksbehandlingen ikke har vært forsvarlig. I det minste har den vært rar: det er ikke ofte vi ser [Dok8-forslag](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/) fremmet av regjeringspartiene uten at saken går gjennom regjeringen og dens saksbehandlingsprosesser. Videre er den faglige begrunnelsen fra justiskomiteen tynn.
 
-Flertallet i komiteen understreket i innstillingen «at så lenge Stortinget har åpnet for kommunal parlamentarisme, må kommunene og fylkeskommunene sikres arbeidsbetingelser som er tilpasset styringsformen i praksis.» 
+Flertallet i komiteen understreket i innstillingen «at så lenge Stortinget har åpnet for kommunal parlamentarisme, må kommunene og fylkeskommunene sikres arbeidsbetingelser som er tilpasset styringsformen i praksis.»
 
-Kommuneadvokat i Oslo Hanne Harlem sa treffende nok i [høringen den 12. mai](https://stortinget.no/no/Hva-skjer-pa-Stortinget/Videoarkiv/Arkiv-TV-sendinger/?mbid=/2015/H264-full/Hoeringssal1/05/12/Hoeringssal1-20150512-130927.mp4&msid=3333&dateid=10003807) at lovendringen ikke er innskrenkning av offentlighetsloven, men heller en klargjøring av eksisterende praksis av 25 år. [Det at sivilombudsmannen i 2012 dokumenterte ulovlig praksis i Oslo og Bergen](https://www.sivilombudsmannen.no/getfile.php/Filer/%C3%85rsmelding/%C3%85rsmelding%202012.pdf) må følges opp, men ikke ved å endre loven til å passe praksis. Praksis må heller endres til å passe loven. 
+Kommuneadvokat i Oslo Hanne Harlem sa treffende nok i [høringen den 12. mai](https://stortinget.no/no/Hva-skjer-pa-Stortinget/Videoarkiv/Arkiv-TV-sendinger/?mbid=/2015/H264-full/Hoeringssal1/05/12/Hoeringssal1-20150512-130927.mp4&msid=3333&dateid=10003807) at lovendringen ikke er innskrenkning av offentlighetsloven, men heller en klargjøring av eksisterende praksis av 25 år. [Det at sivilombudsmannen i 2012 dokumenterte ulovlig praksis i Oslo og Bergen](https://www.sivilombudsmannen.no/getfile.php/Filer/%C3%85rsmelding/%C3%85rsmelding%202012.pdf) må følges opp, men ikke ved å endre loven til å passe praksis. Praksis må heller endres til å passe loven.
 
 Praksisen ble da også endret etter sivilombudsmannens gjennomgang i 2012. Det hele endte opp med at notater ikke ble skrevet, og at det derfor utviklet seg en muntlig saksbehandlingspraksis, slik byrådsleder Stian Berger Røsland (H) i Oslo sa under høringen. Men det var neppe det sivilombudsmannen ønsket med sin kritikk. Intensjonen bak den nye offentlighetsloven som kom i 2009 var da også å sikre mer åpenhet og innsyn, og noen av de samme hensynene gjør seg gjeldende i kommuneloven.
 
@@ -42,7 +43,7 @@ Det eneste medlemmet i justiskomiteen som gikk imot flertallet var Senterpartiet
 
 Det er sjelden kost at en politisk vaktbikkje som Holder de ord tar parti, men denne gangen er vi enige med Geir Inge Lien fra Senterpartiet.
 
-Holder de ord mener utviklingen av lokaldemokratiet går feil vei. Lovendringen bidrar neppe til mer åpenhet og mer demokrati. Lokaldemokratiet er helt avhengig av et nært forhold mellom kommunepolitikerne og innbyggerne, og intensjonen bak offentlighetsloven, kommuneloven og ideen om aktiv medvirkning i forvaltningssaker bygger nettopp på åpenhet og prinsippet om tidlig drøfting av saker i offentligheten. Med denne lovendringen vil dette bli vanskeligere i flere kommuner og fylkeskommuner. I verste fall vil lovendringen være med på å avpolitisere lokaldemokratiet. Da er det mulig at kommunevalg i større grad vil kunne oppfattes som missekonkurranser av velgerne.  
+Holder de ord mener utviklingen av lokaldemokratiet går feil vei. Lovendringen bidrar neppe til mer åpenhet og mer demokrati. Lokaldemokratiet er helt avhengig av et nært forhold mellom kommunepolitikerne og innbyggerne, og intensjonen bak offentlighetsloven, kommuneloven og ideen om aktiv medvirkning i forvaltningssaker bygger nettopp på åpenhet og prinsippet om tidlig drøfting av saker i offentligheten. Med denne lovendringen vil dette bli vanskeligere i flere kommuner og fylkeskommuner. I verste fall vil lovendringen være med på å avpolitisere lokaldemokratiet. Da er det mulig at kommunevalg i større grad vil kunne oppfattes som missekonkurranser av velgerne.
 
 Beleilig nok har vi kommunevalg om noen måneder der du selv kan være med på å påvirke din lokalpolitiker i riktig retning. Kristin Røymo (Ap) som er kandidat til byrådslederposten i Tromsø, [lover at dersom de vinner valget vil lovendringen ikke få noen betydning i Tromsø.](http://journalisten.no/2015/06/endring-av-offentlighetsloven-en-demokratisk-skandale)
 
