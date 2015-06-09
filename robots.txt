@@ -5,4 +5,3 @@ User-agent: *
 {% if site.url == 'http://drafts.holderdeord.no' %}
 Disallow: /
 {% endif %}
-Disallow: /polls/
