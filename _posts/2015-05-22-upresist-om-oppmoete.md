@@ -21,7 +21,7 @@ twitter_card: summary_large_image
 
 ---
 
-**Rasmus Hansson fra Miljøpartiet de Grønne hevdet på [Dagsnytt 18](http://tv.nrk.no/serie/dagsnytt-atten-tv/NNFA56050715/07-05-2015#t=12m15s) nylig at han sannsynligvis var blant de som møtte til flest avstemninger på Stortinget. Stemmer det?**
+**Rasmus Hansson fra Miljøpartiet de Grønne hevdet på [Dagsnytt 18](https://tv.nrk.no/serie/dagsnytt-atten-tv/NNFA56050715/07-05-2015#t=12m15s) nylig at han sannsynligvis var blant de som møtte til flest avstemninger på Stortinget. Stemmer det?**
 
 Statistikk om oppmøte forteller dessverre lite om representantenes aktivitetsnivå. De har andre arbeidsoppgaver enn å stemme i stortingssalen, og bestemmer ikke alltid selv hvilke avstemninger de skal delta i.
 
