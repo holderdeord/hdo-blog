@@ -32,7 +32,7 @@ Da dette var et såkalt «løst forslag til saken», og derfor ikke hadde vært 
 
 Forslaget skulle derfor ha blitt vedtatt. Arbeiderpartiets Fredrik Holen Bjørdal, Jette Christensen, Arild Grande og Anette Trettebergstuen stemte imidlertid mot resten av partiet. Det samme gjorde SVs Snorre Valen. Da forslaget så ble avvist med 53 mot 48 stemmer burde noen, enten blant representantene eller presidentskapet, reagert og skjønt at noe hadde gått galt under voteringen. Noen burde vel vært klar over at de oppleste partiene utgjør flertall på Stortinget?
 
-Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. De tilstedeværende representantene fra Ap, KrF, Sp, Venstre og MDG utgjorde nemlig kun 49 av totalt 101, mens de jo skulle vært i flertall. Det faktiske flertallet disse partiene utgjør var altså ikke representert i salen denne dagen, og selv med de fire feilstemmene fra Ap ville ikke forslaget fått flertall slik det var varslet på forhånd.
+Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. De tilstedeværende representantene fra Ap, KrF, Sp, Venstre og MDG utgjorde nemlig kun 49 av totalt 101, mens de jo skulle vært i flertall. Det faktiske flertallet disse partiene utgjør var altså heller ikke representert i salen denne dagen, og selv med de fire feilstemmene fra Ap ville ikke forslaget fått flertall slik det var varslet på forhånd.
 
 #### Prosessen med å rette opp
 
