@@ -67,7 +67,6 @@ Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass 
 
 Det er heller ikke bare «greit» at Stortingets vilje kommer til uttrykk i Stortingssalen; det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
-
 Vi har også tidligere diskutert, på bakgrunn av tilbakemeldinger fra representanter, at tidspunkt på døgnet for en votering kan påvirke stemmegivningen. I denne saken, der stemmegivningen skjedde nærmere midnatt og våre folkevalgte hadde vært aktive hele dagen, kan det tenkes at dette kan ha vært en årsakene til at noen stemte feil. I samtale med stortingsrepresentant for SV, Snorre Valen, blir vi fortalt at dette sannsynligvis stemmer. I perioder med mange saker oppe til avstemming, gjerne mot slutten av sesjonene, er det ifølge Valen ikke uvanlig at representantene oppholder seg på tinget i 16-17 timer i strekk.
 
 <blockquote>
@@ -77,8 +76,7 @@ Vi har også tidligere diskutert, på bakgrunn av tilbakemeldinger fra represent
 </blockquote>
 
 
-
-Enkelte andre representanter ser også ut til å mene tidspunkt har noe å si og har bekreftet dette via vår twitterkonto [@partipisken](https://twitter.com/partipisken):
+Enkelte andre representanter, i tilegg til Erna Solberg, ser også ut til å mene tidspunkt har noe å si og har bekreftet dette via vår twitterkonto [@partipisken](https://twitter.com/partipisken):
 
 <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none" data-cards="hidden" lang="no"><p><a href="https://twitter.com/partipisken">@partipisken</a> det hele var nok en stemmefeil sent på kvelden. Er <a href="https://twitter.com/hashtag/partitro?src=hash">#partitro</a> :-)</p>&mdash; AnetteTrettebergst. (@Trettebergstuen) <a href="https://twitter.com/Trettebergstuen/status/542586383869960193">December 10, 2014</a></blockquote>
 
@@ -90,7 +88,5 @@ Feilstemming er videre ifølge Valen ikke uvanlig på Stortinget:
 
 Og det er ikke den eneste kilden til feil og kløn. Stortingssekretæriatet gjør feil, innpiskere gjør som vi har sett feil, [tekniske feil](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100601/referatsaker/) kan oppstå og presidentskapet kan gjøre feil.
 
-Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk sett kan faktisk vedtatte lover være basert på voteringer med «galt» resultat, og med dagens mindretallsregjering, blir det å stemme riktig desto viktigere.
-
-Det er heller ikke bare «greit», som Erna Solberg sa, at Stortingets vilje kommer til uttrykk i Stortingssalen; det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
+Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk sett kan faktisk vedtatte lover være basert på voteringer med «galt» resultat. Det er på tide at vi tar feil på alvor, selv om de rettes opp, selv om de er små, selv om de i 99% av tilfellene ikke utgjør noen forskjell. For tilsammen utgjør det et demokratisk problem det er verdt å ta tak i. 
 
