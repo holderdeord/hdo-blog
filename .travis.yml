@@ -5,7 +5,7 @@ rvm:
 - 2.1
 script:
 - bundle exec jekyll build
-- bundle exec htmlproof ./_site --href_ignore http://www.dagsavisen.no/samfunn/er-ikke-blitt-mer-enige-pa-fire-ar/,http://www.dagsavisen.no/samfunn/stortinget-glemte-rullestolstemme/,http://blog.holderdeord.no/404.html,http://www.forskning.no/artikler/2012/august/331988
+- bundle exec htmlproof ./_site --only_4xx --href_ignore http://www.dagsavisen.no/samfunn/er-ikke-blitt-mer-enige-pa-fire-ar/,http://www.dagsavisen.no/samfunn/stortinget-glemte-rullestolstemme/,http://blog.holderdeord.no/404.html,http://www.forskning.no/artikler/2012/august/331988
 branches:
   only:
   - gh-pages
