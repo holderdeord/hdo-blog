@@ -2,15 +2,15 @@
 layout: post
 title: Nedstemt med falskt flertall
 date: "2015-06-15T00:00:00+02:00"
-authors: 
+authors:
   - Alexander Habash Eide
   - Hanna Tranås
-tags: 
+tags:
   - avstemninger
   - feilstemming
   - stortinget
   - mdg
-scripts: 
+scripts:
   - d3
   - c3
   - twitter-wjs
@@ -28,12 +28,12 @@ Miljøpartiet De Grønne fremmet 9. desember 2014 følgende [forslag](https://ww
 
 > «Stortinget ber regjeringen legge frem en sak om videre utvikling av Svalbard-samfunnet, med vekt på bærekraft, miljøforskning, en fornybar energibase og nye næringsveier som for eksempel datasentre.»
 
-Da dette var et såkalt «løst forslag til saken», og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjør sammen med MDG flertall i Stortinget (85 av 169 representanter). I tillegg hadde også SV tenkt å stemme for, selv om dette i følge referatet ikke ble meldt i fra om der og da. 
+Da dette var et såkalt «løst forslag til saken», og derfor ikke hadde vært til komitébehandling, var ikke stemmene innmeldt på forhånd og da heller ikke nedskrevet i Presidentens manus. Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre varslet likevel i fra om at de ville støtte forslaget, og utgjør sammen med MDG flertall i Stortinget (85 av 169 representanter). I tillegg hadde også SV tenkt å stemme for, selv om dette i følge referatet ikke ble meldt i fra om der og da.
 
 Forslaget skulle derfor ha blitt vedtatt. Arbeiderpartiets Fredrik Holen Bjørdal, Jette Christensen, Arild Grande og Anette Trettebergstuen stemte imidlertid mot resten av partiet. Det samme gjorde SVs Snorre Valen. Da forslaget så ble avvist med 53 mot 48 stemmer burde noen, enten blant representantene eller presidentskapet, reagert og skjønt at noe hadde gått galt under voteringen. Noen burde jo vært klar over at de oppleste partiene utgjør flertall på Stortinget.
 
-Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. De tilstedeværende representantene fra Ap, KrF, Sp, Venstre og MDG utgjorde nemlig kun 49 av totalt 101, mens de jo skulle vært i flertall. Det faktiske flertallet disse partiene utgjør var altså ikke representert i salen denne dagen, og selv med de fire feilstemmene fra Ap ville ikke forslaget fått flertall slik det var varslet på forhånd. 
- 
+Det ser imidlertid også ut som at innpiskerene gjorde en dårlig jobb med å samle nok representanter til salen til støtte for forslaget. De tilstedeværende representantene fra Ap, KrF, Sp, Venstre og MDG utgjorde nemlig kun 49 av totalt 101, mens de jo skulle vært i flertall. Det faktiske flertallet disse partiene utgjør var altså ikke representert i salen denne dagen, og selv med de fire feilstemmene fra Ap ville ikke forslaget fått flertall slik det var varslet på forhånd.
+
 #### Prosessen med å rette opp
 
 Siden ingen oppdaget at noe var feil der og da ble ikke voteringen tatt på nytt, slik den kunne blitt dersom enten en av feilstemmerne eller Presidenten hadde oppdaget feilen med det samme. I løpet av de påfølgende fem dagene skjønte imidlertid MDG at noe hadde gått galt - at forslaget deres egentlig skulle ha blitt vedtatt - og meldte dette inn til Stortingets presidentskap. Forslaget ble så fremmet på nytt 14. desember 2014.
@@ -68,11 +68,15 @@ Med tanke på regjeringspartienes motvilje til ny votering er det på sin plass 
 Det er heller ikke bare «greit» at Stortingets vilje kommer til uttrykk i Stortingssalen; det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
 
-Vi har også tidligere diskutert, på bakgrunn av tilbakemeldinger fra representanter, at tidspunkt på døgnet for en votering kan påvirke stemmegivningen. I denne saken, der stemmegivningen skjedde nærmere midnatt og våre folkevalgte hadde vært aktive hele dagen, kan det tenkes at dette kan ha vært en årsakene til at noen stemte feil. I samtale med stortingsrepresentant for SV, Snorre Valen, blir vi fortalt at dette sannsynligvis stemmer. I perioder med mange saker oppe til avstemming, gjerne mot slutten av sesjonene, er det ifølge Valen ikke uvanlig at representantene oppholder seg på tinget i 16-17 timer i strekk. 
+Vi har også tidligere diskutert, på bakgrunn av tilbakemeldinger fra representanter, at tidspunkt på døgnet for en votering kan påvirke stemmegivningen. I denne saken, der stemmegivningen skjedde nærmere midnatt og våre folkevalgte hadde vært aktive hele dagen, kan det tenkes at dette kan ha vært en årsakene til at noen stemte feil. I samtale med stortingsrepresentant for SV, Snorre Valen, blir vi fortalt at dette sannsynligvis stemmer. I perioder med mange saker oppe til avstemming, gjerne mot slutten av sesjonene, er det ifølge Valen ikke uvanlig at representantene oppholder seg på tinget i 16-17 timer i strekk.
 
-«Dette fører helt klart til at folk blir uoppmerksomme og slitne. Norge er et av få land som opererer med stemmegivning til langt på natt»
+<blockquote>
+    «Dette fører helt klart til at folk blir uoppmerksomme og slitne. Norge er et av få land som opererer med stemmegivning til langt på natt»
 
-											Snorre Valen, SV
+    <cite>Snorre Valen, SV</cite>
+</blockquote>
+
+
 
 Enkelte andre representanter ser også ut til å mene tidspunkt har noe å si og har bekreftet dette via vår twitterkonto [@partipisken](https://twitter.com/partipisken):
 
@@ -84,9 +88,9 @@ Feilstemming er videre ifølge Valen ikke uvanlig på Stortinget:
 
 «90 % av enkeltrepresentanter som stemmer mot eget parti gjør det ved en feil»
 
-Og det er ikke den eneste kilden til feil og kløn. Stortingssekretæriatet gjør feil, innpiskere gjør som vi har sett feil, [tekniske feil](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100601/referatsaker/) kan oppstå og presidentskapet kan gjøre feil. 
+Og det er ikke den eneste kilden til feil og kløn. Stortingssekretæriatet gjør feil, innpiskere gjør som vi har sett feil, [tekniske feil](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100601/referatsaker/) kan oppstå og presidentskapet kan gjøre feil.
 
 Den manglende oppmerksomheten rundt feilstemming, både hva gjelder parlamentarikere som velger å tie offentlig om resultater av voteringer som ikke har gått som tenkt, slik som i denne saken, og mediene, «den fjerde statsmakt», som ikke belyser slike saker i stor nok grad, bidrar ubevisst til en demokratisk svekkelse. Hypotetisk sett kan faktisk vedtatte lover være basert på voteringer med «galt» resultat, og med dagens mindretallsregjering, blir det å stemme riktig desto viktigere.
 
-Det er heller ikke bare «greit», som Erna Solberg sa, at Stortingets vilje kommer til uttrykk i Stortingssalen; det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.  
+Det er heller ikke bare «greit», som Erna Solberg sa, at Stortingets vilje kommer til uttrykk i Stortingssalen; det er hele hensikten med vårt representative demokrati. Selve voteringen er strengt tatt bare en formalitet, siden hva representantene skal stemme normalt er avgjort i partigruppene på forhånd. Innpiskerne sørger likevel for at forholdet er riktig mellom partiene, slik at alt formelt er på det rene og voteringen således korrekt bekrefter det som allerede er avgjort. Da er det spesielt problematisk at voteringen i seg selv potensielt kan stå i veien for at Stortingets reelle vilje blir uttrykt fordi representanter rett og slett trykker på feil knapp.
 
