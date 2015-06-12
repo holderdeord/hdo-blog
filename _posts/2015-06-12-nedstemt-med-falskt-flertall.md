@@ -73,7 +73,7 @@ Vi har også tidligere diskutert, på bakgrunn av tilbakemeldinger fra represent
 <blockquote>
     «Dette fører helt klart til at folk blir uoppmerksomme og slitne. Norge er et av få land som opererer med stemmegivning til langt på natt»
 
-    <cite>Snorre Valen, SV</cite>
+    <cite>Snorre Valen (SV)</cite>
 </blockquote>
 
 
@@ -85,7 +85,12 @@ Enkelte andre representanter, i tilegg til Erna Solberg, ser også ut til å men
 
 Feilstemming er videre ifølge Valen ikke uvanlig på Stortinget:
 
-«90 % av enkeltrepresentanter som stemmer mot eget parti gjør det ved en feil»
+<blockquote>
+    90 % av enkeltrepresentanter som stemmer mot eget parti gjør det ved en feil
+
+    <cite>Snorre Valen (SV)</cite>
+</blockquote>
+
 
 Og det er ikke den eneste kilden til feil og kløn. Stortingssekretæriatet gjør feil, innpiskere gjør som vi har sett feil, [tekniske feil](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100601/referatsaker/) kan oppstå og presidentskapet kan gjøre feil.
 
