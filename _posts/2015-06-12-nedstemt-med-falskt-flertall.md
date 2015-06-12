@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nedstemt med falskt flertall
-date: "2015-06-15T00:00:00+02:00"
+date: "2015-06-12T09:17:00+02:00"
 authors:
   - Alexander Habash Eide
   - Hanna Tranås
@@ -15,9 +15,10 @@ scripts:
   - c3
   - twitter-wjs
   - __title__
-comments: false
+comments: true
 twitter_card: summary_large_image
 published: true
+thumbnail: "http://files.holderdeord.no/images/stortingssalen.jpg"
 ---
 
 **Et forslag fra MDG, som skulle ha blitt vedtatt før jul, ble nedstemt fordi fire representanter fra Ap og en fra SV stemte feil. Uskyldig knot? Eller et reelt demokratisk problem?**

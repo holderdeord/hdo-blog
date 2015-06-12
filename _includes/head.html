@@ -21,17 +21,17 @@
   <meta content="{{ site.title }}" property="og:site_name">
 
   {% if page.excerpt %}
-    <meta content="{{ page.excerpt | strip_html | xml_escape }}" name="description">
-    <meta content="{{ page.excerpt | strip_html | xml_escape }}" property="og:description">
-    <meta content="{{ page.excerpt | strip_html | xml_escape }}" name="twitter:description">
+    <meta content="{{ page.excerpt | strip_html | strip_newlines | xml_escape }}" name="description">
+    <meta content="{{ page.excerpt | strip_html | strip_newlines | xml_escape }}" property="og:description">
+    <meta content="{{ page.excerpt | strip_html | strip_newlines | xml_escape }}" name="twitter:description">
   {% else if page.description %}
-    <meta content="{{ page.description }}" name="description">
-    <meta content="{{ page.description }}" property="og:description">
-    <meta content="{{ page.description }}" name="twitter:description">
+    <meta content="{{ page.description | strip_newlines }}" name="description">
+    <meta content="{{ page.description | strip_newlines }}" property="og:description">
+    <meta content="{{ page.description | strip_newlines }}" name="twitter:description">
   {% else %}
-    <meta content="{{ site.description }}" name="description">
-    <meta content="{{ site.description }}" property="og:description">
-    <meta content="{{ site.description }}" name="twitter:description">
+    <meta content="{{ site.description | strip_newlines }}" name="description">
+    <meta content="{{ site.description | strip_newlines }}" property="og:description">
+    <meta content="{{ site.description | strip_newlines }}" name="twitter:description">
   {% endif %}
 
   {% if page.authors %}
