@@ -239,6 +239,15 @@ img {
   max-width: 100%;
 }
 
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.img-breakout {
+    /*  ???   */
+}
+
 .maingraphic {
   margin-bottom: 1rem;
 }
