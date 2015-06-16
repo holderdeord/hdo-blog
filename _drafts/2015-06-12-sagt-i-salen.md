@@ -44,7 +44,7 @@ Senere har vi fulgt opp med [hvem som får Stortinget til å le](http://blog.hol
 
 Uansett hvilke analyser vi gjorde, kom vi tilbake til de samme spørsmålene: Hvilket parti har snakket mest om et tema eller brukt et spesifikt ord? Hvilken representant? Hvordan har bruken endret seg over tid? Hva sies i innleggene, og hvilken kontekst står de i?
 
-[Sagt i salen](http://tale.holdedeord.no) er et verktøy for å besvare disse spørsmålene på få sekunder.
+[Sagt i salen](http://tale.holdedeord.no) er et verktøy for å rakst få svar på disse spørsmålene.
 
 Inspirert av [Google NGram Viewer](https://books.google.com/ngrams) og [NYT Chronicle](http://chronicle.nytlabs.com/), kan man undersøke i hvor stor andel av innlegg et gitt ord har blitt brukt:
 
@@ -69,6 +69,8 @@ Eller hvilke representanter:
         <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" />
     </a>
 </div>
+
+Vi håper mange får glede av dette verktøyet. Prøv tjenesten på [tale.holderdeord.no](http://tale.holderdeord.no).
 
 <style>
     .sagt-i-salen-breakout {
