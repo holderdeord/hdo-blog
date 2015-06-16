@@ -28,7 +28,7 @@ Vi kastet oss over datasettet for å finne ut hva som kunne være interessant å
 
 Uansett hvilke analyser vi gjorde, kom vi tilbake til de samme spørsmålene: Hvilket parti har snakket mest om et tema eller brukt et spesifikt ord? Hvilken representant? Hvordan har bruken endret seg over tid? Hva sies i innleggene, og hvilken kontekst står de i?
 
-[Sagt i salen](http://tale.holdedeord.no) er et verktøy for å besvare disse spørsmålene på få sekunder for et hvilket som helst søkeord eller for en kombinasjon av søkeord..
+[Sagt i salen](http://tale.holdedeord.no) er et verktøy for å besvare disse spørsmålene på få sekunder.
 
 Inspirert av [Google NGram Viewer](https://books.google.com/ngrams) og [NYT Chronicle](http://chronicle.nytlabs.com/), kan man undersøke i hvor stor andel av innlegg et gitt ord har blitt brukt:
 
@@ -39,19 +39,26 @@ Inspirert av [Google NGram Viewer](https://books.google.com/ngrams) og [NYT Chro
 Eller hvilket parti som har nevnt et ord i størst andel av sine innlegg:
 
 <div class="img-breakout">
-    <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-party-skole.png" />
+    <a href="http://tale.holderdeord.no/search/pct/skole/0">
+        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-party-skole.png" />
+    </a>
 </div>
 
 Eller hvilke representanter:
 
 <div class="img-breakout">
-    <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" />
+    <a href="http://tale.holderdeord.no/search/pct/bergen/0">
+        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" />
+    </a>
 </div>
 
-Tjenesten inneholder:
+Tjenesten:
 
-* Alle referater fra oktober 1998 til dags dato. Disse oppdateres kontinuerlig.
-* 229 284 innlegg fra 862 talere.
-* Valg mellom å se resultater prosentandel og absolutte tall.
-* Mulighet til å sammenligne flere søkeord med komma.
-* Mulighet til å eksportere hele resultatsettet som CSV for import i Excel el.l.
+* Er tilgjengelig på [tale.holderdeord.no/](http://tale.holderdeord.no/).
+* Inneholder alle referater fra oktober 1998 til dags dato. 
+* Oppdateres kontinuerlig med nye referater fra Stortingets datatjeneste.
+* Har 229 284 innlegg fra 862 talere.
+* Lar deg velge mellom å se resultater i prosentandel og absolutte tall.
+* Lar deg sammenligne flere søkeord med komma.
+* Lar deg eksportere hele resultatsettet som CSV for import i Excel el.l.
+* Støtter wildcard-søk, f.eks. "finans*"
