@@ -17,7 +17,7 @@ published: true
 thumbnail: "http://files.holderdeord.no/images/stortingssalen.jpg"
 ---
 
-**I dag lanserer vi [en tjeneste](http://tale.holderdeord.no/) som gjør at du enkelt kan grave i hva som sies i stortingssalen. Dette er et helt nytt verktøy som gjør politisk diskursanalyse til noe alle kan drive med.**
+**I dag lanserer vi [en tjeneste](http://tale.holderdeord.no/) som gjør at du enkelt kan grave i hva som sies i stortingssalen. Dette er et helt nytt verktøy som gjør politisk tekstanalyse til noe alle kan drive med.**
 
 Da vi i oktober 2013 skrev vår [ønskeliste til Stortinget](http://blog.holderdeord.no/2013/10/24/nskeliste-til-stortinget/), sto maskinlesbare utgaver av Stortingets referater øverst på lista. Ønsket ble innfridd med en oppdatering av [datatjenesten](http://data.stortinget.no/) et år senere.
 
