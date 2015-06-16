@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Nå lanseres Sagt i salen
+title: "Ny tjeneste: «Sagt i salen»"
 date: "2015-06-17T08:00:00+02:00"
 authors:
   - Jari Bakken
-  - Tiina Ruohonen
 tags:
   - referater
   - stortinget
@@ -32,13 +31,13 @@ Uansett hvilke analyser vi gjorde, kom vi tilbake til de samme spørsmålene: Hv
 
 Inspirert av [Google NGram Viewer](https://books.google.com/ngrams) og [NYT Chronicle](http://chronicle.nytlabs.com/), kan man undersøke i hvor stor andel av innlegg et gitt ord har blitt brukt:
 
-<div class="img-breakout">
+<div style="margin-left: -50%; margin-right: -50%;">
     <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/timeline-finanskrise.png" />
 </div>
 
 Eller hvilket parti som har nevnt et ord i størst andel av sine innlegg:
 
-<div class="img-breakout">
+<div style="margin-left: -50%; margin-right: -50%;">
     <a href="http://tale.holderdeord.no/search/pct/skole/0">
         <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-party-skole.png" />
     </a>
@@ -46,7 +45,7 @@ Eller hvilket parti som har nevnt et ord i størst andel av sine innlegg:
 
 Eller hvilke representanter:
 
-<div class="img-breakout">
+<div style="margin-left: -50%; margin-right: -50%;">
     <a href="http://tale.holderdeord.no/search/pct/bergen/0">
         <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" />
     </a>
@@ -54,11 +53,11 @@ Eller hvilke representanter:
 
 Tjenesten:
 
-* Er tilgjengelig på [tale.holderdeord.no/](http://tale.holderdeord.no/).
-* Inneholder alle referater fra oktober 1998 til dags dato. 
-* Oppdateres kontinuerlig med nye referater fra Stortingets datatjeneste.
+* Er tilgjengelig på [tale.holderdeord.no](http://tale.holderdeord.no/)
+* Inneholder alle referater fra oktober 1998 til dags dato.
+* Oppdateres kontinuerlig med nye referater fra [Stortingets datatjeneste](http://data.stortinget.no/).
 * Har 229 284 innlegg fra 862 talere.
-* Lar deg velge mellom å se resultater i prosentandel og absolutte tall.
-* Lar deg sammenligne flere søkeord med komma.
-* Lar deg eksportere hele resultatsettet som CSV for import i Excel el.l.
-* Støtter wildcard-søk, f.eks. "finans*"
+* Støtter wildcard-søk, f.eks. <em>finans*</em>
+* Kan velge mellom å se resultater i prosentandel og absolutte tall.
+* Kan sammenligne flere søkeord med komma.
+* Støtter CSV-eksport av hele resultatsettet for import i Excel el.l.
