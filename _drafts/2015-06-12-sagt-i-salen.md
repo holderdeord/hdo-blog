@@ -22,7 +22,7 @@ thumbnail: "http://files.holderdeord.no/images/stortingssalen.jpg"
 Da vi i oktober 2013 skrev vår [ønskeliste til Stortinget](http://blog.holderdeord.no/2013/10/24/nskeliste-til-stortinget/), sto maskinlesbare utgaver av Stortingets referater øverst på lista. Ønsket ble innfridd med en oppdatering av [datatjenesten](http://data.stortinget.no/) et år senere.
 
 <div class="fact-box right-box" style='margin-right: -3rem; padding: .5rem;'>
-    <h5>Om tjenesten</h5>
+    <h5>Om «Sagt i salen»</h5>
     <ul style="margin: 0;">
         <li>Tilgjengelig på <a href="http://tale.holderdeord.no/" target="_blank">tale.holderdeord.no</a></li>
         <li>Inneholder alle referater fra oktober 1998 til dags dato</li>
