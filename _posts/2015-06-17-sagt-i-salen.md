@@ -50,7 +50,7 @@ Inspirert av [Google NGram Viewer](https://books.google.com/ngrams) og [NYT Chro
 
 <div class="sagt-i-salen-breakout">
     <a href="http://tale.holderdeord.no/search/pct/finanskrise/0">
-        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/timeline-finanskrise.png" />
+        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/timeline-finanskrise.png" alt="Forekomsten av finanskrise over tid"/>
     </a>
 </div>
 
@@ -58,7 +58,7 @@ Eller hvilket parti som har nevnt et ord i størst andel av sine innlegg:
 
 <div class="sagt-i-salen-breakout">
     <a href="http://tale.holderdeord.no/search/pct/skole/0">
-        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-party-skole.png" />
+        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-party-skole.png" alt="Hvem snakker mest om skole?" />
     </a>
 </div>
 
@@ -66,7 +66,7 @@ Eller hvilke representanter:
 
 <div class="sagt-i-salen-breakout">
     <a href="http://tale.holderdeord.no/search/pct/bergen/0">
-        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" />
+        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" alt="Hvem snakker mest om Bergen?"/>
     </a>
 </div>
 
