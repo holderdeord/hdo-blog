@@ -11,7 +11,7 @@ tags:
   - søk
   - referatsøk
   - sagt i salen
-comments: false
+comments: true
 twitter_card: summary_large_image
 published: true
 thumbnail: "http://files.holderdeord.no/images/stortingssalen.jpg"
