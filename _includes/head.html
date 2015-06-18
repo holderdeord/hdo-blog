@@ -71,12 +71,15 @@
   {% if page.graphic %}
     <meta property="og:image" content="{{ page.graphic.url }}">
     <meta name="twitter:image:src" content="{{ page.graphic.url }}">
+    <meta name="twitter:image" content="{{ page.graphic.url }}">
   {% else if page.thumbnail %}
     <meta property="og:image" content="{{ page.thumbnail }}">
     <meta name="twitter:image:src" content="{{ page.thumbnail }}">
+    <meta name="twitter:image" content="{{ page.thumbnail }}">
   {% else %}
     <meta property="og:image" content="{{ site.url }}/images/logo.jpg">
     <meta name="twitter:image:src" content="{{ site.url }}/images/logo.jpg">
+    <meta name="twitter:image" content="{{ site.url }}/images/logo.jpg">
   {% endif %}
 
   {% if page.tags %}{% for tag in page.tags %}
