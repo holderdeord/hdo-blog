@@ -24,7 +24,7 @@
     <meta content="{{ page.excerpt | strip_html | strip_newlines | xml_escape }}" name="description">
     <meta content="{{ page.excerpt | strip_html | strip_newlines | xml_escape }}" property="og:description">
     <meta content="{{ page.excerpt | strip_html | strip_newlines | xml_escape }}" name="twitter:description">
-  {% elsif page.description %}
+  {% else if page.description %}
     <meta content="{{ page.description | strip_newlines }}" name="description">
     <meta content="{{ page.description | strip_newlines }}" property="og:description">
     <meta content="{{ page.description | strip_newlines }}" name="twitter:description">
