@@ -43,10 +43,6 @@
     <script type="text/javascript" src="/public/js/lib/turn.min.js"></script>
   {% endif %}
 
-  {% if script == 'turnjs' %}
-    <script type="text/javascript" src="/public/js/lib/turn.min.js"></script>
-  {% endif %}
-
   {% if script contains 'post:' %}
     <script src="/public/js/posts/{{ script | split:":" | last }}.js"></script>
   {% endif %}
