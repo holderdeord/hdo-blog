@@ -16,7 +16,7 @@ scripts:
   - __title__
 published: true
 comments: true
-thumbnail: "//files.holderdeord.no/images/dette-er-stortingets-morsomste.jpg"
+thumbnail: "https://files.holderdeord.no/images/dette-er-stortingets-morsomste.jpg"
 twitter_card: summary_large_image
 
 ---

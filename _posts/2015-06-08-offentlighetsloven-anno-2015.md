@@ -14,7 +14,7 @@ scripts:
   - hdo-widgets
 published: true
 comments: true
-thumbnail: "//files.holderdeord.no/images/blog-header.jpg"
+thumbnail: "https://files.holderdeord.no/images/blog-header.jpg"
 twitter_card: summary_large_image
 redirect_from: "/2015/06/07/offentlighetsloven-anno-2015/"
 ---

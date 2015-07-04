@@ -14,7 +14,7 @@ tags:
 comments: true
 twitter_card: summary_large_image
 published: true
-thumbnail: "//files.holderdeord.no/images/stortingssalen.jpg"
+thumbnail: "https://files.holderdeord.no/images/stortingssalen.jpg"
 ---
 
 **I dag lanserer vi [en tjeneste](http://tale.holderdeord.no/) som gjør at du enkelt kan grave i hva som sies i stortingssalen. Dette er et helt nytt verktøy som gjør politisk tekstanalyse til noe alle kan drive med.**
