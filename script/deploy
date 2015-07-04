@@ -10,7 +10,7 @@ DEPLOY_COMMAND="cd /webapps/blog && git fetch origin && git checkout -f $COMMIT 
 
 if [[ -n "$HIPCHAT_API_TOKEN" ]]; then
   curl "https://api.hipchat.com/v1/rooms/message?format=json&auth_token=$HIPCHAT_API_TOKEN" \
-    -d "room_id=155708&from=Deploy&message=$USER+is+deploying+hdo-blog+to+production"
+    -d "room_id=155708&from=Deploy&message=$USER+is+deploying+hdo-blog+to+drafts"
 fi
 
 if [[ "$TRAVIS_BRANCH" = "gh-pages" ]]; then
@@ -25,10 +25,10 @@ result="$?"
 if [[ -n "$HIPCHAT_API_TOKEN" ]]; then
   if [[ "$result" -eq 0 ]]; then
     curl "https://api.hipchat.com/v1/rooms/message?format=json&auth_token=$HIPCHAT_API_TOKEN" \
-      -d "room_id=155708&from=Deploy&message=$USER+finished+deploying+hdo-blog+to+production&color=green"
+      -d "room_id=155708&from=Deploy&message=$USER+finished+deploying+hdo-blog+to+drafts&color=green"
   else
     curl "https://api.hipchat.com/v1/rooms/message?format=json&auth_token=$HIPCHAT_API_TOKEN" \
-      -d "room_id=155708&from=Deploy&message=hdo-blog+deploy+to+production+failed&color=red"
+      -d "room_id=155708&from=Deploy&message=hdo-blog+deploy+to+drafts+failed&color=red"
   fi
 
 fi
