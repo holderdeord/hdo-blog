@@ -17,7 +17,7 @@ scripts:
   - __title__
 comments: true
 published: true
-thumbnail: //files.holderdeord.no/images/stortingssalen.jpg
+thumbnail: https://files.holderdeord.no/images/stortingssalen.jpg
 twitter_card: summary_large_image
 ---
 
