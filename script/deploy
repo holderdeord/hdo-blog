@@ -6,7 +6,7 @@ if [[ -n "$TRAVIS_COMMIT" ]]; then
     COMMIT="$TRAVIS_COMMIT"
 fi
 
-DEPLOY_COMMAND="cd /webapps/blog && git fetch origin && git checkout -f $COMMIT && bash -l -c 'bundle install --deployment && echo -e \"url: http://drafts.holderdeord.no/\nshow_drafts: true\nlsi: true\" > _drafts_config.yml && bundle exec jekyll build --config _config.yml,_drafts_config.yml'"
+DEPLOY_COMMAND="cd /webapps/blog && git fetch origin && git checkout -f $COMMIT && bash -l -c 'bundle install --deployment && echo -e \"url: http://drafts.holderdeord.no/\nshow_drafts: true\" > _drafts_config.yml && bundle exec jekyll build --config _config.yml,_drafts_config.yml'"
 
 if [[ -n "$HIPCHAT_API_TOKEN" ]]; then
   curl "https://api.hipchat.com/v1/rooms/message?format=json&auth_token=$HIPCHAT_API_TOKEN" \
