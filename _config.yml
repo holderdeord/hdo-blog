@@ -19,7 +19,7 @@ author:
 # Custom vars
 markdown:         kramdown # same as github pages
 version:          0.0.1
-exclude:          [vendor]
+exclude:          [vendor, script]
 github:
   repo:           https://github.com/holderdeord/hdo-blog
 gems:

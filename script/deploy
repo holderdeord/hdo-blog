@@ -1,0 +1,34 @@
+#!/bin/bash
+
+COMMIT=`git rev-parse HEAD`
+
+if [[ -n "$TRAVIS_COMMIT" ]]; then
+    COMMIT="$TRAVIS_COMMIT"
+fi
+
+DEPLOY_COMMAND="cd /webapps/blog && git fetch origin && git checkout -f $COMMIT && bash -l -c 'bundle install --deployment && echo -e \"url: http://drafts.holderdeord.no/\nshow_drafts: true\nlsi: true\" > _drafts_config.yml && bundle exec jekyll build --config _config.yml,_drafts_config.yml'"
+
+if [[ -n "$HIPCHAT_API_TOKEN" ]]; then
+  curl "https://api.hipchat.com/v1/rooms/message?format=json&auth_token=$HIPCHAT_API_TOKEN" \
+    -d "room_id=155708&from=Deploy&message=$USER+is+deploying+hdo-blog+to+production"
+fi
+
+if [[ "$TRAVIS_BRANCH" = "gh-pages" ]]; then
+  openssl aes-256-cbc -K $encrypted_d94cfa9a3b56_key -iv $encrypted_d94cfa9a3b56_iv -in scripts/deploy.enc -out scripts/deploy_dsa -d
+  ssh -o StrictHostKeyChecking=no -i scripts/deploy_dsa hdo@hdo01.holderdeord.no $DEPLOY_COMMAND
+else
+  ssh hdo@hdo01.holderdeord.no $DEPLOY_COMMAND
+fi
+
+result="$?"
+
+if [[ -n "$HIPCHAT_API_TOKEN" ]]; then
+  if [[ "$result" -eq 0 ]]; then
+    curl "https://api.hipchat.com/v1/rooms/message?format=json&auth_token=$HIPCHAT_API_TOKEN" \
+      -d "room_id=155708&from=Deploy&message=$USER+finished+deploying+hdo-blog+to+production&color=green"
+  else
+    curl "https://api.hipchat.com/v1/rooms/message?format=json&auth_token=$HIPCHAT_API_TOKEN" \
+      -d "room_id=155708&from=Deploy&message=hdo-blog+deploy+to+production+failed&color=red"
+  fi
+
+fi
