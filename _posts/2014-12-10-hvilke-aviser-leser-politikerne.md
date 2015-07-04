@@ -5,7 +5,7 @@ date: '2014-12-10-T10:14:32.000+01:00'
 authors:
 - Jari Bakken
 comments: true
-thumbnail: http://files.holderdeord.no/images/hvilke-aviser-leser-politikerne.png
+thumbnail: //files.holderdeord.no/images/hvilke-aviser-leser-politikerne.png
 tags:
 - presse
 - media

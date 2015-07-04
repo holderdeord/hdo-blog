@@ -14,7 +14,7 @@ tags:
 comments: true
 twitter_card: summary_large_image
 published: true
-thumbnail: "http://files.holderdeord.no/images/stortingssalen.jpg"
+thumbnail: "//files.holderdeord.no/images/stortingssalen.jpg"
 ---
 
 **I dag lanserer vi [en tjeneste](http://tale.holderdeord.no/) som gjør at du enkelt kan grave i hva som sies i stortingssalen. Dette er et helt nytt verktøy som gjør politisk tekstanalyse til noe alle kan drive med.**
@@ -50,7 +50,7 @@ Inspirert av [Google NGram Viewer](https://books.google.com/ngrams) og [NYT Chro
 
 <div class="sagt-i-salen-breakout">
     <a href="http://tale.holderdeord.no/search/pct/finanskrise/0">
-        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/timeline-finanskrise.png" alt="Forekomsten av finanskrise over tid"/>
+        <img class="img-responsive" src="//files.holderdeord.no/images/sagt-i-salen/timeline-finanskrise.png" alt="Forekomsten av finanskrise over tid"/>
     </a>
 </div>
 
@@ -58,7 +58,7 @@ Eller hvilket parti som har nevnt et ord i størst andel av sine innlegg:
 
 <div class="sagt-i-salen-breakout">
     <a href="http://tale.holderdeord.no/search/pct/skole/0">
-        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-party-skole.png" alt="Hvem snakker mest om skole?" />
+        <img class="img-responsive" src="//files.holderdeord.no/images/sagt-i-salen/top-party-skole.png" alt="Hvem snakker mest om skole?" />
     </a>
 </div>
 
@@ -66,7 +66,7 @@ Eller hvilke representanter:
 
 <div class="sagt-i-salen-breakout">
     <a href="http://tale.holderdeord.no/search/pct/bergen/0">
-        <img class="img-responsive" src="http://files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" alt="Hvem snakker mest om Bergen?"/>
+        <img class="img-responsive" src="//files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" alt="Hvem snakker mest om Bergen?"/>
     </a>
 </div>
 

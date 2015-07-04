@@ -16,7 +16,7 @@ scripts:
   - "twitter-wjs"
 published: true
 comments: true
-thumbnail: "http://files.holderdeord.no/images/partipisken.jpg"
+thumbnail: "//files.holderdeord.no/images/partipisken.jpg"
 twitter_card: summary_large_image
 ---
 
