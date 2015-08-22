@@ -6,11 +6,11 @@ published: false
 
 Er du en utvikler som har lyst på en hobby hvor du kan eksperimentere med teknologivalg og åpne offentlige data? 
 
-Holder de ord består av en salig miks av folk med forskjellige spisskompetanser. Det vi har til felles er vårt samfunnsengasjement og en interesse for politikk uten at vi ønsker å være politisk aktive i et parti, nødvendigvis. 
+Holder de ord består av en salig miks av folk med forskjellige spisskompetanser. Det vi har til felles er vårt samfunnsengasjement, og en interesse for politikk uten at vi ønsker å være politisk aktive i et parti, nødvendigvis. 
 
 #Du
 
-Du har gjerne litt tid til overs og et overskudd som du kan dele med oss. Det er lov å ha et privatliv ved siden av, og vi er alle yrkesaktive med familieliv ved siden av. De mest dedikerte blant oss møtes hver tirsdag, men det er helt kurant å møte langt sjeldnere eller i helgene når vi møtes på hackaton. 
+Du har gjerne litt tid til overs og et overskudd som du kan dele med oss. Det er lov å ha et privatliv ved siden av, og vi er alle yrkesaktive med familieliv. De mest dedikerte blant oss møtes hver tirsdag, men det er helt kurant å møte langt sjeldnere eller de helgene når vi arrangerer hackaton. 
 
 Du er interessert i å eksperimentere med ny teknologi. Holder de ord er bygget på Ruby on Rails, Elasticsearch og Postgresql, mens nye prosjekter ofte bruker node.js og React. Det viktigste er ikke hvilken teknologi du kan, men at du liker ideen om å bruke teknologi for å gjøre demokratiet bedre.
 
