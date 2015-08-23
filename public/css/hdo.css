@@ -650,3 +650,14 @@ main > .post .post-content > p:first-child > strong:first-child {
     }
 }
 
+.breakout {
+    margin-left: -50%;
+    margin-right: -50%;
+}
+
+@media screen and (max-width: 768px) {
+    .breakout {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}

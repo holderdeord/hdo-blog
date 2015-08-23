@@ -48,7 +48,7 @@ Uansett hvilke analyser vi gjorde, kom vi tilbake til de samme spørsmålene: Hv
 
 Inspirert av [Google NGram Viewer](https://books.google.com/ngrams) og [NYT Chronicle](http://chronicle.nytlabs.com/), kan man undersøke i hvor stor andel av innlegg et gitt ord har blitt brukt:
 
-<div class="sagt-i-salen-breakout">
+<div class="breakout">
     <a href="http://tale.holderdeord.no/search/pct/finanskrise/0">
         <img class="img-responsive" src="//files.holderdeord.no/images/sagt-i-salen/timeline-finanskrise.png" alt="Forekomsten av finanskrise over tid"/>
     </a>
@@ -56,7 +56,7 @@ Inspirert av [Google NGram Viewer](https://books.google.com/ngrams) og [NYT Chro
 
 Eller hvilket parti som har nevnt et ord i størst andel av sine innlegg:
 
-<div class="sagt-i-salen-breakout">
+<div class="breakout">
     <a href="http://tale.holderdeord.no/search/pct/skole/0">
         <img class="img-responsive" src="//files.holderdeord.no/images/sagt-i-salen/top-party-skole.png" alt="Hvem snakker mest om skole?" />
     </a>
@@ -64,7 +64,7 @@ Eller hvilket parti som har nevnt et ord i størst andel av sine innlegg:
 
 Eller hvilke representanter:
 
-<div class="sagt-i-salen-breakout">
+<div class="breakout">
     <a href="http://tale.holderdeord.no/search/pct/bergen/0">
         <img class="img-responsive" src="//files.holderdeord.no/images/sagt-i-salen/top-person-bergen.png" alt="Hvem snakker mest om Bergen?"/>
     </a>
@@ -72,16 +72,3 @@ Eller hvilke representanter:
 
 Vi håper mange får glede av dette verktøyet. Prøv tjenesten på [tale.holderdeord.no](http://tale.holderdeord.no).
 
-<style>
-    .sagt-i-salen-breakout {
-        margin-left: -50%;
-        margin-right: -50%;
-    }
-
-    @media screen and (max-width: 768px) {
-        .sagt-i-salen-breakout {
-            margin-left: 0;
-            margin-right: 0;
-        }
-    }
-</style>
