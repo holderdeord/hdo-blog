@@ -7,7 +7,7 @@ authors:
   - Jari Bakken
 published: true
 comments: true
-thumbnail: https://files.holderdeord.no/images/venn.png
+thumbnail: https://files.holderdeord.no/images/coders.png
 twitter_card: summary_large_image
 ---
 
