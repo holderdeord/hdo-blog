@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Hobby søker utvikler"
+title: Hobby søker utvikler
 date: "2015-08-22T23:59:59.000+01:00"
-authors:
+authors: 
   - Tiina Ruohonen
   - Jari Bakken
 published: true
 ---
+
 
 **Er du en utvikler eller designer som har lyst på en hobby hvor du kan eksperimentere med teknologi og åpne data?**
 
@@ -30,7 +31,7 @@ Holder de ord er en partipolitisk uavhengig organisasjon som jobber for å gi fo
 
 Vi er en prinsipiell tilhenger av mer gjennomsiktigte politiske beslutninger, åpne data og åpen kildekode. Våre tjenester er bygget på [Stortingets APIer](http://data.stortinget.no/) og koden er [tilgjengelig for alle](https://github.com/holderdeord/).
 
-Vår database er en gullgruve av data om norsk politikk, med over 13 000 politiske løfter, 6 000 avstemninger og 220 000 innlegg. I tillegg er vi i ferd med å lage en database om skriftlige spørsmål og interpellasjoner og en om statsbudsjettet.
+Vår database er en gullgruve av data om norsk politikk, med over 13 000 politiske løfter, 6 000 avstemninger og 220 000 innlegg. Og det er bare begynnelsen.
 
 Interessert?
 
