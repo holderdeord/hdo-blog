@@ -23,7 +23,11 @@ Du har gjerne litt tid til overs og et overskudd som du kan dele med oss. De mes
 
 Kanskje har du lyst til å ha et prosjekt hvor du kan jobbe med litt annen teknologi enn i det daglige. Tjenesten [tale.holderdeord.no](https://tale.holderdeord.no) som vi lanserte i sommer er skrevet i Node.js / ES6 / React, og vi snuser på GraphQL / Relay for fremtidige prosjekter. Andre steder bruker vi Ruby on Rails, Elasticsearch og PostgreSQL. Det viktigste er likevel ikke hvilke verktøy du kan, men at du liker ideen om å bruke teknologi for å gjøre demokratiet bedre.
 
-Vi trenger også folk som er gode på UX / design. Om du brenner for gode brukeropplevelser og solid design er mangel på programmeringserfaring ingen hindring. Vi vil lage tjenester som er forståelige og innbydende for alle.
+Vi trenger også folk som er gode på UX / design. Om du brenner for gode brukeropplevelser og solid design er mangel på programmeringserfaring ingen hindring. 
+
+Vi vil lage tjenester som er forståelige og innbydende for alle. Data er ikke nok i seg selv. Det aller viktigste er derfor at du ønsker å bygge gode fortellinger rundt data som gir mening for folk. 
+
+
 
 ## Oss
 
@@ -32,6 +36,9 @@ Holder de ord er en partipolitisk uavhengig organisasjon som jobber for å gi fo
 Vi er en prinsipiell tilhenger av mer gjennomsiktigte politiske beslutninger, åpne data og åpen kildekode. Våre tjenester er bygget på [Stortingets APIer](http://data.stortinget.no/) og koden er [tilgjengelig for alle](https://github.com/holderdeord/).
 
 Vår database er en gullgruve av data om norsk politikk, med over 13 000 politiske løfter, 6 000 avstemninger og 220 000 innlegg. Og det er bare begynnelsen.
+
+## Konkret produktutvikling
+Vi er i gang med å lage en applikasjon for statsbudsjettet - det mest ugjennomtrengelige men også viktigste politiske dokumentet i Norge. Ønsket er å lage noe som gjør det enkelt for folk å sjekke hva slags politiske føringer ligger i regjeringens statsbudsjett og opposisjonens alternative statsbudsjett - hva er det politikerne faktisk bevilger penger til? Et annet produkt vi ønsker å utvikle handler om å gjøre noe med databasen om skriftlige spørsmål og interpellasjoner.
 
 Interessert?
 
