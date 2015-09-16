@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Hobby søker utvikler
-date: "2015-08-22T23:59:59.000+01:00"
+date: "2015-09-16T18:28:59.000+01:00"
 authors: 
   - Tiina Ruohonen
   - Jari Bakken
 published: true
+comments: true
+thumbnail: https://files.holderdeord.no/images/venn.png
+twitter_card: summary_large_image
 ---
 
 
