@@ -28,7 +28,6 @@ Vi trenger også folk som er gode på UX / design. Om du brenner for gode bruker
 Vi vil lage tjenester som er forståelige og innbydende for alle. Data er ikke nok i seg selv. Det aller viktigste er derfor at du ønsker å bygge gode fortellinger rundt data som gir mening for folk. 
 
 
-
 ## Oss
 
 Holder de ord er en partipolitisk uavhengig organisasjon som jobber for å gi folk større oversikt og innflytelse over politikken. Dette gjør vi gjennom digitale verktøy.
@@ -38,7 +37,8 @@ Vi er en prinsipiell tilhenger av mer gjennomsiktigte politiske beslutninger, å
 Vår database er en gullgruve av data om norsk politikk, med over 13 000 politiske løfter, 6 000 avstemninger og 220 000 innlegg. Og det er bare begynnelsen.
 
 ## Konkret produktutvikling
-Vi er i gang med å lage en applikasjon for statsbudsjettet - det mest ugjennomtrengelige men også viktigste politiske dokumentet i Norge. Ønsket er å lage noe som gjør det enkelt for folk å sjekke hva slags politiske føringer ligger i regjeringens statsbudsjett og opposisjonens alternative statsbudsjett - hva er det politikerne faktisk bevilger penger til? Et annet produkt vi ønsker å utvikle handler om å gjøre noe med databasen om skriftlige spørsmål og interpellasjoner.
+
+Vi er i gang med å lage en applikasjon for statsbudsjettet - det mest ugjennomtrengelige men også viktigste politiske dokumentet i Norge. Ønsket er å lage noe som gjør det enkelt for folk å sjekke hva slags politiske føringer ligger i regjeringens statsbudsjett og opposisjonens alternative statsbudsjett.
 
 Interessert?
 
