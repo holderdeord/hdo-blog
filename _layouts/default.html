@@ -31,7 +31,7 @@
     {% include footer.html %}
     {% include scripts.html %}
 
-    {% if site.github.environment %}
+    {% if jekyll.environment === 'production' %}
       {% include analytics.html %}
     {% endif %}
 
