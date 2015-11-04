@@ -30,6 +30,9 @@ Vi trenger også folk som er gode på UX / design. Om du brenner for gode bruker
 
 Vi vil lage tjenester som er forståelige og innbydende for alle. Data er ikke nok i seg selv. Det aller viktigste er derfor at du ønsker å bygge gode fortellinger rundt data som gir mening for folk. 
 
+<div style="text-align: center;">
+    <img style="display: inline-block" class="img-responsive" src="//files.holderdeord.no/images/coders.png" alt="Utviklere i Holder de ord"/>
+</div>
 
 ## Oss
 
