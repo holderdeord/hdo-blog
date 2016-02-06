@@ -3,6 +3,8 @@ language: ruby
 cache: bundler
 rvm:
 - 2.1
+before_install:
+- export TZ=Europe/Oslo
 script:
 - bundle exec jekyll build
 - script/deploy
