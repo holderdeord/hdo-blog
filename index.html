@@ -3,16 +3,23 @@ layout: default
 graphic:
   url: https://files.holderdeord.no/images/stortingssalen.jpg
   caption: "Illustrasjonsfoto: Stortingssalen"
+scripts:
+- jquery
+- parallax
 ---
 
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+
+    <a class="post-link" href="{{ post.url }}">
+        <div class="post-image" style="background-image: url({{post.thumbnail}}"></div>
+
+        <h1 class="post-title">
+            {{ post.title }}
+        </h1>
+    </a>
+
 
     <div class="post-byline">
       {% include byline.html date=post.date authors=post.authors %}

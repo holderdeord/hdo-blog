@@ -266,6 +266,20 @@ img {
   margin: 0 0 1rem;
 }
 
+a.post-link {
+    text-decoration: none;
+}
+
+a.post-link:hover {
+    text-decoration: none;
+}
+
+.post-image {
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 200px;
+}
+
 .post figcaption {
   margin-bottom: 1rem;
   font-size: 80%;
