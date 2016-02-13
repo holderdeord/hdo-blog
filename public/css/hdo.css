@@ -278,6 +278,16 @@ a.post-link:hover {
     background-position: 50% 50%;
     background-size: cover;
     height: 200px;
+
+    -webkit-filter: grayscale(0.4);
+    -moz-filter: grayscale(0.4);
+
+    transition: all ease 0.3s;
+}
+
+.post-image:hover {
+    -webkit-filter: none;
+    -moz-filter: none;
 }
 
 .post figcaption {
