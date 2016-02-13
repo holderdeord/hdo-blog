@@ -275,6 +275,7 @@ a.post-link:hover {
 }
 
 .post-image {
+    border-radius: 3px;
     background-position: 50% 50%;
     background-size: cover;
     height: 200px;
