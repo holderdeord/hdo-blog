@@ -266,6 +266,16 @@ img {
   margin: 0 0 1rem;
 }
 
+.post img.top {
+    margin: 0;
+}
+
+.post .thumbnail-credit {
+    text-align: right;
+    color: #555;
+    margin: 0;
+}
+
 a.post-link {
     text-decoration: none;
 }

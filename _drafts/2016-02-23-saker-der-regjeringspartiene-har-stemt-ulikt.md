@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saker der regjeringspartiene har stemt ulikt
+title: Her er Siv og Erna uenige
 date: '2016-02-23T12:00:00.000+01:00'
 authors:
 - Hanna Tranås
@@ -11,12 +11,13 @@ tags:
 - fremskrittspartiet
 scripts:
 - hdo-widgets
-thumbnail: https://files.holderdeord.no/images/old-blog/IMG_0872.JPG
+thumbnail: https://files.holderdeord.no/images/erna-nmd.jpg
+thumbnail_credit: "FOTO: Eirik Helland Urke"
 ---
 
-**Av totalt 2353 avstemninger i denne regjeringsperioden, har Høyre og Frp vært uenige i 17.**
+**Av totalt 2353 avstemninger i denne regjeringsperioden, har Høyre og Frp vært uenige i 17. Her er en oversikt over hvilke saker dette er.**
 
-I vår nye enighetstjeneste kommer det fram at regjeringspartiene Høyre og Frp har stemt sammen i 99 % av sakene siden valget i 2013. Denne ene prosenten er mer nøyaktig 17 avstemninger. Her er en oversikt over hvilke saker dette er.
+I vår nye enighetstjeneste kommer det fram at regjeringspartiene Høyre og Frp har stemt sammen i 99 % av sakene siden valget i 2013. Denne ene prosenten er mer nøyaktig 17 avstemninger.
 
 ### Flyktning- og innvandringspolitikk
 
@@ -30,7 +31,11 @@ Les også: [Saker hvor de rødgrønne har stemt ulikt](https://blog.holderdeord.
 
 I desember 2015 fremmet KrF [forslag](http://www.holderdeord.no/votes/1449587838ne) om at alle som er over 12 år og oppfyller vilkårene og får innvilget norsk statsborgerskap skal gjennomgå en obligatorisk offentlig statsborgerskapsseremoni. KrFs begrunnelse var at å delta i denne seremonien og avlegge et troskapsløfte er viktig for å stadfeste sin tilknytning til Norge, og at å delta aktivt i en offentlig seremoni vil kunne føre til økt tilknytning, medansvar og følelse av sterkere tilhørighet til de verdiene som landet bygger på. Frp var det eneste andre partiet som stemte for.
 
-<a class='hdo-vote-widget' href='https://data.holderdeord.no/' data-vote-id='1449587838ne'>Laster innhold fra Holder de ord</a>
+<a 
+    class='hdo-vote-widget' 
+    href='https://data.holderdeord.no/' 
+    data-vote-id='1449587838ne'
+    data-proposition-id='13261'>Laster innhold fra Holder de ord</a>
 
 ### Klimapolitikk
 
@@ -50,7 +55,11 @@ Høyre og Frp har vært uenige om hvorvidt innføring av en nasjonal minstelønn
 
 SV stemte i 2014 som eneste andre parti for [Frps forslag](http://www.holderdeord.no/votes/1434058865ne) om å ikke redusere alderspensjonistenes kjøpekraft i forbindelse med statsbudsjettet for 2015.
 
-<a class='hdo-vote-widget' href='https://data.holderdeord.no/' data-vote-id='1434058865ne'>Laster innhold fra Holder de ord</a>
+<a 
+    class='hdo-vote-widget' 
+    href='https://data.holderdeord.no/' 
+    data-vote-id='1434058865ne'
+    data-proposition-id='12537'>Laster innhold fra Holder de ord</a>
 
 ### Grunnlovsendringsforslag
 
@@ -71,6 +80,10 @@ Regjeringspartiene stemte også ulikt i spørsmålet om [endring av Grunnlovens 
 
 FrP var også det [eneste partiet som stemte mot](http://www.holderdeord.no/votes/1400002954e) at Grunnloven skal sikre retten til et sunt miljø.
 
-<a class='hdo-vote-widget' href='https://data.holderdeord.no/' data-vote-id='1400002954e'>Laster innhold fra Holder de ord</a>
+<a 
+    class='hdo-vote-widget' 
+    href='https://data.holderdeord.no/' 
+    data-vote-id='1400002954e'
+    data-proposition-id='10564'>Laster innhold fra Holder de ord</a>
 
 Frp var imidlertid ikke eneste parti som stemte for [forslaget](http://www.holderdeord.no/votes/1400004247ne) om at Grunnloven skal få en ny paragraf som legger til grunn at familien er den grunnleggende enheten i samfunnet, og at staten har en særlig plikt til å bistå barnefamilier. Kun Høyre og Venstre stemte mot, da de mente at Grunnloven primært bør inneholde menneskerettigheter som bør kunne håndheves og gjøres gjeldende mot staten, og at det ikke er hensiktsmessig å blande sammen uforpliktende programerklæringer og symbolske langsiktige målsettinger sammen med klare rettsregler.

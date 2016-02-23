@@ -13,10 +13,6 @@ twitter_card: summary_large_image
 
 **I disse dager inntar nyvalgte politikere kommune- og bystyresalene landet rundt. La årets kommunevalg markere starten på revolusjonen i bruk av informasjonsteknologi i norske kommuner. Gjennom moderne dataverktøy kan det bli mer åpenhet om hva som skjer i din kommune. Dette vil styrke lokalpolitikken og gjøre administrasjonen mer effektiv.**
 
-<div style="text-align: center;">
-    <img style="display: inline-block" class="img-responsive" src="//files.holderdeord.no/images/code.jpg" alt="Åpne data"/>
-</div>
-
 ## Åpenhetsvalget
 
 Mer åpenhet har vært et gjennomgangstema de siste årene og særlig i årets kommunevalg. Raymond Johansen (Ap) lovet på mandag at den nye byregjeringen i Oslo vil tilrettelegge for mer åpenhet i hvordan hovedstaden drives. Likevel har både Stortinget og lokale folkevalgte begrenset publikums innsyn i lokalpolitikken. Etter påtrykk fra lokale partikolleger i blant annet Oslo [endret Stortingspolitikere tidligere i år offentlighetsloven](https://blog.holderdeord.no/2015/06/08/offentlighetsloven-anno-2015/) slik at det ble lettere for byråd å holde informasjon borte fra offentligheten.

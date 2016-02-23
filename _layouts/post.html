@@ -3,6 +3,11 @@ layout: default
 ---
 
 <article class="post {{ page.title | slugify }}">
+  {% if page.thumbnail %}
+    <img src="{{page.thumbnail}}" class="top img-responsive" />
+    <figcaption class="thumbnail-credit">{{page.thumbnail_credit}}</figcaption>
+  {% endif %}
+
   <h1 class="post-title">{{ page.title }}</h1>
 
   <div class="post-byline">
