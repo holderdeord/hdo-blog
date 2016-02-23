@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Her er Siv og Erna uenige
-date: '2016-02-23T12:00:00.000+01:00'
+date: '2016-02-23T19:23:00.000+01:00'
 authors:
 - Hanna Tranås
 tags:
@@ -31,9 +31,9 @@ Les også: [Saker hvor de rødgrønne har stemt ulikt](https://blog.holderdeord.
 
 I desember 2015 fremmet KrF [forslag](http://www.holderdeord.no/votes/1449587838ne) om at alle som er over 12 år og oppfyller vilkårene og får innvilget norsk statsborgerskap skal gjennomgå en obligatorisk offentlig statsborgerskapsseremoni. KrFs begrunnelse var at å delta i denne seremonien og avlegge et troskapsløfte er viktig for å stadfeste sin tilknytning til Norge, og at å delta aktivt i en offentlig seremoni vil kunne føre til økt tilknytning, medansvar og følelse av sterkere tilhørighet til de verdiene som landet bygger på. Frp var det eneste andre partiet som stemte for.
 
-<a 
-    class='hdo-vote-widget' 
-    href='https://data.holderdeord.no/' 
+<a
+    class='hdo-vote-widget'
+    href='https://data.holderdeord.no/'
     data-vote-id='1449587838ne'
     data-proposition-id='13261'>Laster innhold fra Holder de ord</a>
 
@@ -55,9 +55,9 @@ Høyre og Frp har vært uenige om hvorvidt innføring av en nasjonal minstelønn
 
 SV stemte i 2014 som eneste andre parti for [Frps forslag](http://www.holderdeord.no/votes/1434058865ne) om å ikke redusere alderspensjonistenes kjøpekraft i forbindelse med statsbudsjettet for 2015.
 
-<a 
-    class='hdo-vote-widget' 
-    href='https://data.holderdeord.no/' 
+<a
+    class='hdo-vote-widget'
+    href='https://data.holderdeord.no/'
     data-vote-id='1434058865ne'
     data-proposition-id='12537'>Laster innhold fra Holder de ord</a>
 
@@ -67,12 +67,12 @@ Regjeringspartiene har vært uenige i en rekke formuleringer i Grunnloven. I mai
 
 [Høyre sammen med MDG](http://www.holderdeord.no/votes/1400001135ne) ønsket også at det skal hete at «alle mennesker er født frie og like. Staten skal respektere og sikre menneskerettighetene», mens de andre partiene gikk for «Statens myndigheter skal respektere og sikre menneskerettighetene slik de er nedfelt i denne grunnlov og i for Norge bindende traktater om menneskerettigheter».
 
-[Regjeringspartiene var også uenige](http://www.holderdeord.no/votes/1400002460e) om hvorvidt Grunnloven skal garantere rett til utdannelse. Høyre og Venstre foreslo at det i en ny paragraf i Grunnloven skal hete at 
+[Regjeringspartiene var også uenige](http://www.holderdeord.no/votes/1400002460e) om hvorvidt Grunnloven skal garantere rett til utdannelse. Høyre og Venstre foreslo at det i en ny paragraf i Grunnloven skal hete at
 
 >Enhver har rett til utdannelse. Barn har rett til å motta grunnleggende opplæring. Opplæringen skal ivareta den enkeltes evner og behov og fremme respekt for demokratiet, rettsstaten og menneskerettighetene
 
 
-Frp ønsket ikke at Grunnloven skal regulere utdanningsspørsmål. 
+Frp ønsket ikke at Grunnloven skal regulere utdanningsspørsmål.
 
 [Frp stemte også som eneste parti mot følgende formulering](http://www.holderdeord.no/votes/1400002500e): «Statens myndigheter skal sikre adgang til videregående opplæring og like muligheter til høyere utdannelse på grunnlag av kvalifikasjoner.»
 
@@ -80,9 +80,9 @@ Regjeringspartiene stemte også ulikt i spørsmålet om [endring av Grunnlovens 
 
 FrP var også det [eneste partiet som stemte mot](http://www.holderdeord.no/votes/1400002954e) at Grunnloven skal sikre retten til et sunt miljø.
 
-<a 
-    class='hdo-vote-widget' 
-    href='https://data.holderdeord.no/' 
+<a
+    class='hdo-vote-widget'
+    href='https://data.holderdeord.no/'
     data-vote-id='1400002954e'
     data-proposition-id='10564'>Laster innhold fra Holder de ord</a>
 
