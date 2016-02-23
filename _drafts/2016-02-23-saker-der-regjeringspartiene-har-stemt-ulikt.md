@@ -5,7 +5,7 @@ I vår nye enighetstjeneste kommer det fram at regjeringspartiene Høyre og Frp 
 
 ### Flyktning- og innvandringspolitikk
 
-Uenigheten omkring det såkalte Syria-forliket har blitt mye omtalt. Alle partiene på Stortinget bortsett fra Frp og SV [stemte for at Norge skal ta i mot 8000 kvoteflyktninger fra Syria](http://www.holderdeord.no/votes/1434722122e), fordelt på årene 2015, 2016 og 2017. Frp ville ta i mot færre, mens SV ville ta i mot flere.
+Uenigheten omkring det såkalte Syria-forliket har blitt mye omtalt. Alle partiene på Stortinget bortsett fra Frp og SV [stemte for] at Norge skal ta i mot 8000 kvoteflyktninger fra Syria(http://www.holderdeord.no/votes/1434722122e), fordelt på årene 2015, 2016 og 2017. Frp ville ta i mot færre, mens SV ville ta i mot flere.
 
 Frp fremmet derfor et eget [forslag om å avholde en folkeavstemning](http://www.holderdeord.no/votes/1434722174ne) om hvorvidt Norge skal ta i mot flere flyktninger. Dette ble nedstemt av alle de andre partiene på Stortinget.
 
