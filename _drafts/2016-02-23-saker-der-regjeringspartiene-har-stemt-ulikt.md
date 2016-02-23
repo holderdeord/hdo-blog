@@ -1,3 +1,16 @@
+---
+layout: post
+title: Saker der regjeringspartiene har stemt ulikt
+date: '2016-02-23T12:00:00.000+01:00'
+authors:
+- Hanna Tranås
+tags:
+- stortinget
+- enighet
+- høyre
+- fremskrittspartiet
+thumbnail: https://files.holderdeord.no/images/old-blog/IMG_0872.JPG
+----
 
 **Av totalt 2353 avstemninger i denne regjeringsperioden, har Høyre og Frp vært uenige i 17.**
 
