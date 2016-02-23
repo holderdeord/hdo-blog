@@ -21,7 +21,7 @@ Frp fremmet derfor et eget forslag om å avholde en folkeavstemning om hvorvidt 
 
 Regjeringspartiene stemte også ulikt over et forslag om å kartlegge behov og huslyløsninger for flyktninger innenfor norsk internasjonal humanitær innsats. Forslaget ble fremmet av Frp, KrF og Sp, og MDG og Venstre stemte for.
 
-Les også: Saker hvor de rødgrønne har stemt ulikt
+Les også: [Saker hvor de rødgrønne har stemt ulikt](https://blog.holderdeord.no/2013/08/30/saker-hvor-de-rdgrnne-har-stemt-ulikt/)
 
 I desember 2015 fremmet KrF forslag om at alle som er over 12 år og oppfyller vilkårene og får innvilget norsk statsborgerskap skal gjennomgå en obligatorisk offentlig statsborgerskapsseremoni. KrFs begrunnelse var at å delta i denne seremonien og avlegge et troskapsløfte er viktig for å stadfeste sin tilknytning til Norge, og at å delta aktivt i en offentlig seremoni vil kunne føre til økt tilknytning, medansvar og følelse av sterkere tilhørighet til de verdiene som landet bygger på. Frp var det eneste andre partiet som stemte for.
 
