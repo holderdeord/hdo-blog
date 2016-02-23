@@ -32,7 +32,7 @@ widget her
 
 ### Klimapolitikk
 
-FrP stemte som eneste parti mot et [forslag fra MDG, KrF og Sp](https://www.holderdeord.no/votes/1427250893e) om å fastsette Norges klimamål for 2030 og 2050 i lov. FrP stemte også som eneste parti mot [forslag](http://www.holderdeord.no/votes/1427251079e) om at regjeringen i de årlige budsjettene skal rapportere på hvordan Norge kan nå klimamålene for 2020, 2030 og frem mot 2050, og hvordan budsjettet påvirker Norges klimagassutslipp.
+FrP stemte som eneste parti mot et [forslag fra MDG, KrF og Sp](https://www.holderdeord.no/votes/1427250893e) om å fastsette Norges klimamål for 2030 og 2050 i lov. FrP stemte også som eneste parti mot [forslag](http://www.holderdeord.no/votes/1427251079e) om at regjeringen i de årlige budsjettene skal rapportere på hvordan Norge kan nå klimamålene for 2020, 2030 og frem mot 2050, og på hvordan budsjettet påvirker Norges klimagassutslipp.
 
 Regjeringspartiene stemte også ulikt over et [forslag](http://www.holderdeord.no/votes/1418758994e) om å la fylkeskommunene få stille miljøkrav til drosjenæringen. Også her var Frp eneste parti som stemte mot.
 
