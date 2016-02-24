@@ -17,7 +17,7 @@ thumbnail_credit: "FOTO: Eirik Helland Urke"
 
 **Av totalt 2353 avstemninger i denne regjeringsperioden, har Høyre og Frp vært uenige i 17. Her er en oversikt over hvilke saker dette er.**
 
-I vår nye enighetstjeneste kommer det fram at regjeringspartiene Høyre og Frp har stemt sammen i 99 % av sakene siden valget i 2013. Denne ene prosenten er mer nøyaktig 17 avstemninger.
+I [vår nye enighetstjeneste](https://enighet.holderdeord.no) kommer det fram at regjeringspartiene Høyre og Frp har stemt sammen i 99 % av sakene siden valget i 2013. Denne ene prosenten er mer nøyaktig 17 avstemninger.
 
 ### Flyktning- og innvandringspolitikk
 
@@ -87,3 +87,7 @@ FrP var også det [eneste partiet som stemte mot](http://www.holderdeord.no/vote
     data-proposition-id='10564'>Laster innhold fra Holder de ord</a>
 
 Frp var imidlertid ikke eneste parti som stemte for [forslaget](http://www.holderdeord.no/votes/1400004247ne) om at Grunnloven skal få en ny paragraf som legger til grunn at familien er den grunnleggende enheten i samfunnet, og at staten har en særlig plikt til å bistå barnefamilier. Kun Høyre og Venstre stemte mot, da de mente at Grunnloven primært bør inneholde menneskerettigheter som bør kunne håndheves og gjøres gjeldende mot staten, og at det ikke er hensiktsmessig å blande sammen uforpliktende programerklæringer og symbolske langsiktige målsettinger sammen med klare rettsregler.
+
+<a href="https://enighet.holderdeord.no/">
+    <img class="img-responsive" src="https://files.holderdeord.no/images/frp-v-h.gif" />
+</a>
