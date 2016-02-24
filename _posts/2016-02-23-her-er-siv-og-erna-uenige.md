@@ -91,5 +91,5 @@ FrP var også det [eneste partiet som stemte mot](http://www.holderdeord.no/vote
 Frp var imidlertid ikke eneste parti som stemte for [forslaget](http://www.holderdeord.no/votes/1400004247ne) om at Grunnloven skal få en ny paragraf som legger til grunn at familien er den grunnleggende enheten i samfunnet, og at staten har en særlig plikt til å bistå barnefamilier. Kun Høyre og Venstre stemte mot, da de mente at Grunnloven primært bør inneholde menneskerettigheter som bør kunne håndheves og gjøres gjeldende mot staten, og at det ikke er hensiktsmessig å blande sammen uforpliktende programerklæringer og symbolske langsiktige målsettinger sammen med klare rettsregler.
 
 <a href="https://enighet.holderdeord.no/">
-    <img class="img-responsive" src="https://files.holderdeord.no/images/frp-v-h.gif" />
+    <img class="img-responsive" src="https://files.holderdeord.no/images/frp-v-h.gif" alt="Tidslinje som viser enighet mellom FrP vs Høyre siden 2009" />
 </a>
