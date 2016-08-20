@@ -18,7 +18,9 @@ env:
   - secure: B1CcoZEaGDUvk95bP1JaQ5itmf4mRoZoEVkT+fzCjT3gPyUKJ7//pOYYrdlOzPMIA+yFRGqCv3gvjK9+Vt+olU89eVgOpRxilnThjpMny9LvruKG4+Q/kVVZAFLaWHgF7ukfSW29jnuBlsq/QiW7RF5WY/7OIy5cE6ELwUIShBM=
 notifications:
   email:
-    - jari@holderdeord.no
+  - jari@holderdeord.no
   hipchat:
     rooms:
       secure: PHAQPD3XVi3YvNCCQTJBKYcGSXNeJF0tsLjg0OjzxBX76qHp+tL+m462mox9AIvltpR/hYtJFqswM5Xogt7Wx1w7UuLWzhYwothjyZmWy6Ap8uAW33xG3euNHgO4cryBHNEl0o+vX1p8kJpl4UlzObqGs0T2JJ3vumHpU8GPwuw=
+  slack:
+    secure: LE/Gf4AXWtGqRKwl6JDWjkoKW3UGhkG1VH3Gii+9lhqtIHrY5jKkDgff1gpGepI8WxBsJ32Z5yw38+4OfEim0ja9HFS7RJ+sPb+1sZagUncAzMPdcn/Bc09bj+OuwvgFw4g/Q3TAdH2G7JtQxm5HkIuOEE56IaDZl4QCGOYC0vk=
