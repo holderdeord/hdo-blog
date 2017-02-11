@@ -43,6 +43,15 @@
     <script type="text/javascript" src="/public/js/lib/turn.min.js"></script>
   {% endif %}
 
+  {% if script == 'turnjs' %}
+    <script type="text/javascript" src="/public/js/lib/turn.min.js"></script>
+  {% endif %}
+
+  {% if script == 'highcharts' %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/5.0.7/highcharts.js"></script>
+    <script src="/public/js/lib/highcharts-defaults.js"></script>
+  {% endif %}
+
   {% if script contains 'post:' %}
     <script src="/public/js/posts/{{ script | split:":" | last }}.js"></script>
   {% endif %}
