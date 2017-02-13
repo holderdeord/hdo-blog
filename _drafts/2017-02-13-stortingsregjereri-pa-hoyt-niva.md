@@ -29,7 +29,7 @@ Et høyt antall anmodningsvedtak kan gi utfordringer i ansvarsfordelingen mellom
 
 ### Instruksjonsretten
 
-Stortinget utøver sin instruksjonsrett overfor regjeringen blant annet gjennom anmodningsvedtak. Disse begynner med formuleringen «Stortinget ber regjeringen…». Dette må ikke forveksles med en høflig anmodning, men er et konstitusjonelt bindende pålegg fra Stortinget til regjeringen. Ofte er det snakk om at Stortinget ber regjeringen om å utrede noe eller etablere et tiltak. Ofte kommer det også pålegg om å kontrollere noe. Mange ganger er anmodningene i imidlertid av forvaltningsmessig karakter, noe som reiser spørsmål om anmodningsvedtak blir misbrukt.
+Stortinget utøver sin instruksjonsrett overfor regjeringen blant annet gjennom anmodningsvedtak. Disse begynner med formuleringen «Stortinget ber regjeringen…». Dette må ikke forveksles med en høflig anmodning, men er et konstitusjonelt bindende pålegg fra Stortinget til regjeringen. Ofte er det snakk om at Stortinget ber regjeringen om å utrede noe eller etablere et tiltak. Ofte kommer det også pålegg om å kontrollere noe. Mange ganger er anmodningene imidlertid av forvaltningsmessig karakter, noe som reiser spørsmål om anmodningsvedtak blir misbrukt.
 
 Anmodningsvedtak er gyldige utover stortingsperioden. En minister som med overlegg ikke følger opp anmodningsvedtak kan stilles for riksrett og straffes med inntil fem års fengsel. Manglende oppfølging har aldri ført til riksrett, men det viser at det ligger sterke sanksjonsmuligheter bak Stortingets instruksjonsrett.
 
@@ -47,17 +47,7 @@ Anmodningsvedtak tar også opp mer av stortingets taletid. [Holder de ord sitt r
 
 Da Høyre og Fremskrittspartiet dannet mindretallsregjering i 2013 steg antallet anmodningsvedtak. Det var en spesielt kraftig økning fra i perioden 2014-16. Økningen må ses i sammenheng med det høye antallet asylsøkere som kom til Norge i 2015. Regjeringen inngikk flere asylforlik med Stortinget der oppfølgingspunktene defineres som anmodningsvedtak. Justis- og beredskapsdepartementet forvalter også da en tredjedel av anmodningsvedtakene som ble fattet i sesjonen 2015-2016. Av de om lag 168 anmodningsvedtakene fulgt opp av departementet sorterer 131 under innvandrings- og integreringsministeren.
 
-Stortingets mulighet til å instruere regjeringen, spesielt ved mindretallsregjeringer og i prinsipielle spørsmål, er legitim. Men det er bekymringsverdig med så mange anmodningsvedtak som vi nå ser. Utviklingen ble i 2002-03 beskrevet som dramatisk og eksplosiv, mens vi i dag har doblet antallet anmodninger. Mange og detaljerte anmodningsvedtak gir en rolleblanding mellom Stortinget og regjering.
-
-Det er samtidig begrenset hvor mange saker stortingsrepresentantene kan behandle, vedta og følge opp på en tilstrekkelig måte. Det bør også være begrenset hvor mange anmodningsvedtak Stortinget pålegger forvaltningen å følge opp.
-
-Bruk av flertallsmerknader i komiteinnstillinger kan være et alternativ til anmodningsvedtak siden oppfølgingen av disse alltid har vært en del av Stortingets kontrollarbeid. Flertallsinnstillinger vil heller ikke være bindende over stortingsperioden der innstillingen ble fatte. Siden årets stortingsmelding er tykkere enn noensinne bør alternative vedtaksformer for å fremme stortingsflertallets meninger vurderes.
-
-<hr />
-
-## Interessert i detaljene?
-
-#### Anmodningsvedtak - instruksjonsrett eller instruksjonsiver?
+### Anmodningsvedtak - instruksjonsrett eller instruksjonsiver?
 
 Sentrale utfordringer knyttet til antallet anmodningsvedtak er Stortingets tillit til regjeringen, kompetansen den lovgivende makten har til å fatte fornuftige vedtak, regjeringens uavhengighet og Stortingets kontrollfunksjon av regjeringen.
 
@@ -83,7 +73,7 @@ I et annet tilfelle instruerer Stortinget regjeringen på bevæpning av politiet
 
 <em>Vedtak nr 522, 5. mai 2015: Stortinget ber regjeringen opprettholde dagens bevæpningspraksis med et ubevæpnet politi. Dette påvirker ikke tillatelsen til bevæpning etter våpeninstruksen i særskilte situasjoner.</em>
 
-##### 169 representanter vs. 21 000 byråkrater
+### 169 representanter vs. 21 000 byråkrater
 
 Stortinget består av 169 representanter som er fordelt på [13 komiteer](https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/). Hver komité følger opp store samfunnsområder som, helt eller delvis, dekkes av flere departementer. I departementene og direktoratene er det [21 000 ansatte (2015)](https://www.difi.no/rapporter-og-statistikk/nokkeltall-og-statistikk/ansatte-i-staten). Der embetsverket består av fast ansatte som arbeider på spesialiserte felt over lengre tid, består Stortinget av representanter som velges for fire år av gangen og som ofte har skiftende ansvarsområder.
 
@@ -95,7 +85,7 @@ Frøilandutvalget omtaler alle anmodningsvedtakene som ble vedtatt i sesjonene 1
 
 Dersom Stortinget i økende grad instruerer regjeringen i spesifikke saker øker sannsynligheten for at det fattes vedtak hvis implementering kan ha utilsiktede, negative konsekvenser. Løsrevne vedtak tilknyttet enkeltsaker gjør det også mer sannsynlig at Stortinget over tid vil fatte vedtak der tilsvarende saker håndteres på ulik måte.
 
-##### Detaljstyring av regjeringen
+### Detaljstyring av regjeringen
 
 Anmodningsvedtak medfører også ofte en kostnad som reduserer regjeringens handlingsrom. Regjeringen bør få anledning til å bestemme hvordan målene beskrevet i regjeringens forslag til statsbudsjett og komiteenes innstillinger skal oppfylles.
 
@@ -117,3 +107,10 @@ Eksempel:
 
 Mange av anmodningsvedtakene er utformet på en måte som gjør det vanskelig å avgjøre om de er fulgt opp eller ikke av regjeringen. I oppfølgingen av vedtak nr. 707  skriver Forsvarsdepartementet blant annet at de har  etablert rutiner og møteserier mellom Forsvarsdepartementet og Utenriksdepartementet, der representanter for Forsvaret og Forsvarsmateriell deltar. Det er vanskelig for Stortinget å avgjøre om tiltakene er nok for å sikre sømløs informasjonsflyt.
 
+### Legitim instruksjonsmulighet
+
+Stortingets mulighet til å instruere regjeringen, spesielt ved mindretallsregjeringer og i prinsipielle spørsmål, er legitim. Men det er bekymringsverdig med så mange anmodningsvedtak som vi nå ser. Utviklingen ble i 2002-03 beskrevet som dramatisk og eksplosiv, mens vi i dag har doblet antallet anmodninger. Mange og detaljerte anmodningsvedtak gir en rolleblanding mellom Stortinget og regjering.
+
+Det er samtidig begrenset hvor mange saker stortingsrepresentantene kan behandle, vedta og følge opp på en tilstrekkelig måte. Det bør også være begrenset hvor mange anmodningsvedtak Stortinget pålegger forvaltningen å følge opp.
+
+Bruk av flertallsmerknader i komiteinnstillinger kan være et alternativ til anmodningsvedtak siden oppfølgingen av disse alltid har vært en del av Stortingets kontrollarbeid. Flertallsinnstillinger vil heller ikke være bindende over stortingsperioden der innstillingen ble fattet. Siden årets stortingsmelding er tykkere enn noensinne bør alternative vedtaksformer for å fremme stortingsflertallets meninger vurderes.
