@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stortingsregjereri på høyt nivå
-date: '2017-02-13T14:40:00.000+01:00'
+date: '2017-02-14T09:57:00.000+01:00'
 authors:
 - Herman Westrum Thorsen
 tags:
