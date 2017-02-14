@@ -21,7 +21,7 @@ thumbnail_credit: "FOTO: John Greiner Olsen / Stortinget"
 
 Fredag 10. februar ble [stortingsmelding nr. 17 (2016-2017)](https://www.regjeringen.no/no/dokumenter/meld.-st.-17-20162017/id2538216/) om anmodnings- og utredningsvedtak for forrige stortingssesjon overlevert Stortinget. Stortingsmeldingen er fremmet årlig siden 2000 og inneholder samtlige anmodningsvedtak som ble vedtatt av Stortinget i den foregående stortingssesjonen.
 
-I stortingssesjonen 2015-2016 ble det fremmet om lag 477 anmodningsvedtak, inkludert underpunktene som følger noen av anmodningsvedtakene. Dette er det høyeste antallet anmodningsvedtak som noen gang er fremmet i en stortingssesjon, og nesten dobbelt så mange som ble fremmet under den siste toppen i stortingssesjonen 2002-2003 (247 anmodningsvedtak). Den gang førte det høye antallet anmodningsvedtak til en debatt om stortingsregjereri.
+I stortingssesjonen 2015-2016 ble det fremmet 477 anmodningsvedtak, inkludert underpunktene som følger noen av anmodningsvedtakene. Dette er det høyeste antallet anmodningsvedtak som noen gang er fremmet i en stortingssesjon, og nesten dobbelt så mange som ble fremmet under den siste toppen i stortingssesjonen 2002-2003 (247 anmodningsvedtak). Den gang førte det høye antallet anmodningsvedtak til en debatt om stortingsregjereri.
 
 <div id="antall-vedtak-vs-sesjon"></div>
 
