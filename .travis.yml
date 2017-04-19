@@ -8,7 +8,7 @@ before_install:
 script:
 - bundle exec jekyll build
 - script/deploy
-- bundle exec htmlproof ./_site --only_4xx --href_ignore http://www.dagsavisen.no/samfunn/er-ikke-blitt-mer-enige-pa-fire-ar/,http://www.dagsavisen.no/samfunn/stortinget-glemte-rullestolstemme/,http://blog.holderdeord.no/404.html,http://www.forskning.no/artikler/2012/august/331988,http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/
+- bundle exec htmlproof ./_site --only_4xx --href_ignore http://www.dagsavisen.no/samfunn/er-ikke-blitt-mer-enige-pa-fire-ar/,http://www.dagsavisen.no/samfunn/stortinget-glemte-rullestolstemme/,http://blog.holderdeord.no/404.html,http://www.forskning.no/artikler/2012/august/331988,http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/,http://www.hoyre.no/www/aktuelt/nyheter_fra_hoyre/Trekker+SP-forslaget+om+nasjonalt+tiggeforbud.d25-T3ljO0e.ips
 branches:
   only:
   - gh-pages
