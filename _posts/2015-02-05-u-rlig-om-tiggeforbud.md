@@ -25,7 +25,7 @@ published: true
 
 I kjølvannet av at Senterpartiet trakk sin støtte til et nasjonalt forbud mot tigging har det ikke vært mangel på kritikk fra regjeringspartiene, som mener snuoperasjonen fra Sp er et avtalebrudd. [Ulf Leirstein](https://www.holderdeord.no/representatives/uil) mener partiets oppførsel er [skadelig for politikkens omdømme](http://www.vg.no/nyheter/innenriks/tigging/sp-gikk-fra-paadriver-til-motstander/a/23389470/), og Høyre går så langt som å tvitre at hele forslaget var Senterpartiets idé.
 
-<blockquote class="twitter-tweet" lang="en"><p>Regjeringen trekker Senterpartiets forslag om nasjonalt tiggeforbud <a href="http://t.co/R0QqjmgjKP">http://t.co/R0QqjmgjKP</a></p>&mdash; Høyre (@Hoyre) <a href="https://twitter.com/Hoyre/status/563329915593175040">February 5, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Regjeringen trekker Senterpartiets forslag om nasjonalt tiggeforbud http://t.co/R0QqjmgjKP</p>&mdash; Høyre (@Hoyre) <a href="https://twitter.com/Hoyre/status/563329915593175040">February 5, 2015</a></blockquote>
 
 ### Sakens gang
 
