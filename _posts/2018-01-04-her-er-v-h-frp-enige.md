@@ -14,8 +14,8 @@ tags:
 - løfter
 published: true
 comments: true
-thumbnail: https://files.holderdeord.no/images/erna-nmd.jpg
-thumbnail_credit: "FOTO: Eirik Helland Urke"
+thumbnail: https://files.holderdeord.no/images/siv-erna-trine.jpg
+thumbnail_credit: "Foto: Hans Kristian Thorbjørnsen/Høyre"
 ---
 
 **Venstre har denne uken startet regjeringsforhandlinger med Høyre og Fremskrittspartiet.**
