@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           pretty
+permalink:        pretty
 
 # Setup
 title:            Holder de ord
@@ -21,7 +21,8 @@ version:          0.0.1
 exclude:          [vendor, script]
 github:
   repo:           https://github.com/holderdeord/hdo-blog
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-paginate
 

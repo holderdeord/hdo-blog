@@ -22,5 +22,5 @@ Om alt har gått bra besøker du http://localhost:4000 i nettleseren og kan se b
 Dersom du ønsker å teste htmlen kan du kjøre følgende kommando:
 
 ```bash
-bundle exec htmlproof ./_site
+bundle exec htmlproofer ./_site
 ```
