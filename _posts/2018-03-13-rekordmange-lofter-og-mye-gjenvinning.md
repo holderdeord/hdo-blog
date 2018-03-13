@@ -15,7 +15,7 @@ thumbnail_credit: 'Erna Solberg (H) legger frem regjeringserklæringen for Stort
 **Jeløya-plattformen består av rekordmange 996 løfter. Det er 220 flere løfter enn i Sundvolden-erklæringen fra 2013. Dette til tross for at statsministeren i valgkampen sa at regjeringen skulle lage en mer prioritert liste dersom de vant valget på nytt. 250 av løftene i Jeløya-plattformen er da også løftet ut av eksisterende partiprogram eller forrige regjeringserklæring.**
 
 ### 199 løfter kopiert fra partiprogram
-En sammenligning av løftene i Jeløya-erklæringen med de tre partienes partiprogram viser at 199 løfter er direkte hentet fra et av de tre partienes partiprogram.
+En sammenligning av løftene i Jeløya-erklæringen med de tre regjeringspartienes partiprogram viser at 199 løfter er direkte hentet fra partiprogrammene.
 
 Venstre har fått inn 79 mer eller mindre ordrette sitat fra sitt partiprogram, mens vi finner 106 løfter fra Høyres program. Vi finner til sammenligning kun 14 løfter som er hentet fra Fremskrittspartiets partiprogram. Disse tallene inkluderer ikke løfter i Jeløya-erklæringen som finnes i mer enn ett av partienes programmer. For eksempel løfter om mer fysisk aktivitet i skolen og fortsatt innfasing av 11 måneders studiestøtte som alle tre partier nevner i sine partiprogram, eller det å innføre fritt skolevalg, som både Høyre og Fremskrittspartiet nevner i sine partiprogram.
 
