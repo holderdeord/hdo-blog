@@ -1,26 +1,22 @@
-# [hdo-blog](http://blog.holderdeord.no/) [![Build Status](https://travis-ci.org/holderdeord/hdo-blog.svg?branch=gh-pages)](https://travis-ci.org/holderdeord/hdo-blog)
+# [hdo-blog](http://blog.holderdeord.no/)
 
-## Bidra
-
-Les om hvordan du kan bidra til bloggen i [bidra.md](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md)
+[![Build Status](https://travis-ci.org/holderdeord/hdo-blog.svg?branch=gh-pages)](https://travis-ci.org/holderdeord/hdo-blog)
 
 ## Kjøre lokalt
 
-For å kjøre lokalt trenger du [Ruby](https://www.ruby-lang.org/en/).
-Les mer om avhengighetene her http://jekyllrb.com/docs/installation/.
+For å kjøre lokalt trenger du [node](https://www.nodejs.org/) [yarn](https://yarn.org) og [gatsby-cli](https://gatsbyjs.org)
 
-```bash
-$ gem install bundler # only needed once
-$ bundle install
-$ bundle exec jekyll serve
-```
+    brew install vips  # macos
+    yarn install -g gatsby-cli
+    yarn install
+    yarn develop
 
-Om alt har gått bra besøker du http://localhost:4000 i nettleseren og kan se bloggen.
+Om alt har gått bra besøker du http://localhost:8000 i nettleseren og kan se bloggen.
 
-## Testing
+## Bidra
 
-Dersom du ønsker å teste htmlen kan du kjøre følgende kommando:
+    # TODO: En annen måte enn remark
 
-```bash
-bundle exec htmlproofer ./_site
-```
+## Gatsby
+
+[Gatsby sin dokumentasjon](https://www.gatsbyjs.org/docs/).

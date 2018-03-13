@@ -1,7 +1,9 @@
-_site/
-.sass-cache/
 .DS_Store
 !/tags
-.ruby-version
+.cache/
+node_modules
 npm-debug.log
-.tern-port
+yarn-error.log
+
+# Build directory
+/public
