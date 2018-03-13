@@ -2,7 +2,8 @@ import React from 'react'
 import Link from 'gatsby-link'
 import { Container } from 'react-responsive-grid'
 
-import { rhythm, scale } from '../utils/typography'
+import '../styles/hdo.scss'
+
 
 class Template extends React.Component {
     render() {
@@ -14,15 +15,10 @@ class Template extends React.Component {
             rootPath = __PATH_PREFIX__ + `/`
         }
 
+        /* Home header */
         if (location.pathname === rootPath) {
             header = (
-                <h1
-                    style={{
-                        ...scale(1.5),
-                        marginBottom: rhythm(1.5),
-                        marginTop: 0,
-                    }}
-                >
+                <h1>
                     <Link
                         style={{
                             boxShadow: 'none',
@@ -31,19 +27,13 @@ class Template extends React.Component {
                         }}
                         to={'/'}
                     >
-                        Gatsby Starter Blog
+                        Holder de ord
                     </Link>
                 </h1>
             )
         } else {
             header = (
-                <h3
-                    style={{
-                        fontFamily: 'Montserrat, sans-serif',
-                        marginTop: 0,
-                        marginBottom: rhythm(-1),
-                    }}
-                >
+                <h3>
                     <Link
                         style={{
                             boxShadow: 'none',
@@ -52,21 +42,18 @@ class Template extends React.Component {
                         }}
                         to={'/'}
                     >
-                        Gatsby Starter Blog
+                        Holder de ord
                     </Link>
                 </h3>
             )
         }
         return (
-            <Container
-                style={{
-                    maxWidth: rhythm(24),
-                    padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-                }}
-            >
+            <div className='container'>
                 {header}
-                {children()}
-            </Container>
+                <main>
+                    {children()}
+                </main>
+            </div>
         )
     }
 }

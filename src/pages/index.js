@@ -3,34 +3,38 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
-import Bio from '../components/Bio'
-import { rhythm } from '../utils/typography'
+import Byline from "../components/Byline";
 
 class BlogIndex extends React.Component {
     render() {
-        const siteTitle = get(this, 'props.data.site.siteMetadata.title')
-        const posts = get(this, 'props.data.allMarkdownRemark.edges')
+        const siteTitle = get(this, 'props.data.site.siteMetadata.title');
+        const posts = get(this, 'props.data.allMarkdownRemark.edges');
 
         return (
-            <div>
+            <div className="posts">
                 <Helmet title={siteTitle} />
-                <Bio />
                 {posts.map(({ node }) => {
-                    const title = get(node, 'frontmatter.title') || node.fields.slug
+                    const title = get(node, 'frontmatter.title') || node.fields.slug;
+                    const {thumbnail, date, dateFormatted, authors} = node.frontmatter;
                     return (
-                        <div key={node.fields.slug}>
-                            <h3
-                                style={{
-                                    marginBottom: rhythm(1 / 4),
-                                }}
-                            >
-                                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
+                        <article className="post" key={node.fields.slug}>
+                            <Link className="post-link" to={node.fields.slug}>
+                                {thumbnail && <div className="post-image" style={{backgroundImage:`url(${thumbnail}`}} />}
+                                <h2 className="post-title">
                                     {title}
-                                </Link>
-                            </h3>
-                            <small>{node.frontmatter.date}</small>
-                            <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-                        </div>
+                                </h2>
+                            </Link>
+                            <Byline
+                                date={date}
+                                dateFormatted={dateFormatted}
+                                authors={authors}
+                            />
+                            <div className="post-content">
+                                <p>
+                                    <strong dangerouslySetInnerHTML={{ __html: node.excerpt }}></strong>
+                                </p>
+                            </div>
+                        </article>
                     )
                 })}
             </div>
@@ -38,7 +42,7 @@ class BlogIndex extends React.Component {
     }
 }
 
-export default BlogIndex
+export default BlogIndex;
 
 export const pageQuery = graphql`
   query IndexQuery {
@@ -55,11 +59,15 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD MMMM, YYYY")
+            dateFormatted: date(formatString: "DD MMMM, YYYY")
+            date
             title
+            thumbnail
+            thumbnail_credit
+            authors
           }
         }
       }
     }
   }
-`
+`;

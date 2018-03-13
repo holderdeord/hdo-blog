@@ -6,9 +6,8 @@
 
 For å kjøre lokalt trenger du [node](https://www.nodejs.org/) [yarn](https://yarn.org) og [gatsby-cli](https://gatsbyjs.org)
 
-    brew install vips  # macos
-    yarn install -g gatsby-cli
-    yarn install
+    yarn global add gatsby-cli
+    yarn
     yarn develop
 
 Om alt har gått bra besøker du http://localhost:8000 i nettleseren og kan se bloggen.

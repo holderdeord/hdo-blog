@@ -2,10 +2,10 @@ module.exports = {
     siteMetadata: {
         title: 'Holder de ord',
         author: 'Holder de ord',
-        description: '',
+        description: 'Holder de ord er en partipolitisk uavhengig organisasjon som jobber for å gi folk større innflytelse over politikken ved hjelp av digitale verktøy.',
         siteUrl: 'https://blog.holderdeord.no',
     },
-    // pathPrefix: '/gatsby-starter-blog',
+    // pathPrefix: '/hdo-blog',
     plugins: [
         {
             resolve: 'gatsby-source-filesystem',
@@ -49,11 +49,12 @@ module.exports = {
         'gatsby-plugin-feed',
         'gatsby-plugin-offline',
         'gatsby-plugin-react-helmet',
+        'gatsby-plugin-sass',
         {
-            resolve: 'gatsby-plugin-typography',
+            resolve: 'gatsby-plugin-google-fonts',
             options: {
-                pathToConfigModule: 'src/utils/typography',
-            },
-        },
+                fonts: ['Roboto Slab\:400,700,300,100']
+            }
+        }
     ],
 };

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hvilke aviser leser politikerne?
-date: '2014-12-10-T10:14:32.000+01:00'
+date: '2014-12-10T10:14:32.000+01:00'
 authors:
 - Jari Bakken
 comments: true
