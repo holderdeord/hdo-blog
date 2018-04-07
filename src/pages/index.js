@@ -6,9 +6,22 @@ import Helmet from 'react-helmet'
 import Byline from "../components/Byline";
 
 class BlogIndex extends React.Component {
+    getAuthors(names=[], authorData) {
+        let authors = [];
+        names.map((name) => {
+            authorData.map((author) => {
+                if (author.node.name === name) {
+                    authors.push(author.node);
+                }
+            });
+        });
+        return authors;
+    }
+
     render() {
         const siteTitle = get(this, 'props.data.site.siteMetadata.title');
         const posts = get(this, 'props.data.allMarkdownRemark.edges');
+        const authorData = get(this, 'props.data.allAuthorsYaml.edges');
 
         const numFeatured = 5;
         const latestPosts = posts.slice(0, numFeatured);
@@ -31,12 +44,13 @@ class BlogIndex extends React.Component {
                             <Byline
                                 date={date}
                                 dateFormatted={dateFormatted}
-                                authors={authors}
+                                authors={this.getAuthors(authors, authorData)}
                             />
                             <div className="post-content">
                                 <p>
                                     <strong dangerouslySetInnerHTML={{ __html: node.excerpt }}></strong>
                                 </p>
+                                <Link to={node.fields.slug}>Les mer</Link>
                             </div>
                         </article>
                     )
@@ -49,7 +63,7 @@ class BlogIndex extends React.Component {
                         return (
                             <div className="postarchive-post" key={node.fields.slug}>
                                 <small>
-                                    <time datetime={date}>{dateFormatted}</time>
+                                    <time dateTime={date}>{dateFormatted}</time>
                                 </small>
                                 <Link to={node.fields.slug}>{title}</Link>
                             </div>
@@ -85,6 +99,15 @@ export const pageQuery = graphql`
             thumbnail_credit
             authors
           }
+        }
+      }
+    }
+    allAuthorsYaml {
+      edges {
+        node {
+          name
+          email
+          twitter
         }
       }
     }

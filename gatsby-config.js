@@ -55,6 +55,13 @@ module.exports = {
             options: {
                 fonts: ['Roboto Slab\:400,700,300,100']
             }
-        }
+        },
+        'gatsby-transformer-yaml',
+        {
+            resolve: 'gatsby-source-filesystem',
+            options: {
+                path: `${__dirname}/src/data/`,
+            },
+        },
     ],
 };
