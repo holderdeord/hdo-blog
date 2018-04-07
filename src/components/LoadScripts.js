@@ -69,6 +69,9 @@ export default class LoadScripts extends React.Component {
 
     }
     getScripts(scripts, slug) {
+        if(!scripts) {
+            return [];
+        }
         const urls = filter(availableScripts, (script, key) => {
             return scripts.includes(key);
         });

@@ -6,9 +6,21 @@ import Byline from "../components/Byline";
 import LoadScripts from "../components/LoadScripts";
 
 class BlogPostTemplate extends React.Component {
+    getAuthors(names=[], authorData) {
+        let authors = [];
+        names.map((name) => {
+            authorData.map((author) => {
+                if (author.node.name === name) {
+                    authors.push(author.node);
+                }
+            });
+        });
+        return authors;
+    }
     render() {
         const post = this.props.data.markdownRemark;
         const siteTitle = get(this.props, 'data.site.siteMetadata.title');
+        const authorData = get(this, 'props.data.allAuthorsYaml.edges');
         const { previous, next } = this.props.pathContext;
         const { title, thumbnail, thumbnail_credit, date, dateFormatted, authors, scripts} = post.frontmatter;
 
@@ -21,7 +33,7 @@ class BlogPostTemplate extends React.Component {
                     <figcaption className="thumbnail-credit">{thumbnail_credit}</figcaption>
                 }
                     <h1>{post.frontmatter.title}</h1>
-                <Byline date={date} dateFormatted={dateFormatted} authors={authors} />
+                <Byline date={date} dateFormatted={dateFormatted} authors={this.getAuthors(authors, authorData)} />
                 <div className='post-content' dangerouslySetInnerHTML={{ __html: post.html }} />
                 <hr />
                 <ul
@@ -80,6 +92,15 @@ export const pageQuery = graphql`
                 authors
                 scripts
             }
+        }
+        allAuthorsYaml {
+          edges {
+            node {
+              name
+              email
+              twitter
+            }
+          }
         }
     }
 `;
