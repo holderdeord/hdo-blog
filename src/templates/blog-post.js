@@ -3,13 +3,14 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Byline from "../components/Byline";
+import LoadScripts from "../components/LoadScripts";
 
 class BlogPostTemplate extends React.Component {
     render() {
         const post = this.props.data.markdownRemark;
         const siteTitle = get(this.props, 'data.site.siteMetadata.title');
         const { previous, next } = this.props.pathContext;
-        const { title, thumbnail, thumbnail_credit, date, dateFormatted, authors } = post.frontmatter;
+        const { title, thumbnail, thumbnail_credit, date, dateFormatted, authors, scripts} = post.frontmatter;
 
         return (
             <div className="post">
@@ -48,6 +49,7 @@ class BlogPostTemplate extends React.Component {
                         </li>
                     )}
                 </ul>
+                <LoadScripts scripts={scripts} slug={post.fields.slugTitle} />
             </div>
         )
     }
@@ -66,6 +68,9 @@ export const pageQuery = graphql`
         markdownRemark(fields: { slug: { eq: $slug } }) {
             id
             html
+            fields {
+                slugTitle
+            }
             frontmatter {
                 title
                 dateFormatted: date(formatString: "DD. MMMM YYYY")
@@ -73,6 +78,7 @@ export const pageQuery = graphql`
                 thumbnail
                 thumbnail_credit
                 authors
+                scripts
             }
         }
     }

@@ -78,5 +78,12 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
             name: 'date',
             value: date
         });
+
+        // save slugTitle
+        createNodeField({
+            node,
+            name: 'slugTitle',
+            value: title
+        });
     }
 };
