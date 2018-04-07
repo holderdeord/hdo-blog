@@ -10,10 +10,14 @@ class BlogIndex extends React.Component {
         const siteTitle = get(this, 'props.data.site.siteMetadata.title');
         const posts = get(this, 'props.data.allMarkdownRemark.edges');
 
+        const numFeatured = 5;
+        const latestPosts = posts.slice(0, numFeatured);
+        const archivedPosts = posts.slice(numFeatured);
+
         return (
             <div className="posts">
                 <Helmet title={siteTitle} />
-                {posts.map(({ node }) => {
+                {latestPosts.map(({ node }) => {
                     const title = get(node, 'frontmatter.title') || node.fields.slug;
                     const {thumbnail, date, dateFormatted, authors} = node.frontmatter;
                     return (
@@ -37,6 +41,21 @@ class BlogIndex extends React.Component {
                         </article>
                     )
                 })}
+                <div className="postarchive">
+                    <h2>Arkiv</h2>
+                    {archivedPosts.map(({ node }) => {
+                        const title = get(node, 'frontmatter.title') || node.fields.slug;
+                        const {date, dateFormatted} = node.frontmatter;
+                        return (
+                            <div className="postarchive-post" key={node.fields.slug}>
+                                <small>
+                                    <time datetime={date}>{dateFormatted}</time>
+                                </small>
+                                <Link to={node.fields.slug}>{title}</Link>
+                            </div>
+                        )
+                    })}
+                </div>
             </div>
         )
     }

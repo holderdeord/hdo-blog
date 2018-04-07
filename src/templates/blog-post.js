@@ -19,8 +19,7 @@ class BlogPostTemplate extends React.Component {
                     thumbnail_credit &&
                     <figcaption className="thumbnail-credit">{thumbnail_credit}</figcaption>
                 }
-                    <h1>{post.frontmatter.title
-                }}</h1>
+                    <h1>{post.frontmatter.title}</h1>
                 <Byline date={date} dateFormatted={dateFormatted} authors={authors} />
                 <div className='post-content' dangerouslySetInnerHTML={{ __html: post.html }} />
                 <hr />
