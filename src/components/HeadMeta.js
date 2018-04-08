@@ -1,9 +1,19 @@
 import React from 'react';
 import { Helmet } from "react-helmet";
-import { withPrefix } from 'gatsby-link'
+import { withPrefix } from 'gatsby-link';
+import striptags from 'striptags';
+import he from 'he';
 
 function toSentence(arr){
     return arr.join(", ").replace(/,\s([^,]+)$/, ' and $1');
+}
+
+function stripNewLines(someText) {
+    return someText.replace(/\r?\n|\r/gm, '');
+}
+
+function encodeHTMLEntities(someText) {
+    return he.encode(someText, {'useNamedReferences': true});
 }
 
 export default class HeadMeta extends React.Component {
@@ -15,12 +25,12 @@ export default class HeadMeta extends React.Component {
         const title = post ? `${post.frontmatter.title} · ${site.title}` : site.title;
         const ogTitle = post ? post.frontmatter.title : site.title;
 
-        let ogDescription = site.description; // | strip_newlines | strip_html
+        let ogDescription = striptags(stripNewLines(site.description));
         if (post && post.excerpt) {
-            ogDescription = post.excerpt; // | strip_html | strip_newlines | xml_escape
+            ogDescription = encodeHTMLEntities(striptags(stripNewLines(post.excerpt)));
 
         } else if (post && post.description) {
-            ogDescription = post.description; // | strip_newlines
+            ogDescription = stripNewLines(post.description);
         }
 
         const author = post && post.frontmatter.authors ? toSentence(post.frontmatter.authors) : site.author;
@@ -37,6 +47,9 @@ export default class HeadMeta extends React.Component {
         }
 
         const canonicalURL = post ? `${site.siteUrl}${post.fields.slug}` : site.siteUrl;
+
+        const hasScripts = post && post.frontmatter.scripts;
+        const scripts = hasScripts ? post.frontmatter.scripts : null;
 
         return <Helmet title={title}>
             <meta property="fb:app_id" content={site.facebookAppId} />
@@ -65,19 +78,20 @@ export default class HeadMeta extends React.Component {
             { post && <meta content={`${site.siteUrl}${post.fields.slug}`} property="og:url" /> }
             { post && <meta content={`${site.siteUrl}${post.fields.slug}`} property="twitter:url" /> }
 
-            { post && post.date && <meta content={post.date /* | date_to_xmlschema */} property="article:published_time" /> }
+            { post && post.frontmatter.date && <meta content={post.frontmatter.date} property="article:published_time" /> }
 
             <meta property="og:image" content={ogImage} />
             <meta name="twitter:image:src" content={ogImage} />
             <meta name="twitter:image" content={ogImage} />
 
-            { post && post.frontmatter.tags && post.frontmatter.tags.map((tag) => {
-                return <meta property="article:tag" content={ tag } />
+            { post && post.frontmatter.tags && post.frontmatter.tags.map((tag, i) => {
+                return <meta key={i} property="article:tag" content={ tag } />
             })}
 
-            { post && post.scripts && post.scripts.includes('c3') && <link rel="stylesheet" href="https://files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.css" /> }
-            { post && post.scripts && post.scripts.includes('c3') && <style>{".c3-tooltip th { color: #111; }"}</style>}
-            { post && post.scripts && post.scripts.includes('cal-heatmap') && <link rel="stylesheet" href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css" /> }
+            {/* Per post stylesheets */}
+            { hasScripts && scripts.includes('c3') && <link rel="stylesheet" href="https://files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.css" /> }
+            { hasScripts && scripts.includes('c3') && <style>{".c3-tooltip th { color: #111; }"}</style>}
+            { hasScripts && scripts.includes('cal-heatmap') && <link rel="stylesheet" href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css" /> }
 
             <link rel="shortcut icon" href={withPrefix('/favicon.ico')} />
             <link href={canonicalURL} rel="canonical" />
