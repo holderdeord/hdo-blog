@@ -1,9 +1,9 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Byline from "../components/Byline";
 import LoadScripts from "../components/LoadScripts";
+import HeadMeta from "../components/HeadMeta";
 
 class BlogPostTemplate extends React.Component {
     getAuthors(names=[], authorData) {
@@ -19,14 +19,14 @@ class BlogPostTemplate extends React.Component {
     }
     render() {
         const post = this.props.data.markdownRemark;
-        const siteTitle = get(this.props, 'data.site.siteMetadata.title');
         const authorData = get(this, 'props.data.allAuthorsYaml.edges');
+        const site = get(this, 'props.data.site.siteMetadata');
         const { previous, next } = this.props.pathContext;
         const { title, thumbnail, thumbnail_credit, date, dateFormatted, authors, scripts} = post.frontmatter;
 
         return (
             <div className="post">
-                <Helmet title={`${title} &middot; ${siteTitle}`} />
+                <HeadMeta articleTitle={title} site={site} />
                 <img src={thumbnail} className="top img-responsive" alt={title} />
                 {
                     thumbnail_credit &&

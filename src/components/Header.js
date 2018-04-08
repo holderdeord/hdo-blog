@@ -3,37 +3,19 @@ import Link from 'gatsby-link'
 
 export default class Header extends React.PureComponent {
     render() {
-        const { location } = this.props;
+        const { location, site } = this.props;
         /* Home header */
         if (location.pathname === this.rootPath()) {
             return (
                 <h1>
-                    <Link
-                        style={{
-                            boxShadow: 'none',
-                            textDecoration: 'none',
-                            color: 'inherit',
-                        }}
-                        to={'/'}
-                    >
-                        Holder de ord
-                    </Link>
+                    <Link to={'/'}>{site.title}</Link>
                 </h1>
             );
         }
 
         return (
             <h3>
-                <Link
-                    style={{
-                        boxShadow: 'none',
-                        textDecoration: 'none',
-                        color: 'inherit',
-                    }}
-                    to={'/'}
-                >
-                    Holder de ord
-                </Link>
+                <Link to={'/'}>{site.title}</Link>
             </h3>
         )
     }

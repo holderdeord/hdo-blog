@@ -4,6 +4,7 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
 import Byline from "../components/Byline";
+import HeadMeta from "../components/HeadMeta";
 
 class BlogIndex extends React.Component {
     getAuthors(names=[], authorData) {
@@ -19,7 +20,7 @@ class BlogIndex extends React.Component {
     }
 
     render() {
-        const siteTitle = get(this, 'props.data.site.siteMetadata.title');
+        const site = get(this, 'props.data.site.siteMetadata');
         const posts = get(this, 'props.data.allMarkdownRemark.edges');
         const authorData = get(this, 'props.data.allAuthorsYaml.edges');
 
@@ -29,7 +30,7 @@ class BlogIndex extends React.Component {
 
         return (
             <div className="posts">
-                <Helmet title={siteTitle} />
+                <HeadMeta site={site} />
                 {latestPosts.map(({ node }) => {
                     const title = get(node, 'frontmatter.title') || node.fields.slug;
                     const {thumbnail, date, dateFormatted, authors} = node.frontmatter;
@@ -82,6 +83,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        twitter
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
