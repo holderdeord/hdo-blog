@@ -21,6 +21,13 @@ module.exports = {
     {
       resolve: 'gatsby-transformer-remark',
       options: {
+        // Ref: https://github.com/jonschlinkert/gray-matter#optionsexcerpt
+        excerpt: file => {
+          file.excerpt = file.content
+            .split('**')
+            .slice(1, 2)
+            .join('');
+        },
         plugins: [
           {
             resolve: 'gatsby-remark-images',
