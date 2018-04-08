@@ -18,9 +18,9 @@ class BlogPostTemplate extends React.Component {
         return authors;
     }
     render() {
+        const site = get(this, 'props.data.site.siteMetadata');
         const post = this.props.data.markdownRemark;
         const authorData = get(this, 'props.data.allAuthorsYaml.edges');
-        const site = get(this, 'props.data.site.siteMetadata');
         const { previous, next } = this.props.pathContext;
         const { title, thumbnail, thumbnail_credit, date, dateFormatted, authors, scripts} = post.frontmatter;
 
@@ -32,7 +32,7 @@ class BlogPostTemplate extends React.Component {
                     thumbnail_credit &&
                     <figcaption className="thumbnail-credit">{thumbnail_credit}</figcaption>
                 }
-                    <h1>{post.frontmatter.title}</h1>
+                    <h1>{title}</h1>
                 <Byline date={date} dateFormatted={dateFormatted} authors={this.getAuthors(authors, authorData)} />
                 <div className='post-content' dangerouslySetInnerHTML={{ __html: post.html }} />
                 <hr />
@@ -98,6 +98,7 @@ export const pageQuery = graphql`
                 thumbnail_credit
                 twitter_card
                 scripts
+                tags
             }
         }
         allAuthorsYaml {

@@ -71,7 +71,7 @@ export default class HeadMeta extends React.Component {
             <meta name="twitter:image:src" content={ogImage} />
             <meta name="twitter:image" content={ogImage} />
 
-            { post && post.tags && post.tags.map((tag) => {
+            { post && post.frontmatter.tags && post.frontmatter.tags.map((tag) => {
                 return <meta property="article:tag" content={ tag } />
             })}
 
