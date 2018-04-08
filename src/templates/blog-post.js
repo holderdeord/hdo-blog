@@ -6,6 +6,7 @@ import Byline from '../components/Byline';
 import LoadScripts from '../components/LoadScripts';
 import HeadMeta from '../components/HeadMeta';
 import { getAuthors } from '../utils';
+import Comments from '../components/Comments';
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -45,6 +46,10 @@ class BlogPostTemplate extends React.Component {
           dangerouslySetInnerHTML={{ __html: post.html }}
         />
         {/* eslint-enable react/no-danger */}
+        <Comments
+          shortname={site.disqusShortname}
+          url={`${site.siteUrl}${post.fields.slug}`}
+        />
         <hr />
         <ul
           style={{
@@ -86,6 +91,7 @@ export const pageQuery = graphql`
       siteMetadata {
         author
         description
+        disqusShortname
         facebookAppId
         title
         twitter
