@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 
 export default class Header extends React.PureComponent {
     render() {
+        const { location } = this.props;
         /* Home header */
         if (location.pathname === this.rootPath()) {
             return (

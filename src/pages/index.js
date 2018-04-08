@@ -36,7 +36,7 @@ class BlogIndex extends React.Component {
                     return (
                         <article className="post" key={node.fields.slug}>
                             <Link className="post-link" to={node.fields.slug}>
-                                {thumbnail && <div className="post-image" style={{backgroundImage:`url(${thumbnail}`}} />}
+                                {thumbnail && <div className="post-image" style={{backgroundImage: `url('${thumbnail}')`}} />}
                                 <h2 className="post-title">
                                     {title}
                                 </h2>

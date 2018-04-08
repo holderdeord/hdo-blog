@@ -13,6 +13,7 @@
     "gatsby-plugin-react-helmet": "^2.0.6",
     "gatsby-plugin-sass": "^1.0.21",
     "gatsby-plugin-sharp": "^1.6.41",
+    "gatsby-plugin-sitemap": "^1.2.20",
     "gatsby-plugin-typography": "^1.7.18",
     "gatsby-remark-copy-linked-files": "^1.5.30",
     "gatsby-remark-images": "^1.5.56",
@@ -25,8 +26,7 @@
     "gatsby-transformer-yaml": "^1.5.16",
     "lodash": "^4.17.5",
     "react": "^15.0.0",
-    "react-helmet": "^5.2.0",
-    "react-responsive-grid": "^0.3.4"
+    "react-helmet": "^5.2.0"
   },
   "keywords": [
     "gatsby"

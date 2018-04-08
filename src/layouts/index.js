@@ -13,7 +13,7 @@ class Template extends React.Component {
 
         return (
             <div className='container'>
-                <Header/>
+                <Header location={this.props.location} />
                 <main>
                     {children()}
                 </main>
