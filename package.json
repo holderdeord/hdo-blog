@@ -39,9 +39,23 @@
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
     "deploy": "false # gatsby build --prefix-paths && gh-pages -d public",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json,css,md}": ["eslint --fix src", "git add"]
   },
   "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.4.0",
+    "husky": "^0.14.3",
+    "lint-staged": "^7.0.4",
     "prettier": "^1.11.1"
   }
 }
