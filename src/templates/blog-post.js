@@ -26,7 +26,7 @@ class BlogPostTemplate extends React.Component {
 
         return (
             <div className="post">
-                <HeadMeta articleTitle={title} site={site} />
+                <HeadMeta post={post} site={site} />
                 <img src={thumbnail} className="top img-responsive" alt={title} />
                 {
                     thumbnail_credit &&
@@ -73,23 +73,30 @@ export const pageQuery = graphql`
     query BlogPostBySlug($slug: String!) {
         site {
             siteMetadata {
-                title
                 author
+                description
+                facebookAppId
+                title
+                twitter
+                siteUrl
             }
         }
         markdownRemark(fields: { slug: { eq: $slug } }) {
             id
             html
+            excerpt
             fields {
+                slug
                 slugTitle
             }
             frontmatter {
-                title
+                authors
                 dateFormatted: date(formatString: "DD. MMMM YYYY")
                 date
+                title
                 thumbnail
                 thumbnail_credit
-                authors
+                twitter_card
                 scripts
             }
         }

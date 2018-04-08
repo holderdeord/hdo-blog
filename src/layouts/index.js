@@ -1,6 +1,7 @@
 import React from 'react'
 
 import '../styles/hdo.scss'
+import '../styles/syntax.scss' // FIXME: Replace with remark thing
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import get from "lodash/get";

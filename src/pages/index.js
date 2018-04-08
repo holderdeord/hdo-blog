@@ -82,8 +82,12 @@ export const pageQuery = graphql`
   query IndexQuery {
     site {
       siteMetadata {
+        author
+        description
+        facebookAppId
         title
         twitter
+        siteUrl
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
