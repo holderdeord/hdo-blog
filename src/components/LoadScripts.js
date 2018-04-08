@@ -7,7 +7,7 @@ const availableScripts = {
         src: "https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.js"
     },
     'c3': {
-        src: 'https:/files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.js'
+        src: 'https:/files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.js',
     },
     'cal-heatmap': {
         src: "https://cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.min.js",
@@ -26,7 +26,7 @@ const availableScripts = {
         src: "https://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"
     },
     'turnjs': {
-        src: withPrefix('/js/lib/turn.min.js')
+        src: withPrefix('/js/lib/turn.min.js'),
     },
     'highcharts': [{
         src: "https://cdnjs.cloudflare.com/ajax/libs/highcharts/5.0.7/highcharts.js"
@@ -37,6 +37,8 @@ const availableScripts = {
 };
 
 export default class LoadScripts extends React.Component {
+    /** Load scripts from prop `scripts` in order by key.
+     * Legacy scripts can be loaded with this per blog article */
     constructor(props) {
         super(props);
         this.scriptsWrapper = null;
@@ -45,14 +47,11 @@ export default class LoadScripts extends React.Component {
             this.scriptsWrapper = element;
         };
     }
-    addToDom(scriptOptions) {
+    createScriptElement(scriptOptions) {
+        /* Ref: https://stackoverflow.com/a/38840724/543864 */
         const script = document.createElement("script");
         script.src = scriptOptions.src;
-        if (scriptOptions.async) {
-            script.async = true;
-        } else {
-            script.defer = 'defer';
-        }
+        script.async = !!scriptOptions.async; // preserve run order
         this.scriptsWrapper.appendChild(script);
     }
     componentDidMount() {
@@ -60,10 +59,10 @@ export default class LoadScripts extends React.Component {
         Object.entries(scripts).map(([name, scriptOptions]) => {
             if (Array.isArray(scriptOptions)) {
                 scriptOptions.map((so) => {
-                    this.addToDom(so);
+                    this.createScriptElement(so);
                 })
             } else {
-                this.addToDom(scriptOptions);
+                this.createScriptElement(scriptOptions);
             }
         });
 

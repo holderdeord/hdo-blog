@@ -79,10 +79,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
             <h3>Parlamentarisk ordliste</h3>
             til glede for gamle og nye representanter
         </div>
-
         <div>
             <h4>Man skal <strong>unngå</strong> ord som:</h4>
-
             <ul>
                 <li>tull</li>
                 <li>tøys</li>
@@ -95,10 +93,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>frekt/frekk/frekkas/frekkis</li>
             </ul>
         </div>
-
         <div>
             <h4>&nbsp;</h4>
-
             <ul>
                 <li>galskap</li>
                 <li>jaggu meg</li>
@@ -113,10 +109,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>blottet</li>
             </ul>
         </div>
-
         <div>
             <h4>Man skal ikke bruke billedspråk som:</h4>
-
             <ul>
                 <li>å slenge ut av seg</li>
                 <li>å drite på draget</li>
@@ -127,10 +121,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>å få døren midt i fleisen</li>
             </ul>
         </div>
-
         <div>
             <h4>&nbsp;</h4>
-
             <ul>
                 <li>å bite seg selv i halen</li>
                 <li>å ta noe for god fisk</li>
@@ -142,10 +134,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>like forbaska</li>
             </ul>
         </div>
-
         <div>
             <h4>Man skal ikke kalle motstandere:</h4>
-
             <ul>
                 <li>frekke</li>
                 <li>frekkaser</li>
@@ -156,10 +146,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>mindre sympatiske</li>
             </ul>
         </div>
-
         <div>
             <h4>&nbsp;</h4>
-
             <ul>
                 <li>sleivet</li>
                 <li>sutrete</li>
@@ -171,10 +159,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>døve og blinde</li>
             </ul>
         </div>
-
         <div>
             <h4>Man skal ikke beskylde motstandere for å:</h4>
-
             <ul>
                 <li>lyve</li>
                 <li>snakke dritt</li>
@@ -185,10 +171,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>ha «frekkhetens nådegave»</li>
             </ul>
         </div>
-
         <div>
             <h4>&nbsp;</h4>
-
             <ul>
               <li>ikke ha peiling</li>
               <li>ha en sløv holdning</li>
@@ -200,10 +184,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
               <li>ha et parasittaktig forhold til regjeringen</li>
             </ul>
         </div>
-
         <div>
             <h4>Man skal ikke si om andres politikk at de:</h4>
-
             <ul>
                 <li>raner bilister</li>
                 <li>driver med landeveisrøveri</li>
@@ -217,10 +199,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>driver med overgrep fra det offentlige</li>
             </ul>
         </div>
-
         <div>
             <h4>&nbsp;</h4>
-
             <ul>
                 <li>driver med forsøpling av debatten</li>
                 <li>forfekter «voodoo-økonomi»</li>
@@ -231,10 +211,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>fremstår som kastrerte</li>
             </ul>
         </div>
-
         <div>
             <h4>Man skal ikke kalle motstandernes innlegg eller forslag for:</h4>
-
             <ul>
                 <li>hånlige</li>
                 <li>i tåkeheimen</li>
@@ -245,10 +223,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>dumme</li>
             </ul>
         </div>
-
         <div>
             <h4>&nbsp;</h4>
-
             <ul>
                 <li>meningsløse</li>
                 <li>fordummende</li>
@@ -259,10 +235,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>løgnaktige </li>
             </ul>
         </div>
-
         <div>
             <h4>Man skal som hovedregel holde seg religiøst nøytral og ikke si:</h4>
-
             <ul>
                 <li>«for Guds skyld»</li>
                 <li>«gudskjelov»</li>
@@ -272,10 +246,8 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
                 <li>«å se fanden på høylys dag» (her ville for øvrig President Andersen godtatt «spøkelser på høylys dag» eller «en viss mann på høylys dag»).</li>
             </ul>
         </div>
-
         <div>
             <h4>Selv om det er på kanten er det derimot <strong>lov</strong> å:</h4>
-
             <ul>
               <li>omtale motstanderens politikk og uttalelser som et dobbeltspill</li>
               <li>sammenligne en motstander med en struts som stikker hodet i jorden</li>
@@ -284,7 +256,6 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
               <li>si at motstanderne løp rundt under hele valgkampen og narret folk</li>
             </ul>
         </div>
-
         <div>
             <ul>
               <li> si at de som sitter i FNs menneskerettighetsråd, består av «mordere og voldtektsforbrytere»</li>
@@ -295,14 +266,11 @@ Det finnes altså ikke noen offisiell parlamentarisk ordliste. Vi har derfor sø
             </ul>
         </div>
     </div>
-
     <div class="text-center">
         <div style="width: 50%; float: left;" class="prev">&larr;</div>
         <div style="width: 50%; float: left;" class="next">&rarr;</div>
-
         <div style="clear: both;"></div>
     </div>
-
 </div>
 
 Totalt har Presidenten funnet det nødvendig å klubbe 145 ganger de siste seks årene. Diagrammet under viser hvilke partier som irettesettes oftest, og det er fløypartiene som utmerker seg som mest rebelske.
