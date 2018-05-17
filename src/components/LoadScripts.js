@@ -31,8 +31,7 @@ const availableScripts = {
   },
   highcharts: [
     {
-      src:
-        'https://cdnjs.cloudflare.com/ajax/libs/highcharts/5.0.7/highcharts.js',
+      src: 'https://cdnjs.cloudflare.com/ajax/libs/highcharts/5.0.7/highcharts.js',
     },
     {
       src: withPrefix('/js/lib/highcharts-defaults.js'),
@@ -67,9 +66,7 @@ export default class LoadScripts extends React.Component {
     if (!scripts) {
       return [];
     }
-    const urls = filter(availableScripts, (script, key) =>
-      scripts.includes(key)
-    );
+    const urls = filter(availableScripts, (script, key) => scripts.includes(key));
 
     if (scripts.includes('__title__')) {
       urls.push({ src: withPrefix(`/js/posts/${slug}.js`) });
@@ -85,9 +82,7 @@ export default class LoadScripts extends React.Component {
     this.scriptsWrapper.appendChild(script);
   }
   render() {
-    return (
-      <div className="per-post-scripts" ref={this.setScriptsWrappertRef} />
-    );
+    return <div className="per-post-scripts" ref={this.setScriptsWrappertRef} />;
   }
 }
 LoadScripts.propTypes = {

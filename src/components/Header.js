@@ -4,9 +4,7 @@ import PropTypes from 'prop-types';
 
 function rootPath() {
   /* eslint-disable no-undef */
-  return typeof __PREFIX_PATHS__ !== `undefined` && __PREFIX_PATHS__
-    ? `${__PATH_PREFIX__}/`
-    : '/';
+  return typeof __PREFIX_PATHS__ !== `undefined` && __PREFIX_PATHS__ ? `${__PATH_PREFIX__}/` : '/';
   /* eslint-enable no-undef */
 }
 

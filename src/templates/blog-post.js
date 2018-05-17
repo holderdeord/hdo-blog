@@ -29,13 +29,9 @@ class BlogPostTemplate extends React.Component {
       <div>
         <article className={`post ${post.fields.slugTitle}`}>
           <HeadMeta post={post} site={site} />
-          {thumbnail && (
-            <img src={thumbnail} className="top img-responsive" alt={title} />
-          )}
+          {thumbnail && <img src={thumbnail} className="top img-responsive" alt={title} />}
           {thumbnailCredit && (
-            <figcaption className="thumbnail-credit">
-              {thumbnailCredit}
-            </figcaption>
+            <figcaption className="thumbnail-credit">{thumbnailCredit}</figcaption>
           )}
           <h1>{title}</h1>
           <Byline
@@ -44,16 +40,10 @@ class BlogPostTemplate extends React.Component {
             authors={getAuthors(authors, authorData)}
           />
           {/* eslint-disable react/no-danger */}
-          <div
-            className="post-content"
-            dangerouslySetInnerHTML={{ __html: post.html }}
-          />
+          <div className="post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
           {/* eslint-enable react/no-danger */}
         </article>
-        <Comments
-          shortname={site.disqusShortname}
-          url={`${site.siteUrl}${post.fields.slug}`}
-        />
+        <Comments shortname={site.disqusShortname} url={`${site.siteUrl}${post.fields.slug}`} />
         <hr />
         <ul
           style={{

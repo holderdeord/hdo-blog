@@ -13,10 +13,7 @@ export default class Footer extends React.PureComponent {
               blog.holderdeord.no
             </a>{' '}
             ·
-            <a
-              href={`https://twitter.com/${site.twitter}`}
-              title={`${site.title} på Twitter`}
-            >
+            <a href={`https://twitter.com/${site.twitter}`} title={`${site.title} på Twitter`}>
               @{site.twitter}
             </a>
           </div>

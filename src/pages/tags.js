@@ -34,9 +34,7 @@ class TagsPage extends React.PureComponent {
                   <li>
                     <Link to={post.fields.slug}>{post.frontmatter.title}</Link>{' '}
                     <small>
-                      <time dateTime={post.frontmatter.date}>
-                        {post.frontmatter.dateFormatted}
-                      </time>
+                      <time dateTime={post.frontmatter.date}>{post.frontmatter.dateFormatted}</time>
                     </small>
                   </li>
                 ))}

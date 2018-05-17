@@ -23,31 +23,23 @@ export default class HeadMeta extends React.PureComponent {
    * */
   render() {
     const { site, post } = this.props;
-    const title = post
-      ? `${post.frontmatter.title} · ${site.title}`
-      : site.title;
+    const title = post ? `${post.frontmatter.title} · ${site.title}` : site.title;
     const ogTitle = post ? post.frontmatter.title : site.title;
 
     let ogDescription = striptags(stripNewLines(site.description));
     if (post && post.excerpt) {
-      ogDescription = encodeHTMLEntities(
-        striptags(stripNewLines(post.excerpt))
-      );
+      ogDescription = encodeHTMLEntities(striptags(stripNewLines(post.excerpt)));
     } else if (post && post.description) {
       ogDescription = stripNewLines(post.description);
     }
 
     const author =
-      post && post.frontmatter.authors
-        ? toSentence(post.frontmatter.authors)
-        : site.author;
+      post && post.frontmatter.authors ? toSentence(post.frontmatter.authors) : site.author;
 
     const ogType = post ? 'article' : 'website';
 
     const twitterCard =
-      post && post.frontmatter.twitter_card
-        ? post.frontmatter.twitter_card
-        : 'summary';
+      post && post.frontmatter.twitter_card ? post.frontmatter.twitter_card : 'summary';
 
     let ogImage = withPrefix('/images/logo.jpg');
     if (post && post.graphic) {
@@ -56,9 +48,7 @@ export default class HeadMeta extends React.PureComponent {
       ogImage = post.frontmatter.thumbnail;
     }
 
-    const canonicalURL = post
-      ? `${site.siteUrl}${post.fields.slug}`
-      : site.siteUrl;
+    const canonicalURL = post ? `${site.siteUrl}${post.fields.slug}` : site.siteUrl;
 
     const hasScripts = post && post.frontmatter.scripts;
     const scripts = hasScripts ? post.frontmatter.scripts : null;
@@ -88,25 +78,12 @@ export default class HeadMeta extends React.PureComponent {
         <meta name="twitter:widgets:link-color" content="#333" />
         <meta name="twitter:widgets:border-color" content="#b8bfcc" />
 
-        {post && (
-          <meta
-            content={`${site.siteUrl}${post.fields.slug}`}
-            property="og:url"
-          />
-        )}
-        {post && (
-          <meta
-            content={`${site.siteUrl}${post.fields.slug}`}
-            property="twitter:url"
-          />
-        )}
+        {post && <meta content={`${site.siteUrl}${post.fields.slug}`} property="og:url" />}
+        {post && <meta content={`${site.siteUrl}${post.fields.slug}`} property="twitter:url" />}
 
         {post &&
           post.frontmatter.date && (
-            <meta
-              content={post.frontmatter.date}
-              property="article:published_time"
-            />
+            <meta content={post.frontmatter.date} property="article:published_time" />
           )}
 
         <meta property="og:image" content={ogImage} />
@@ -115,9 +92,7 @@ export default class HeadMeta extends React.PureComponent {
 
         {post &&
           post.frontmatter.tags &&
-          post.frontmatter.tags.map(tag => (
-            <meta key={tag} property="article:tag" content={tag} />
-          ))}
+          post.frontmatter.tags.map(tag => <meta key={tag} property="article:tag" content={tag} />)}
 
         {/* Per post stylesheets */}
         {hasScripts &&
@@ -127,16 +102,10 @@ export default class HeadMeta extends React.PureComponent {
               href="https://files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.css"
             />
           )}
-        {hasScripts &&
-          scripts.includes('c3') && (
-            <style>{'.c3-tooltip th { color: #111; }'}</style>
-          )}
+        {hasScripts && scripts.includes('c3') && <style>{'.c3-tooltip th { color: #111; }'}</style>}
         {hasScripts &&
           scripts.includes('cal-heatmap') && (
-            <link
-              rel="stylesheet"
-              href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css"
-            />
+            <link rel="stylesheet" href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css" />
           )}
 
         <link rel="shortcut icon" href={withPrefix('/favicon.ico')} />

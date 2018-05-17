@@ -26,10 +26,7 @@ class BlogIndex extends React.PureComponent {
             <article className="post" key={node.fields.slug}>
               <Link className="post-link" to={node.fields.slug}>
                 {thumbnail && (
-                  <div
-                    className="post-image"
-                    style={{ backgroundImage: `url('${thumbnail}')` }}
-                  />
+                  <div className="post-image" style={{ backgroundImage: `url('${thumbnail}')` }} />
                 )}
                 <h2 className="post-title">{title}</h2>
               </Link>
