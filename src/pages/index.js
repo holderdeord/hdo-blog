@@ -5,10 +5,10 @@ import get from 'lodash/get';
 import Byline from '../components/Byline';
 import HeadMeta from '../components/HeadMeta';
 import { getAuthors } from '../utils';
+import siteMetadata from '../siteMetadata';
 
 class BlogIndex extends React.PureComponent {
   render() {
-    const site = get(this, 'props.data.site.siteMetadata');
     const posts = get(this, 'props.data.allMarkdownRemark.edges');
     const authorData = get(this, 'props.data.allAuthorsYaml.edges');
 
@@ -18,7 +18,7 @@ class BlogIndex extends React.PureComponent {
 
     return (
       <div className="posts">
-        <HeadMeta site={site} />
+        <HeadMeta site={siteMetadata} />
         {latestPosts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug;
           const { thumbnail, date, dateFormatted, authors } = node.frontmatter;
@@ -70,16 +70,6 @@ export default BlogIndex;
 // eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query IndexQuery {
-    site {
-      siteMetadata {
-        author
-        description
-        facebookAppId
-        title
-        twitter
-        siteUrl
-      }
-    }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {

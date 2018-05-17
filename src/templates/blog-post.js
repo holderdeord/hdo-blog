@@ -7,10 +7,10 @@ import LoadScripts from '../components/LoadScripts';
 import HeadMeta from '../components/HeadMeta';
 import { getAuthors } from '../utils';
 import Comments from '../components/Comments';
+import siteMetadata from '../siteMetadata';
 
 class BlogPostTemplate extends React.Component {
   render() {
-    const site = get(this, 'props.data.site.siteMetadata');
     const post = get(this, 'props.data.markdownRemark');
     const authorData = get(this, 'props.data.allAuthorsYaml.edges');
     const pathContext = get(this, 'props.pathContext');
@@ -28,7 +28,7 @@ class BlogPostTemplate extends React.Component {
     return (
       <div>
         <article className={`post ${post.fields.slugTitle}`}>
-          <HeadMeta post={post} site={site} />
+          <HeadMeta post={post} site={siteMetadata} />
           {thumbnail && <img src={thumbnail} className="top img-responsive" alt={title} />}
           {thumbnailCredit && (
             <figcaption className="thumbnail-credit">{thumbnailCredit}</figcaption>
@@ -43,7 +43,10 @@ class BlogPostTemplate extends React.Component {
           <div className="post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
           {/* eslint-enable react/no-danger */}
         </article>
-        <Comments shortname={site.disqusShortname} url={`${site.siteUrl}${post.fields.slug}`} />
+        <Comments
+          shortname={siteMetadata.disqusShortname}
+          url={`${siteMetadata.siteUrl}${post.fields.slug}`}
+        />
         <hr />
         <ul
           style={{
@@ -81,17 +84,6 @@ export default BlogPostTemplate;
 // eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
-    site {
-      siteMetadata {
-        author
-        description
-        disqusShortname
-        facebookAppId
-        title
-        twitter
-        siteUrl
-      }
-    }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
