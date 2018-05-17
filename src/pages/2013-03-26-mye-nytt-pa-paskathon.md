@@ -14,17 +14,7 @@ redirect_from: "/2013/03/mye-nytt-pa-paskathon.html"
 
 ---
 
-<p><strong>
-  <span style="font-family: inherit;">
-    Kvikklunsj kan også spises innendørs! Med 169 dager igjen til stortingsvalget, samlet Holder de ord seg til Påskathon på
-    <a href="http://www.meshnorway.com/" target="_blank">
-      Mesh
-    </a>
-    &nbsp;for å gi nettsiden et skikkelig løft. Her er noe av det vi har gjort:
-  </span>
-</strong>
-</p>
-
+**Kvikklunsj kan også spises innendørs! Med 169 dager igjen til stortingsvalget, samlet Holder de ord seg til Påskathon på [Mesh](http://www.meshnorway.com/) for å gi nettsiden et skikkelig løft. Her er noe av det vi har gjort:**
 
 <div class="separator" style="clear: both; text-align: center;">
   <a href="//files.holderdeord.no/images/old-blog/kvikklunsj.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">

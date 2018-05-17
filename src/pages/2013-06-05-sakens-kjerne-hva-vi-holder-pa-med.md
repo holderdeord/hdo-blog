@@ -15,12 +15,7 @@ redirect_from: "/2013/06/sakens-kjerne-hva-vi-holder-pa-med.html"
 
 ---
 
-<p><strong>
-Når valgdagen nærmer seg, hører vi det. Politisk debatt er skittkasting.
-Politikerne snakker ikke om sak, men person. Media fokuserer på det
-politiske spillet, ikke sakene.
-</strong>
-</p>
+**Når valgdagen nærmer seg, hører vi det. Politisk debatt er skittkasting. Politikerne snakker ikke om sak, men person. Media fokuserer på det politiske spillet, ikke sakene.**
 
 Nordmenn har heldigvis stor tro på demokratiet som styreform, og <a href=
   "http://en.wikipedia.org/wiki/Voter_turnout">valgdeltakelsen</a> spesielt
@@ -29,8 +24,6 @@ en av grunntankene bak Holder de ord er at mange ønsker å vite mer om hva
 som skjer i de konkrete sakene, og hva politikerne faktisk gjør og ikke
 gjør på Stortinget.
 
-<br>
-<br>
 Fakta om hva som skjer på Stortinget er i teorien allerede offentlig
 informasjon, men siden det er pakket inn i kompliserte språk og strukturer,
 er det i praksis nesten umulig for velgerne å følge med. Vi har til og med
@@ -40,8 +33,6 @@ slik vi kjenner de fra samfunnsdebatten, ikke nødvendigvis slik de omtales
 på Stortinget. Vi oversetter politikken til noe som er enklere å
 forstå.
 
-<br>
-<br>
 Hvorfor er det viktig med mer kunnskap i debatten? Fordi en bedre offentlig
 debatt gjør at vi tar bedre beslutninger som samfunn. Dette var Frederik
 Stang, Norges første statsminister, opptatt av allerede på 1800-tallet:
@@ -58,9 +49,6 @@ til å styrke den offentlige debatten og videreutvikle det norske
 demokratiet, og på den måten øke sjansene for kunnskapsbasert
 politikkutforming.
 
-<br>
-<br>
-
 Situasjonen i dag er at norske partier har mistet 30 prosent av sine
 medlemmer siden 1980. <a href="http://www.forskning.no/artikler/2012/august/331988">Forskning</a>
 viser at medlemsflukten er mest markant i Norge sammenlignet med 27
@@ -71,9 +59,6 @@ hele tiden og overalt: ved kjøkkenbordet, på bensinstasjonen, i
 lunsjen, på puben. Vi er fortsatt politiske dyr, 2300 år etter at
 Aristoteles kalte oss nettopp det.
 
-<br>
-<br>
-
 Derfor ønsker Holder de ord også å bidra til å gjøre livet som politisk
 interesserte mennesker enklere. Å gi velgerne et enkelt verktøy til å
 følge med, tror vi vil legge til rette for større engasjement. Det kan
@@ -83,9 +68,6 @@ snakker med venner og kolleger om hva som skjer, skriver leserinnlegg,
 engasjerer seg i foreninger, eller til og med melder seg inn i et
 parti.
 
-<br>
-<br>
-
 Som en konsekvens håper vi også å kunne bidra til at det å være
 politiker blir mer interessant og attraktivt. Vi ønsker å bli et
 verktøy som stortingspolitikere kan bruke til å kommunisere med sine
@@ -94,4 +76,3 @@ det heller ikke uinteressant hvem den enkelte stortingsrepresentant er.
 En plass i nasjonalforsamlingen er en viktig jobb, og representantene
 fortjener større oppmerksomhet om sitt arbeid og at flere kikker dem i
 kortene.
-

@@ -17,7 +17,7 @@ redirect_from: "/2013/03/komplett-datasett-for-2009-13.html"
 
 ---
 
-<p><strong>Etter mye jobb har vi nå endelig et komplett datasett over alle avstemninger på Stortinget fra 2009 og frem til dags dato. Per i dag har vi 3823 avstemninger i vår database. Alle kan brytes ned på hvilke representanter som har vært til stede.</strong></p>
+**Etter mye jobb har vi nå endelig et komplett datasett over alle avstemninger på Stortinget fra 2009 og frem til dags dato. Per i dag har vi 3823 avstemninger i vår database. Alle kan brytes ned på hvilke representanter som har vært til stede.**
 
 I mai 2012 lanserte Stortinget en
 <a href="http://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Nyhetsarkiv/Hva-skjer-nyheter/2011-2012/Apne-data-fra-Stortinget/" target="_blank">
@@ -33,7 +33,7 @@ Spesielt har det vært en omfattende jobb å legge alle avstemninger fra 2009-10
 <img border="0" src="//files.holderdeord.no/images/old-blog/IMG_0872.JPG" alt="Jari kontrollsjekker voteringsutskrifter i Stortingsbiblioteket" width="100%" />
 <ficaption>Jari kontrollsjekker voteringsutskrifter i Stortingsbiblioteket.</figcaption>
 
-<p>I noen tilfeller har det også vist seg at Stortingets egne referater har vært feil, blant annet på grunn av&nbsp;
+<p>I noen tilfeller har det også vist seg at Stortingets egne referater har vært feil, blant annet på grunn av
   <a href="http://www.dagsavisen.no/samfunn/stortinget-glemte-rullestolstemme/" target="_blank">feil med stemmen til en rullestolbruker</a>.</p>
 
 Disse feilene er korrigert i vår database, gjennom en stor dugnadsjobb av totalt ca.&nbsp;10 personer. I tiden som kommer vil disse avstemningene knyttes til nye og gamle saker på
