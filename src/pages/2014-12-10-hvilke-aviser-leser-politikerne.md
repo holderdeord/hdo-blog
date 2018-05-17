@@ -60,20 +60,19 @@ Her er det påfallende klatring på listen blant de topp tre mottakerne av medie
 
 Noen representanter er mer ivrige på å sitere aviser enn andre. Her er de topp 10 avisleserne i følge Stortingets referater siden 2008.
 
-|---------------------+----------------+--------------------|
-|  Representant       | Avisreferanser | Favorittavis       |
-|---------------------+----------------+--------------------|
-|  [Ketil Solvik-Olsen](https://www.holderdeord.no/representatives/kets) (FrP) | 107            | Aftenposten        |
-|  [Robert Eriksson](https://www.holderdeord.no/representatives/re) (FrP)    | 67             | Aftenposten        |
-|  [Trine Skei Grande](https://www.holderdeord.no/representatives/tsg) (V) | 63             | Aftenposten        |
-|  [Borghild Tenden](https://www.holderdeord.no/representatives/bt) (V)   | 58             | Aftenposten        |
-|  [Gunnar Gundersen](https://www.holderdeord.no/representatives/gag) (H)   | 51             | Dagens Næringsliv  |
-|  [Jan Tore Sanner](https://www.holderdeord.no/representatives/jts) (H)    | 51             | Dagens Næringsliv  |
-|  [Bent Høie](https://www.holderdeord.no/representatives/benh) (H)         | 50             | Aftenposten        |
-|  [Arne Sortevik](https://www.holderdeord.no/representatives/aeso) (FrP)      | 45             | Aftenposten        |
-|  [Kjersti Toppe](https://www.holderdeord.no/representatives/kjt) (Sp)     | 44             | Bergens Tidende    |
-|  [Anders Anundsen](https://www.holderdeord.no/representatives/ana) (FrP)   | 42             | Aftenposten        |
-|---------------------+----------------+--------------------|
+
+Representant | Avisreferanser | Favorittavis
+--- | --- | ---
+[Ketil Solvik-Olsen](https://www.holderdeord.no/representatives/kets) (FrP) | 107 | Aftenposten
+[Robert Eriksson](https://www.holderdeord.no/representatives/re) (FrP) | 67 | Aftenposten
+[Trine Skei Grande](https://www.holderdeord.no/representatives/tsg) (V) | 63 | Aftenposten
+[Borghild Tenden](https://www.holderdeord.no/representatives/bt) (V) | 58 | Aftenposten
+[Gunnar Gundersen](https://www.holderdeord.no/representatives/gag) (H) | 51 | Dagens Næringsliv
+[Jan Tore Sanner](https://www.holderdeord.no/representatives/jts) (H) | 51 | Dagens Næringsliv
+[Bent Høie](https://www.holderdeord.no/representatives/benh) (H) | 50 | Aftenposten
+[Arne Sortevik](https://www.holderdeord.no/representatives/aeso) (FrP) | 45 | Aftenposten
+[Kjersti Toppe](https://www.holderdeord.no/representatives/kjt) (Sp) | 44 | Bergens Tidende
+[Anders Anundsen](https://www.holderdeord.no/representatives/ana) (FrP) | 42 | Aftenposten
 
 Nedenfor kan du utforske datasettet brutt på tid og parti.
 

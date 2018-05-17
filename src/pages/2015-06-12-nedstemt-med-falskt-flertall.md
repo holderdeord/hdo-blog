@@ -71,9 +71,8 @@ Det er heller ikke bare «greit» at Stortingets vilje kommer til uttrykk i Stor
 Vi har også tidligere diskutert, på bakgrunn av tilbakemeldinger fra representanter, at tidspunkt på døgnet for en votering kan påvirke stemmegivningen. I denne saken, der stemmegivningen skjedde nærmere midnatt og våre folkevalgte hadde vært aktive hele dagen, kan det tenkes at dette kan ha vært en årsakene til at noen stemte feil. I samtale med stortingsrepresentant for SV, Snorre Valen, blir vi fortalt at dette sannsynligvis stemmer. I perioder med mange saker oppe til avstemming, gjerne mot slutten av sesjonene, er det ifølge Valen ikke uvanlig at representantene oppholder seg på tinget i 16-17 timer i strekk.
 
 <blockquote>
-    «Dette fører helt klart til at folk blir uoppmerksomme og slitne. Norge er et av få land som opererer med stemmegivning til langt på natt»
-
-    <cite>Snorre Valen (SV)</cite>
+«Dette fører helt klart til at folk blir uoppmerksomme og slitne. Norge er et av få land som opererer med stemmegivning til langt på natt»
+<cite>Snorre Valen (SV)</cite>
 </blockquote>
 
 
@@ -86,9 +85,8 @@ Enkelte andre representanter, i tilegg til Erna Solberg, ser også ut til å men
 Feilstemming er videre ifølge Valen ikke uvanlig på Stortinget:
 
 <blockquote>
-    90 % av enkeltrepresentanter som stemmer mot eget parti gjør det ved en feil
-
-    <cite>Snorre Valen (SV)</cite>
+90 % av enkeltrepresentanter som stemmer mot eget parti gjør det ved en feil
+<cite>Snorre Valen (SV)</cite>
 </blockquote>
 
 

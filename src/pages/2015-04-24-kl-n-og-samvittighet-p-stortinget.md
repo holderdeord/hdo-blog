@@ -28,14 +28,14 @@ Streng partidisiplin gjør livet enklere for ledere både i posisjon og opposisj
 
 Streng partidisiplin betyr imidlertid også at representantene sjelden stemmer mot flertallet i sitt parti. Tabellen under viser antall såkalte utbryterstemmer, altså antall ganger en representant fra et parti har stemt mot flertallet i partiet.
 
-<div id="{{ page.title | slugify }}-parties"></div>
+<div id="kl-n-og-samvittighet-p-stortinget-parties"></div>
 <figcaption>Antall utbryterstemmer per parti, okt. 2009 - des. 2014</figcaption>
 
 For å kunne bryte med flertallet trenger man stemmer fra minst tre representanter. Venstre hadde med sine to representanter derfor ingen utbryterstemmer i 2009-2013, og MDG vil med sin ene representant ikke ha noen i denne perioden.
 
 Siden det er forskjell i størrelse på partiene, kan absolutte tall være misvisende. Tabellen under viser utbrytere kontrollert for partistørrelse.
 
-<div id="{{ page.title | slugify }}-parties-normalized"></div>
+<div id="kl-n-og-samvittighet-p-stortinget-parties-normalized"></div>
 <figcaption>Antall utbryterstemmer per gjennomsnitt innvalgte representant parti, okt. 2009 - des. 2014</figcaption>
 
 #### Sjelden med vilje
@@ -57,7 +57,7 @@ Dessverre virker det som at det ikke bare er snakk om partikonflikter som kommer
 
 Det var også det [Aslak Borgersrud](https://twitter.com/aslak_gatas) fant ut da han i desember brukte topplister fra vår database til [å konfrontere](http://enslask.no/2014/12/sa-ofte-stemmer-politikerne-mot-sitt-eget-parti/) to politikere med tallene, og det var dette inntrykket vi satt igjen med etter vår egen konfrontasjon med politikere vedrørende saker med overraskende mange utbrytere, deriblant [lovfesting av minstelønn](https://www.holderdeord.no/votes/1418069544ne), [endringer i barneloven](https://www.holderdeord.no/votes/1268171572ne), [endringer i abortloven](https://www.holderdeord.no/votes/1360701677ne).
 
-<div id="{{ page.title | slugify }}-top-20"></div>
+<div id="kl-n-og-samvittighet-p-stortinget-top-20"></div>
 <figcaption>Representanter med flest utbryterstemmer, oktober 2009 - desember 2014</figcaption>
 
 Representantene trykker altså rett og slett på feil knapp, eller de følger ikke alltid like godt med når det redegjøres for hva det stemmes over. Som Senterpartiets Kjersti Toppe svarte på spørsmål om en [avstemning om reservasjonsrett](https://www.holderdeord.no/votes/1393504041ne):
@@ -97,12 +97,12 @@ Det interessante er derimot dette med «samvittighetssaker». Vi har vært i kon
 
 Det som er tydelig er dog at partiene i mye større grad tillater selvstendig stemmegiving når de er i opposisjon, sammenlignet med når de er i posisjon. Dette er ikke veldig merkelig, særlig ikke for perioden 2009-2013, der opposisjonen ikke hadde noe å vinne på å svinge pisken.
 
-<div id="{{ page.title | slugify }}-parties-timeline"></div>
+<div id="kl-n-og-samvittighet-p-stortinget-parties-timeline"></div>
 <figcaption>Andel utbryterstemmer per parti, oktober 2009 - desember 2014</figcaption>
 
 2013-2014 er første gang at Sp og SV har høyere andel utbrytere enn FrP og Høyre. Ap holder seg jevnt lavt, og har faktisk marginalt færre utbrytere enn Høyre også i 2013-2014. Venstre dukker ikke opp i grafen før i 2013-2014 siden de i foregående periode kun hadde 2 representanter og MDG mangler (siden Rasmus Hansson ikke kan stemme mot seg selv).
 
-<div id="{{ page.title | slugify }}-timeline"></div>
+<div id="kl-n-og-samvittighet-p-stortinget-timeline"></div>
 <figcaption>Totalt antall utbryterstemmer over tid</figcaption>
 
 Totalt har også enhetlig stemmegiving blitt styrket det siste året, noe som kan indikere større uenigheter innad i regjeringen med støttepartier enn blant de rødgrønne.
@@ -126,7 +126,7 @@ Et problem med dette er at man i noen saker vil kunne ha falske flertall. Når u
 
 Det er forståelig at representantene ikke kan fristilles der det finnes landsmøtevedtak eller politikken er hjemlet i regjeringsplattformen. Representantene er som sagt representanter nettopp for partiprogrammet, og demokratiet internt i partiene er viktig. Man kan fortsatt argumentere for at større frihet for representantene burde være regelen i saker der partiet eller regjeringskoalisjonen mangler formulert politikk, eller partiprogrammets ordlyd er så uklar at det ikke er mulig å utlede hva partiet skal mene. Dette bør da også gjelde dersom det kan bety at utfallet i voteringen blir annerledes enn hva majoriteten i partigruppen mener. Det bør altså være som Høyres Sveinung Stensland i sitatet over mener politikken er i Høyre.
 
-<img src="{{ page.thumbnail }}" alt="Illustrasjonsbilde" />
+<img src="https://files.holderdeord.no/images/partipisken.jpg" alt="Illustrasjonsbilde" />
 
 Hva som er en samvittighetssak og ikke er som sagt litt uklart. Det som imidlertid ikke var en samvittighetssak i Høyre var striden om reservasjonsrett. Avtalen med støttepartiene gjorde at Trond Helleland var klar for å bruke pisken, siden samvittigheten til legene trumfet samvittigheten til representantene:
 

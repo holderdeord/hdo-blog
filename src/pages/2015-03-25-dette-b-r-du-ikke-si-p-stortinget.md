@@ -317,16 +317,14 @@ Dette inntrykket endrer seg ikke dramatisk om vi tar høyde for at noen partier 
 
 Selv om det er opp til Presidenten å avgjøre hva som er greit å si, hender det at representantene sladrer på hverandre, som i denne ikke-navngitte sladringen [10. februar 2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2008-2009/081022/muntligsporretime/#a4.10):
 
-<blockquote>
-    Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
-    <cite>President Jagland</cite>
+<blockquote>Presidenten er blitt gjort oppmerksom på at statsråd Navarsete i et innlegg skal ha brukt karakteristikken «tåpelig» om en representants resonnement. Presidenten mente å høre at uttrykket var «dårlig», men det kan skyldes at min hørsel er dårlig. Men faktum er at hvis uttrykket var «tåpelig», er det langt utover parlamentarisk språkbruk.
+<cite>President Jagland</cite>
 </blockquote>
 
 Bård Hoksrud (FrP) sladret imidlertid åpent fra talerstolen [11. februar 2011](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100211/4/#a17)
 
-<blockquote>
-    Jeg oppfatter at vi kanskje har fått et nytt parlamentarisk uttrykk i denne forsamlingen, for jeg registrerer at presidenten ikke klubbet da representanten Langeland brukte ordet «ræva». Jeg synes ikke det er et parlamentarisk uttrykk om politikk som andre fører, i hvert fall ikke fra denne talerstol
-    <cite>Bård Hoksrud</cite>
+<blockquote>Jeg oppfatter at vi kanskje har fått et nytt parlamentarisk uttrykk i denne forsamlingen, for jeg registrerer at presidenten ikke klubbet da representanten Langeland brukte ordet «ræva». Jeg synes ikke det er et parlamentarisk uttrykk om politikk som andre fører, i hvert fall ikke fra denne talerstol
+<cite>Bård Hoksrud</cite>
 </blockquote>
 
 Hoksrud har riktignok aldri brukt uttrykket «ræva», men han deler andreplassen på lista over å bli klubbet flest ganger med nettopp Langeland, sammen med Snorre Valen (SV). Hoksrud har blitt irettesatt for blant annet å anklage vår forrige regjering for å drive med [røveri av bilistene](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100610/6/#a10) og [statlig utpressing](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2010-2011/110210/13/#a15). Han har også blitt klubbet for å [kalle tidligere finansminister Sigbjørn Johnsen (Ap) Onkel Skrue.](https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2009-2010/100615/2/#a17)

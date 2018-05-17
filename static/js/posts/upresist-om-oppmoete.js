@@ -15,7 +15,7 @@
         cols.push(['Oppmøte prosent'].concat(list.map(function(d) { return +d.attending_percent; })));
 
         c3.generate({
-            bindto: document.getElementById('upresist-om-oppm-te-' + key),
+            bindto: document.getElementById('upresist-om-oppmoete-' + key),
             data: {
                 x: 'x',
                 columns: cols,
@@ -48,7 +48,7 @@
 
 
     c3.generate({
-        bindto: document.getElementById('upresist-om-oppm-te-rajh'),
+        bindto: document.getElementById('upresist-om-oppmoete-rajh'),
         data: {
             columns: [
                 ['Fravær i prosent', 47, 26]

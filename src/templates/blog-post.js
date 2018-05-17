@@ -26,26 +26,30 @@ class BlogPostTemplate extends React.Component {
     } = post.frontmatter;
 
     return (
-      <div className="post">
-        <HeadMeta post={post} site={site} />
-        <img src={thumbnail} className="top img-responsive" alt={title} />
-        {thumbnailCredit && (
-          <figcaption className="thumbnail-credit">
-            {thumbnailCredit}
-          </figcaption>
-        )}
-        <h1>{title}</h1>
-        <Byline
-          date={date}
-          dateFormatted={dateFormatted}
-          authors={getAuthors(authors, authorData)}
-        />
-        {/* eslint-disable react/no-danger */}
-        <div
-          className="post-content"
-          dangerouslySetInnerHTML={{ __html: post.html }}
-        />
-        {/* eslint-enable react/no-danger */}
+      <div>
+        <article className={`post ${post.fields.slugTitle}`}>
+          <HeadMeta post={post} site={site} />
+          {thumbnail && (
+            <img src={thumbnail} className="top img-responsive" alt={title} />
+          )}
+          {thumbnailCredit && (
+            <figcaption className="thumbnail-credit">
+              {thumbnailCredit}
+            </figcaption>
+          )}
+          <h1>{title}</h1>
+          <Byline
+            date={date}
+            dateFormatted={dateFormatted}
+            authors={getAuthors(authors, authorData)}
+          />
+          {/* eslint-disable react/no-danger */}
+          <div
+            className="post-content"
+            dangerouslySetInnerHTML={{ __html: post.html }}
+          />
+          {/* eslint-enable react/no-danger */}
+        </article>
         <Comments
           shortname={site.disqusShortname}
           url={`${site.siteUrl}${post.fields.slug}`}
@@ -108,7 +112,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         authors
-        dateFormatted: date(formatString: "DD. MMMM YYYY")
+        dateFormatted: date(formatString: "LL", locale: "nb")
         date
         title
         thumbnail

@@ -91,7 +91,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            dateFormatted: date(formatString: "DD MMMM, YYYY")
+            dateFormatted: date(formatString: "LL", locale: "nb")
             date
             title
             thumbnail

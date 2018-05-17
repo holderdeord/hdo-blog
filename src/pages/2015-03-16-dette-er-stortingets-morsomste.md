@@ -28,7 +28,7 @@ twitter_card: summary_large_image
 **Selv om det er en formell tone i stortingssalen er det fremdeles rom for kjappe kommentarer og humoristiske skråblikk. Vi har gravd i referatene og Stortingets videoarkiv for å finne ut hva som får våre folkevalgte til å le.**
 
 <iframe
-    src="{{ page.video.url }}"
+    src="https://player.vimeo.com/video/122201484"
     class="embedded-video"
     frameborder="0"
     webkitallowfullscreen
