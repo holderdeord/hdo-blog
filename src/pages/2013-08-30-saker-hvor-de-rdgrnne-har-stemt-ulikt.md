@@ -16,7 +16,7 @@ redirect_from: "/2013/08/saker-hvor-de-rdgrnne-har-stemt-ulikt.html"
 
 ---
 
-<p><strong>Av totalt 9932 forslag som har vært oppe til avstemning på Stortinget de siste fire årene, har Ap, SV og Sp stemt ulikt i 49. Her er oversikten.</strong></p>
+**Av totalt 9932 forslag som har vært oppe til avstemning på Stortinget de siste fire årene, har Ap, SV og Sp stemt ulikt i 49. Her er oversikten.**
 
 De rødgrønne regjeringspartiene har i de aller fleste sakene blitt enige om løsninger før forslagene kommer til avstemning i Stortinget. I disse 49 forslagene har imidlertid partiene vært enige om å stemme ulikt på Stortinget. Felles for forslagene er at de handler om viktige prinsippsaker for partiene, og ofte om grunnlovsendringer.
 <br />
@@ -74,7 +74,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
 
   <tbody>
     <tr>
-
       <td style="background: #F2F2F2; border: solid windowtext 1.0pt; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -87,7 +86,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #F2F2F2; border-left: none; border: solid windowtext 1.0pt; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -100,10 +98,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #F2F2F2; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -116,7 +112,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #F2F2F2; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -129,10 +124,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #F2F2F2; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -145,7 +138,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #F2F2F2; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -158,10 +150,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #F2F2F2; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -174,7 +164,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #F2F2F2; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -187,10 +176,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #F2F2F2; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -203,7 +190,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #F2F2F2; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: background1; mso-background-themeshade: 242; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -216,10 +202,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #EAF1DD; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: accent3; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -232,7 +216,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #EAF1DD; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: accent3; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -245,10 +228,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #EAF1DD; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: accent3; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -284,7 +265,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #EAF1DD; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: accent3; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -297,10 +277,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #DAEEF3; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: accent5; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -313,7 +291,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #DAEEF3; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: accent5; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -326,10 +303,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #DAEEF3; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: accent5; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -341,7 +316,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           </span>
         </div>
       </td>
-
       <td style="background: #DAEEF3; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: accent5; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -354,10 +328,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #DAEEF3; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: accent5; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -372,7 +344,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #DAEEF3; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: accent5; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -385,10 +356,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #DAEEF3; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: accent5; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -401,7 +370,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #DAEEF3; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: accent5; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -414,10 +382,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #F2DBDB; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: accent2; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -432,7 +398,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #F2DBDB; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: accent2; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -445,10 +410,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="background: #F2DBDB; border-top: none; border: solid windowtext 1.0pt; mso-background-themecolor: accent2; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -463,7 +426,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="background: #F2DBDB; border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-background-themecolor: accent2; mso-background-themetint: 51; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -476,10 +438,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -494,7 +454,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -507,10 +466,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -525,7 +482,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -538,10 +494,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -556,7 +510,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -569,10 +522,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -599,7 +550,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -612,10 +562,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -630,7 +578,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -643,10 +590,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -661,7 +606,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -674,10 +618,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -692,7 +634,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -705,10 +646,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -723,7 +662,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -736,10 +674,8 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
     <tr>
-
       <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -754,7 +690,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
       <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 212.9pt;" valign="top" width="213">
         <div class="MsoNormal">
           <span style="font-family: Verdana; font-size: 8.5pt;">
@@ -767,7 +702,6 @@ Utover disse saksfeltene er det en del grunnlovsforslag som splitter de rødgrø
           <br />
         </div>
       </td>
-
     </tr>
   </tbody>
 </table>

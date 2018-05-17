@@ -15,7 +15,7 @@ redirect_from: "/2013/10/hackathon-ny-saksmodell-og-saksside.html"
 
 ---
 
-<p><strong>Målet på helgens hackathon var å gjøre Holder de ord klar til ny stortingsperiode, gjennom å oppdatere saksmodellen og forbedre sakssiden.</strong></p>
+**Målet på helgens hackathon var å gjøre Holder de ord klar til ny stortingsperiode, gjennom å oppdatere saksmodellen og forbedre sakssiden.**
 
 Etter mye tankearbeid og diskusjon landet vi på en forenkling av dagens saksmodell. I den nye modellen knyttes forslag til saken uten å si om forslaget er for/mot saken. Oppsummeringer og løftevurderinger gjøres manuelt som i dagens valenssaker, og hvert parti har én vurdering per stortingsperiode. Hvis stemmegivningen endres, vil kommentaren oppdateres.<br /><br />Ved å koble forslag til sakene i stedet for avstemninger som i dag, blir a) modellen riktigere, og b) vi får muligheten til å holde en oppdatert nyhetsstrøm av forslag som har blitt stemt over på Stortinget - som feks kan legges på forsiden.<br /><br />
 

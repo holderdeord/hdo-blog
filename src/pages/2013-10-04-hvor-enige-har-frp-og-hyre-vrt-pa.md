@@ -9,6 +9,8 @@ tags:
 - enighet
 - høyre
 - fremskrittspartiet
+scripts:
+- hdo-widgets
 modified_time: '2013-10-04T11:03:35.746+02:00'
 thumbnail: https://files.holderdeord.no/images/old-blog/1.png
 blogger_id: tag:blogger.com,1999:blog-8322637263735564386.post-2346496626402862135
@@ -17,7 +19,7 @@ redirect_from: "/2013/10/hvor-enige-har-frp-og-hyre-vrt-pa.html"
 
 ---
 
-<p><strong>  Høyre og FrP har stemt likt over 7 av 10 forslag på Stortinget siste fire år. Uenigheten har vært størst i saker om kommunikasjon og samferdsel.</strong></p>
+**Høyre og FrP har stemt likt over 7 av 10 forslag på Stortinget siste fire år. Uenigheten har vært størst i saker om kommunikasjon og samferdsel.**
 
 Mens de to partiene har vært enige om 82 % av forslagene om forsvarspolitikk, har de i perioden stemt likt i kun 53 % av forslagene om kommunikasjon. Minst har enigheten vært i saker om vegvesen (veiutbygging), med kun 44 % lik stemmegivning.
 <br />
@@ -78,8 +80,6 @@ Dog er de nødt til å forhandle frem flere kompromier. Under valgkampen har par
 <a class="hdo-promises-widget" data-promises="8916,7960,8915,7946" href="http://www.holderdeord.no/">
   Laster innhold fra Holder de ord
 </a>
-<script src="https://www.holderdeord.no/widgets">
-</script>
 <br />
 <br />
 <h3>

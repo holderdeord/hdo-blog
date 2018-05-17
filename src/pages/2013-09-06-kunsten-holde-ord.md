@@ -16,7 +16,7 @@ redirect_from: "/2013/03/kunsten-holde-ord.html"
 
 ---
 
-<p><strong>Nedlegging av en fabrikk i Ytre Arna i 1980 endte med at industriministeren ble saksøkt for løftebrudd. Hva betyr egentlig løfter i politikken?</strong></p>
+**Nedlegging av en fabrikk i Ytre Arna i 1980 endte med at industriministeren ble saksøkt for løftebrudd. Hva betyr egentlig løfter i politikken?**
 
 På 1970-tallet var det fremdeles en betydelig tekstilindustri i Norge, men mot slutten av tiåret gikk det dårligere med Arne-fabrikken i Ytre Arna utenfor Bergen. Industriminister Bjartmar Gjerde (Ap) lovte at Staten skulle bidra økonomisk til fortsatt drift i Norion-konsernet som eide fabrikken, forutsatt at de 165 arbeidsplassene i Ytre Arna ble opprettholdt.
 <br />
