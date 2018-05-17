@@ -36,8 +36,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 const posts = result.data.allMarkdownRemark.edges;
 
                 _.each(posts, (post, index) => {
-                    const previous = index === posts.length - 1 ? false : posts[index + 1].node;
-                    const next = index === 0 ? false : posts[index - 1].node;
+                    const previous = index === posts.length - 1 ? null : posts[index + 1].node;
+                    const next = index === 0 ? null : posts[index - 1].node;
 
                     // Ref: https://www.gatsbyjs.org/docs/bound-action-creators/#createPage
                     createPage({
