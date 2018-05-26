@@ -66,5 +66,11 @@ module.exports = {
       },
     },
     'gatsby-plugin-sitemap',
+    {
+      resolve: '@jacobmischka/gatsby-plugin-react-svg',
+      options: {
+        include: /images/
+      }
+    },
   ],
 };

@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Nikolai Kristiansen <nikolaik@gmail.com>, Jari Bakken <jari@holderdeord.no>",
   "dependencies": {
+    "@jacobmischka/gatsby-plugin-react-svg": "^1.1.0",
     "gatsby": "^1.9.223",
     "gatsby-link": "^1.6.38",
     "gatsby-plugin-feed": "^1.3.20",
@@ -42,7 +43,9 @@
     "format": "prettier --write 'src/**/*.js'",
     "deploy": "false # gatsby build --prefix-paths && gh-pages -d public",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,json,css}": [
@@ -51,7 +54,13 @@
     ]
   },
   "devDependencies": {
+    "@storybook/addon-actions": "^3.4.4",
+    "@storybook/addon-links": "^3.4.4",
+    "@storybook/addons": "^3.4.4",
+    "@storybook/react": "^3.4.4",
+    "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.2",
+    "babel-runtime": "^6.26.0",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-prettier": "^2.9.0",
@@ -61,6 +70,7 @@
     "eslint-plugin-react": "^7.4.0",
     "husky": "^0.14.3",
     "lint-staged": "^7.0.4",
-    "prettier": "^1.11.1"
+    "prettier": "^1.11.1",
+    "react-svg-loader": "^2.1.0"
   }
 }

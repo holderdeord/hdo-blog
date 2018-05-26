@@ -19,3 +19,11 @@ Om alt har gått bra besøker du http://localhost:8000 i nettleseren og kan se b
 ## Gatsby
 
 [Gatsby sin dokumentasjon](https://www.gatsbyjs.org/docs/).
+
+
+## Storybook
+Experiment with storybook components. The stories are in `./stories` and config in `.storybook`.
+
+    yarn storybook
+
+Open [localhost:6006](http://localhost:6006/) to start working on your components.
