@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 
 import '../styles/hdo.scss';
 import '../styles/syntax.scss'; // FIXME: Replace with remark thing
+
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import siteMetadata from '../siteMetadata';
@@ -12,10 +13,12 @@ class Template extends React.Component {
     const { children } = this.props;
 
     return (
-      <div className="container">
+      <div>
         <Header location={this.props.location} site={siteMetadata} />
-        <main>{children()}</main>
-        <Footer site={siteMetadata} />
+        <div className="container">
+          <main>{children()}</main>
+          <Footer site={siteMetadata} />
+        </div>
       </div>
     );
   }

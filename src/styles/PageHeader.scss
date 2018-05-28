@@ -1,0 +1,161 @@
+.page-header {
+  padding: 1rem 2rem;
+  display: flex;
+
+  &__logo {
+    svg {
+      width: 5rem;
+      height: auto;
+
+      @media screen and (min-width: 768px) {
+        width: 10rem;
+      }
+    }
+  }
+
+  &__title {
+    flex-grow: 4;
+    text-align: center;
+    margin-top: .4rem;
+    padding-left: 2rem;
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 400;
+      margin: 0;
+
+      @media screen and (min-width: 768px) {
+        font-size: 2rem;
+        margin-top: 1rem;
+        padding-left: 2.5rem;
+      }
+    }
+  }
+
+  &__menu {
+    width: 5rem;
+    margin-top: .5rem;
+    text-align: right;
+
+    @media screen and (min-width: 768px) {
+      width: 10rem;
+      margin-top: 1.5rem;
+    }
+  }
+}
+
+.main-menu {
+  svg {
+    width: 30px;
+    height: 30px;
+  }
+
+  button {
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+
+  &__trigger.hidden {
+    display: none;
+  }
+
+  &__modal-close {
+    margin-top: .5rem;
+
+    @media screen and (min-width: 768px) {
+      margin-top: 1.5rem;
+    }
+  }
+
+  &__modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, .95);
+    padding: 1rem 2rem;
+    overflow-y: auto;
+    z-index: 1;
+
+      &.hidden {
+      display: none;
+    }
+  }
+
+  &__nav-wrap {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+
+    @media screen and (min-width: 768px) {
+      display: flex;
+      width: 80vw;
+    }
+  }
+
+  &__nav {
+    flex-grow: 1;
+
+    @media screen and (min-width: 768px) {
+      margin: 0 2rem;
+    }
+  }
+
+  .nav {
+    list-style: none;
+  }
+}
+
+.other-services {
+  a {
+    text-decoration: none;
+  }
+
+  .service {
+    filter: grayscale(0.4);
+    transition: all 0.3s ease;
+
+    .img {
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 200px;
+      background-position: 50% 50%;
+    }
+
+    &:hover {
+      filter: none;
+      background-color: #e5e7ec;
+    }
+  }
+}
+
+.hdo-card {
+  background-color: #fff;
+  box-shadow: 0 -1px 0 #e5e5e5, 0 0 2px rgba(0, 0, 0, 0.12), 0 2px 4px rgba(0, 0, 0, 0.24);
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+
+  .hdo-card-header {
+    background-color: #fcfcfc;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-shadow: 0 1px rgba(0, 0, 0, 0.12);
+
+    &.top-border {
+      border-top: 1px solid #ddd;
+    }
+
+    &.bottom-border {
+      border-bottom: 1px solid #ddd;
+    }
+  }
+
+  .hdo-card-content {
+    padding: 1rem;
+  }
+}
