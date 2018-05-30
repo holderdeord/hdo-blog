@@ -69,8 +69,8 @@ module.exports = {
     {
       resolve: '@jacobmischka/gatsby-plugin-react-svg',
       options: {
-        include: /images/
-      }
+        include: /images/,
+      },
     },
   ],
 };
