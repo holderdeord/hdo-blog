@@ -39,7 +39,7 @@ const serviceData = [
   },
 ];
 
-const serviceTitle = 'Blogg';
+const serviceTitle = 'Blogg'; // FIXME: Static
 
 export default class Services extends React.Component {
   constructor(props) {
@@ -52,16 +52,16 @@ export default class Services extends React.Component {
 
     return (
       <div className="other-services">
-        <div className="other-services-row">
+        <div className="other-services__row">
           {services.map(service => (
             <div className="service hdo-card" key={service.title}>
               <a href={service.url}>
-                <div className="img" style={{ backgroundImage: `url(${service.img})` }} />
+                <div className="service__img" style={{ backgroundImage: `url(${service.img})` }} />
 
                 <div style={{ padding: '1rem' }}>
-                  <h4>{service.title}</h4>
+                  <h3>{service.title}</h3>
 
-                  <p className="lead">{service.description}</p>
+                  <p className="service__description">{service.description}</p>
                 </div>
               </a>
             </div>

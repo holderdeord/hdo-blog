@@ -140,7 +140,7 @@ $highlight-color: #eed30d;
     display: inline-block;
     text-decoration: none;
     color: rgba(0, 0, 0, 0.5);
-    transition: all 0.15s;
+    transition: all 0.3s ease;
 
     &:hover {
       background-color: $highlight-color;
@@ -164,8 +164,14 @@ $highlight-color: #eed30d;
   .service {
     filter: grayscale(0.4);
     transition: all 0.3s ease;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
 
-    .img {
+    h3 {
+      color: rgba(0, 0, 0, 0.6);
+    }
+
+    &__img {
       background-repeat: no-repeat;
       background-size: cover;
       height: 136px;
@@ -174,7 +180,15 @@ $highlight-color: #eed30d;
 
     &:hover {
       filter: none;
-      background-color: #e5e7ec;
+      background-color: $highlight-color;
+      color: rgba(0, 0, 0, 1);
+
+      h3 {
+        color: rgba(0, 0, 0, 1);
+      }
+    }
+    &__description {
+      font-weight: 300;
     }
   }
 }
