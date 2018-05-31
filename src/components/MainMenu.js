@@ -46,22 +46,28 @@ export default class MainMenu extends React.Component {
           </button>
           <div className="main-menu__nav-wrap">
             <nav className="main-menu__nav">
-              <h2 className="title-h4">Holder de ord</h2>
+              <h2 className="hdo-nav-title">Holder de ord</h2>
               <ul className="nav flex-column">
                 <li className="nav-item">
-                  <a className="nav-link main-menu__nav-link" href="#">
+                  <a
+                    className="nav-link main-menu__nav-link"
+                    href="https://www.holderdeord.no/portal/om-oss"
+                  >
                     Om oss
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link main-menu__nav-link" href="#">
+                  <a
+                    className="nav-link main-menu__nav-link"
+                    href="https://www.holderdeord.no/portal/stott-oss"
+                  >
                     Støtt oss
                   </a>
                 </li>
               </ul>
             </nav>
             <nav className="main-menu__nav">
-              <h2 className="title-h4">Våre tjenester</h2>
+              <h2 className="our-services-title">Våre tjenester</h2>
               <HDOServices />
             </nav>
           </div>

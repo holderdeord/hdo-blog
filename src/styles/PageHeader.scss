@@ -1,6 +1,12 @@
+$highlight-color: #eed30d;
+
 .page-header {
   padding: 1rem 2rem;
   display: flex;
+
+  @media screen and (min-width: 768px) {
+    margin-bottom: 2rem;
+  }
 
   &__logo {
     svg {
@@ -16,8 +22,12 @@
   &__title {
     flex-grow: 4;
     text-align: center;
-    margin-top: .4rem;
     padding-left: 2rem;
+    margin-top: .4rem;
+
+    @media screen and (min-width: 768px) {
+      margin-top: 0;
+    }
 
     h1 {
       font-size: 1.5rem;
@@ -27,7 +37,16 @@
       @media screen and (min-width: 768px) {
         font-size: 2rem;
         margin-top: 1rem;
-        padding-left: 2.5rem;
+      }
+    }
+
+    &__subtitle {
+      font-weight: 300;
+      display: none;
+
+      @media screen and (min-width: 768px) {
+        font-size: 1rem;
+        display: inline-block;
       }
     }
   }
@@ -35,7 +54,6 @@
   &__menu {
     width: 5rem;
     margin-top: .5rem;
-    text-align: right;
 
     @media screen and (min-width: 768px) {
       width: 10rem;
@@ -45,6 +63,9 @@
 }
 
 .main-menu {
+  font-size: 1rem;
+  text-align: right;
+
   svg {
     width: 30px;
     height: 30px;
@@ -75,10 +96,10 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgba(255, 255, 255, .95);
+    background-color: rgba(255, 255, 255, .97);
     padding: 1rem 2rem;
-    overflow-y: auto;
     z-index: 1;
+    overflow-y: auto;
 
       &.hidden {
       display: none;
@@ -88,11 +109,15 @@
   &__nav-wrap {
     display: block;
     width: 100%;
+    height: 100%;
     margin: 0 auto;
+    text-align: left;
+    margin-top: -50px;
 
     @media screen and (min-width: 768px) {
       display: flex;
-      width: 80vw;
+      width: 55vw;
+      min-width: 740px;
     }
   }
 
@@ -101,12 +126,34 @@
 
     @media screen and (min-width: 768px) {
       margin: 0 2rem;
+      height: 100%;
     }
   }
 
   .nav {
     list-style: none;
+    padding: 0;
   }
+
+  .nav-item a {
+    padding: 0.5rem;
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.5);
+    transition: all 0.15s;
+
+    &:hover {
+      background-color: $highlight-color;
+      color: rgba(0, 0, 0, 1);
+
+    }
+  }
+}
+.hdo-nav-title {
+}
+
+.our-services-title {
+  margin-bottom: 1.5rem;
 }
 
 .other-services {
@@ -121,7 +168,7 @@
     .img {
       background-repeat: no-repeat;
       background-size: cover;
-      height: 200px;
+      height: 136px;
       background-position: 50% 50%;
     }
 
@@ -135,8 +182,7 @@
 .hdo-card {
   background-color: #fff;
   box-shadow: 0 -1px 0 #e5e5e5, 0 0 2px rgba(0, 0, 0, 0.12), 0 2px 4px rgba(0, 0, 0, 0.24);
-  margin-bottom: 2rem;
-  margin-top: 2rem;
+  margin-bottom: 1rem;
 
   .hdo-card-header {
     background-color: #fcfcfc;
