@@ -37,8 +37,11 @@ export default class MainMenu extends React.Component {
           role="dialog"
           aria-label="Main menu"
           aria-hidden={hidden}
+          ref={el => {
+            this.modalRef = el;
+          }}
         >
-          {!hidden && <ScrollLock />}
+          {!hidden && <ScrollLock touchScrollTarget={this.modalRef} />}
           <button
             type="button"
             className="close main-menu__modal-close"
