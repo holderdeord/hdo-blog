@@ -1,5 +1,6 @@
 import React from 'react';
 import classnames from 'classnames';
+import ScrollLock from 'react-scrolllock';
 
 import IconBars from '../images/icon-bars.svg';
 import IconTimes from '../images/icon-times.svg';
@@ -35,6 +36,7 @@ export default class MainMenu extends React.Component {
           aria-label="Main menu"
           aria-hidden={hidden}
         >
+          {!hidden && <ScrollLock />}
           <button
             type="button"
             className="close main-menu__modal-close"
