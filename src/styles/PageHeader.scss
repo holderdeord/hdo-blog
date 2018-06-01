@@ -148,6 +148,16 @@ $highlight-color: #eed30d;
 
     }
   }
+
+  &__nav-social {
+    padding: 0.5rem 0.5rem 0 0.5rem !important;
+
+    span {
+      display: inline-block;
+      position: relative;
+      top: -9px;
+    }
+  }
 }
 .hdo-nav-title {
 }

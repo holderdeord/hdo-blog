@@ -4,6 +4,8 @@ import ScrollLock from 'react-scrolllock';
 
 import IconBars from '../images/icon-bars.svg';
 import IconTimes from '../images/icon-times.svg';
+import IconTwitterSquare from '../images/icon-twitter-square.svg';
+import IconFacebookSquare from '../images/icon-facebook-square.svg';
 
 import HDOServices from './HDOServices';
 
@@ -64,6 +66,22 @@ export default class MainMenu extends React.Component {
                     href="https://www.holderdeord.no/portal/stott-oss"
                   >
                     Støtt oss
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a
+                    className="nav-link main-menu__nav-link main-menu__nav-social"
+                    href="https://twitter.com/holderdeord"
+                  >
+                    <IconTwitterSquare /> <span>Twitter</span>
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a
+                    className="nav-link main-menu__nav-link main-menu__nav-social"
+                    href="https://www.facebook.com/holderdeord"
+                  >
+                    <IconFacebookSquare /> <span>Facebook</span>
                   </a>
                 </li>
               </ul>
