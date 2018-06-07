@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import get from 'lodash/get';
+import { Helmet } from 'react-helmet';
 
 class TagsPage extends React.PureComponent {
   indexTags() {
@@ -23,7 +24,9 @@ class TagsPage extends React.PureComponent {
   render() {
     const tagIndex = this.indexTags();
     return (
-      <div>
+      <div className="page-tags">
+        <Helmet title="Tags" />
+        <h2>Tags</h2>
         {Object.entries(tagIndex)
           .sort()
           .map(([tag, posts]) => (

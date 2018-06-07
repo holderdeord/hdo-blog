@@ -253,6 +253,7 @@ img {
     top: 40px;
     opacity: 0.5;
     clip-path: polygon(0px 0px, 100% 0px, 100% 260px, 0px 300px);
+    z-index: -1;
   }
 
   img {
@@ -701,4 +702,10 @@ main > .post .post-content > p:first-child > strong:first-child {
         margin-left: 0;
         margin-right: 0;
     }
+}
+
+@media screen and (min-width: 768px) {
+  .page-tags {
+    margin-top: 15rem;
+  }
 }
