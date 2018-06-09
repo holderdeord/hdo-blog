@@ -8,7 +8,7 @@ const availableScripts = {
     src: 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.js',
   },
   c3: {
-    src: 'https:/files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.js',
+    src: 'https://files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.js',
   },
   'cal-heatmap': {
     src: 'https://cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.min.js',
