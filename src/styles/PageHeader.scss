@@ -1,4 +1,5 @@
 $highlight-color: #eed30d;
+$size-small: 768px;
 
 .page-header {
   padding: 1rem 2rem;
@@ -7,7 +8,7 @@ $highlight-color: #eed30d;
   position: relative;
   z-index: 1;
 
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: $size-small) {
     box-shadow: 0 1px rgba(0, 0, 0, 0.1);
     margin-bottom: 2rem;
   }
@@ -17,7 +18,7 @@ $highlight-color: #eed30d;
       width: 5rem;
       height: auto;
 
-      @media screen and (min-width: 768px) {
+      @media screen and (min-width: $size-small) {
         width: 10rem;
       }
     }
@@ -29,7 +30,7 @@ $highlight-color: #eed30d;
     padding-left: 2rem;
     margin-top: .4rem;
 
-    @media screen and (min-width: 768px) {
+    @media screen and (min-width: $size-small) {
       margin-top: 0;
     }
 
@@ -38,7 +39,7 @@ $highlight-color: #eed30d;
       font-weight: 400;
       margin: 0;
 
-      @media screen and (min-width: 768px) {
+      @media screen and (min-width: $size-small) {
         font-size: 2rem;
         margin-top: 1rem;
       }
@@ -48,7 +49,7 @@ $highlight-color: #eed30d;
       font-weight: 300;
       display: none;
 
-      @media screen and (min-width: 768px) {
+      @media screen and (min-width: $size-small) {
         font-size: 1rem;
         display: inline-block;
       }
@@ -59,7 +60,7 @@ $highlight-color: #eed30d;
     width: 5rem;
     margin-top: .5rem;
 
-    @media screen and (min-width: 768px) {
+    @media screen and (min-width: $size-small) {
       width: 10rem;
       margin-top: 1.5rem;
     }
@@ -82,14 +83,17 @@ $highlight-color: #eed30d;
     cursor: pointer;
   }
 
-  &__trigger.hidden {
-    display: none;
+  &__trigger {
+    display: inline-block;
+    .hidden {
+      display: none;
+    }
   }
 
   &__modal-close {
     margin-top: .5rem;
 
-    @media screen and (min-width: 768px) {
+    @media screen and (min-width: $size-small) {
       margin-top: 1.5rem;
     }
   }
@@ -118,7 +122,7 @@ $highlight-color: #eed30d;
     text-align: left;
     margin-top: -50px;
 
-    @media screen and (min-width: 768px) {
+    @media screen and (min-width: $size-small) {
       display: flex;
       width: 55vw;
       min-width: 740px;
@@ -128,7 +132,7 @@ $highlight-color: #eed30d;
   &__nav {
     flex-grow: 1;
 
-    @media screen and (min-width: 768px) {
+    @media screen and (min-width: $size-small) {
       margin: 0 2rem;
       height: 100%;
     }
@@ -163,7 +167,19 @@ $highlight-color: #eed30d;
     }
   }
 }
-.hdo-nav-title {
+
+.sharing-links {
+  display: none;
+  text-align: center;
+
+  svg path {
+    fill: #455068;
+  }
+
+  @media screen and (min-width: $size-small) {
+    display: inline-block;
+    text-align: right;
+  }
 }
 
 .our-services-title {

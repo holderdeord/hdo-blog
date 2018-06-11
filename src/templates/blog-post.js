@@ -23,6 +23,7 @@ class BlogPostTemplate extends React.Component {
       dateFormatted,
       authors,
       scripts,
+      comments,
     } = post.frontmatter;
 
     return (
@@ -33,7 +34,7 @@ class BlogPostTemplate extends React.Component {
           {thumbnailCredit && (
             <figcaption className="thumbnail-credit">{thumbnailCredit}</figcaption>
           )}
-          <h1>{title}</h1>
+          <h1 className={!thumbnail ? 'push-title-down' : ''}>{title}</h1>
           <Byline
             date={date}
             dateFormatted={dateFormatted}
@@ -43,10 +44,12 @@ class BlogPostTemplate extends React.Component {
           <div className="post-content" dangerouslySetInnerHTML={{ __html: post.html }} />
           {/* eslint-enable react/no-danger */}
         </article>
-        <Comments
-          shortname={siteMetadata.disqusShortname}
-          url={`${siteMetadata.siteUrl}${post.fields.slug}`}
-        />
+        {comments && (
+          <Comments
+            shortname={siteMetadata.disqusShortname}
+            url={`${siteMetadata.siteUrl}${post.fields.slug}`}
+          />
+        )}
         <hr />
         <ul
           style={{
@@ -96,6 +99,7 @@ export const pageQuery = graphql`
         authors
         dateFormatted: date(formatString: "LL", locale: "nb")
         date
+        comments
         title
         thumbnail
         thumbnailCredit: thumbnail_credit

@@ -2,7 +2,7 @@
 
 NB! Alt som gjøres på Github er åpent for alle å se.
 Det kreves en [Github](https://github.com/)-konto for å jobbe med bloggen. Følg instrukser [her](https://github.com/join).
-Vi bruker [Jekyll](jekyllrb.com) på denne bloggen.
+Vi bruker [Gatsby](https://gatsbyjs.org) på denne bloggen.
 
 [A. Jeg vil publisere](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#a-jeg-vil-publisere)  
 [B. Jeg vil forhandsvise uten publisering](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#b-jeg-vil-forhandsvise-uten-publisering)  
@@ -12,7 +12,7 @@ Vi bruker [Jekyll](jekyllrb.com) på denne bloggen.
 
 ## A. Jeg vil publisere
 
-For å lage en ny artikkel må du lage en ny fil i mappen som heter [_posts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_posts).
+For å lage en ny artikkel må du lage en ny fil i mappen som heter [pages](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_posts).
 Trykk på "+" for å lage en ny fil.
 
 ![Ny fil](/images/nyfil.png)
@@ -25,24 +25,7 @@ Filen skal hete følgende: YYYY-MM-DD-title-of-post.md
 
 ![Commit](/images/commit.png)
 
-Deretter gå til [bloggen](blog.holderdeord.no). Artikkelen skal komme innen 10 minutter.
-
-## B. Jeg vil forhandsvise uten publisering
-
-For å lage en ny artikkel du ønsker å forhåndsvise må du lage en ny fil i mappen som heter [_drafts](https://github.com/holderdeord/hdo-blog/tree/gh-pages/_drafts).
-Trykk på "+" for å lage en ny fil.
-
-![Ny fil](/images/nyfil.png)
-
-Filen skal hete følgende: YYYY-MM-DD-title-of-post.md
-
-- På toppen av filen må det puttes inn noe metadata [(Les E.)](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#e-metadata-for-post-hos-hdo-blog)
-- Deretter skriver du teksten eventuelt med [Markdown](https://github.com/holderdeord/hdo-blog/blob/gh-pages/bidra.md#d-jeg-trenger-hjelp-med-bilder-lenker-lister-og-annet-markdown).
-- Til slutt skriver du en liten beskrivelse i Commit changes boksen og trykker på grønn "Commit changes" knapp.
-
-![Commit](/images/commit.png)
-
-Deretter gå til draft [bloggen](drafts.holderdeord.no). Artikkelen skal komme innen 10 minutter.
+Deretter gå til [bloggen](blog.holderdeord.no). Artikkelen skal komme innen 5 minutter.
 
 ## C. Jeg vil bruke Prose.io til skriving
 

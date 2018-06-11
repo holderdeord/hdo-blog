@@ -6,13 +6,15 @@
 
 For å kjøre lokalt trenger du [node](https://www.nodejs.org/) [yarn](https://yarn.org) og [gatsby-cli](https://gatsbyjs.org)
 
+    npm i -g yarn
     yarn global add gatsby-cli
-    yarn
+    yarn install
     yarn develop
 
 Om alt har gått bra besøker du http://localhost:8000 i nettleseren og kan se bloggen.
 
 ## Bidra
+Se [guiden](./bidra.md) for hvordan bidra med markdown-formaterte innlegg.
 
     # TODO: En annen måte enn remark
 

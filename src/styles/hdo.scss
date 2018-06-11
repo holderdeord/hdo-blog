@@ -709,3 +709,9 @@ main > .post .post-content > p:first-child > strong:first-child {
     margin-top: 15rem;
   }
 }
+
+.push-title-down {
+  @media screen and (min-width: 768px) {
+    margin-top: 14rem;
+  }
+}

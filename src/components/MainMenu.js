@@ -1,15 +1,16 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import classnames from 'classnames';
 import ScrollLock from 'react-scrolllock';
 
 import IconBars from '../images/icon-bars.svg';
 import IconTimes from '../images/icon-times.svg';
-import IconTwitterSquare from '../images/icon-twitter-square.svg';
-import IconFacebookSquare from '../images/icon-facebook-square.svg';
 
 import HDOServices from './HDOServices';
+import GlobalNavigation from './GlobalNavigation';
+import SharingLinks from './SharingLinks';
 
-export default class MainMenu extends React.Component {
+class MainMenu extends React.Component {
   constructor(props) {
     super(props);
     this.state = { hidden: true };
@@ -21,13 +22,21 @@ export default class MainMenu extends React.Component {
 
   render() {
     const { hidden } = this.state;
+    const { sharingLinks } = this.props;
 
     const triggerClasses = classnames('main-menu__trigger', { hidden: !hidden });
     const modalClasses = classnames('main-menu__modal', { hidden });
 
     return (
       <div className="main-menu">
-        <button className={triggerClasses} type="button" onClick={this.onClick}>
+        {/* TODO: You are here. Add configurable sharing links */}
+        {sharingLinks && <SharingLinks />}
+        <button
+          className={triggerClasses}
+          type="button"
+          onClick={this.onClick}
+          aria-label="Open menu"
+        >
           <IconBars aria-hidden={!hidden} />
         </button>
         <div
@@ -52,43 +61,7 @@ export default class MainMenu extends React.Component {
             <IconTimes aria-hidden={hidden} />
           </button>
           <div className="main-menu__nav-wrap">
-            <nav className="main-menu__nav">
-              <h2 className="hdo-nav-title">Holder de ord</h2>
-              <ul className="nav flex-column">
-                <li className="nav-item">
-                  <a
-                    className="nav-link main-menu__nav-link"
-                    href="https://www.holderdeord.no/portal/om-oss"
-                  >
-                    Om oss
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a
-                    className="nav-link main-menu__nav-link"
-                    href="https://www.holderdeord.no/portal/stott-oss"
-                  >
-                    Støtt oss
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a
-                    className="nav-link main-menu__nav-link main-menu__nav-social"
-                    href="https://twitter.com/holderdeord"
-                  >
-                    <IconTwitterSquare /> <span>Twitter</span>
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a
-                    className="nav-link main-menu__nav-link main-menu__nav-social"
-                    href="https://www.facebook.com/holderdeord"
-                  >
-                    <IconFacebookSquare /> <span>Facebook</span>
-                  </a>
-                </li>
-              </ul>
-            </nav>
+            <GlobalNavigation modal />
             <nav className="main-menu__nav">
               <h2 className="our-services-title">Våre tjenester</h2>
               <HDOServices />
@@ -99,3 +72,16 @@ export default class MainMenu extends React.Component {
     );
   }
 }
+
+MainMenu.defaultProps = {
+  sharingLinks: null,
+};
+
+MainMenu.propTypes = {
+  sharingLinks: PropTypes.shape({
+    facebookAppId: PropTypes.number.isRequired,
+    shareText: PropTypes.string.isRequired,
+  }),
+};
+
+export default MainMenu;
