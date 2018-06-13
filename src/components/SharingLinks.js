@@ -51,13 +51,13 @@ class SharingLinks extends Component {
     return (
       <div className="sharing-links">
         <span>
-          <a href="#" onClick={this.handleFacebookShare}>
+          <a href="#" onClick={this.handleFacebookShare} title="Del på Facebook">
             <IconFacebookSquare />
           </a>
         </span>
 
         <span>
-          <a href="#" onClick={this.handleTwitterShare}>
+          <a href="#" onClick={this.handleTwitterShare} title="Del på Twitter">
             <IconTwitterSquare />
           </a>
         </span>

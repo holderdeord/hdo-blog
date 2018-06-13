@@ -171,9 +171,19 @@ $size-small: 768px;
 .sharing-links {
   display: none;
   text-align: center;
+  margin-right: 1rem;
 
-  svg path {
-    fill: #455068;
+  svg {
+    &:first-child {
+      margin-right: 0.5rem;
+    }
+
+    path {
+      fill: #636f87;
+    }
+    &:hover path {
+      fill: #455068;
+    }
   }
 
   @media screen and (min-width: $size-small) {

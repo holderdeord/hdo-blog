@@ -30,7 +30,7 @@ class MainMenu extends React.Component {
     return (
       <div className="main-menu">
         {/* TODO: You are here. Add configurable sharing links */}
-        {sharingLinks && <SharingLinks />}
+        {sharingLinks && <SharingLinks {...sharingLinks} />}
         <button
           className={triggerClasses}
           type="button"
@@ -61,7 +61,7 @@ class MainMenu extends React.Component {
             <IconTimes aria-hidden={hidden} />
           </button>
           <div className="main-menu__nav-wrap">
-            <GlobalNavigation modal />
+            <GlobalNavigation />
             <nav className="main-menu__nav">
               <h2 className="our-services-title">Våre tjenester</h2>
               <HDOServices />
