@@ -2,10 +2,13 @@ import React from 'react';
 
 const NotFoundPage = () => (
   <div>
-    <h1>Oi!</h1>
-    <p>
-      Dette var en blindvei, prøv <a href="https://blog.holderdeord.no">blog.holderdeord.no</a>.
-    </p>
+    <h1 className="push-title-down">
+      Oi!
+      <span role="img" aria-label="En høyst overrasket ugle">
+        🦉
+      </span>
+    </h1>
+    <p>Dette var en blindvei.</p>
   </div>
 );
 
