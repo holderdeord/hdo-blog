@@ -6,8 +6,8 @@ authors:
 - Bjørn Harald Bratli
 published: true
 comments: true
-thumbnail: 
-thumbnail_credit: 
+thumbnail: https://farm6.staticflickr.com/5488/30374630504_612cd0801f_b.jpg
+thumbnail_credit: 'Knut Arild Hariede, under trontaledebatten i Stortinget 4. oktober 2016. Foto: Stortinget.'
 ---
 
 **Knut Arild Hareide og KrF står ikke bare på vippen i Stortinget mellom regjering og opposisjon, de står i en dyp spagat på tvers av det politiske landskap.**
