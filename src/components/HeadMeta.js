@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { withPrefix } from 'gatsby-link';
 import striptags from 'striptags';
-import he from 'he';
 
 function toSentence(arr) {
   return arr.join(', ').replace(/,\s([^,]+)$/, ' and $1');
@@ -11,10 +10,6 @@ function toSentence(arr) {
 
 function stripNewLines(someText) {
   return someText.replace(/\r?\n|\r/gm, '');
-}
-
-function encodeHTMLEntities(someText) {
-  return he.encode(someText, { useNamedReferences: true });
 }
 
 export default class HeadMeta extends React.PureComponent {
@@ -28,7 +23,7 @@ export default class HeadMeta extends React.PureComponent {
 
     let ogDescription = striptags(stripNewLines(site.description));
     if (post && post.excerpt) {
-      ogDescription = encodeHTMLEntities(striptags(stripNewLines(post.excerpt)));
+      ogDescription = striptags(stripNewLines(post.excerpt));
     } else if (post && post.description) {
       ogDescription = stripNewLines(post.description);
     }

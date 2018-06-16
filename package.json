@@ -26,7 +26,6 @@
     "gatsby-transformer-remark": "^1.7.36",
     "gatsby-transformer-sharp": "^1.6.22",
     "gatsby-transformer-yaml": "^1.5.16",
-    "he": "^1.1.1",
     "lodash": "^4.17.5",
     "prismjs": "^1.14.0",
     "prop-types": "^15.6.1",
