@@ -51,21 +51,23 @@ class MainMenu extends React.Component {
           }}
         >
           {!hidden && <ScrollLock touchScrollTarget={this.modalRef} />}
-          <button
-            type="button"
-            className="close main-menu__modal-close"
-            data-dismiss="modal"
-            aria-label="Close"
-            onClick={this.onClick}
-          >
-            <IconTimes aria-hidden={hidden} />
-          </button>
-          <div className="main-menu__nav-wrap">
-            <GlobalNavigation />
-            <nav className="main-menu__nav">
-              <h2 className="our-services-title">Våre tjenester</h2>
-              <HDOServices />
-            </nav>
+          <div className="main-menu__modal__inner">
+            <button
+              type="button"
+              className="close main-menu__modal-close"
+              data-dismiss="modal"
+              aria-label="Close"
+              onClick={this.onClick}
+            >
+              <IconTimes aria-hidden={hidden} />
+            </button>
+            <div className="main-menu__nav-wrap">
+              <GlobalNavigation />
+              <nav className="main-menu__nav">
+                <h2 className="our-services-title">Våre tjenester</h2>
+                <HDOServices />
+              </nav>
+            </div>
           </div>
         </div>
       </div>

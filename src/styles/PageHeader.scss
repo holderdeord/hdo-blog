@@ -116,6 +116,11 @@ $size-small: 768px;
     z-index: 1;
     overflow-y: auto;
 
+    &__inner {
+      max-width: 1300px;
+      margin: 0 auto;
+    }
+
       &.hidden {
       display: none;
     }
