@@ -31,3 +31,5 @@ Det store dilemmaet har gjerne ligget i KrFs kjerne. Det er moralske/religiøse 
 Samtidig som en stor del av KrFs politikk hører hjemme på venstresiden kan det spørres om ikke også mange av kjernesakene best kan ivaretas der. Med to uttalte liberale partier blant de borgerlige i Venstre og FrP, står KrF for en kamp i oppoverbakke om saker som nei til søndagsåpne butikker og en restriktiv alkoholpolitikk. Begge disse sakene, og flere med, har KrF flertall for blant sine meningsfeller på venstresiden.
 
 KrF står i dag på vippen i norsk politikk, som uttalt opposisjonsparti med en fot i begge leirer. Partiets historiske og verdimessige tyngdepunkt har ligget til høyre, men politikken som helhet og fremtiden selv ligger muligens til venstre.
+
+*En versjon av denne saken ble publisert av Aftenposten [13. juni 2018](https://www.aftenposten.no/meninger/debatt/i/0E7erg/Kristelig-Folkepartis-dype_-politiske-spagat--Bjorn-Harald-Bratli)*
