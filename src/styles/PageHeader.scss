@@ -3,10 +3,17 @@ $size-small: 768px;
 
 .page-header {
   padding: 1rem 2rem;
-  display: flex;
   background-color: white;
   position: relative;
   z-index: 1;
+  margin-bottom: 1rem;
+
+  &__inner {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+  }
 
   @media screen and (min-width: $size-small) {
     box-shadow: 0 1px rgba(0, 0, 0, 0.1);

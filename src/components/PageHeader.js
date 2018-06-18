@@ -19,17 +19,19 @@ Title.propTypes = {
 
 const PageHeader = ({ title, subtitle, TitleComponent, sharingLinks }) => (
   <header className="page-header">
-    <div className="page-header__logo">
-      <a href="https://www.holderdeord.no/portal">
-        <HDOLogo />
-      </a>
-    </div>
-    <div className="page-header__title">
-      <TitleComponent title={title} />
-      {subtitle && <span className="page-header__title__subtitle">{subtitle}</span>}
-    </div>
-    <div className="page-header__menu">
-      <MainMenu sharingLinks={sharingLinks} />
+    <div className="page-header__inner">
+      <div className="page-header__logo">
+        <a href="https://www.holderdeord.no/portal">
+          <HDOLogo />
+        </a>
+      </div>
+      <div className="page-header__title">
+        <TitleComponent title={title} />
+        {subtitle && <span className="page-header__title__subtitle">{subtitle}</span>}
+      </div>
+      <div className="page-header__menu">
+        <MainMenu sharingLinks={sharingLinks} />
+      </div>
     </div>
   </header>
 );
