@@ -15,12 +15,6 @@ class Template extends React.Component {
     return (
       <div>
         <Header location={this.props.location} site={siteMetadata} />
-        <figure className="maingraphic">
-          <img
-            src="https://files.holderdeord.no/images/stortingssalen.jpg"
-            alt="Illustrasjonsfoto: Stortingssalen"
-          />
-        </figure>
         <div className="container">
           <main>{children()}</main>
           <Footer site={siteMetadata} />

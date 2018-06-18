@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import get from 'lodash/get';
-import classnames from 'classnames';
 
 import Byline from '../components/Byline';
 import HeadMeta from '../components/HeadMeta';
@@ -20,15 +19,9 @@ class BlogIndex extends React.PureComponent {
     return (
       <div className="posts">
         <HeadMeta site={siteMetadata} />
-        {latestPosts.map((post, i) => {
-          const { node } = post;
+        {latestPosts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug;
           const { thumbnail, date, dateFormatted, authors } = node.frontmatter;
-
-          const firstPostHasNoImage = !thumbnail && i === 0;
-          const postTitleClassNames = classnames('post-title', {
-            'push-title-down': firstPostHasNoImage,
-          });
 
           return (
             <article className="post" key={node.fields.slug}>
@@ -36,7 +29,7 @@ class BlogIndex extends React.PureComponent {
                 {thumbnail && (
                   <div className="post-image" style={{ backgroundImage: `url('${thumbnail}')` }} />
                 )}
-                <h2 className={postTitleClassNames}>{title}</h2>
+                <h2 className="post-title">{title}</h2>
               </Link>
               <Byline
                 date={date}

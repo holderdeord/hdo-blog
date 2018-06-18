@@ -34,7 +34,7 @@ class BlogPostTemplate extends React.Component {
           {thumbnailCredit && (
             <figcaption className="thumbnail-credit">{thumbnailCredit}</figcaption>
           )}
-          <h1 className={!thumbnail ? 'push-title-down' : ''}>{title}</h1>
+          <h1>{title}</h1>
           <Byline
             date={date}
             dateFormatted={dateFormatted}

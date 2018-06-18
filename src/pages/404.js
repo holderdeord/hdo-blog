@@ -2,7 +2,7 @@ import React from 'react';
 
 const NotFoundPage = () => (
   <div>
-    <h1 className="push-title-down">
+    <h1>
       Oi!
       <span role="img" aria-label="En høyst overrasket ugle">
         🦉
