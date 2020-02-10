@@ -17,7 +17,9 @@ Title.propTypes = {
   title: PropTypes.string.isRequired,
 };
 
-const PageHeader = ({ title, subtitle, TitleComponent, sharingLinks }) => (
+const PageHeader = ({
+  title, subtitle, TitleComponent, sharingLinks,
+}) => (
   <header className="page-header">
     <div className="page-header__inner">
       <div className="page-header__logo">

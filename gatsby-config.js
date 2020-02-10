@@ -13,7 +13,8 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         // Ref: https://github.com/jonschlinkert/gray-matter#optionsexcerpt
-        excerpt: file => {
+        excerpt: (file) => {
+          // eslint-disable-next-line no-param-reassign
           file.excerpt = file.content
             .split('**')
             .slice(1, 2)
@@ -67,7 +68,7 @@ module.exports = {
     },
     'gatsby-plugin-sitemap',
     {
-      resolve: '@jacobmischka/gatsby-plugin-react-svg',
+      resolve: 'gatsby-plugin-react-svg',
       options: {
         include: /images/,
       },

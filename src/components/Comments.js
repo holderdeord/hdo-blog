@@ -1,14 +1,19 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ReactDisqusThread from 'react-disqus-thread';
+import Disqus from 'disqus-react';
+import siteMetadata from '../siteMetadata';
 
-export default class Comments extends React.Component {
-  render() {
-    const { shortname, url } = this.props;
-    return <ReactDisqusThread shortname={shortname} url={url} />;
-  }
-}
-Comments.propTypes = {
-  shortname: PropTypes.string.isRequired,
-  url: PropTypes.string.isRequired,
+const Comments = ({ post }) => {
+  const shortname = siteMetadata.disqusShortname;
+  const url = `${siteMetadata.siteUrl}${post.fields.slug}`;
+  const disqusConfig = {
+    url,
+    identifier: url,
+    title: post.fields.title,
+  };
+  return <Disqus.DiscussionEmbed shortname={shortname} config={disqusConfig} />;
 };
+Comments.propTypes = {
+  post: PropTypes.shape({}).isRequired,
+};
+export default Comments;

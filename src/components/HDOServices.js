@@ -44,7 +44,7 @@ const serviceTitle = 'Blogg'; // FIXME: Static
 export default class Services extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { services: serviceData.filter(s => s.title !== serviceTitle) };
+    this.state = { services: serviceData.filter((s) => s.title !== serviceTitle) };
   }
 
   render() {
@@ -53,7 +53,7 @@ export default class Services extends React.Component {
     return (
       <div className="other-services">
         <div className="other-services__row">
-          {services.map(service => (
+          {services.map((service) => (
             <div className="service hdo-card" key={service.title}>
               <a href={service.url}>
                 <div className="service__img" style={{ backgroundImage: `url(${service.img})` }} />

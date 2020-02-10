@@ -1,4 +1,4 @@
-/* eslint max-len: 0 */
+/* eslint max-len: "off" */
 module.exports = {
   title: 'Holder de ord · Blogg',
   subtitle: 'Datadrevne analyser av norsk politikk',

@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
@@ -20,7 +21,7 @@ function getUrl() {
 }
 
 class SharingLinks extends Component {
-  handleFacebookShare = event => {
+  handleFacebookShare = (event) => {
     event.preventDefault();
 
     const { facebookAppId } = this.props;
@@ -34,7 +35,7 @@ class SharingLinks extends Component {
     open(shareUrl, 'Facebook');
   };
 
-  handleTwitterShare = event => {
+  handleTwitterShare = (event) => {
     event.preventDefault();
 
     const { shareText } = this.props;

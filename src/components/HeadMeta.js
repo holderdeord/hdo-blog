@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
-import { withPrefix } from 'gatsby-link';
+import { withPrefix } from 'gatsby';
 import striptags from 'striptags';
 
 function toSentence(arr) {
@@ -28,13 +28,11 @@ export default class HeadMeta extends React.PureComponent {
       ogDescription = stripNewLines(post.description);
     }
 
-    const author =
-      post && post.frontmatter.authors ? toSentence(post.frontmatter.authors) : site.author;
+    const author = post && post.frontmatter.authors ? toSentence(post.frontmatter.authors) : site.author;
 
     const ogType = post ? 'article' : 'website';
 
-    const twitterCard =
-      post && post.frontmatter.twitter_card ? post.frontmatter.twitter_card : 'summary';
+    const twitterCard = post && post.frontmatter.twitter_card ? post.frontmatter.twitter_card : 'summary';
 
     let ogImage = withPrefix('/images/logo.jpg');
     if (post && post.graphic) {
@@ -76,32 +74,29 @@ export default class HeadMeta extends React.PureComponent {
         {post && <meta content={`${site.siteUrl}${post.fields.slug}`} property="og:url" />}
         {post && <meta content={`${site.siteUrl}${post.fields.slug}`} property="twitter:url" />}
 
-        {post &&
-          post.frontmatter.date && (
-            <meta content={post.frontmatter.date} property="article:published_time" />
-          )}
+        {post && post.frontmatter.date && (
+          <meta content={post.frontmatter.date} property="article:published_time" />
+        )}
 
         <meta property="og:image" content={ogImage} />
         <meta name="twitter:image:src" content={ogImage} />
         <meta name="twitter:image" content={ogImage} />
 
-        {post &&
-          post.frontmatter.tags &&
-          post.frontmatter.tags.map(tag => <meta key={tag} property="article:tag" content={tag} />)}
+        {post
+          && post.frontmatter.tags
+          && post.frontmatter.tags.map((tag) => <meta key={tag} property="article:tag" content={tag} />)}
 
         {/* Per post stylesheets */}
-        {hasScripts &&
-          scripts.includes('c3') && (
-            <link
-              rel="stylesheet"
-              href="https://files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.css"
-            />
-          )}
+        {hasScripts && scripts.includes('c3') && (
+          <link
+            rel="stylesheet"
+            href="https://files.holderdeord.no/code/c3js/c3-0.4.10-rc5/c3.min.css"
+          />
+        )}
         {hasScripts && scripts.includes('c3') && <style>{'.c3-tooltip th { color: #111; }'}</style>}
-        {hasScripts &&
-          scripts.includes('cal-heatmap') && (
-            <link rel="stylesheet" href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css" />
-          )}
+        {hasScripts && scripts.includes('cal-heatmap') && (
+          <link rel="stylesheet" href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css" />
+        )}
 
         <link rel="shortcut icon" href={withPrefix('/favicon.ico')} />
         <link href={canonicalURL} rel="canonical" />

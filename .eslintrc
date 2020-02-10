@@ -3,14 +3,19 @@
     "browser": true,
     "jest": true
   },
-  "extends": ["airbnb", "plugin:prettier/recommended"],
+  "extends": [
+    "prettier",
+    "prettier/react",
+    "airbnb",
+    "airbnb/hooks"
+  ],
+  "plugins": ["prettier"],
   "parser": "babel-eslint",
   "rules": {
     "max-len": [2, 120],
-    "jsx-a11y/anchor-is-valid": 0,
-    "class-methods-use-this": 0,
-    "import/no-named-as-default": 0,
-    "react/jsx-filename-extension": ["error", {"extensions": [".js", ".jsx"]}],
-    "react/prefer-stateless-function": 0
+    "class-methods-use-this": "off",
+    "react/prefer-stateless-function": "off",
+    "react/prop-types": "off",
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
   }
 }

@@ -7,14 +7,19 @@ export default class Footer extends React.PureComponent {
     return (
       <footer className="site-footer">
         <div className="container">
-          <h5>Holder de ord © 2014 - {new Date().getFullYear()}</h5>
+          <h5>
+            Holder de ord © 2014 -
+            {new Date().getFullYear()}
+          </h5>
           <div>
             <a href={site.siteUrl} title={site.title}>
               blog.holderdeord.no
-            </a>{' '}
+            </a>
+            {' '}
             ·
             <a href={`https://twitter.com/${site.twitter}`} title={`${site.title} på Twitter`}>
-              @{site.twitter}
+              @
+              {site.twitter}
             </a>
           </div>
         </div>

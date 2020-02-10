@@ -17,7 +17,8 @@ class MainMenu extends React.Component {
   }
 
   onClick = () => {
-    this.setState({ hidden: !this.state.hidden });
+    const { hidden } = this.state;
+    this.setState({ hidden: !hidden });
   };
 
   render() {
@@ -30,6 +31,7 @@ class MainMenu extends React.Component {
     return (
       <div className="main-menu">
         {/* TODO: You are here. Add configurable sharing links */}
+        {/* eslint-disable-next-line react/jsx-props-no-spreading */}
         {sharingLinks && <SharingLinks {...sharingLinks} />}
         <button
           className={triggerClasses}
@@ -46,7 +48,7 @@ class MainMenu extends React.Component {
           role="dialog"
           aria-label="Main menu"
           aria-hidden={hidden}
-          ref={el => {
+          ref={(el) => {
             this.modalRef = el;
           }}
         >

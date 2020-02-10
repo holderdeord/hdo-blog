@@ -4,12 +4,10 @@
 
 ## Kjøre lokalt
 
-For å kjøre lokalt trenger du [node](https://www.nodejs.org/) [yarn](https://yarn.org) og [gatsby-cli](https://gatsbyjs.org)
+For å kjøre lokalt trenger du [node](https://www.nodejs.org/).
 
-    npm i -g yarn
-    yarn global add gatsby-cli
-    yarn install
-    yarn develop
+    npm install
+    npm start
 
 Om alt har gått bra besøker du http://localhost:8000 i nettleseren og kan se bloggen.
 
@@ -22,10 +20,3 @@ Se [guiden](./bidra.md) for hvordan bidra med markdown-formaterte innlegg.
 
 [Gatsby sin dokumentasjon](https://www.gatsbyjs.org/docs/).
 
-
-## Storybook
-Experiment with storybook components. The stories are in `./stories` and config in `.storybook`.
-
-    yarn storybook
-
-Open [localhost:6006](http://localhost:6006/) to start working on your components.

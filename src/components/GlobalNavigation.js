@@ -22,12 +22,16 @@ const GlobalNavigation = () => (
       </li>
       <li className="nav-item">
         <a className="nav-link main-menu__nav-social" href="https://twitter.com/holderdeord">
-          <IconTwitterSquare /> <span>Twitter</span>
+          <IconTwitterSquare />
+          {' '}
+          <span>Twitter</span>
         </a>
       </li>
       <li className="nav-item">
         <a className="nav-link main-menu__nav-social" href="https://www.facebook.com/holderdeord">
-          <IconFacebookSquare /> <span>Facebook</span>
+          <IconFacebookSquare />
+          {' '}
+          <span>Facebook</span>
         </a>
       </li>
     </ul>

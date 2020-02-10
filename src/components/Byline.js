@@ -24,8 +24,8 @@ export default class Byline extends React.Component {
       <div className="post-byline">
         <time dateTime={date}>{dateFormatted}</time>
         &nbsp;av&nbsp;
-        {authors &&
-          authors.map((author, i) => {
+        {authors
+          && authors.map((author, i) => {
             if (author.email) {
               return (
                 <span key={author.name}>

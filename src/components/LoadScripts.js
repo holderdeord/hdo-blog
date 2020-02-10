@@ -1,6 +1,6 @@
 import React from 'react';
 import filter from 'lodash/filter';
-import { withPrefix } from 'gatsby-link';
+import { withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
 
 const availableScripts = {
@@ -46,22 +46,11 @@ export default class LoadScripts extends React.Component {
     super(props);
     this.scriptsWrapper = null;
 
-    this.setScriptsWrappertRef = element => {
+    this.setScriptsWrappertRef = (element) => {
       this.scriptsWrapper = element;
     };
   }
-  componentDidMount() {
-    const scripts = this.getScripts(this.props.scripts, this.props.slug);
-    Object.values(scripts).forEach(scriptOptions => {
-      if (Array.isArray(scriptOptions)) {
-        scriptOptions.forEach(so => {
-          this.createScriptElement(so);
-        });
-      } else {
-        this.createScriptElement(scriptOptions);
-      }
-    });
-  }
+
   getScripts(scripts, slug) {
     if (!scripts) {
       return [];
@@ -74,6 +63,22 @@ export default class LoadScripts extends React.Component {
 
     return urls;
   }
+
+  // eslint-disable-next-line camelcase
+  UNSAFE_componentDidMount() {
+    // eslint-disable-next-line react/destructuring-assignment
+    const scripts = this.getScripts(this.props.scripts, this.props.slug);
+    Object.values(scripts).forEach((scriptOptions) => {
+      if (Array.isArray(scriptOptions)) {
+        scriptOptions.forEach((so) => {
+          this.createScriptElement(so);
+        });
+      } else {
+        this.createScriptElement(scriptOptions);
+      }
+    });
+  }
+
   createScriptElement(scriptOptions) {
     /* Ref: https://stackoverflow.com/a/38840724/543864 */
     const script = document.createElement('script');
@@ -81,6 +86,7 @@ export default class LoadScripts extends React.Component {
     script.async = !!scriptOptions.async; // preserve run order
     this.scriptsWrapper.appendChild(script);
   }
+
   render() {
     return <div className="per-post-scripts" ref={this.setScriptsWrappertRef} />;
   }
