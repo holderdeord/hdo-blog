@@ -5,6 +5,9 @@
   "keywords": [
     "gatsby"
   ],
+  "engines": {
+    "node": "12"
+  },
   "repository": "https://github.com/holderdeord/hdo-blog",
   "license": "MIT",
   "author": "Nikolai Kristiansen <nikolaik@gmail.com>, Jari Bakken <jari@holderdeord.no>",
